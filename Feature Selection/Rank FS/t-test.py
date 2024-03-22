@@ -39,6 +39,10 @@ def main():
     significant_treatment = perform_bootstrap_t_tests(treatment_group)
     significant_control = perform_bootstrap_t_tests(control_group)
 
+    # Saving the significant miRNAs to CSV files
+    significant_treatment.to_csv('/Users/emmetthintz/Documents/Computational-Biology/Data/significant_treatment_miRNAs_ttest.csv')
+    significant_control.to_csv('/Users/emmetthintz/Documents/Computational-Biology/Data/significant_control_miRNAs_ttest.csv')
+
     print("Significant miRNAs in Treatment Group:")
     print(significant_treatment)
     print("\nSignificant miRNAs in Control Group:")
