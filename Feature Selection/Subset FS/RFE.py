@@ -3,7 +3,9 @@ from sklearn.feature_selection import RFE
 from sklearn.ensemble import RandomForestClassifier
 
 # Load the data
-data = pd.read_csv('Data/GSE97154_Cleaned.csv')
+union = pd.read_csv('/Users/emmetthintz/Documents/Computational-Biology/Data/union_significant_features.csv')
+
+intersection = pd.read_csv('/Users/emmetthintz/Documents/Computational-Biology/Data/intersection_significant_features.csv')
 
 features = data.columns[5:]  # Assuming miRNA expression starts at column 5
 
