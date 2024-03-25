@@ -9,7 +9,7 @@ data = pd.read_csv('/Users/emmetthintz/Documents/Computational-Biology/Data/GSE9
 treatment_group = data[data['Treatment'] == 1]
 control_group = data[data['Treatment'] == 0]
 
-def perform_bootstrap_t_tests(group, n_bootstraps=3):
+def perform_bootstrap_t_tests(group, n_bootstraps=1000):
     miRNA_columns = group.columns[5:]  # miRNA expression columns
     bootstrap_results = pd.DataFrame(index=miRNA_columns, columns=range(n_bootstraps))
     
