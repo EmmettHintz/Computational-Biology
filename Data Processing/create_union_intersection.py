@@ -44,6 +44,8 @@ results = {
 # Display or save the results as needed
 print("\nUnion of Significant Features:", results['union_significant_features'])
 print("\nIntersection of Significant Features:", results['intersection_significant_features'])
+print("Number of miRNAs in the union:", len(results['union_significant_features']))
+print("Number of miRNAs in the intersection:", len(results['intersection_significant_features']))
 
 # Save union and intersection as CSV files
 union_df = pd.DataFrame(results['union_significant_features'], columns=['miRNA'])
