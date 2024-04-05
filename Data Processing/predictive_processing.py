@@ -39,21 +39,43 @@ def perform_bootstrap_t_tests(group, n_bootstraps=1000):
     corrected_p_values = multipletests(bootstrap_results['mean_p_value'], alpha=0.05, method='fdr_bh')[1]
     bootstrap_results['corrected_p_value'] = corrected_p_values
     
-    return bootstrap_results[bootstrap_results['corrected_p_value'] < 0.05]
+    # Select miRNAs with corrected p-values < 0.05
+    significant_miRNAs = bootstrap_results[bootstrap_results['corrected_p_value'] < 0.05]
+    
+    # Return the names (index values) of the significant miRNAs as a list
+    return significant_miRNAs.index.tolist()
+
 
 # Splitting the training data into treatment and control groups for feature selection
 treatment_group = train_data[train_data['Treatment'] == 1]
-control_group = train_data[train_data['Treatment'] == 0]
+# Assuming control_group is not used for feature selection based on the discussion
+# control_group = train_data[train_data['Treatment'] == 0]
 
-# Performing feature selection
-significant_treatment = perform_bootstrap_t_tests(treatment_group)
-significant_control = perform_bootstrap_t_tests(control_group)
+# Performing feature selection only on the treatment group
+# Correctly obtaining significant miRNA names
+significant_miRNAs_treatment = perform_bootstrap_t_tests(treatment_group)
 
+# Confirming the content is as expected
+print(f"Sample of significant miRNAs: {significant_miRNAs_treatment[:10]}")
 
-print(f"Significant miRNAs in Treatment Group: {significant_treatment}")
-print(f"Significant miRNAs in Control Group: {significant_control}")
+# Assuming this now correctly contains miRNA names
+all_significant_miRNAs = significant_miRNAs_treatment
 
+# Constructing columns_to_keep with actual miRNA names
+columns_to_keep = ['Participant ID', 'Response'] + all_significant_miRNAs
 
-# Save to csv 
-significant_treatment.to_csv('/Users/emmetthintz/Documents/Computational-Biology/Predictive Data/significant_treatment_miRNAs_ttest.csv')
-significant_control.to_csv('/Users/emmetthintz/Documents/Computational-Biology/Predictive Data/significant_control_miRNAs_ttest.csv')
+# Now attempting to filter with the corrected columns list should work, assuming all names are correct and present in your DataFrame
+filtered_train_data = train_data[train_data['Treatment'] == 1][columns_to_keep]
+filtered_test_data = test_data[test_data['Treatment'] == 1][columns_to_keep]
+
+# Define paths for saving the filtered datasets
+output_dir = '/Users/emmetthintz/Documents/Computational-Biology/Predictive Data'
+filtered_train_data_path = output_dir + '/filtered_train_data.csv'
+filtered_test_data_path = output_dir + '/filtered_test_data.csv'
+
+# Proceed with saving the filtered datasets
+filtered_train_data.to_csv(filtered_train_data_path, index=False)
+filtered_test_data.to_csv(filtered_test_data_path, index=False)
+
+print(f"Filtered train data saved to: {filtered_train_data_path}")
+print(f"Filtered test data saved to: {filtered_test_data_path}")
