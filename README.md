@@ -22,7 +22,7 @@ Feature Selection:
 
 ### From intersection of t-test and MI
 
-- hsa-miR-451b
+- No overlapping features
 
 ### From FCBF
 
@@ -39,7 +39,6 @@ Feature Selection:
 
 ### Overview List of GSEA
 
-- hsa-miR-451b
 - hsa-miR-627-3p
 - hsa-miR-3200-3p
 - hsa-miR-148b-3p

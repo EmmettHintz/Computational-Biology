@@ -65,11 +65,6 @@ ZNF578,ENST00000421239.2,zinc finger protein 578 ,0,,,,,,,,,1,hsa-miR-6511b-3p,,
 TSR2,ENST00000375151.4,"TSR2, 20S rRNA accumulation, homolog (S. cerevisiae) ",233,,,,,,,,,1,hsa-miR-6511a-3p,,,,-0.72,-0.76,,,2,1.0,1.0,0.0
 KHDC1L,ENST00000370388.3,KH homology domain containing 1-like ,5,,,,,,,,,0,hsa-miR-6511a-3p,,,,-0.71,-0.71,,,1,1.0,0.0,0.0
 FAM169A,ENST00000380515.3,"family with sequence similarity 169, member A ",90,,,,,,,,,1,hsa-miR-6511a-3p,,,,-0.7,-0.74,,,3,1.0,1.0,1.0
-AQP9,ENST00000219919.4,aquaporin 9 ,5,,,,,,,,,0,hsa-miR-451b,,,,-0.87,-0.87,,,6,2.0,3.0,1.0
-TNFAIP8,ENST00000504771.2,"tumor necrosis factor, alpha-induced protein 8 ",608,,,,,,,,,2,hsa-miR-451b,,,,-0.86,-1.12,,,5,2.0,1.0,2.0
-RHOA,ENST00000454011.2,ras homolog family member A ,8507,,,,,,,,,1,hsa-miR-451b,,,,-0.78,-0.78,,,2,1.0,1.0,0.0
-RP13-512J5.1,ENST00000438485.1,Uncharacterized protein  ,204,,,,,,,,,0,hsa-miR-451b,,,,-0.72,-0.74,,,2,0.0,2.0,0.0
-C10orf67,ENST00000323327.4,chromosome 10 open reading frame 67 ,5,,,,,,,,,1,hsa-miR-451b,,,,-0.7,-0.7,,,2,2.0,0.0,0.0
 TFRC,ENST00000540528.1,transferrin receptor ,296,,,,,,,,,1,hsa-let-7d-3p,,,,-0.75,-0.81,,,1,1.0,0.0,0.0
 GSTK1,ENST00000358406.5,glutathione S-transferase kappa 1 ,299,,,,,,,,,0,hsa-let-7d-3p,,,,-0.74,-0.74,,,1,1.0,0.0,0.0
 GNAO1,ENST00000262493.6,"guanine nucleotide binding protein (G protein), alpha activating activity polypeptide O ",8,,,,,,,,,0,hsa-let-7d-3p,,,,-0.73,-0.73,,,2,1.0,1.0,0.0
