@@ -62,7 +62,7 @@ print(f"Sample of significant miRNAs: {significant_miRNAs_treatment[:10]}")
 all_significant_miRNAs = significant_miRNAs_treatment
 
 # Constructing columns_to_keep with actual miRNA names
-columns_to_keep = ['Participant ID', 'Response'] + all_significant_miRNAs
+columns_to_keep = ['Participant ID', 'Treatment', 'Response'] + all_significant_miRNAs
 
 # Now attempting to filter with the corrected columns list should work, assuming all names are correct and present in your DataFrame
 filtered_train_data = train_data[train_data['Treatment'] == 1][columns_to_keep]
