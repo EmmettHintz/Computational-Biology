@@ -28,10 +28,10 @@ def perform_bootstrap_t_tests(group, n_bootstraps=1000):
     
     # Calculate the mean p-value across all bootstraps for each miRNA
     # Experiment with mean/median
-    bootstrap_results['mean_p_value'] = bootstrap_results.median(axis=1)
+    bootstrap_results['median_p_value'] = bootstrap_results.median(axis=1)
     
     # Adjust mean p-values using Benjamini-Hochberg
-    corrected_p_values = multipletests(bootstrap_results['mean_p_value'], alpha=0.05, method='fdr_bh')[1]
+    corrected_p_values = multipletests(bootstrap_results['median_p_value'], alpha=0.05, method='fdr_bh')[1]
     bootstrap_results['corrected_p_value'] = corrected_p_values
     
     return bootstrap_results[bootstrap_results['corrected_p_value'] < 0.05]

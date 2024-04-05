@@ -4,28 +4,27 @@ import pandas as pd
 mi_score_threshold = 0.01  # Example threshold, adjust as needed
 
 # Load the t-test results
-ttest_control = pd.read_csv('/Users/emmetthintz/Documents/Computational-Biology/Data/significant_control_miRNAs_ttest.csv')
-ttest_treatment = pd.read_csv('/Users/emmetthintz/Documents/Computational-Biology/Data/significant_treatment_miRNAs_ttest.csv')
+significant_control_miRNAs_ttest = pd.read_csv('/Users/emmetthintz/Documents/Computational-Biology/Data/significant_control_miRNAs_ttest.csv')
+significant_treatment_miRNAs_ttest = pd.read_csv('/Users/emmetthintz/Documents/Computational-Biology/Data/significant_treatment_miRNAs_ttest.csv')
 
 # Load the MI results
-mi_control = pd.read_csv('/Users/emmetthintz/Documents/Computational-Biology/Data/control_mi_scores.csv')
-mi_treatment = pd.read_csv('/Users/emmetthintz/Documents/Computational-Biology/Data/treatment_mi_scores.csv')
+control_mi_scores = pd.read_csv('/Users/emmetthintz/Documents/Computational-Biology/Data/control_mi_scores.csv')
+treatment_mi_scores = pd.read_csv('/Users/emmetthintz/Documents/Computational-Biology/Data/treatment_mi_scores.csv')
+
+# Fix column names for T-test datasets
+significant_control_miRNAs_ttest.rename(columns={'Unnamed: 0': 'miRNA'}, inplace=True)
+significant_treatment_miRNAs_ttest.rename(columns={'Unnamed: 0': 'miRNA'}, inplace=True)
 
 # Filter miRNAs by MI score threshold
-mi_treatment_filtered = mi_treatment[mi_treatment['MI_Score'] > mi_score_threshold]
-mi_control_filtered = mi_control[mi_control['MI_Score'] > mi_score_threshold]
+mi_score_threshold = 0.01
+mi_treatment_filtered = treatment_mi_scores[treatment_mi_scores['MI_Score'] > mi_score_threshold]
+mi_control_filtered = control_mi_scores[control_mi_scores['MI_Score'] > mi_score_threshold]
 
 # Find unique significant miRNAs in the treatment group based on t-test
-unique_treatment_ttest = set(ttest_treatment['miRNA']) - set(ttest_control['miRNA'])
+unique_treatment_ttest = set(significant_treatment_miRNAs_ttest['miRNA']) - set(significant_control_miRNAs_ttest['miRNA'])
 
 # Now use the filtered MI data
 unique_treatment_mi = set(mi_treatment_filtered['miRNA']) - set(mi_control_filtered['miRNA'])
-
-print("Unique significant miRNAs in the treatment group based on t-test:")
-print(unique_treatment_ttest)
-
-print("\nUnique significant miRNAs in the treatment group based on MI:")
-print(unique_treatment_mi)
 
 # Union of significant features from T-test and MI Scores
 union_significant_features = unique_treatment_ttest.union(unique_treatment_mi)

@@ -22,11 +22,7 @@ Feature Selection:
 
 ### From intersection of t-test and MI
 
-- hsa-miR-18a-5p
-- hsa-miR-625-5p
-- hsa-miR-6511a-3p
-- hsa-miR-2110
-- hsa-miR-106b-5p
+- hsa-miR-451b
 
 ### From FCBF
 
@@ -43,15 +39,11 @@ Feature Selection:
 
 ### Overview List of GSEA
 
-hsa-miR-18a-5p
-hsa-miR-625-5p
-hsa-miR-6511a-3p
-hsa-miR-2110
-hsa-miR-106b-5p
-hsa-miR-627-3p
-hsa-miR-3200-3p
-hsa-miR-148b-3p
-hsa-miR-22-3p
-hsa-let-7d-3p
-hsa-miR-6511a-3p
-hsa-miR-151a-5p
+- hsa-miR-451b
+- hsa-miR-627-3p
+- hsa-miR-3200-3p
+- hsa-miR-148b-3p
+- hsa-miR-22-3p
+- hsa-let-7d-3p
+- hsa-miR-6511a-3p
+- hsa-miR-151a-5p
