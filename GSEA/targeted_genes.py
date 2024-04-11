@@ -4,7 +4,7 @@ import os
 directory = '/Users/emmetthintz/Documents/Computational-Biology/GSEA'
 
 
-cutoff = -0.7  # Adjust this value as needed
+cutoff = -0.4  # Adjust this value as needed
 
 
 combined_filtered_data = pd.DataFrame()
