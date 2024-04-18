@@ -1,0 +1,1096 @@
+Target gene	Representative transcript	Gene name	3P-seq tags + 5	Total sites	8mer sites	7mer-m8 sites	7mer-A1 sites	6mer sites	Representative miRNA	Predicted occupancy (low miRNA)	Predicted occupancy (high miRNA)	Predicted occupancy (transfected miRNA)	Cumulative weighted context++ score	Total context++ score	Aggregate PCT
+ST8SIA5	ENST00000315087.7	ST8 alpha-N-acetyl-neuraminide alpha-2,8-sialyltransferase 5 	7	2	2	0	0	0	hsa-miR-3615				-1.12	-1.12	N/A
+INS	ENST00000397262.1	insulin 	5	1	1	0	0	0	hsa-miR-3615				-0.94	-0.94	N/A
+KCTD12	ENST00000377474.2	potassium channel tetramerization domain containing 12 	404	2	2	0	0	0	hsa-miR-3615				-0.86	-0.86	N/A
+C14orf119	ENST00000319074.4	chromosome 14 open reading frame 119 	6513	1	1	0	0	0	hsa-miR-3615				-0.84	-0.84	N/A
+G0S2	ENST00000367029.4	G0/G1switch 2 	5	1	1	0	0	0	hsa-miR-3615				-0.79	-0.79	N/A
+PPAP2C	ENST00000269812.3	phosphatidic acid phosphatase type 2C 	421	1	1	0	0	0	hsa-miR-3615				-0.78	-0.78	N/A
+DPF3	ENST00000541685.1	D4, zinc and double PHD fingers, family 3 	5	2	1	0	1	0	hsa-miR-3615				-0.76	-0.76	N/A
+BCL11B	ENST00000357195.3	B-cell CLL/lymphoma 11B (zinc finger protein) 	73	3	2	0	1	0	hsa-miR-3615				-0.74	-0.74	N/A
+FAM149A	ENST00000227065.4	family with sequence similarity 149, member A 	7	1	1	0	0	0	hsa-miR-3615				-0.74	-0.74	N/A
+MATK	ENST00000395040.2	megakaryocyte-associated tyrosine kinase 	24	1	1	0	0	0	hsa-miR-3615				-0.73	-0.73	N/A
+BTK	ENST00000372880.1	Bruton agammaglobulinemia tyrosine kinase 	5	1	1	0	0	0	hsa-miR-3615				-0.71	-0.71	N/A
+C8G	ENST00000224181.3	complement component 8, gamma polypeptide 	7	1	1	0	0	0	hsa-miR-3615				-0.68	-0.68	N/A
+SEPT4	ENST00000426861.1	septin 4 	40	1	1	0	0	0	hsa-miR-3615				-0.68	-0.68	N/A
+IRX5	ENST00000394636.4	iroquois homeobox 5 	82	1	1	0	0	0	hsa-miR-3615				-0.66	-0.66	N/A
+RP9	ENST00000297157.3	retinitis pigmentosa 9 (autosomal dominant) 	426	1	1	0	0	0	hsa-miR-3615				-0.66	-0.66	N/A
+DMTF1	ENST00000413276.2	cyclin D binding myb-like transcription factor 1 	198	1	1	0	0	0	hsa-miR-3615				-0.64	-0.64	N/A
+SLC25A14	ENST00000218197.5	solute carrier family 25 (mitochondrial carrier, brain), member 14 	46	1	1	0	0	0	hsa-miR-3615				-0.64	-0.64	N/A
+ISL2	ENST00000290759.4	ISL LIM homeobox 2 	381	2	2	0	0	0	hsa-miR-3615				-0.64	-1.09	N/A
+NBPF10	ENST00000369339.3	neuroblastoma breakpoint family, member 10 	5	1	1	0	0	0	hsa-miR-3615				-0.64	-0.64	N/A
+UNG	ENST00000242576.2	uracil-DNA glycosylase 	2812	1	1	0	0	0	hsa-miR-3615				-0.63	-0.63	N/A
+DCLK1	ENST00000379892.4	doublecortin-like kinase 1 	9	1	1	0	0	0	hsa-miR-3615				-0.61	-0.61	N/A
+GSC2	ENST00000086933.2	goosecoid homeobox 2 	5	1	1	0	0	0	hsa-miR-3615				-0.60	-0.60	N/A
+MANBA	ENST00000226578.4	mannosidase, beta A, lysosomal 	1062	1	1	0	0	0	hsa-miR-3615				-0.60	-0.60	N/A
+DAND5	ENST00000585548.1	DAN domain family member 5, BMP antagonist 	11	1	1	0	0	0	hsa-miR-3615				-0.60	-0.60	N/A
+ACHE	ENST00000302913.4	acetylcholinesterase 	14	1	1	0	0	0	hsa-miR-3615				-0.59	-0.59	N/A
+SLIT2	ENST00000504154.1	slit homolog 2 (Drosophila) 	579	1	1	0	0	1	hsa-miR-3615				-0.58	-0.58	N/A
+KLHL25	ENST00000337975.5	kelch-like family member 25 	98	2	1	1	0	0	hsa-miR-3615				-0.57	-0.57	N/A
+RNF24	ENST00000336095.6	ring finger protein 24 	448	1	1	0	0	0	hsa-miR-3615				-0.56	-0.56	N/A
+C15orf54	ENST00000318578.3	chromosome 15 open reading frame 54 	5	1	1	0	0	0	hsa-miR-3615				-0.55	-0.55	N/A
+C10orf126	ENST00000375520.1	chromosome 10 open reading frame 126 	5	2	0	0	2	0	hsa-miR-3615				-0.55	-0.55	N/A
+RP11-268J15.5	ENST00000373137.2		141	1	1	0	0	0	hsa-miR-3615				-0.55	-0.55	N/A
+NWD1	ENST00000524140.2	NACHT and WD repeat domain containing 1 	5	1	1	0	0	0	hsa-miR-3615				-0.54	-0.54	N/A
+RRBP1	ENST00000377813.1	ribosome binding protein 1 	1290	1	1	0	0	0	hsa-miR-3615				-0.54	-0.54	N/A
+ARRDC2	ENST00000379656.3	arrestin domain containing 2 	144	1	1	0	0	0	hsa-miR-3615				-0.54	-0.54	N/A
+MAFB	ENST00000373313.2	v-maf avian musculoaponeurotic fibrosarcoma oncogene homolog B 	333	1	0	1	0	4	hsa-miR-3615				-0.52	-0.54	N/A
+NBPF16	ENST00000417839.1	neuroblastoma breakpoint family, member 16 	5	1	1	0	0	0	hsa-miR-3615				-0.52	-0.52	N/A
+NBPF15	ENST00000442702.2	neuroblastoma breakpoint family, member 15 	5	1	1	0	0	0	hsa-miR-3615				-0.52	-0.52	N/A
+NYAP1	ENST00000300179.2	neuronal tyrosine-phosphorylated phosphoinositide-3-kinase adaptor 1 	5	1	1	0	0	1	hsa-miR-3615				-0.51	-0.51	N/A
+KLF11	ENST00000305883.1	Kruppel-like factor 11 	42	1	1	0	0	0	hsa-miR-3615				-0.51	-0.58	N/A
+PARD3B	ENST00000406610.2	par-3 family cell polarity regulator beta 	38	2	1	0	1	0	hsa-miR-3615				-0.51	-0.51	N/A
+SLC26A11	ENST00000361193.3	solute carrier family 26 (anion exchanger), member 11 	115	1	1	0	0	0	hsa-miR-3615				-0.50	-0.50	N/A
+ZNF571	ENST00000590751.1	zinc finger protein 571 	10	1	1	0	0	0	hsa-miR-3615				-0.50	-0.50	N/A
+LRRFIP1	ENST00000308482.9	leucine rich repeat (in FLII) interacting protein 1 	525	1	1	0	0	0	hsa-miR-3615				-0.50	-0.50	N/A
+PVRL4	ENST00000368012.3	poliovirus receptor-related 4 	6	1	1	0	0	0	hsa-miR-3615				-0.49	-0.49	N/A
+PRSS46	ENST00000463091.2	protease, serine, 46 	5	1	0	1	0	1	hsa-miR-3615				-0.49	-0.49	N/A
+NBPF1	ENST00000430580.2	neuroblastoma breakpoint family, member 1 	21	1	1	0	0	0	hsa-miR-3615				-0.49	-0.49	N/A
+MCTP2	ENST00000357742.4	multiple C2 domains, transmembrane 2 	59	1	1	0	0	0	hsa-miR-3615				-0.49	-0.49	N/A
+ELAVL2	ENST00000380110.4	ELAV like neuron-specific RNA binding protein 2 	78	1	1	0	0	0	hsa-miR-3615				-0.49	-0.54	N/A
+ABCF1	ENST00000326195.8	ATP-binding cassette, sub-family F (GCN20), member 1 	1078	1	1	0	0	1	hsa-miR-3615				-0.49	-0.52	N/A
+HOXB8	ENST00000239144.4	homeobox B8 	9	1	1	0	0	0	hsa-miR-3615				-0.48	-0.48	N/A
+MCM3	ENST00000229854.7	minichromosome maintenance complex component 3 	3350	1	1	0	0	0	hsa-miR-3615				-0.48	-0.48	N/A
+MAPRE2	ENST00000436190.2	microtubule-associated protein, RP/EB family, member 2 	361	1	1	0	0	0	hsa-miR-3615				-0.48	-0.48	N/A
+ZBTB7A	ENST00000322357.4	zinc finger and BTB domain containing 7A 	37	2	0	0	2	1	hsa-miR-3615				-0.47	-0.47	N/A
+VCX3B	ENST00000453306.1	variable charge, X-linked 3B 	5	1	0	1	0	0	hsa-miR-3615				-0.47	-0.47	N/A
+COG4	ENST00000323786.5	component of oligomeric golgi complex 4 	2411	1	1	0	0	0	hsa-miR-3615				-0.47	-0.47	N/A
+VCX	ENST00000381059.3	variable charge, X-linked 	5	1	0	1	0	0	hsa-miR-3615				-0.47	-0.47	N/A
+CORO2B	ENST00000261861.5	coronin, actin binding protein, 2B 	751	1	1	0	0	0	hsa-miR-3615				-0.47	-0.47	N/A
+MYH13	ENST00000418404.3	myosin, heavy chain 13, skeletal muscle 	5	1	1	0	0	0	hsa-miR-3615				-0.47	-0.47	N/A
+PRDM12	ENST00000253008.2	PR domain containing 12 	15	2	0	2	0	1	hsa-miR-3615				-0.47	-0.47	N/A
+VCX3A	ENST00000381089.3	variable charge, X-linked 3A 	5	1	0	1	0	0	hsa-miR-3615				-0.47	-0.47	N/A
+NBPF9	ENST00000440491.2	neuroblastoma breakpoint family, member 9 	5	1	1	0	0	0	hsa-miR-3615				-0.47	-0.47	N/A
+SLITRK5	ENST00000325089.6	SLIT and NTRK-like family, member 5 	429	1	1	0	0	0	hsa-miR-3615				-0.46	-0.48	N/A
+SAMD13	ENST00000370667.3	sterile alpha motif domain containing 13 	253	1	0	1	0	0	hsa-miR-3615				-0.46	-0.46	N/A
+STAG3	ENST00000317296.5	stromal antigen 3 	5	1	1	0	0	0	hsa-miR-3615				-0.46	-0.46	N/A
+MAMLD1	ENST00000370401.2	mastermind-like domain containing 1 	1442	1	1	0	0	0	hsa-miR-3615				-0.45	-0.45	N/A
+PCMTD2	ENST00000308824.6	protein-L-isoaspartate (D-aspartate) O-methyltransferase domain containing 2 	476	1	1	0	0	0	hsa-miR-3615				-0.45	-0.45	N/A
+LMLN	ENST00000330198.4	leishmanolysin-like (metallopeptidase M8 family) 	18	1	1	0	0	0	hsa-miR-3615				-0.45	-0.45	N/A
+LBH	ENST00000406087.1	limb bud and heart development 	1956	2	0	2	0	0	hsa-miR-3615				-0.45	-0.45	N/A
+TMEM158	ENST00000503771.1	transmembrane protein 158 (gene/pseudogene) 	1645	1	1	0	0	0	hsa-miR-3615				-0.45	-0.45	N/A
+GIT1	ENST00000579937.1	G protein-coupled receptor kinase interacting ArfGAP 1 	18	1	1	0	0	0	hsa-miR-3615				-0.44	-0.44	N/A
+VAPB	ENST00000395802.3	VAMP (vesicle-associated membrane protein)-associated protein B and C 	391	1	1	0	0	0	hsa-miR-3615				-0.44	-0.52	N/A
+HMGN4	ENST00000377575.2	high mobility group nucleosomal binding domain 4 	399	1	0	1	0	0	hsa-miR-3615				-0.44	-0.44	N/A
+VPS52	ENST00000482399.1	vacuolar protein sorting 52 homolog (S. cerevisiae) 	124	1	0	1	0	0	hsa-miR-3615				-0.43	-0.43	N/A
+ZNF648	ENST00000339948.3	zinc finger protein 648 	5	1	1	0	0	0	hsa-miR-3615				-0.43	-0.43	N/A
+CLN5	ENST00000377453.3	ceroid-lipofuscinosis, neuronal 5 	184	1	1	0	0	0	hsa-miR-3615				-0.43	-0.43	N/A
+C17orf72	ENST00000580752.1	chromosome 17 open reading frame 72 	5	1	0	1	0	0	hsa-miR-3615				-0.42	-0.42	N/A
+E2F2	ENST00000361729.2	E2F transcription factor 2 	96	1	1	0	0	1	hsa-miR-3615				-0.42	-0.45	N/A
+TNXB	ENST00000375244.3	tenascin XB 	5	1	1	0	0	0	hsa-miR-3615				-0.41	-0.41	N/A
+RTCB	ENST00000451746.2	RNA 2',3'-cyclic phosphate and 5'-OH ligase 	9513	1	0	1	0	0	hsa-miR-3615				-0.41	-0.41	N/A
+B4GALNT4	ENST00000329962.6	beta-1,4-N-acetyl-galactosaminyl transferase 4 	3266	1	1	0	0	0	hsa-miR-3615				-0.41	-0.41	N/A
+IFITM5	ENST00000382614.2	interferon induced transmembrane protein 5 	5	1	0	1	0	0	hsa-miR-3615				-0.40	-0.40	N/A
+PRKCE	ENST00000306156.3	protein kinase C, epsilon 	164	1	1	0	0	1	hsa-miR-3615				-0.40	-0.40	N/A
+CLK3	ENST00000348245.3	CDC-like kinase 3 	127	1	0	1	0	0	hsa-miR-3615				-0.40	-0.40	N/A
+ZNF766	ENST00000439461.1	zinc finger protein 766 	324	1	0	1	0	0	hsa-miR-3615				-0.40	-0.40	N/A
+C2orf48	ENST00000381786.3	chromosome 2 open reading frame 48 	32	2	1	1	0	1	hsa-miR-3615				-0.39	-0.74	N/A
+CTNND1	ENST00000524630.1	catenin (cadherin-associated protein), delta 1 	743	1	1	0	0	0	hsa-miR-3615				-0.39	-0.39	N/A
+FBL	ENST00000221801.3	fibrillarin 	4075	1	0	0	1	0	hsa-miR-3615				-0.39	-0.39	N/A
+SLC22A9	ENST00000310969.4	solute carrier family 22 (organic anion transporter), member 9 	188	1	0	1	0	0	hsa-miR-3615				-0.39	-0.39	N/A
+ITGAX	ENST00000268296.4	integrin, alpha X (complement component 3 receptor 4 subunit) 	5	1	1	0	0	0	hsa-miR-3615				-0.39	-0.39	N/A
+ANKRD11	ENST00000378330.2	ankyrin repeat domain 11 	45	1	1	0	0	0	hsa-miR-3615				-0.39	-0.39	N/A
+STAU1	ENST00000371828.3	staufen double-stranded RNA binding protein 1 	826	1	1	0	0	0	hsa-miR-3615				-0.39	-0.39	N/A
+MAML3	ENST00000509479.2	mastermind-like 3 (Drosophila) 	159	3	1	1	1	0	hsa-miR-3615				-0.39	-0.39	N/A
+KIAA0907	ENST00000368320.3	KIAA0907 	48	1	1	0	0	0	hsa-miR-3615				-0.39	-0.39	N/A
+GNA11	ENST00000078429.4	guanine nucleotide binding protein (G protein), alpha 11 (Gq class) 	1513	2	1	1	0	0	hsa-miR-3615				-0.38	-0.38	N/A
+ARHGAP39	ENST00000377307.2	Rho GTPase activating protein 39 	14	2	1	1	0	1	hsa-miR-3615				-0.38	-0.47	N/A
+B3GAT1	ENST00000392580.1	beta-1,3-glucuronyltransferase 1 (glucuronosyltransferase P) 	77	2	1	1	0	0	hsa-miR-3615				-0.38	-0.38	N/A
+KCTD15	ENST00000284006.6	potassium channel tetramerization domain containing 15 	2483	1	1	0	0	0	hsa-miR-3615				-0.38	-0.39	N/A
+GIMAP6	ENST00000493969.1	GTPase, IMAP family member 6 	5	2	0	1	1	1	hsa-miR-3615				-0.38	-0.55	N/A
+CCZ1	ENST00000325974.6	CCZ1 vacuolar protein trafficking and biogenesis associated homolog (S. cerevisiae) 	5	1	0	1	0	0	hsa-miR-3615				-0.38	-0.38	N/A
+INCA1	ENST00000355025.3	inhibitor of CDK, cyclin A1 interacting protein 1 	6	1	0	1	0	0	hsa-miR-3615				-0.38	-0.38	N/A
+TMEFF2	ENST00000392314.1	transmembrane protein with EGF-like and two follistatin-like domains 2 	179	1	0	1	0	0	hsa-miR-3615				-0.38	-0.38	N/A
+TSPAN11	ENST00000261177.9	tetraspanin 11 	27	1	1	0	0	0	hsa-miR-3615				-0.38	-0.38	N/A
+MXRA7	ENST00000355797.3	matrix-remodelling associated 7 	421	1	1	0	0	1	hsa-miR-3615				-0.37	-0.50	N/A
+CD300E	ENST00000392619.1	CD300e molecule 	5	2	0	0	2	0	hsa-miR-3615				-0.37	-0.37	N/A
+NBPF20	ENST00000369202.1	neuroblastoma breakpoint family, member 20 	5	1	1	0	0	0	hsa-miR-3615				-0.37	-0.37	N/A
+TMEM178A	ENST00000281961.2	transmembrane protein 178A 	141	1	0	1	0	0	hsa-miR-3615				-0.37	-0.37	N/A
+C20orf62	ENST00000372910.3	chromosome 20 open reading frame 62 	5	1	0	0	1	0	hsa-miR-3615				-0.37	-0.37	N/A
+OCM2	ENST00000257627.4	oncomodulin 2 	5	1	0	0	1	0	hsa-miR-3615				-0.37	-0.37	N/A
+CD34	ENST00000356522.4	CD34 molecule 	5	1	1	0	0	0	hsa-miR-3615				-0.37	-0.37	N/A
+AMIGO1	ENST00000369864.4	adhesion molecule with Ig-like domain 1 	167	1	1	0	0	1	hsa-miR-3615				-0.36	-0.36	N/A
+SLC44A4	ENST00000229729.6	solute carrier family 44, member 4 	5	1	0	1	0	0	hsa-miR-3615				-0.36	-0.36	N/A
+RAB3D	ENST00000222120.3	RAB3D, member RAS oncogene family 	111	1	1	0	0	0	hsa-miR-3615				-0.36	-0.36	N/A
+OTX2	ENST00000339475.5	orthodenticle homeobox 2 	5	1	0	1	0	0	hsa-miR-3615				-0.35	-0.35	N/A
+AP006621.5	ENST00000530083.1	Protein LOC100506518  	25	1	0	1	0	0	hsa-miR-3615				-0.35	-0.35	N/A
+TNFAIP8L1	ENST00000327473.4	tumor necrosis factor, alpha-induced protein 8-like 1 	603	1	1	0	0	0	hsa-miR-3615				-0.35	-0.45	N/A
+SLC25A24	ENST00000565488.1	solute carrier family 25 (mitochondrial carrier; phosphate carrier), member 24 	1688	1	0	1	0	0	hsa-miR-3615				-0.35	-0.36	N/A
+ZNF821	ENST00000564134.1	zinc finger protein 821 	56	1	0	1	0	2	hsa-miR-3615				-0.35	-0.35	N/A
+PKN1	ENST00000342216.4	protein kinase N1 	627	1	0	1	0	0	hsa-miR-3615				-0.35	-0.35	N/A
+RPS6KA2	ENST00000265678.4	ribosomal protein S6 kinase, 90kDa, polypeptide 2 	1043	1	1	0	0	1	hsa-miR-3615				-0.35	-0.35	N/A
+TMEM56	ENST00000370203.4	transmembrane protein 56 	113	1	1	0	0	0	hsa-miR-3615				-0.35	-0.38	N/A
+LYNX1	ENST00000395192.2	Ly6/neurotoxin 1 	5	1	1	0	0	0	hsa-miR-3615				-0.34	-0.34	N/A
+C22orf15	ENST00000382821.3	chromosome 22 open reading frame 15 	5	1	0	0	1	0	hsa-miR-3615				-0.34	-0.34	N/A
+SLC35E2B	ENST00000378662.1	solute carrier family 35, member E2B 	5	1	0	1	0	1	hsa-miR-3615				-0.34	-0.34	N/A
+FAM216B	ENST00000537894.1	family with sequence similarity 216, member B 	5	1	0	1	0	0	hsa-miR-3615				-0.34	-0.34	N/A
+GRB7	ENST00000309185.3	growth factor receptor-bound protein 7 	66	1	0	1	0	0	hsa-miR-3615				-0.34	-0.34	N/A
+BSDC1	ENST00000341071.7	BSD domain containing 1 	714	1	1	0	0	0	hsa-miR-3615				-0.34	-0.34	N/A
+GPR162	ENST00000428545.2	G protein-coupled receptor 162 	8	1	0	1	0	0	hsa-miR-3615				-0.34	-0.34	N/A
+TP53	ENST00000420246.2	tumor protein p53 	836	1	0	1	0	0	hsa-miR-3615				-0.34	-0.34	N/A
+DMRTA2	ENST00000418121.1	DMRT-like family A2 	9	1	0	1	0	0	hsa-miR-3615				-0.34	-0.34	N/A
+CDH12	ENST00000504376.2	cadherin 12, type 2 (N-cadherin 2) 	21	1	0	1	0	0	hsa-miR-3615				-0.33	-0.33	N/A
+LRRC27	ENST00000392638.2	leucine rich repeat containing 27 	68	2	0	1	1	0	hsa-miR-3615				-0.33	-0.59	N/A
+SNCB	ENST00000310112.3	synuclein, beta 	5	1	0	1	0	0	hsa-miR-3615				-0.33	-0.33	N/A
+GPR20	ENST00000377741.3	G protein-coupled receptor 20 	34	1	1	0	0	0	hsa-miR-3615				-0.33	-0.40	N/A
+FRMPD4	ENST00000380682.1	FERM and PDZ domain containing 4 	25	1	1	0	0	0	hsa-miR-3615				-0.33	-0.33	N/A
+MEIS2	ENST00000397624.3	Meis homeobox 2 	63	1	0	1	0	0	hsa-miR-3615				-0.33	-0.33	N/A
+HOXA13	ENST00000222753.4	homeobox A13 	328	1	0	1	0	1	hsa-miR-3615				-0.33	-0.35	N/A
+SLC10A2	ENST00000245312.3	solute carrier family 10 (sodium/bile acid cotransporter), member 2 	5	1	0	1	0	0	hsa-miR-3615				-0.33	-0.33	N/A
+NADSYN1	ENST00000319023.2	NAD synthetase 1 	220	1	0	1	0	0	hsa-miR-3615				-0.32	-0.32	N/A
+UTP11L	ENST00000537711.1	UTP11-like, U3 small nucleolar ribonucleoprotein, (yeast) 	1460	1	0	0	1	0	hsa-miR-3615				-0.32	-0.32	N/A
+ITPK1	ENST00000267615.6	inositol-tetrakisphosphate 1-kinase 	60	1	1	0	0	0	hsa-miR-3615				-0.32	-0.32	N/A
+OLFML2A	ENST00000288815.5	olfactomedin-like 2A 	155	1	1	0	0	0	hsa-miR-3615				-0.32	-0.32	N/A
+ATXN3L	ENST00000380622.2	ataxin 3-like 	5	1	0	0	1	0	hsa-miR-3615				-0.32	-0.32	N/A
+ARHGAP17	ENST00000441763.2	Rho GTPase activating protein 17 	1337	1	0	1	0	0	hsa-miR-3615				-0.32	-0.32	N/A
+MRPL43	ENST00000477279.1	mitochondrial ribosomal protein L43 	502	1	0	1	0	0	hsa-miR-3615				-0.32	-0.32	N/A
+STS	ENST00000217961.4	steroid sulfatase (microsomal), isozyme S 	64	2	0	1	1	0	hsa-miR-3615				-0.32	-0.36	N/A
+TCAIM	ENST00000342649.4	T cell activation inhibitor, mitochondrial 	844	1	1	0	0	0	hsa-miR-3615				-0.32	-0.32	N/A
+CCZ1B	ENST00000316731.8	CCZ1 vacuolar protein trafficking and biogenesis associated homolog B (S. cerevisiae) 	5	1	0	1	0	0	hsa-miR-3615				-0.32	-0.32	N/A
+KIF1B	ENST00000377086.1	kinesin family member 1B 	234	1	0	0	1	1	hsa-miR-3615				-0.32	-0.32	N/A
+GNPTG	ENST00000204679.4	N-acetylglucosamine-1-phosphate transferase, gamma subunit 	677	1	0	1	0	0	hsa-miR-3615				-0.32	-0.32	N/A
+PRDM9	ENST00000296682.3	PR domain containing 9 	5	1	0	1	0	0	hsa-miR-3615				-0.32	-0.32	N/A
+ANKRD66	ENST00000565422.1	ankyrin repeat domain 66 	5	1	0	0	1	0	hsa-miR-3615				-0.31	-0.31	N/A
+C19orf24	ENST00000409293.4	chromosome 19 open reading frame 24 	3071	1	0	1	0	0	hsa-miR-3615				-0.31	-0.31	N/A
+NHEJ1	ENST00000356853.5	nonhomologous end-joining factor 1 	33	2	0	0	2	0	hsa-miR-3615				-0.31	-0.43	N/A
+KIAA1239	ENST00000309447.5	KIAA1239 	5	1	1	0	0	0	hsa-miR-3615				-0.31	-0.31	N/A
+RALGPS1	ENST00000259351.5	Ral GEF with PH domain and SH3 binding motif 1 	34	1	1	0	0	0	hsa-miR-3615				-0.31	-0.31	N/A
+CORO6	ENST00000388767.3	coronin 6 	48	1	0	0	1	0	hsa-miR-3615				-0.31	-0.31	N/A
+USP6NL	ENST00000609104.1	USP6 N-terminal like 	183	1	0	0	1	0	hsa-miR-3615				-0.31	-0.31	N/A
+LCMT2	ENST00000567039.1	leucine carboxyl methyltransferase 2 	274	1	0	1	0	0	hsa-miR-3615				-0.31	-0.32	N/A
+CTDSPL	ENST00000443503.2	CTD (carboxy-terminal domain, RNA polymerase II, polypeptide A) small phosphatase-like 	372	1	0	1	0	0	hsa-miR-3615				-0.31	-0.34	N/A
+TCEA2	ENST00000395053.3	transcription elongation factor A (SII), 2 	181	1	0	1	0	0	hsa-miR-3615				-0.31	-0.31	N/A
+RNASE6	ENST00000304677.2	ribonuclease, RNase A family, k6 	5	1	0	0	1	0	hsa-miR-3615				-0.30	-0.30	N/A
+E4F1	ENST00000564139.1	E4F transcription factor 1 	96	1	0	1	0	0	hsa-miR-3615				-0.30	-0.30	N/A
+BHLHE22	ENST00000321870.1	basic helix-loop-helix family, member e22 	27	1	0	0	1	1	hsa-miR-3615				-0.30	-0.30	N/A
+ZNF627	ENST00000588174.1	zinc finger protein 627 	105	1	0	0	1	1	hsa-miR-3615				-0.30	-0.30	N/A
+EIF3G	ENST00000253108.4	eukaryotic translation initiation factor 3, subunit G 	6332	1	0	1	0	0	hsa-miR-3615				-0.30	-0.30	N/A
+CXCL12	ENST00000343575.6	chemokine (C-X-C motif) ligand 12 	719	1	0	1	0	0	hsa-miR-3615				-0.30	-0.30	N/A
+MLNR	ENST00000398307.1	motilin receptor 	5	1	0	1	0	0	hsa-miR-3615				-0.30	-0.30	N/A
+CD300LD	ENST00000375352.1	CD300 molecule-like family member d 	5	1	0	1	0	0	hsa-miR-3615				-0.30	-0.30	N/A
+CABP1	ENST00000453000.1	calcium binding protein 1 	13	1	0	1	0	0	hsa-miR-3615				-0.30	-0.30	N/A
+NFIX	ENST00000360105.4	nuclear factor I/X (CCAAT-binding transcription factor) 	24	2	0	0	2	1	hsa-miR-3615				-0.30	-0.44	N/A
+UBALD1	ENST00000590965.1	UBA-like domain containing 1 	41	1	0	1	0	0	hsa-miR-3615				-0.30	-0.30	N/A
+BCKDHB	ENST00000545529.1	branched chain keto acid dehydrogenase E1, beta polypeptide 	143	1	0	1	0	0	hsa-miR-3615				-0.30	-0.30	N/A
+AP1B1	ENST00000357586.2	adaptor-related protein complex 1, beta 1 subunit 	646	1	1	0	0	0	hsa-miR-3615				-0.30	-0.30	N/A
+RASSF2	ENST00000379400.3	Ras association (RalGDS/AF-6) domain family member 2 	88	1	1	0	0	0	hsa-miR-3615				-0.29	-0.30	N/A
+GABRA6	ENST00000523217.1	gamma-aminobutyric acid (GABA) A receptor, alpha 6 	5	1	0	1	0	0	hsa-miR-3615				-0.29	-0.29	N/A
+KRT79	ENST00000330553.5	keratin 79 	5	1	0	1	0	0	hsa-miR-3615				-0.29	-0.29	N/A
+GPNMB	ENST00000258733.4	glycoprotein (transmembrane) nmb 	115	1	0	1	0	0	hsa-miR-3615				-0.29	-0.29	N/A
+NAPRT1	ENST00000435154.3	nicotinate phosphoribosyltransferase domain containing 1 	293	1	0	1	0	0	hsa-miR-3615				-0.29	-0.29	N/A
+LRRN3	ENST00000422987.3	leucine rich repeat neuronal 3 	24	1	0	0	1	0	hsa-miR-3615				-0.29	-0.29	N/A
+TRPV2	ENST00000338560.7	transient receptor potential cation channel, subfamily V, member 2 	22341	2	2	0	0	0	hsa-miR-3615				-0.29	-0.29	N/A
+CHRNG	ENST00000389494.3	cholinergic receptor, nicotinic, gamma (muscle) 	5	1	0	1	0	0	hsa-miR-3615				-0.29	-0.29	N/A
+TBX1	ENST00000332710.4	T-box 1 	9	1	0	1	0	0	hsa-miR-3615				-0.29	-0.29	N/A
+C5orf60	ENST00000448248.2	chromosome 5 open reading frame 60 	5	1	0	0	1	0	hsa-miR-3615				-0.29	-0.29	N/A
+CLN6	ENST00000249806.5	ceroid-lipofuscinosis, neuronal 6, late infantile, variant 	2624	1	0	1	0	0	hsa-miR-3615				-0.29	-0.29	N/A
+PRDM7	ENST00000325921.6	PR domain containing 7 	5	1	0	1	0	0	hsa-miR-3615				-0.29	-0.29	N/A
+GFI1	ENST00000370332.1	growth factor independent 1 transcription repressor 	154	1	0	1	0	0	hsa-miR-3615				-0.29	-0.29	N/A
+SUGP2	ENST00000337018.6	SURP and G patch domain containing 2 	1879	1	0	1	0	0	hsa-miR-3615				-0.29	-0.29	N/A
+DIRAS2	ENST00000375765.3	DIRAS family, GTP-binding RAS-like 2 	5	1	0	1	0	0	hsa-miR-3615				-0.29	-0.29	N/A
+RNASEK-C17orf49	ENST00000547302.2	RNASEK-C17orf49 readthrough 	2093	1	0	0	1	0	hsa-miR-3615				-0.29	-0.29	N/A
+NBPF24	ENST00000369226.3	neuroblastoma breakpoint family, member 24 	5	1	0	1	0	0	hsa-miR-3615				-0.29	-0.29	N/A
+SOGA2	ENST00000359865.3	SOGA family member 2 	47	1	1	0	0	0	hsa-miR-3615				-0.29	-0.29	N/A
+DTYMK	ENST00000305784.2	deoxythymidylate kinase (thymidylate kinase) 	257	1	0	1	0	0	hsa-miR-3615				-0.28	-0.28	N/A
+EN1	ENST00000295206.6	engrailed homeobox 1 	16	1	0	0	1	1	hsa-miR-3615				-0.28	-0.28	N/A
+REPIN1	ENST00000479668.1	replication initiator 1 	2836	2	0	0	2	0	hsa-miR-3615				-0.28	-0.28	N/A
+C7orf49	ENST00000424142.1	chromosome 7 open reading frame 49 	272	1	0	1	0	0	hsa-miR-3615				-0.28	-0.28	N/A
+SERPINF2	ENST00000382061.4	serpin peptidase inhibitor, clade F (alpha-2 antiplasmin, pigment epithelium derived factor), member 2 	2334	1	0	1	0	0	hsa-miR-3615				-0.28	-0.28	N/A
+ARFGAP1	ENST00000370275.4	ADP-ribosylation factor GTPase activating protein 1 	510	2	0	2	0	0	hsa-miR-3615				-0.28	-0.28	N/A
+FKRP	ENST00000318584.5	fukutin related protein 	989	1	0	1	0	0	hsa-miR-3615				-0.28	-0.28	N/A
+NKX2-5	ENST00000424406.2	NK2 homeobox 5 	47	1	0	1	0	0	hsa-miR-3615				-0.28	-0.32	N/A
+TYW1	ENST00000359626.5	tRNA-yW synthesizing protein 1 homolog (S. cerevisiae) 	7	1	0	1	0	0	hsa-miR-3615				-0.28	-0.28	N/A
+POTEI	ENST00000451531.2	POTE ankyrin domain family, member I 	5	1	0	1	0	1	hsa-miR-3615				-0.28	-0.28	N/A
+GADD45B	ENST00000215631.4	growth arrest and DNA-damage-inducible, beta 	2346	1	0	0	1	0	hsa-miR-3615				-0.28	-0.28	N/A
+USP13	ENST00000263966.3	ubiquitin specific peptidase 13 (isopeptidase T-3) 	379	1	1	0	0	0	hsa-miR-3615				-0.28	-0.30	N/A
+PBOV1	ENST00000527246.2	prostate and breast cancer overexpressed 1 	5	1	0	1	0	0	hsa-miR-3615				-0.28	-0.28	N/A
+ARRB1	ENST00000420843.2	arrestin, beta 1 	598	1	0	0	1	0	hsa-miR-3615				-0.28	-0.28	N/A
+SFN	ENST00000339276.4	stratifin 	5	1	0	1	0	0	hsa-miR-3615				-0.28	-0.28	N/A
+C12orf74	ENST00000544406.2	chromosome 12 open reading frame 74 	5	1	0	1	0	0	hsa-miR-3615				-0.28	-0.28	N/A
+PET100	ENST00000594797.1	PET100 homolog (S. cerevisiae) 	5	1	0	1	0	0	hsa-miR-3615				-0.28	-0.28	N/A
+STPG1	ENST00000374409.1	sperm-tail PG-rich repeat containing 1 	24	1	0	1	0	0	hsa-miR-3615				-0.28	-0.28	N/A
+PDK2	ENST00000503176.1	pyruvate dehydrogenase kinase, isozyme 2 	681	1	0	1	0	0	hsa-miR-3615				-0.28	-0.28	N/A
+C17orf49	ENST00000439424.2	chromosome 17 open reading frame 49 	2093	1	0	0	1	0	hsa-miR-3615				-0.28	-0.28	N/A
+SLC7A4	ENST00000403586.1	solute carrier family 7, member 4 	5	1	0	1	0	0	hsa-miR-3615				-0.28	-0.28	N/A
+TPM3	ENST00000368531.2	tropomyosin 3 	669	1	0	1	0	0	hsa-miR-3615				-0.28	-0.29	N/A
+FRA10AC1	ENST00000536233.1	fragile site, folic acid type, rare, fra(10)(q23.3) or fra(10)(q24.2) candidate 1 	289	1	0	0	1	0	hsa-miR-3615				-0.28	-0.28	N/A
+MZF1	ENST00000594234.1	myeloid zinc finger 1 	482	1	0	0	1	1	hsa-miR-3615				-0.28	-0.28	N/A
+PSTPIP1	ENST00000558012.1	proline-serine-threonine phosphatase interacting protein 1 	19	1	0	1	0	0	hsa-miR-3615				-0.27	-0.27	N/A
+LMTK2	ENST00000297293.5	lemur tyrosine kinase 2 	51	1	0	1	0	0	hsa-miR-3615				-0.27	-0.27	N/A
+ZFYVE19	ENST00000355341.4	zinc finger, FYVE domain containing 19 	200	1	0	0	1	0	hsa-miR-3615				-0.27	-0.27	N/A
+GABRD	ENST00000378585.4	gamma-aminobutyric acid (GABA) A receptor, delta 	5	1	0	1	0	0	hsa-miR-3615				-0.27	-0.27	N/A
+CDIP1	ENST00000564828.1	cell death-inducing p53 target 1 	1857	1	0	1	0	0	hsa-miR-3615				-0.27	-0.27	N/A
+CCNJL	ENST00000393977.3	cyclin J-like 	66	1	0	1	0	1	hsa-miR-3615				-0.27	-0.29	N/A
+SCML4	ENST00000369022.2	sex comb on midleg-like 4 (Drosophila) 	10	2	0	0	2	1	hsa-miR-3615				-0.27	-0.39	N/A
+MXRA8	ENST00000445648.2	matrix-remodelling associated 8 	216	1	0	1	0	0	hsa-miR-3615				-0.27	-0.27	N/A
+CACHD1	ENST00000371073.2	cache domain containing 1 	2071	1	0	0	1	0	hsa-miR-3615				-0.27	-0.27	N/A
+PDIA3	ENST00000300289.5	protein disulfide isomerase family A, member 3 	884	1	0	1	0	0	hsa-miR-3615				-0.27	-0.27	N/A
+SV2C	ENST00000502798.2	synaptic vesicle glycoprotein 2C 	30	1	1	0	0	0	hsa-miR-3615				-0.27	-0.27	N/A
+FAHD1	ENST00000427358.2	fumarylacetoacetate hydrolase domain containing 1 	130	1	0	0	1	0	hsa-miR-3615				-0.27	-0.27	N/A
+SLC39A13	ENST00000524928.1	solute carrier family 39 (zinc transporter), member 13 	845	1	0	0	1	1	hsa-miR-3615				-0.27	-0.27	N/A
+PLCD4	ENST00000450993.2	phospholipase C, delta 4 	11	1	0	0	1	0	hsa-miR-3615				-0.27	-0.27	N/A
+TBC1D3H	ENST00000394359.3	TBC1 domain family, member 3H 	5	1	0	0	1	0	hsa-miR-3615				-0.27	-0.27	N/A
+PNMAL1	ENST00000313683.10	paraneoplastic Ma antigen family-like 1 	313	1	0	0	1	0	hsa-miR-3615				-0.27	-0.27	N/A
+RP5-850E9.3	ENST00000488788.2	Uncharacterized protein  	10	1	0	0	1	1	hsa-miR-3615				-0.27	-0.27	N/A
+HINFP	ENST00000350777.2	histone H4 transcription factor 	410	1	0	1	0	0	hsa-miR-3615				-0.27	-0.27	N/A
+ADAMTS13	ENST00000371916.1	ADAM metallopeptidase with thrombospondin type 1 motif, 13 	41	1	0	0	1	1	hsa-miR-3615				-0.27	-0.27	N/A
+TBC1D3B	ENST00000454519.3	TBC1 domain family, member 3B 	5	1	0	0	1	0	hsa-miR-3615				-0.27	-0.27	N/A
+TAB1	ENST00000216160.6	TGF-beta activated kinase 1/MAP3K7 binding protein 1 	577	2	2	0	0	0	hsa-miR-3615				-0.27	-0.47	N/A
+SNAPC4	ENST00000298532.2	small nuclear RNA activating complex, polypeptide 4, 190kDa 	875	1	0	0	1	0	hsa-miR-3615				-0.27	-0.27	N/A
+MNX1	ENST00000252971.6	motor neuron and pancreas homeobox 1 	887	1	0	1	0	1	hsa-miR-3615				-0.27	-0.27	N/A
+CATSPER3	ENST00000282611.6	cation channel, sperm associated 3 	8	1	0	1	0	0	hsa-miR-3615				-0.27	-0.27	N/A
+GPR158	ENST00000376351.3	G protein-coupled receptor 158 	5	1	0	1	0	0	hsa-miR-3615				-0.27	-0.27	N/A
+CLGN	ENST00000325617.5	calmegin 	288	1	0	1	0	0	hsa-miR-3615				-0.27	-0.27	N/A
+DACT3	ENST00000300875.4	dishevelled-binding antagonist of beta-catenin 3 	59	1	0	1	0	0	hsa-miR-3615				-0.27	-0.27	N/A
+NT5C	ENST00000582170.1	5', 3'-nucleotidase, cytosolic 	649	1	0	1	0	0	hsa-miR-3615				-0.26	-0.27	N/A
+SHOX2	ENST00000490689.2	short stature homeobox 2 	66	1	0	0	1	0	hsa-miR-3615				-0.26	-0.26	N/A
+HOXA9	ENST00000396345.1	homeobox A9 	151	1	0	1	0	0	hsa-miR-3615				-0.26	-0.26	N/A
+CHMP6	ENST00000325167.5	charged multivesicular body protein 6 	227	1	0	1	0	0	hsa-miR-3615				-0.26	-0.26	N/A
+JMJD7	ENST00000397299.4	jumonji domain containing 7 	311	1	0	0	1	0	hsa-miR-3615				-0.26	-0.26	N/A
+CDR2	ENST00000268383.2	cerebellar degeneration-related protein 2, 62kDa 	70	1	0	0	1	0	hsa-miR-3615				-0.26	-0.26	N/A
+SH2D7	ENST00000328828.5	SH2 domain containing 7 	5	1	0	1	0	0	hsa-miR-3615				-0.26	-0.26	N/A
+VDR	ENST00000395324.2	vitamin D (1,25- dihydroxyvitamin D3) receptor 	416	2	0	2	0	0	hsa-miR-3615				-0.26	-0.26	N/A
+C18orf25	ENST00000282059.6	chromosome 18 open reading frame 25 	688	1	0	1	0	0	hsa-miR-3615				-0.26	-0.27	N/A
+C11orf96	ENST00000339446.3	chromosome 11 open reading frame 96 	475	1	0	1	0	0	hsa-miR-3615				-0.26	-0.26	N/A
+STAU2	ENST00000522695.1	staufen double-stranded RNA binding protein 2 	306	1	0	0	1	0	hsa-miR-3615				-0.26	-0.26	N/A
+PBX1	ENST00000367897.1	pre-B-cell leukemia homeobox 1 	18	1	1	0	0	0	hsa-miR-3615				-0.26	-0.37	N/A
+CEBPD	ENST00000408965.3	CCAAT/enhancer binding protein (C/EBP), delta 	61	1	0	0	1	0	hsa-miR-3615				-0.26	-0.26	N/A
+FAM73B	ENST00000277475.5	family with sequence similarity 73, member B 	651	1	1	0	0	0	hsa-miR-3615				-0.26	-0.26	N/A
+S1PR1	ENST00000305352.6	sphingosine-1-phosphate receptor 1 	251	1	1	0	0	0	hsa-miR-3615				-0.26	-0.61	N/A
+ALCAM	ENST00000306107.5	activated leukocyte cell adhesion molecule 	371	1	0	1	0	1	hsa-miR-3615				-0.26	-0.26	N/A
+ARSG	ENST00000448504.2	arylsulfatase G 	73	1	0	1	0	0	hsa-miR-3615				-0.26	-0.26	N/A
+RGS9BP	ENST00000334176.3	regulator of G protein signaling 9 binding protein 	13	1	0	1	0	0	hsa-miR-3615				-0.26	-0.26	N/A
+AC097381.1	ENST00000429019.3		5	1	0	0	1	0	hsa-miR-3615				-0.26	-0.26	N/A
+EXOSC2	ENST00000372358.5	exosome component 2 	852	1	0	0	1	0	hsa-miR-3615				-0.25	-0.25	N/A
+RUSC2	ENST00000455600.1	RUN and SH3 domain containing 2 	575	1	0	1	0	0	hsa-miR-3615				-0.25	-0.25	N/A
+STK11IP	ENST00000456909.1	serine/threonine kinase 11 interacting protein 	20	1	0	0	1	0	hsa-miR-3615				-0.25	-0.25	N/A
+UPF3B	ENST00000276201.2	UPF3 regulator of nonsense transcripts homolog B (yeast) 	11	1	0	0	1	0	hsa-miR-3615				-0.25	-0.25	N/A
+F2RL3	ENST00000248076.3	coagulation factor II (thrombin) receptor-like 3 	5	1	0	0	1	0	hsa-miR-3615				-0.25	-0.25	N/A
+FAM101A	ENST00000546355.1	family with sequence similarity 101, member A 	34	1	0	1	0	0	hsa-miR-3615				-0.25	-0.25	N/A
+SSNA1	ENST00000322310.5	Sjogren syndrome nuclear autoantigen 1 	160	1	0	1	0	0	hsa-miR-3615				-0.25	-0.25	N/A
+RS1	ENST00000379984.3	retinoschisin 1 	5	1	0	0	1	0	hsa-miR-3615				-0.25	-0.25	N/A
+PSD	ENST00000020673.5	pleckstrin and Sec7 domain containing 	5	1	0	1	0	0	hsa-miR-3615				-0.25	-0.25	N/A
+AP005482.1	ENST00000400514.2	Uncharacterized protein  	44	1	0	0	1	1	hsa-miR-3615				-0.25	-0.30	N/A
+RAX	ENST00000256852.7	retina and anterior neural fold homeobox 	5	1	0	1	0	1	hsa-miR-3615				-0.25	-0.25	N/A
+KIAA1644	ENST00000381176.4	KIAA1644 	10	1	0	0	1	0	hsa-miR-3615				-0.25	-0.25	N/A
+RTN4RL1	ENST00000331238.6	reticulon 4 receptor-like 1 	82	1	0	1	0	0	hsa-miR-3615				-0.25	-0.25	N/A
+RHOV	ENST00000220507.4	ras homolog family member V 	125	1	0	0	1	0	hsa-miR-3615				-0.25	-0.25	N/A
+C1orf200	ENST00000377320.3	chromosome 1 open reading frame 200 	5	1	0	1	0	0	hsa-miR-3615				-0.25	-0.25	N/A
+TBC1D3C	ENST00000308078.7	TBC1 domain family, member 3C 	5	1	0	0	1	0	hsa-miR-3615				-0.25	-0.25	N/A
+BRCA1	ENST00000468300.1	breast cancer 1, early onset 	396	1	0	1	0	0	hsa-miR-3615				-0.25	-0.25	N/A
+PXK	ENST00000463280.1	PX domain containing serine/threonine kinase 	220	1	0	0	1	0	hsa-miR-3615				-0.25	-0.25	N/A
+TBC1D3G	ENST00000330458.7	TBC1 domain family, member 3G 	5	1	0	0	1	0	hsa-miR-3615				-0.25	-0.25	N/A
+NNAT	ENST00000062104.2	neuronatin 	5	1	0	0	1	0	hsa-miR-3615				-0.25	-0.25	N/A
+FN1	ENST00000357009.2	fibronectin 1 	1064	1	0	1	0	0	hsa-miR-3615				-0.25	-0.30	N/A
+NDUFS7	ENST00000313408.7	NADH dehydrogenase (ubiquinone) Fe-S protein 7, 20kDa (NADH-coenzyme Q reductase) 	3661	1	0	1	0	1	hsa-miR-3615				-0.25	-0.25	N/A
+ROBO2	ENST00000461745.1	roundabout, axon guidance receptor, homolog 2 (Drosophila) 	22	1	0	1	0	0	hsa-miR-3615				-0.24	-0.24	N/A
+PIEZO1	ENST00000327397.7	piezo-type mechanosensitive ion channel component 1 	3837	1	0	1	0	0	hsa-miR-3615				-0.24	-0.24	N/A
+C12orf66	ENST00000544871.1	chromosome 12 open reading frame 66 	98	1	1	0	0	0	hsa-miR-3615				-0.24	-0.39	N/A
+GGT6	ENST00000301395.3	gamma-glutamyltransferase 6 	5	1	0	1	0	0	hsa-miR-3615				-0.24	-0.24	N/A
+TRIM15	ENST00000376694.4	tripartite motif containing 15 	5	1	0	0	1	0	hsa-miR-3615				-0.24	-0.24	N/A
+SCUBE1	ENST00000290460.7	signal peptide, CUB domain, EGF-like 1 	7	1	0	0	1	0	hsa-miR-3615				-0.24	-0.24	N/A
+KLHDC8A	ENST00000367155.3	kelch domain containing 8A 	8	1	0	1	0	0	hsa-miR-3615				-0.24	-0.24	N/A
+CELSR1	ENST00000262738.3	cadherin, EGF LAG seven-pass G-type receptor 1 	1359	1	1	0	0	0	hsa-miR-3615				-0.24	-0.24	N/A
+NPAS2	ENST00000335681.5	neuronal PAS domain protein 2 	559	1	0	1	0	0	hsa-miR-3615				-0.24	-0.24	N/A
+PLIN5	ENST00000381848.3	perilipin 5 	125	1	0	1	0	0	hsa-miR-3615				-0.24	-0.24	N/A
+METTL2B	ENST00000480046.1	methyltransferase like 2B 	22	1	0	0	1	0	hsa-miR-3615				-0.24	-0.24	N/A
+AP5S1	ENST00000379573.2	adaptor-related protein complex 5, sigma 1 subunit 	492	1	0	1	0	0	hsa-miR-3615				-0.24	-0.24	N/A
+SLC25A35	ENST00000577745.1	solute carrier family 25, member 35 	376	1	0	0	1	0	hsa-miR-3615				-0.24	-0.24	N/A
+TPBGL	ENST00000562197.2	trophoblast glycoprotein-like 	8	1	0	1	0	0	hsa-miR-3615				-0.24	-0.24	N/A
+ONECUT3	ENST00000382349.4	one cut homeobox 3 	5	1	0	0	1	1	hsa-miR-3615				-0.24	-0.24	N/A
+DCAF4L1	ENST00000333141.5	DDB1 and CUL4 associated factor 4-like 1 	5	1	0	1	0	0	hsa-miR-3615				-0.24	-0.24	N/A
+CD3E	ENST00000361763.4	CD3e molecule, epsilon (CD3-TCR complex) 	5	1	0	0	1	0	hsa-miR-3615				-0.24	-0.24	N/A
+KCNJ15	ENST00000328656.4	potassium inwardly-rectifying channel, subfamily J, member 15 	5	1	0	1	0	1	hsa-miR-3615				-0.24	-0.24	N/A
+ACTRT3	ENST00000330368.2	actin-related protein T3 	244	1	1	0	0	2	hsa-miR-3615				-0.24	-0.43	N/A
+FADS2	ENST00000257261.6	fatty acid desaturase 2 	285	1	0	1	0	0	hsa-miR-3615				-0.24	-0.24	N/A
+STARD13	ENST00000336934.5	StAR-related lipid transfer (START) domain containing 13 	314	1	0	0	1	1	hsa-miR-3615				-0.24	-0.25	N/A
+MEX3B	ENST00000558133.1	mex-3 RNA binding family member B 	1401	1	0	1	0	2	hsa-miR-3615				-0.24	-0.24	N/A
+PKIG	ENST00000372894.3	protein kinase (cAMP-dependent, catalytic) inhibitor gamma 	1619	1	0	0	1	0	hsa-miR-3615				-0.24	-0.24	N/A
+SNX29	ENST00000566228.1	sorting nexin 29 	266	1	1	0	0	0	hsa-miR-3615				-0.24	-0.24	N/A
+PINX1	ENST00000426190.2	PIN2/TERF1 interacting, telomerase inhibitor 1 	224	1	0	1	0	0	hsa-miR-3615				-0.24	-0.24	N/A
+TTC22	ENST00000371276.4	tetratricopeptide repeat domain 22 	5	1	0	1	0	0	hsa-miR-3615				-0.24	-0.24	N/A
+NBPF14	ENST00000369219.1	neuroblastoma breakpoint family, member 14 	10	1	0	1	0	0	hsa-miR-3615				-0.24	-0.24	N/A
+BTBD3	ENST00000254977.3	BTB (POZ) domain containing 3 	3798	1	0	1	0	0	hsa-miR-3615				-0.24	-0.25	N/A
+SSPN	ENST00000242729.2	sarcospan 	25	1	0	0	1	0	hsa-miR-3615				-0.24	-0.24	N/A
+DVL1	ENST00000378891.5	dishevelled segment polarity protein 1 	384	1	0	0	1	1	hsa-miR-3615				-0.24	-0.24	N/A
+CNBP	ENST00000502976.1	CCHC-type zinc finger, nucleic acid binding protein 	2257	1	0	0	1	0	hsa-miR-3615				-0.24	-0.24	N/A
+EPS8L1	ENST00000201647.6	EPS8-like 1 	55	1	0	1	0	0	hsa-miR-3615				-0.23	-0.23	N/A
+KCNAB3	ENST00000303790.2	potassium voltage-gated channel, shaker-related subfamily, beta member 3 	35	1	0	0	1	0	hsa-miR-3615				-0.23	-0.23	N/A
+ZNF317	ENST00000247956.6	zinc finger protein 317 	433	1	1	0	0	0	hsa-miR-3615				-0.23	-0.23	N/A
+LRRD1	ENST00000343318.5	leucine-rich repeats and death domain containing 1 	9	1	0	1	0	0	hsa-miR-3615				-0.23	-0.23	N/A
+MAP3K13	ENST00000448876.1	mitogen-activated protein kinase kinase kinase 13 	226	1	0	0	1	0	hsa-miR-3615				-0.23	-0.23	N/A
+ADRB1	ENST00000369295.2	adrenoceptor beta 1 	12	1	0	0	1	0	hsa-miR-3615				-0.23	-0.23	N/A
+ADCY6	ENST00000357869.3	adenylate cyclase 6 	6	1	0	1	0	0	hsa-miR-3615				-0.23	-0.23	N/A
+BHMT2	ENST00000255192.3	betaine--homocysteine S-methyltransferase 2 	297	1	0	0	1	0	hsa-miR-3615				-0.23	-0.23	N/A
+DNAH17-AS1	ENST00000598378.1	DNAH17 antisense RNA 1 	23	1	0	0	1	0	hsa-miR-3615				-0.23	-0.23	N/A
+C17orf105	ENST00000449302.3	chromosome 17 open reading frame 105 	5	1	0	0	1	0	hsa-miR-3615				-0.23	-0.23	N/A
+UNC93B1	ENST00000227471.2	unc-93 homolog B1 (C. elegans) 	5	1	0	1	0	0	hsa-miR-3615				-0.23	-0.23	N/A
+ICAM4	ENST00000393717.2	intercellular adhesion molecule 4 (Landsteiner-Wiener blood group) 	235	1	0	1	0	0	hsa-miR-3615				-0.23	-0.23	N/A
+TBC1D3F	ENST00000378174.5	TBC1 domain family, member 3F 	5	1	0	0	1	0	hsa-miR-3615				-0.23	-0.23	N/A
+ARF6	ENST00000298316.5	ADP-ribosylation factor 6 	31	1	0	0	1	0	hsa-miR-3615				-0.23	-0.23	N/A
+TBC1D3	ENST00000339023.4	TBC1 domain family, member 3 	5	1	0	0	1	0	hsa-miR-3615				-0.23	-0.23	N/A
+TMEM215	ENST00000342743.5	transmembrane protein 215 	5	1	0	1	0	1	hsa-miR-3615				-0.23	-0.29	N/A
+JMJD4	ENST00000366758.3	jumonji domain containing 4 	1570	1	0	1	0	0	hsa-miR-3615				-0.23	-0.27	N/A
+ZXDC	ENST00000389709.3	ZXD family zinc finger C 	83	1	0	1	0	0	hsa-miR-3615				-0.23	-0.23	N/A
+XKR4	ENST00000327381.6	XK, Kell blood group complex subunit-related family, member 4 	5	3	1	1	1	0	hsa-miR-3615				-0.23	-0.23	N/A
+NUP50	ENST00000347635.4	nucleoporin 50kDa 	57	1	0	0	1	0	hsa-miR-3615				-0.23	-0.23	N/A
+AP3M1	ENST00000355264.4	adaptor-related protein complex 3, mu 1 subunit 	601	1	0	1	0	0	hsa-miR-3615				-0.23	-0.23	N/A
+JPH1	ENST00000342232.4	junctophilin 1 	53	1	0	0	1	1	hsa-miR-3615				-0.23	-0.24	N/A
+UPK3BL	ENST00000340457.8	uroplakin 3B-like 	5	1	0	0	1	0	hsa-miR-3615				-0.23	-0.23	N/A
+OLIG3	ENST00000367734.2	oligodendrocyte transcription factor 3 	5	1	0	0	1	0	hsa-miR-3615				-0.23	-0.23	N/A
+ARMC10	ENST00000323716.3	armadillo repeat containing 10 	147	1	1	0	0	0	hsa-miR-3615				-0.23	-0.39	N/A
+FAM57B	ENST00000564806.1	family with sequence similarity 57, member B 	5	1	0	1	0	0	hsa-miR-3615				-0.23	-0.23	N/A
+TNS3	ENST00000311160.9	tensin 3 	28	1	0	1	0	0	hsa-miR-3615				-0.23	-0.23	N/A
+ERG	ENST00000398905.1	v-ets avian erythroblastosis virus E26 oncogene homolog 	184	1	0	0	1	0	hsa-miR-3615				-0.23	-0.23	N/A
+C11orf86	ENST00000308963.4	chromosome 11 open reading frame 86 	5	1	0	1	0	0	hsa-miR-3615				-0.23	-0.23	N/A
+ZBTB8B	ENST00000609129.1	zinc finger and BTB domain containing 8B 	18	1	0	0	1	2	hsa-miR-3615				-0.23	-0.36	N/A
+BOD1L2	ENST00000585477.1	biorientation of chromosomes in cell division 1-like 2 	5	1	0	0	1	0	hsa-miR-3615				-0.23	-0.23	N/A
+TRIP11	ENST00000267622.4	thyroid hormone receptor interactor 11 	13	1	0	1	0	0	hsa-miR-3615				-0.23	-0.23	N/A
+TMEM115	ENST00000266025.3	transmembrane protein 115 	1346	1	0	1	0	0	hsa-miR-3615				-0.23	-0.23	N/A
+ARHGAP31	ENST00000264245.4	Rho GTPase activating protein 31 	32	2	0	0	2	0	hsa-miR-3615				-0.23	-0.24	N/A
+CNNM2	ENST00000369878.4	cyclin M2 	517	1	0	0	1	0	hsa-miR-3615				-0.23	-0.23	N/A
+FRMD4B	ENST00000398540.3	FERM domain containing 4B 	12	1	0	1	0	0	hsa-miR-3615				-0.23	-0.23	N/A
+CHST6	ENST00000332272.4	carbohydrate (N-acetylglucosamine 6-O) sulfotransferase 6 	37	1	0	1	0	1	hsa-miR-3615				-0.22	-0.26	N/A
+RNASEK	ENST00000548577.1	ribonuclease, RNase K 	4671	1	0	0	1	0	hsa-miR-3615				-0.22	-0.23	N/A
+REXO1L1	ENST00000379010.2	REX1, RNA exonuclease 1 homolog (S. cerevisiae)-like 1 	5	1	0	1	0	0	hsa-miR-3615				-0.22	-0.22	N/A
+RTF1	ENST00000389629.4	Rtf1, Paf1/RNA polymerase II complex component, homolog (S. cerevisiae) 	1869	1	0	0	1	1	hsa-miR-3615				-0.22	-0.25	N/A
+AHDC1	ENST00000247087.5	AT hook, DNA binding motif, containing 1 	174	1	0	0	1	0	hsa-miR-3615				-0.22	-0.22	N/A
+SCYL1	ENST00000524944.1	SCY1-like 1 (S. cerevisiae) 	45	1	0	1	0	0	hsa-miR-3615				-0.22	-0.22	N/A
+SCAMP4	ENST00000316097.8	secretory carrier membrane protein 4 	223	1	0	1	0	0	hsa-miR-3615				-0.22	-0.22	N/A
+CPD	ENST00000225719.4	carboxypeptidase D 	1766	1	1	0	0	0	hsa-miR-3615				-0.22	-0.24	N/A
+PTCD1	ENST00000292478.4	pentatricopeptide repeat domain 1 	22	1	0	0	1	0	hsa-miR-3615				-0.22	-0.22	N/A
+VPS37D	ENST00000451519.1	vacuolar protein sorting 37 homolog D (S. cerevisiae) 	173	1	0	1	0	0	hsa-miR-3615				-0.22	-0.22	N/A
+PCF11	ENST00000298281.4	PCF11 cleavage and polyadenylation factor subunit 	218	1	1	0	0	0	hsa-miR-3615				-0.22	-0.32	N/A
+KLHDC7B	ENST00000395676.2	kelch domain containing 7B 	13	1	1	0	0	0	hsa-miR-3615				-0.22	-0.36	N/A
+PPP6R1	ENST00000412770.2	protein phosphatase 6, regulatory subunit 1 	292	1	0	0	1	0	hsa-miR-3615				-0.22	-0.26	N/A
+EFEMP2	ENST00000307998.6	EGF containing fibulin-like extracellular matrix protein 2 	2062	1	0	1	0	0	hsa-miR-3615				-0.22	-0.23	N/A
+PEPD	ENST00000244137.7	peptidase D 	725	1	0	0	1	0	hsa-miR-3615				-0.22	-0.22	N/A
+RENBP	ENST00000412763.1	renin binding protein 	5	1	0	1	0	0	hsa-miR-3615				-0.22	-0.22	N/A
+EIF3H	ENST00000521861.1	eukaryotic translation initiation factor 3, subunit H 	27	1	1	0	0	0	hsa-miR-3615				-0.22	-0.33	N/A
+AL033381.1	ENST00000314040.1	Uncharacterized protein; cDNA FLJ34594 fis, clone KIDNE2009109  	5	1	0	0	1	0	hsa-miR-3615				-0.22	-0.22	N/A
+POMGNT1	ENST00000396420.3	protein O-linked mannose N-acetylglucosaminyltransferase 1 (beta 1,2-) 	2123	1	0	1	0	0	hsa-miR-3615				-0.21	-0.21	N/A
+CTD-2162K18.4	ENST00000590750.1	Uncharacterized protein  	51	1	0	0	1	1	hsa-miR-3615				-0.21	-0.25	N/A
+PLEK	ENST00000234313.7	pleckstrin 	5	1	0	1	0	0	hsa-miR-3615				-0.21	-0.21	N/A
+TSC1	ENST00000298552.3	tuberous sclerosis 1 	838	1	1	0	0	2	hsa-miR-3615				-0.21	-0.23	N/A
+BCKDHA	ENST00000269980.2	branched chain keto acid dehydrogenase E1, alpha polypeptide 	3943	1	0	1	0	0	hsa-miR-3615				-0.21	-0.21	N/A
+MFAP4	ENST00000497081.2	microfibrillar-associated protein 4 	67	1	0	1	0	0	hsa-miR-3615				-0.21	-0.21	N/A
+NR1I2	ENST00000393716.2	nuclear receptor subfamily 1, group I, member 2 	14	1	0	1	0	0	hsa-miR-3615				-0.21	-0.21	N/A
+ZNF682	ENST00000397165.2	zinc finger protein 682 	117	1	0	1	0	0	hsa-miR-3615				-0.21	-0.23	N/A
+ZNF555	ENST00000334241.4	zinc finger protein 555 	64	1	1	0	0	0	hsa-miR-3615				-0.21	-0.48	N/A
+RBBP8NL	ENST00000252998.1	RBBP8 N-terminal like 	5	1	0	1	0	0	hsa-miR-3615				-0.21	-0.21	N/A
+TMEM235	ENST00000586400.1	transmembrane protein 235 	5	1	0	1	0	0	hsa-miR-3615				-0.21	-0.21	N/A
+CNGA2	ENST00000329903.4	cyclic nucleotide gated channel alpha 2 	5	1	0	1	0	0	hsa-miR-3615				-0.21	-0.21	N/A
+MCTP1	ENST00000515393.1	multiple C2 domains, transmembrane 1 	81	1	0	0	1	0	hsa-miR-3615				-0.21	-0.21	N/A
+CYBB	ENST00000378588.4	cytochrome b-245, beta polypeptide 	12	1	0	1	0	0	hsa-miR-3615				-0.21	-0.21	N/A
+GALM	ENST00000272252.5	galactose mutarotase (aldose 1-epimerase) 	963	1	0	1	0	0	hsa-miR-3615				-0.21	-0.27	N/A
+SULF2	ENST00000359930.4	sulfatase 2 	103	1	0	0	1	0	hsa-miR-3615				-0.21	-0.21	N/A
+POLR2J2	ENST00000591000.1	DNA-directed RNA polymerase II subunit RPB11-b1  	5	1	0	0	1	0	hsa-miR-3615				-0.21	-0.21	N/A
+GYG2	ENST00000381163.3	glycogenin 2 	67	1	0	1	0	0	hsa-miR-3615				-0.21	-0.22	N/A
+SENP5	ENST00000323460.5	SUMO1/sentrin specific peptidase 5 	125	1	1	0	0	0	hsa-miR-3615				-0.21	-0.27	N/A
+CTC-435M10.3	ENST00000540732.1	2-oxoisovalerate dehydrogenase subunit alpha, mitochondrial; Uncharacterized protein  	3943	1	0	1	0	0	hsa-miR-3615				-0.21	-0.21	N/A
+C7orf26	ENST00000344417.5	chromosome 7 open reading frame 26 	20	1	0	1	0	0	hsa-miR-3615				-0.21	-0.21	N/A
+TRIM46	ENST00000392451.2	tripartite motif containing 46 	69	1	0	1	0	0	hsa-miR-3615				-0.21	-0.21	N/A
+CBX4	ENST00000269397.4	chromobox homolog 4 	3211	1	0	0	1	0	hsa-miR-3615				-0.21	-0.21	N/A
+LRRC4	ENST00000249363.3	leucine rich repeat containing 4 	26	1	0	1	0	0	hsa-miR-3615				-0.21	-0.21	N/A
+SCARF1	ENST00000571272.1	scavenger receptor class F, member 1 	5	1	0	1	0	0	hsa-miR-3615				-0.21	-0.21	N/A
+AC024940.1	ENST00000313737.4		5	1	0	0	1	0	hsa-miR-3615				-0.21	-0.21	N/A
+DCUN1D4	ENST00000334635.5	DCN1, defective in cullin neddylation 1, domain containing 4 	1118	1	0	0	1	0	hsa-miR-3615				-0.21	-0.21	N/A
+ZNF80	ENST00000482457.2	zinc finger protein 80 	5	1	0	0	1	0	hsa-miR-3615				-0.21	-0.21	N/A
+RRP7A	ENST00000323013.6	ribosomal RNA processing 7 homolog A (S. cerevisiae) 	522	1	0	1	0	1	hsa-miR-3615				-0.21	-0.21	N/A
+BAIAP3	ENST00000397488.2	BAI1-associated protein 3 	10	1	0	1	0	1	hsa-miR-3615				-0.21	-0.21	N/A
+MED22	ENST00000344469.5	mediator complex subunit 22 	43	1	0	1	0	1	hsa-miR-3615				-0.21	-0.26	N/A
+CKS1B	ENST00000308987.5	CDC28 protein kinase regulatory subunit 1B 	186	1	0	1	0	0	hsa-miR-3615				-0.21	-0.26	N/A
+WDR5	ENST00000425041.1	WD repeat domain 5 	889	1	0	0	1	0	hsa-miR-3615				-0.20	-0.20	N/A
+VWA1	ENST00000338660.5	von Willebrand factor A domain containing 1 	145	2	0	2	0	1	hsa-miR-3615				-0.20	-0.38	N/A
+EFNA2	ENST00000215368.2	ephrin-A2 	83	1	0	1	0	0	hsa-miR-3615				-0.20	-0.20	N/A
+IL17REL	ENST00000389983.2	interleukin 17 receptor E-like 	5	1	0	1	0	0	hsa-miR-3615				-0.20	-0.20	N/A
+TBX3	ENST00000349155.2	T-box 3 	71	1	0	0	1	0	hsa-miR-3615				-0.20	-0.20	N/A
+DTX3	ENST00000551632.1	deltex homolog 3 (Drosophila) 	28	1	0	1	0	0	hsa-miR-3615				-0.20	-0.20	N/A
+SEMA6B	ENST00000301293.3	sema domain, transmembrane domain (TM), and cytoplasmic domain, (semaphorin) 6B 	35	1	0	0	1	0	hsa-miR-3615				-0.20	-0.20	N/A
+LIN28A	ENST00000326279.6	lin-28 homolog A (C. elegans) 	5	1	0	1	0	0	hsa-miR-3615				-0.20	-0.20	N/A
+ZNF439	ENST00000304030.2	zinc finger protein 439 	64	1	0	0	1	0	hsa-miR-3615				-0.20	-0.20	N/A
+BICD1	ENST00000548411.1	bicaudal D homolog 1 (Drosophila) 	205	1	0	0	1	1	hsa-miR-3615				-0.20	-0.20	N/A
+PPP2R2D	ENST00000422256.2	protein phosphatase 2, regulatory subunit B, delta 	169	1	0	0	1	0	hsa-miR-3615				-0.20	-0.20	N/A
+TLX1	ENST00000467928.2	T-cell leukemia homeobox 1 	47	1	0	1	0	0	hsa-miR-3615				-0.20	-0.20	N/A
+APOBEC3C	ENST00000361441.4	apolipoprotein B mRNA editing enzyme, catalytic polypeptide-like 3C 	14	1	0	1	0	0	hsa-miR-3615				-0.20	-0.20	N/A
+PDGFB	ENST00000331163.6	platelet-derived growth factor beta polypeptide 	5	1	0	0	1	0	hsa-miR-3615				-0.20	-0.20	N/A
+GNA15	ENST00000262958.3	guanine nucleotide binding protein (G protein), alpha 15 (Gq class) 	5	1	0	0	1	0	hsa-miR-3615				-0.20	-0.20	N/A
+TNFRSF13B	ENST00000261652.2	tumor necrosis factor receptor superfamily, member 13B 	5	1	0	1	0	0	hsa-miR-3615				-0.20	-0.20	N/A
+DCAF12L2	ENST00000538699.1	DDB1 and CUL4 associated factor 12-like 2 	20	1	0	0	1	0	hsa-miR-3615				-0.20	-0.27	N/A
+PELI1	ENST00000358912.4	pellino E3 ubiquitin protein ligase 1 	134	1	0	0	1	0	hsa-miR-3615				-0.20	-0.20	N/A
+CLEC16A	ENST00000409790.1	C-type lectin domain family 16, member A 	108	2	1	1	0	0	hsa-miR-3615				-0.20	-0.23	N/A
+LHX5	ENST00000261731.3	LIM homeobox 5 	5	1	0	1	0	0	hsa-miR-3615				-0.20	-0.20	N/A
+SHOX	ENST00000381578.1	short stature homeobox 	5	1	0	1	0	0	hsa-miR-3615				-0.20	-0.20	N/A
+BRINP2	ENST00000361539.4	bone morphogenetic protein/retinoic acid inducible neural-specific 2 	5	1	0	0	1	0	hsa-miR-3615				-0.20	-0.20	N/A
+SLC6A3	ENST00000270349.9	solute carrier family 6 (neurotransmitter transporter), member 3 	5	1	0	0	1	0	hsa-miR-3615				-0.20	-0.20	N/A
+NCF2	ENST00000367536.1	neutrophil cytosolic factor 2 	12	1	0	0	1	0	hsa-miR-3615				-0.19	-0.19	N/A
+ULBP1	ENST00000229708.3	UL16 binding protein 1 	16	1	0	0	1	0	hsa-miR-3615				-0.19	-0.19	N/A
+AC110781.3	ENST00000402221.1	Protein LOC100128374  	5	1	0	1	0	0	hsa-miR-3615				-0.19	-0.19	N/A
+C3orf18	ENST00000426034.1	chromosome 3 open reading frame 18 	29	1	0	1	0	0	hsa-miR-3615				-0.19	-0.19	N/A
+GPSM1	ENST00000440944.1	G-protein signaling modulator 1 	5243	1	0	1	0	0	hsa-miR-3615				-0.19	-0.19	N/A
+C6orf223	ENST00000439969.2	chromosome 6 open reading frame 223 	17	1	0	1	0	0	hsa-miR-3615				-0.19	-0.19	N/A
+ST3GAL3	ENST00000372377.4	ST3 beta-galactoside alpha-2,3-sialyltransferase 3 	135	1	0	0	1	0	hsa-miR-3615				-0.19	-0.19	N/A
+UNC119B	ENST00000344651.4	unc-119 homolog B (C. elegans) 	5	1	1	0	0	0	hsa-miR-3615				-0.19	-0.19	N/A
+TMEM30B	ENST00000555868.1	transmembrane protein 30B 	10	1	0	0	1	0	hsa-miR-3615				-0.19	-0.19	N/A
+SBSPON	ENST00000297354.6	somatomedin B and thrombospondin, type 1 domain containing 	8	1	0	1	0	0	hsa-miR-3615				-0.19	-0.33	N/A
+C21orf59	ENST00000382549.4	chromosome 21 open reading frame 59 	288	1	0	1	0	0	hsa-miR-3615				-0.19	-0.19	N/A
+D2HGDH	ENST00000321264.4	D-2-hydroxyglutarate dehydrogenase 	417	1	0	1	0	0	hsa-miR-3615				-0.19	-0.19	N/A
+PEG10	ENST00000482108.1	paternally expressed 10 	8778	1	0	1	0	0	hsa-miR-3615				-0.19	-0.19	N/A
+AC079612.1	ENST00000358775.1	Uncharacterized protein; cDNA FLJ45964 fis, clone PLACE7014396  	5	1	0	0	1	1	hsa-miR-3615				-0.19	-0.19	N/A
+WBP1L	ENST00000369889.4	WW domain binding protein 1-like 	5	1	0	0	1	0	hsa-miR-3615				-0.19	-0.19	N/A
+ALDH3B2	ENST00000530069.1	aldehyde dehydrogenase 3 family, member B2 	5	1	0	0	1	0	hsa-miR-3615				-0.19	-0.19	N/A
+ITPKB	ENST00000272117.3	inositol-trisphosphate 3-kinase B 	5	2	0	1	1	0	hsa-miR-3615				-0.19	-0.19	N/A
+NBPF11	ENST00000604938.1	neuroblastoma breakpoint family, member 11 	5	1	0	1	0	0	hsa-miR-3615				-0.19	-0.19	N/A
+TBC1D31	ENST00000378080.2	TBC1 domain family, member 31 	696	1	0	0	1	0	hsa-miR-3615				-0.19	-0.19	N/A
+DSTYK	ENST00000367160.4	dual serine/threonine and tyrosine protein kinase 	256	1	0	1	0	0	hsa-miR-3615				-0.19	-0.20	N/A
+TBL1X	ENST00000407597.2	transducin (beta)-like 1X-linked 	125	1	0	1	0	0	hsa-miR-3615				-0.19	-0.22	N/A
+GRID2IP	ENST00000452113.1	glutamate receptor, ionotropic, delta 2 (Grid2) interacting protein 	5	1	0	1	0	1	hsa-miR-3615				-0.19	-0.24	N/A
+DPF1	ENST00000420980.2	D4, zinc and double PHD fingers family 1 	11	1	0	1	0	0	hsa-miR-3615				-0.19	-0.19	N/A
+MDFIC	ENST00000393486.1	MyoD family inhibitor domain containing 	601	1	0	1	0	0	hsa-miR-3615				-0.19	-0.21	N/A
+NBPF12	ENST00000446760.2	neuroblastoma breakpoint family, member 12 	5	1	0	1	0	0	hsa-miR-3615				-0.19	-0.19	N/A
+TLX3	ENST00000296921.5	T-cell leukemia homeobox 3 	21	1	0	1	0	0	hsa-miR-3615				-0.19	-0.19	N/A
+TMEM80	ENST00000397512.3	transmembrane protein 80 	184	1	0	1	0	0	hsa-miR-3615				-0.19	-0.19	N/A
+STEAP3	ENST00000409811.1	STEAP family member 3, metalloreductase 	160	1	0	1	0	0	hsa-miR-3615				-0.19	-0.20	N/A
+KIAA0556	ENST00000261588.4	KIAA0556 	169	1	0	1	0	0	hsa-miR-3615				-0.18	-0.18	N/A
+ZCCHC5	ENST00000321110.1	zinc finger, CCHC domain containing 5 	5	1	0	0	1	0	hsa-miR-3615				-0.18	-0.18	N/A
+NRG2	ENST00000394770.1	neuregulin 2 	9	1	0	1	0	2	hsa-miR-3615				-0.18	-0.18	N/A
+GPATCH2L	ENST00000553588.1	G patch domain containing 2-like 	96	1	0	0	1	0	hsa-miR-3615				-0.18	-0.21	N/A
+MSL1	ENST00000398532.4	male-specific lethal 1 homolog (Drosophila) 	4715	1	0	1	0	0	hsa-miR-3615				-0.18	-0.18	N/A
+ZC3H4	ENST00000253048.5	zinc finger CCCH-type containing 4 	182	1	1	0	0	0	hsa-miR-3615				-0.18	-0.19	N/A
+GYPE	ENST00000358615.4	glycophorin E (MNS blood group) 	5	1	0	0	1	0	hsa-miR-3615				-0.18	-0.18	N/A
+ABL1	ENST00000318560.5	c-abl oncogene 1, non-receptor tyrosine kinase 	1188	1	0	1	0	0	hsa-miR-3615				-0.18	-0.18	N/A
+GPR55	ENST00000392040.1	G protein-coupled receptor 55 	5	1	0	1	0	0	hsa-miR-3615				-0.18	-0.18	N/A
+HIC2	ENST00000407464.2	hypermethylated in cancer 2 	28	1	0	1	0	0	hsa-miR-3615				-0.18	-0.18	N/A
+SBK1	ENST00000341901.4	SH3 domain binding kinase 1 	9	1	0	1	0	0	hsa-miR-3615				-0.18	-0.18	N/A
+RUNDC1	ENST00000361677.1	RUN domain containing 1 	927	1	0	1	0	0	hsa-miR-3615				-0.18	-0.18	N/A
+FOSL1	ENST00000532401.1	FOS-like antigen 1 	276	1	0	0	1	0	hsa-miR-3615				-0.18	-0.18	N/A
+ITGA6	ENST00000375221.2	integrin, alpha 6 	1328	1	0	0	1	0	hsa-miR-3615				-0.18	-0.18	N/A
+HECTD4	ENST00000377560.5	HECT domain containing E3 ubiquitin protein ligase 4 	222	1	0	1	0	0	hsa-miR-3615				-0.18	-0.18	N/A
+C6orf132	ENST00000341865.4	chromosome 6 open reading frame 132 	17	1	0	1	0	0	hsa-miR-3615				-0.18	-0.29	N/A
+SASH1	ENST00000367467.3	SAM and SH3 domain containing 1 	79	1	0	0	1	0	hsa-miR-3615				-0.18	-0.18	N/A
+UTP15	ENST00000296792.4	UTP15, U3 small nucleolar ribonucleoprotein, homolog (S. cerevisiae) 	280	1	0	0	1	0	hsa-miR-3615				-0.18	-0.18	N/A
+CRX	ENST00000221996.7	cone-rod homeobox 	5	1	0	0	1	0	hsa-miR-3615				-0.18	-0.18	N/A
+SP5	ENST00000375281.3	Sp5 transcription factor 	36	1	0	0	1	0	hsa-miR-3615				-0.18	-0.18	N/A
+ZNF841	ENST00000594295.1	zinc finger protein 841 	21	1	0	1	0	1	hsa-miR-3615				-0.17	-0.17	N/A
+FOXC1	ENST00000380874.2	forkhead box C1 	1301	1	1	0	0	1	hsa-miR-3615				-0.17	-0.38	N/A
+TRABD2B	ENST00000606738.2	TraB domain containing 2B 	244	1	1	0	0	0	hsa-miR-3615				-0.17	-0.23	N/A
+SHPRH	ENST00000367505.2	SNF2 histone linker PHD RING helicase, E3 ubiquitin protein ligase 	757	1	0	1	0	0	hsa-miR-3615				-0.17	-0.17	N/A
+ATP5J2-PTCD1	ENST00000413834.1	ATP5J2-PTCD1 readthrough 	22	1	0	0	1	0	hsa-miR-3615				-0.17	-0.23	N/A
+GPR61	ENST00000527748.1	G protein-coupled receptor 61 	5	1	0	0	1	0	hsa-miR-3615				-0.17	-0.17	N/A
+HMX2	ENST00000339992.3	H6 family homeobox 2 	8	1	1	0	0	0	hsa-miR-3615				-0.17	-0.50	N/A
+SLC35E1	ENST00000595753.1	solute carrier family 35, member E1 	4273	1	0	0	1	0	hsa-miR-3615				-0.17	-0.17	N/A
+DGCR2	ENST00000545799.1	DiGeorge syndrome critical region gene 2 	1754	1	0	1	0	0	hsa-miR-3615				-0.17	-0.17	N/A
+PRKCB	ENST00000303531.7	protein kinase C, beta 	81	1	1	0	0	0	hsa-miR-3615				-0.17	-0.17	N/A
+MBD3	ENST00000590550.2	methyl-CpG binding domain protein 3 	393	1	0	1	0	0	hsa-miR-3615				-0.17	-0.17	N/A
+ELL	ENST00000262809.4	elongation factor RNA polymerase II 	250	1	0	1	0	0	hsa-miR-3615				-0.17	-0.19	N/A
+BCL2L13	ENST00000418951.2	BCL2-like 13 (apoptosis facilitator) 	741	1	0	0	1	0	hsa-miR-3615				-0.17	-0.17	N/A
+PTPN1	ENST00000371621.3	protein tyrosine phosphatase, non-receptor type 1 	142	1	1	0	0	0	hsa-miR-3615				-0.17	-0.27	N/A
+KCNQ4	ENST00000347132.5	potassium voltage-gated channel, KQT-like subfamily, member 4 	46	1	0	1	0	0	hsa-miR-3615				-0.17	-0.17	N/A
+AKAP5	ENST00000394718.4	A kinase (PRKA) anchor protein 5 	75	1	0	1	0	0	hsa-miR-3615				-0.17	-0.17	N/A
+HMGXB3	ENST00000503427.1	HMG box domain containing 3 	26	1	1	0	0	0	hsa-miR-3615				-0.17	-0.17	N/A
+HIST1H2AK	ENST00000330180.2	histone cluster 1, H2ak 	26	1	0	1	0	0	hsa-miR-3615				-0.17	-0.21	N/A
+CD5	ENST00000347785.3	CD5 molecule 	5	1	0	1	0	0	hsa-miR-3615				-0.17	-0.17	N/A
+C3orf80	ENST00000326474.3	chromosome 3 open reading frame 80 	296	1	0	0	1	0	hsa-miR-3615				-0.17	-0.17	N/A
+TSSK6	ENST00000360913.3	testis-specific serine kinase 6 	5	1	0	1	0	0	hsa-miR-3615				-0.17	-0.17	N/A
+SH2B3	ENST00000341259.2	SH2B adaptor protein 3 	89	1	0	1	0	0	hsa-miR-3615				-0.17	-0.20	N/A
+MYO1C	ENST00000359786.5	myosin IC 	1073	1	0	1	0	0	hsa-miR-3615				-0.17	-0.18	N/A
+TMEM203	ENST00000343666.5	transmembrane protein 203 	829	1	0	0	1	0	hsa-miR-3615				-0.17	-0.22	N/A
+ATG2B	ENST00000359933.4	autophagy related 2B 	146	1	0	0	1	0	hsa-miR-3615				-0.17	-0.17	N/A
+PPP2R2C	ENST00000335585.5	protein phosphatase 2, regulatory subunit B, gamma 	115	1	0	1	0	0	hsa-miR-3615				-0.17	-0.17	N/A
+FOXB1	ENST00000396057.4	forkhead box B1 	31	1	0	1	0	0	hsa-miR-3615				-0.17	-0.17	N/A
+CNNM3	ENST00000377060.3	cyclin M3 	934	1	0	1	0	0	hsa-miR-3615				-0.17	-0.17	N/A
+NRXN3	ENST00000281127.7	neurexin 3 	14	1	0	0	1	0	hsa-miR-3615				-0.17	-0.17	N/A
+CCDC74A	ENST00000467992.2	coiled-coil domain containing 74A 	5	1	0	1	0	0	hsa-miR-3615				-0.17	-0.17	N/A
+GAL3ST4	ENST00000423751.1	galactose-3-O-sulfotransferase 4 	33	1	0	1	0	0	hsa-miR-3615				-0.17	-0.17	N/A
+NACC1	ENST00000292431.4	nucleus accumbens associated 1, BEN and BTB (POZ) domain containing 	337	1	0	1	0	0	hsa-miR-3615				-0.17	-0.17	N/A
+FAM118A	ENST00000216214.3	family with sequence similarity 118, member A 	202	1	0	0	1	0	hsa-miR-3615				-0.17	-0.18	N/A
+OSBPL2	ENST00000358053.2	oxysterol binding protein-like 2 	283	1	0	0	1	1	hsa-miR-3615				-0.17	-0.21	N/A
+SEMA6D	ENST00000355997.3	sema domain, transmembrane domain (TM), and cytoplasmic domain, (semaphorin) 6D 	179	1	0	0	1	0	hsa-miR-3615				-0.16	-0.18	N/A
+ELOVL5	ENST00000370918.4	ELOVL fatty acid elongase 5 	2233	1	0	0	1	0	hsa-miR-3615				-0.16	-0.17	N/A
+NHLH2	ENST00000320238.3	nescient helix loop helix 2 	16	1	0	0	1	0	hsa-miR-3615				-0.16	-0.16	N/A
+B4GALNT3	ENST00000266383.5	beta-1,4-N-acetyl-galactosaminyl transferase 3 	5	2	0	2	0	0	hsa-miR-3615				-0.16	-0.16	N/A
+FAM132B	ENST00000546354.1	family with sequence similarity 132, member B 	722	1	0	0	1	0	hsa-miR-3615				-0.16	-0.16	N/A
+RCC2	ENST00000375436.4	regulator of chromosome condensation 2 	180	1	0	1	0	0	hsa-miR-3615				-0.16	-0.16	N/A
+UBE2O	ENST00000319380.7	ubiquitin-conjugating enzyme E2O 	239	1	0	1	0	0	hsa-miR-3615				-0.16	-0.16	N/A
+ISY1	ENST00000393292.3	ISY1 splicing factor homolog (S. cerevisiae) 	897	1	0	1	0	0	hsa-miR-3615				-0.16	-0.25	N/A
+ZBED3	ENST00000255198.2	zinc finger, BED-type containing 3 	399	1	0	1	0	0	hsa-miR-3615				-0.16	-0.16	N/A
+ZFAND3	ENST00000287218.4	zinc finger, AN1-type domain 3 	86	1	0	1	0	0	hsa-miR-3615				-0.16	-0.26	N/A
+FRS2	ENST00000550389.1	fibroblast growth factor receptor substrate 2 	176	1	0	0	1	0	hsa-miR-3615				-0.16	-0.21	N/A
+ARHGAP1	ENST00000311956.4	Rho GTPase activating protein 1 	2229	1	0	1	0	0	hsa-miR-3615				-0.16	-0.16	N/A
+LRCH3	ENST00000438796.2	leucine-rich repeats and calponin homology (CH) domain containing 3 	399	1	0	1	0	0	hsa-miR-3615				-0.16	-0.16	N/A
+CYB561	ENST00000584031.1	cytochrome b561 	10	1	0	0	1	0	hsa-miR-3615				-0.16	-0.16	N/A
+RPTOR	ENST00000306801.3	regulatory associated protein of MTOR, complex 1 	190	1	0	0	1	1	hsa-miR-3615				-0.16	-0.16	N/A
+SEPT3	ENST00000396425.3	septin 3 	241	1	0	0	1	0	hsa-miR-3615				-0.16	-0.16	N/A
+ENC1	ENST00000302351.4	ectodermal-neural cortex 1 (with BTB domain) 	57	1	0	1	0	0	hsa-miR-3615				-0.16	-0.16	N/A
+KIAA0930	ENST00000336156.5	KIAA0930 	1107	1	0	1	0	1	hsa-miR-3615				-0.16	-0.17	N/A
+C10orf105	ENST00000441508.2	chromosome 10 open reading frame 105 	5	1	0	0	1	0	hsa-miR-3615				-0.16	-0.16	N/A
+EPB42	ENST00000300215.3	erythrocyte membrane protein band 4.2 	5	1	0	1	0	0	hsa-miR-3615				-0.16	-0.16	N/A
+AKAP2	ENST00000374525.1	A kinase (PRKA) anchor protein 2 	1287	1	0	0	1	0	hsa-miR-3615				-0.16	-0.16	N/A
+BRF1	ENST00000392557.4	BRF1, RNA polymerase III transcription initiation factor 90 kDa subunit 	199	1	0	1	0	0	hsa-miR-3615				-0.15	-0.15	N/A
+CHFR	ENST00000315585.7	checkpoint with forkhead and ring finger domains, E3 ubiquitin protein ligase 	168	1	0	1	0	0	hsa-miR-3615				-0.15	-0.15	N/A
+VPS18	ENST00000220509.5	vacuolar protein sorting 18 homolog (S. cerevisiae) 	295	1	0	0	1	0	hsa-miR-3615				-0.15	-0.16	N/A
+HCN2	ENST00000251287.2	hyperpolarization activated cyclic nucleotide-gated potassium channel 2 	10	1	0	1	0	0	hsa-miR-3615				-0.15	-0.15	N/A
+COL20A1	ENST00000422202.1	collagen, type XX, alpha 1 	5	1	0	1	0	0	hsa-miR-3615				-0.15	-0.15	N/A
+PALM2-AKAP2	ENST00000374530.3	PALM2-AKAP2 readthrough 	1287	1	0	0	1	0	hsa-miR-3615				-0.15	-0.15	N/A
+TOR1B	ENST00000259339.2	torsin family 1, member B (torsin B) 	222	1	0	0	1	1	hsa-miR-3615				-0.15	-0.24	N/A
+LDLRAD2	ENST00000344642.2	low density lipoprotein receptor class A domain containing 2 	5	1	0	0	1	0	hsa-miR-3615				-0.15	-0.15	N/A
+MYBL1	ENST00000522677.3	v-myb avian myeloblastosis viral oncogene homolog-like 1 	53	1	0	0	1	0	hsa-miR-3615				-0.15	-0.15	N/A
+ZFHX2	ENST00000419474.3	zinc finger homeobox 2 	7	1	0	0	1	0	hsa-miR-3615				-0.15	-0.15	N/A
+ANKRD63	ENST00000434396.1	ankyrin repeat domain 63 	5	1	0	1	0	1	hsa-miR-3615				-0.15	-0.15	N/A
+B4GALT4	ENST00000467604.1	UDP-Gal:betaGlcNAc beta 1,4- galactosyltransferase, polypeptide 4 	196	1	0	1	0	1	hsa-miR-3615				-0.15	-0.15	N/A
+DLX3	ENST00000434704.2	distal-less homeobox 3 	5	1	0	1	0	0	hsa-miR-3615				-0.15	-0.15	N/A
+AKAP10	ENST00000225737.6	A kinase (PRKA) anchor protein 10 	700	1	0	1	0	0	hsa-miR-3615				-0.15	-0.15	N/A
+SLC12A5	ENST00000243964.3	solute carrier family 12 (potassium/chloride transporter), member 5 	5	1	0	1	0	0	hsa-miR-3615				-0.15	-0.15	N/A
+AC140061.12	ENST00000598429.1	Uncharacterized protein  	11	1	0	0	1	0	hsa-miR-3615				-0.15	-0.15	N/A
+PRDM2	ENST00000235372.7	PR domain containing 2, with ZNF domain 	29	1	0	0	1	0	hsa-miR-3615				-0.15	-0.15	N/A
+NT5E	ENST00000369651.3	5'-nucleotidase, ecto (CD73) 	285	1	0	0	1	0	hsa-miR-3615				-0.15	-0.23	N/A
+CCNB1IP1	ENST00000398160.2	cyclin B1 interacting protein 1, E3 ubiquitin protein ligase 	20	1	0	1	0	1	hsa-miR-3615				-0.15	-0.29	N/A
+LYST	ENST00000389794.3	lysosomal trafficking regulator 	9	1	0	0	1	0	hsa-miR-3615				-0.15	-0.15	N/A
+FAM83F	ENST00000333407.6	family with sequence similarity 83, member F 	5	1	0	0	1	1	hsa-miR-3615				-0.15	-0.15	N/A
+TBC1D1	ENST00000261439.4	TBC1 (tre-2/USP6, BUB2, cdc16) domain family, member 1 	150	1	0	1	0	1	hsa-miR-3615				-0.15	-0.21	N/A
+PI4K2A	ENST00000370649.3	Phosphatidylinositol 4-kinase type 2-alpha; Uncharacterized protein  	1489	1	0	0	1	1	hsa-miR-3615				-0.15	-0.15	N/A
+SV2B	ENST00000394232.1	synaptic vesicle glycoprotein 2B 	7	1	0	0	1	0	hsa-miR-3615				-0.15	-0.15	N/A
+ITPRIP	ENST00000337478.1	inositol 1,4,5-trisphosphate receptor interacting protein 	1138	1	0	1	0	0	hsa-miR-3615				-0.15	-0.15	N/A
+ZNF225	ENST00000592780.1	zinc finger protein 225 	100	1	0	0	1	0	hsa-miR-3615				-0.15	-0.15	N/A
+DDX19A	ENST00000302243.7	DEAD (Asp-Glu-Ala-Asp) box polypeptide 19A 	148	1	0	1	0	0	hsa-miR-3615				-0.15	-0.19	N/A
+SPAG9	ENST00000262013.7	sperm associated antigen 9 	509	1	0	1	0	0	hsa-miR-3615				-0.15	-0.15	N/A
+TRAF3IP1	ENST00000373327.4	TNF receptor-associated factor 3 interacting protein 1 	105	1	1	0	0	0	hsa-miR-3615				-0.15	-0.40	N/A
+CACNG8	ENST00000270458.2	calcium channel, voltage-dependent, gamma subunit 8 	5	1	0	0	1	0	hsa-miR-3615				-0.14	-0.14	N/A
+SH3RF3	ENST00000309415.6	SH3 domain containing ring finger 3 	15	1	0	0	1	0	hsa-miR-3615				-0.14	-0.14	N/A
+SALL4	ENST00000217086.4	sal-like 4 (Drosophila) 	155	1	0	1	0	0	hsa-miR-3615				-0.14	-0.15	N/A
+PLCXD1	ENST00000381657.2	phosphatidylinositol-specific phospholipase C, X domain containing 1 	5	1	0	0	1	0	hsa-miR-3615				-0.14	-0.14	N/A
+ZDHHC1	ENST00000348579.2	zinc finger, DHHC-type containing 1 	9	1	0	1	0	0	hsa-miR-3615				-0.14	-0.14	N/A
+SORD	ENST00000267814.9	sorbitol dehydrogenase 	5	1	0	0	1	0	hsa-miR-3615				-0.14	-0.14	N/A
+TIMM50	ENST00000599794.1	translocase of inner mitochondrial membrane 50 homolog (S. cerevisiae) 	2210	1	0	1	0	0	hsa-miR-3615				-0.14	-0.32	N/A
+CSMD2	ENST00000373381.4	CUB and Sushi multiple domains 2 	5	1	0	1	0	0	hsa-miR-3615				-0.14	-0.14	N/A
+CBL	ENST00000264033.4	Cbl proto-oncogene, E3 ubiquitin protein ligase 	309	1	0	1	0	0	hsa-miR-3615				-0.14	-0.14	N/A
+FBXL18	ENST00000382368.3	F-box and leucine-rich repeat protein 18 	92	1	0	0	1	0	hsa-miR-3615				-0.14	-0.14	N/A
+BICC1	ENST00000373886.3	bicaudal C homolog 1 (Drosophila) 	165	1	0	0	1	0	hsa-miR-3615				-0.14	-0.17	N/A
+ZNF496	ENST00000294753.4	zinc finger protein 496 	391	1	0	1	0	0	hsa-miR-3615				-0.14	-0.15	N/A
+APBB2	ENST00000295974.8	amyloid beta (A4) precursor protein-binding, family B, member 2 	704	1	0	1	0	0	hsa-miR-3615				-0.14	-0.15	N/A
+NDOR1	ENST00000427047.2	NADPH dependent diflavin oxidoreductase 1 	1044	2	0	1	1	0	hsa-miR-3615				-0.14	-0.16	N/A
+KIF6	ENST00000287152.7	kinesin family member 6 	12	1	0	1	0	0	hsa-miR-3615				-0.14	-0.14	N/A
+SH3PXD2A	ENST00000369774.4	SH3 and PX domains 2A 	152	2	0	1	1	1	hsa-miR-3615				-0.14	-0.14	N/A
+TLX2	ENST00000233638.7	T-cell leukemia homeobox 2 	5	1	0	1	0	1	hsa-miR-3615				-0.14	-0.14	N/A
+SYT5	ENST00000590851.1	synaptotagmin V 	5	1	0	0	1	0	hsa-miR-3615				-0.14	-0.14	N/A
+TMEM57	ENST00000399766.3	transmembrane protein 57 	459	1	0	0	1	0	hsa-miR-3615				-0.14	-0.19	N/A
+ZNF592	ENST00000299927.3	zinc finger protein 592 	1128	1	0	1	0	0	hsa-miR-3615				-0.14	-0.19	N/A
+PIK3R1	ENST00000521381.1	phosphoinositide-3-kinase, regulatory subunit 1 (alpha) 	217	1	0	0	1	1	hsa-miR-3615				-0.14	-0.15	N/A
+SRCIN1	ENST00000264659.7	SRC kinase signaling inhibitor 1 	5	1	0	1	0	1	hsa-miR-3615				-0.14	-0.14	N/A
+HAPLN1	ENST00000274341.4	hyaluronan and proteoglycan link protein 1 	5	1	0	0	1	0	hsa-miR-3615				-0.14	-0.14	N/A
+HMHA1	ENST00000313093.2	histocompatibility (minor) HA-1 	35	1	0	1	0	0	hsa-miR-3615				-0.14	-0.14	N/A
+NUP62	ENST00000422090.2	nucleoporin 62kDa 	3929	1	0	1	0	0	hsa-miR-3615				-0.14	-0.14	N/A
+NR6A1	ENST00000487099.2	nuclear receptor subfamily 6, group A, member 1 	1082	1	0	1	0	0	hsa-miR-3615				-0.14	-0.14	N/A
+MTMR3	ENST00000333027.3	myotubularin related protein 3 	123	1	0	1	0	0	hsa-miR-3615				-0.14	-0.14	N/A
+WNT9A	ENST00000272164.5	wingless-type MMTV integration site family, member 9A 	73	1	0	1	0	0	hsa-miR-3615				-0.14	-0.14	N/A
+GPR135	ENST00000395116.1	G protein-coupled receptor 135 	40	1	0	1	0	0	hsa-miR-3615				-0.14	-0.19	N/A
+ULBP3	ENST00000367339.2	UL16 binding protein 3 	64	1	0	0	1	0	hsa-miR-3615				-0.14	-0.23	N/A
+ZNF208	ENST00000397126.4	zinc finger protein 208 	0	1	0	0	1	0	hsa-miR-3615				-0.14	-0.14	N/A
+SIN3B	ENST00000379803.1	SIN3 transcription regulator family member B 	1084	1	0	1	0	0	hsa-miR-3615				-0.14	-0.14	N/A
+KHSRP	ENST00000398148.3	KH-type splicing regulatory protein 	4469	1	0	0	1	0	hsa-miR-3615				-0.14	-0.14	N/A
+MYO16	ENST00000356711.2	myosin XVI 	7	1	0	0	1	0	hsa-miR-3615				-0.14	-0.14	N/A
+ATP8B1	ENST00000283684.4	ATPase, aminophospholipid transporter, class I, type 8B, member 1 	497	1	0	0	1	0	hsa-miR-3615				-0.14	-0.16	N/A
+COL26A1	ENST00000313669.7	collagen, type XXVI, alpha 1 	223	1	0	0	1	0	hsa-miR-3615				-0.14	-0.14	N/A
+TTYH2	ENST00000269346.4	tweety family member 2 	16	1	0	1	0	0	hsa-miR-3615				-0.13	-0.16	N/A
+KAZALD1	ENST00000370200.5	Kazal-type serine peptidase inhibitor domain 1 	186	1	1	0	0	0	hsa-miR-3615				-0.13	-0.37	N/A
+DTX2	ENST00000413936.2	deltex homolog 2 (Drosophila) 	76	1	0	1	0	0	hsa-miR-3615				-0.13	-0.13	N/A
+IMPG1	ENST00000369963.3	interphotoreceptor matrix proteoglycan 1 	5	1	0	1	0	0	hsa-miR-3615				-0.13	-0.13	N/A
+SLC27A1	ENST00000252595.7	solute carrier family 27 (fatty acid transporter), member 1 	33	1	0	1	0	0	hsa-miR-3615				-0.13	-0.13	N/A
+PRX	ENST00000291825.7	periaxin 	17	1	0	1	0	0	hsa-miR-3615				-0.13	-0.13	N/A
+GNAL	ENST00000334049.6	guanine nucleotide binding protein (G protein), alpha activating activity polypeptide, olfactory type 	99	1	0	0	1	1	hsa-miR-3615				-0.13	-0.14	N/A
+MPP7	ENST00000375732.1	membrane protein, palmitoylated 7 (MAGUK p55 subfamily member 7) 	50	1	0	1	0	0	hsa-miR-3615				-0.13	-0.22	N/A
+RNF112	ENST00000461366.1	ring finger protein 112 	27	1	0	0	1	0	hsa-miR-3615				-0.13	-0.13	N/A
+PDPK1	ENST00000441549.3	3-phosphoinositide dependent protein kinase-1 	104	1	0	0	1	1	hsa-miR-3615				-0.13	-0.14	N/A
+PROCA1	ENST00000301039.2	protein interacting with cyclin A1 	54	1	0	0	1	0	hsa-miR-3615				-0.13	-0.21	N/A
+SDC1	ENST00000254351.4	syndecan 1 	3152	1	0	1	0	0	hsa-miR-3615				-0.13	-0.22	N/A
+TSNARE1	ENST00000519651.1	t-SNARE domain containing 1 	11	1	0	1	0	1	hsa-miR-3615				-0.13	-0.23	N/A
+DRAXIN	ENST00000294485.5	dorsal inhibitory axon guidance protein 	5	1	0	1	0	0	hsa-miR-3615				-0.13	-0.13	N/A
+RIC3	ENST00000396677.2	RIC3 acetylcholine receptor chaperone 	5	1	0	0	1	0	hsa-miR-3615				-0.13	-0.13	N/A
+TTC31	ENST00000410003.1	tetratricopeptide repeat domain 31 	132	1	0	1	0	0	hsa-miR-3615				-0.13	-0.13	N/A
+VPS13B	ENST00000395996.1	vacuolar protein sorting 13 homolog B (yeast) 	262	2	1	1	0	0	hsa-miR-3615				-0.13	-0.13	N/A
+SNX21	ENST00000462307.1	sorting nexin family member 21 	343	1	0	1	0	0	hsa-miR-3615				-0.13	-0.18	N/A
+CRISPLD2	ENST00000262424.5	cysteine-rich secretory protein LCCL domain containing 2 	397	1	0	0	1	0	hsa-miR-3615				-0.13	-0.13	N/A
+ZSWIM4	ENST00000254323.2	zinc finger, SWIM-type containing 4 	13	1	0	0	1	0	hsa-miR-3615				-0.13	-0.13	N/A
+SNX8	ENST00000222990.3	sorting nexin 8 	303	1	0	0	1	0	hsa-miR-3615				-0.13	-0.14	N/A
+PREX1	ENST00000396220.1	phosphatidylinositol-3,4,5-trisphosphate-dependent Rac exchange factor 1 	14	1	0	1	0	0	hsa-miR-3615				-0.13	-0.13	N/A
+ATP9A	ENST00000311637.5	ATPase, class II, type 9A 	1511	1	0	0	1	0	hsa-miR-3615				-0.13	-0.14	N/A
+PAQR6	ENST00000292291.5	progestin and adipoQ receptor family member VI 	8	1	0	1	0	0	hsa-miR-3615				-0.12	-0.12	N/A
+C15orf41	ENST00000567389.1	chromosome 15 open reading frame 41 	48	1	0	1	0	0	hsa-miR-3615				-0.12	-0.12	N/A
+KCTD2	ENST00000322444.6	potassium channel tetramerization domain containing 2 	3328	1	0	1	0	0	hsa-miR-3615				-0.12	-0.12	N/A
+PPM1F	ENST00000263212.5	protein phosphatase, Mg2+/Mn2+ dependent, 1F 	786	1	0	1	0	1	hsa-miR-3615				-0.12	-0.18	N/A
+WNT4	ENST00000290167.6	wingless-type MMTV integration site family, member 4 	5	1	0	0	1	1	hsa-miR-3615				-0.12	-0.12	N/A
+SCN3B	ENST00000392770.2	sodium channel, voltage-gated, type III, beta subunit 	10	1	0	0	1	0	hsa-miR-3615				-0.12	-0.12	N/A
+SALL3	ENST00000575389.2	sal-like 3 (Drosophila) 	64	1	0	1	0	0	hsa-miR-3615				-0.12	-0.12	N/A
+CYP21A2	ENST00000418967.2	cytochrome P450, family 21, subfamily A, polypeptide 2 	5	1	0	0	1	0	hsa-miR-3615				-0.12	-0.12	N/A
+FBXL16	ENST00000397621.1	F-box and leucine-rich repeat protein 16 	5	1	0	1	0	0	hsa-miR-3615				-0.12	-0.12	N/A
+H2AFX	ENST00000530167.1	H2A histone family, member X 	1339	1	0	1	0	0	hsa-miR-3615				-0.12	-0.12	N/A
+PPP1R12B	ENST00000608999.1	protein phosphatase 1, regulatory subunit 12B 	18	1	0	0	1	0	hsa-miR-3615				-0.12	-0.12	N/A
+KLF16	ENST00000250916.4	Kruppel-like factor 16 	5	1	0	1	0	0	hsa-miR-3615				-0.12	-0.12	N/A
+NAV2	ENST00000360655.4	neuron navigator 2 	337	1	0	1	0	0	hsa-miR-3615				-0.12	-0.13	N/A
+PKP1	ENST00000367324.3	plakophilin 1 (ectodermal dysplasia/skin fragility syndrome) 	12	1	0	1	0	0	hsa-miR-3615				-0.12	-0.12	N/A
+FLJ00104	ENST00000446344.1	HCG1980662; Uncharacterized protein  	60	1	0	0	1	0	hsa-miR-3615				-0.12	-0.12	N/A
+IPPK	ENST00000287996.3	inositol 1,3,4,5,6-pentakisphosphate 2-kinase 	211	1	0	1	0	0	hsa-miR-3615				-0.12	-0.13	N/A
+CD2BP2	ENST00000305596.3	CD2 (cytoplasmic tail) binding protein 2 	222	1	1	0	0	0	hsa-miR-3615				-0.12	-0.28	N/A
+NPLOC4	ENST00000572760.1	nuclear protein localization 4 homolog (S. cerevisiae) 	1360	1	0	1	0	0	hsa-miR-3615				-0.12	-0.14	N/A
+FAM96A	ENST00000557835.1	family with sequence similarity 96, member A 	191	1	0	0	1	0	hsa-miR-3615				-0.12	-0.12	N/A
+KIAA1147	ENST00000536163.1	KIAA1147 	73	1	0	0	1	0	hsa-miR-3615				-0.12	-0.18	N/A
+APOL6	ENST00000409652.4	apolipoprotein L, 6 	5	1	0	0	1	0	hsa-miR-3615				-0.12	-0.12	N/A
+ETV3	ENST00000368192.4	ets variant 3 	37	1	0	0	1	0	hsa-miR-3615				-0.12	-0.12	N/A
+MFRP	ENST00000555262.1	membrane frizzled-related protein 	5	1	0	1	0	1	hsa-miR-3615				-0.12	-0.12	N/A
+FAT2	ENST00000261800.5	FAT atypical cadherin 2 	5	1	0	0	1	2	hsa-miR-3615				-0.12	-0.12	N/A
+ERAP1	ENST00000443439.2	endoplasmic reticulum aminopeptidase 1 	133	1	0	1	0	0	hsa-miR-3615				-0.12	-0.12	N/A
+ARL8B	ENST00000419534.2	ADP-ribosylation factor-like 8B 	664	1	0	1	0	0	hsa-miR-3615				-0.11	-0.27	N/A
+TERT	ENST00000296820.5	telomerase reverse transcriptase 	10	1	0	1	0	0	hsa-miR-3615				-0.11	-0.11	N/A
+STK35	ENST00000381482.3	serine/threonine kinase 35 	263	1	0	1	0	0	hsa-miR-3615				-0.11	-0.12	N/A
+FOXD3	ENST00000371116.2	forkhead box D3 	7	2	1	1	0	0	hsa-miR-3615				-0.11	-0.57	N/A
+KCNE1	ENST00000399289.3	potassium voltage-gated channel, Isk-related family, member 1 	5	1	0	1	0	0	hsa-miR-3615				-0.11	-0.11	N/A
+PPARA	ENST00000396000.2	peroxisome proliferator-activated receptor alpha 	82	1	0	0	1	1	hsa-miR-3615				-0.11	-0.13	N/A
+ATXN7L3	ENST00000454077.2	ataxin 7-like 3 	43	1	0	1	0	0	hsa-miR-3615				-0.11	-0.12	N/A
+TAOK1	ENST00000261716.3	TAO kinase 1 	164	1	0	0	1	0	hsa-miR-3615				-0.11	-0.11	N/A
+NKX6-1	ENST00000515820.2	NK6 homeobox 1 	9	1	0	1	0	0	hsa-miR-3615				-0.11	-0.11	N/A
+GINS2	ENST00000253462.3	GINS complex subunit 2 (Psf2 homolog) 	136	1	0	1	0	1	hsa-miR-3615				-0.11	-0.22	N/A
+VN1R1	ENST00000321039.3	vomeronasal 1 receptor 1 	12	1	0	0	1	0	hsa-miR-3615				-0.11	-0.19	N/A
+NF2	ENST00000347330.5	neurofibromin 2 (merlin) 	828	1	0	1	0	0	hsa-miR-3615				-0.11	-0.13	N/A
+RNF165	ENST00000269439.7	ring finger protein 165 	18	1	1	0	0	0	hsa-miR-3615				-0.11	-0.11	N/A
+TRAF3IP2	ENST00000368761.5	TRAF3 interacting protein 2 	44	1	0	1	0	0	hsa-miR-3615				-0.11	-0.11	N/A
+SLC44A2	ENST00000586078.1	solute carrier family 44 (choline transporter), member 2 	720	1	0	1	0	0	hsa-miR-3615				-0.11	-0.11	N/A
+RAP1GAP	ENST00000290101.4	RAP1 GTPase activating protein 	396	1	0	1	0	0	hsa-miR-3615				-0.11	-0.11	N/A
+CD84	ENST00000534968.1	CD84 molecule 	5	1	0	0	1	0	hsa-miR-3615				-0.11	-0.11	N/A
+INO80	ENST00000361937.3	INO80 complex subunit 	279	1	0	0	1	0	hsa-miR-3615				-0.11	-0.11	N/A
+TRPV3	ENST00000301365.4	transient receptor potential cation channel, subfamily V, member 3 	13	1	0	1	0	0	hsa-miR-3615				-0.11	-0.18	N/A
+MOCOS	ENST00000261326.5	molybdenum cofactor sulfurase 	627	1	0	1	0	0	hsa-miR-3615				-0.11	-0.11	N/A
+NCR3LG1	ENST00000338965.4	natural killer cell cytotoxicity receptor 3 ligand 1 	214	1	0	0	1	0	hsa-miR-3615				-0.11	-0.11	N/A
+ZYG11B	ENST00000294353.6	zyg-11 family member B, cell cycle regulator 	975	1	0	0	1	0	hsa-miR-3615				-0.11	-0.11	N/A
+C19orf26	ENST00000590083.1	chromosome 19 open reading frame 26 	24	1	0	0	1	0	hsa-miR-3615				-0.11	-0.11	N/A
+UBAC1	ENST00000371756.3	UBA domain containing 1 	52	1	0	1	0	0	hsa-miR-3615				-0.11	-0.17	N/A
+GNL3L	ENST00000336470.4	guanine nucleotide binding protein-like 3 (nucleolar)-like 	151	1	0	0	1	0	hsa-miR-3615				-0.11	-0.12	N/A
+HDLBP	ENST00000391975.1	high density lipoprotein binding protein 	1755	1	1	0	0	1	hsa-miR-3615				-0.11	-0.27	N/A
+ST6GALNAC4	ENST00000335791.5	ST6 (alpha-N-acetyl-neuraminyl-2,3-beta-galactosyl-1,3)-N-acetylgalactosaminide alpha-2,6-sialyltransferase 4 	178	1	0	1	0	0	hsa-miR-3615				-0.11	-0.11	N/A
+HECW1	ENST00000395891.2	HECT, C2 and WW domain containing E3 ubiquitin protein ligase 1 	11	1	1	0	0	0	hsa-miR-3615				-0.11	-0.25	N/A
+LINC00346	ENST00000538077.1	long intergenic non-protein coding RNA 346 	26	1	0	1	0	1	hsa-miR-3615				-0.11	-0.18	N/A
+IFITM10	ENST00000340134.4	interferon induced transmembrane protein 10 	7	1	0	0	1	0	hsa-miR-3615				-0.11	-0.14	N/A
+KDM4B	ENST00000159111.4	lysine (K)-specific demethylase 4B 	547	1	0	1	0	0	hsa-miR-3615				-0.10	-0.10	N/A
+RPRD2	ENST00000539519.1	regulation of nuclear pre-mRNA domain containing 2 	280	1	0	0	1	0	hsa-miR-3615				-0.10	-0.10	N/A
+TSPEAR	ENST00000323084.4	thrombospondin-type laminin G domain and EAR repeats 	5	1	0	1	0	0	hsa-miR-3615				-0.10	-0.10	N/A
+METAP1D	ENST00000315796.4	methionyl aminopeptidase type 1D (mitochondrial) 	86	1	0	1	0	0	hsa-miR-3615				-0.10	-0.19	N/A
+C17orf82	ENST00000335108.2	chromosome 17 open reading frame 82 	10	1	0	1	0	0	hsa-miR-3615				-0.10	-0.22	N/A
+GPR156	ENST00000464295.1	G protein-coupled receptor 156 	12	1	0	1	0	0	hsa-miR-3615				-0.10	-0.18	N/A
+RHOBTB2	ENST00000251822.6	Rho-related BTB domain containing 2 	32	1	0	1	0	0	hsa-miR-3615				-0.10	-0.14	N/A
+LACE1	ENST00000368977.4	lactation elevated 1 	42	1	1	0	0	0	hsa-miR-3615				-0.10	-0.31	N/A
+SPRED2	ENST00000356388.4	sprouty-related, EVH1 domain containing 2 	53	1	0	0	1	0	hsa-miR-3615				-0.10	-0.11	N/A
+COL5A1	ENST00000371817.3	collagen, type V, alpha 1 	3111	1	0	1	0	0	hsa-miR-3615				-0.10	-0.10	N/A
+SFRP1	ENST00000220772.3	secreted frizzled-related protein 1 	148	2	1	0	1	0	hsa-miR-3615				-0.10	-0.32	N/A
+OXA1L	ENST00000285848.5	oxidase (cytochrome c) assembly 1-like 	317	1	0	1	0	0	hsa-miR-3615				-0.10	-0.26	N/A
+PTRF	ENST00000357037.5	polymerase I and transcript release factor 	987	1	0	1	0	0	hsa-miR-3615				-0.10	-0.10	N/A
+TRUB2	ENST00000372890.4	TruB pseudouridine (psi) synthase family member 2 	91	1	0	0	1	0	hsa-miR-3615				-0.10	-0.13	N/A
+SOX8	ENST00000293894.3	SRY (sex determining region Y)-box 8 	5	1	0	1	0	0	hsa-miR-3615				-0.10	-0.10	N/A
+ECE1	ENST00000415912.2	endothelin converting enzyme 1 	1166	1	0	1	0	1	hsa-miR-3615				-0.10	-0.10	N/A
+PRR24	ENST00000552360.2	proline rich 24 	282	1	0	1	0	1	hsa-miR-3615				-0.10	-0.26	N/A
+PDPR	ENST00000568530.1	pyruvate dehydrogenase phosphatase regulatory subunit 	69	2	1	1	0	0	hsa-miR-3615				-0.10	-0.48	N/A
+RANBP3	ENST00000439268.2	RAN binding protein 3 	908	1	1	0	0	0	hsa-miR-3615				-0.09	-0.35	N/A
+POM121C	ENST00000257665.5	POM121 transmembrane nucleoporin C 	5	1	0	1	0	0	hsa-miR-3615				-0.09	-0.09	N/A
+RIMBP2	ENST00000261655.4	RIMS binding protein 2 	7	1	0	0	1	0	hsa-miR-3615				-0.09	-0.09	N/A
+PITX1	ENST00000265340.7	paired-like homeodomain 1 	1502	1	0	1	0	0	hsa-miR-3615				-0.09	-0.09	N/A
+CDC42BPB	ENST00000361246.2	CDC42 binding protein kinase beta (DMPK-like) 	615	1	0	1	0	0	hsa-miR-3615				-0.09	-0.09	N/A
+PCDH10	ENST00000264360.5	protocadherin 10 	9	1	0	0	1	0	hsa-miR-3615				-0.09	-0.12	N/A
+MIDN	ENST00000591446.2	midnolin 	621	1	0	1	0	0	hsa-miR-3615				-0.09	-0.09	N/A
+HIP1R	ENST00000253083.4	huntingtin interacting protein 1 related 	17	1	0	1	0	0	hsa-miR-3615				-0.09	-0.09	N/A
+FAM169B	ENST00000558256.1	family with sequence similarity 169, member B 	5	1	0	1	0	0	hsa-miR-3615				-0.09	-0.09	N/A
+ABCA2	ENST00000341511.6	ATP-binding cassette, sub-family A (ABC1), member 2 	125	1	0	1	0	0	hsa-miR-3615				-0.09	-0.09	N/A
+MLK4	ENST00000366624.3	Mitogen-activated protein kinase kinase kinase MLK4  	405	1	0	1	0	0	hsa-miR-3615				-0.09	-0.10	N/A
+RNF4	ENST00000511859.1	ring finger protein 4 	33	1	0	0	1	0	hsa-miR-3615				-0.09	-0.13	N/A
+SRGAP1	ENST00000355086.3	SLIT-ROBO Rho GTPase activating protein 1 	64	1	0	0	1	0	hsa-miR-3615				-0.09	-0.14	N/A
+PTGIS	ENST00000244043.4	prostaglandin I2 (prostacyclin) synthase 	192	1	0	0	1	0	hsa-miR-3615				-0.09	-0.09	N/A
+INSIG1	ENST00000342407.5	insulin induced gene 1 	1776	2	0	0	2	0	hsa-miR-3615				-0.09	-0.40	N/A
+RNF216	ENST00000425013.2	ring finger protein 216 	649	1	0	1	0	0	hsa-miR-3615				-0.09	-0.12	N/A
+CAMK1D	ENST00000378847.3	calcium/calmodulin-dependent protein kinase ID 	258	1	0	0	1	1	hsa-miR-3615				-0.09	-0.20	N/A
+SPIB	ENST00000595883.1	Spi-B transcription factor (Spi-1/PU.1 related) 	10	1	0	0	1	0	hsa-miR-3615				-0.09	-0.17	N/A
+ERBB2	ENST00000584450.1	v-erb-b2 avian erythroblastic leukemia viral oncogene homolog 2 	511	1	0	1	0	0	hsa-miR-3615				-0.09	-0.09	N/A
+RCOR1	ENST00000262241.6	REST corepressor 1 	403	1	0	1	0	0	hsa-miR-3615				-0.09	-0.11	N/A
+ATP2A3	ENST00000309890.7	ATPase, Ca++ transporting, ubiquitous 	40	1	0	1	0	0	hsa-miR-3615				-0.09	-0.09	N/A
+DPP6	ENST00000404039.1	dipeptidyl-peptidase 6 	5	1	1	0	0	0	hsa-miR-3615				-0.09	-0.09	N/A
+C16orf54	ENST00000329410.3	chromosome 16 open reading frame 54 	5	1	0	0	1	0	hsa-miR-3615				-0.09	-0.09	N/A
+ADRBK2	ENST00000324198.6	adrenergic, beta, receptor kinase 2 	215	2	0	2	0	0	hsa-miR-3615				-0.09	-0.10	N/A
+SHANK2	ENST00000449833.2	SH3 and multiple ankyrin repeat domains 2 	26	1	0	1	0	0	hsa-miR-3615				-0.09	-0.09	N/A
+COQ7	ENST00000321998.5	coenzyme Q7 homolog, ubiquinone (yeast) 	315	1	0	1	0	0	hsa-miR-3615				-0.08	-0.25	N/A
+PGM2L1	ENST00000298198.4	phosphoglucomutase 2-like 1 	183	1	0	1	0	0	hsa-miR-3615				-0.08	-0.17	N/A
+PDE10A	ENST00000366882.1	phosphodiesterase 10A 	371	1	0	0	1	0	hsa-miR-3615				-0.08	-0.12	N/A
+CACNA1C	ENST00000399655.1	calcium channel, voltage-dependent, L type, alpha 1C subunit 	69	1	0	0	1	0	hsa-miR-3615				-0.08	-0.12	N/A
+BTBD7	ENST00000334746.5	BTB (POZ) domain containing 7 	590	1	0	1	0	0	hsa-miR-3615				-0.08	-0.10	N/A
+GPR180	ENST00000376958.4	G protein-coupled receptor 180 	161	1	1	0	0	1	hsa-miR-3615				-0.08	-0.28	N/A
+WASF2	ENST00000536657.1	WAS protein family, member 2 	311	1	0	1	0	0	hsa-miR-3615				-0.08	-0.08	N/A
+UHRF1BP1	ENST00000192788.5	UHRF1 binding protein 1 	360	1	0	0	1	0	hsa-miR-3615				-0.08	-0.11	N/A
+ZDHHC8	ENST00000334554.7	zinc finger, DHHC-type containing 8 	5	1	0	1	0	0	hsa-miR-3615				-0.08	-0.08	N/A
+CDC42BPA	ENST00000366767.3	CDC42 binding protein kinase alpha (DMPK-like) 	122	1	0	0	1	0	hsa-miR-3615				-0.08	-0.09	N/A
+CALML4	ENST00000395465.3	calmodulin-like 4 	307	1	1	0	0	0	hsa-miR-3615				-0.08	-0.40	N/A
+TIMM22	ENST00000327158.4	translocase of inner mitochondrial membrane 22 homolog (yeast) 	290	2	0	1	1	0	hsa-miR-3615				-0.08	-0.36	N/A
+ELFN2	ENST00000402918.2	extracellular leucine-rich repeat and fibronectin type III domain containing 2 	22	2	1	1	0	0	hsa-miR-3615				-0.08	-0.25	N/A
+KIAA0247	ENST00000342745.4	KIAA0247 	161	1	0	1	0	0	hsa-miR-3615				-0.08	-0.08	N/A
+TOR4A	ENST00000357503.2	torsin family 4, member A 	222	1	0	1	0	1	hsa-miR-3615				-0.08	-0.08	N/A
+ACVR1C	ENST00000243349.8	activin A receptor, type IC 	27	1	0	0	1	0	hsa-miR-3615				-0.08	-0.12	N/A
+SLC9B2	ENST00000503103.1	solute carrier family 9, subfamily B (NHA2, cation proton antiporter 2), member 2 	22	1	1	0	0	0	hsa-miR-3615				-0.08	-0.17	N/A
+CALN1	ENST00000329008.5	calneuron 1 	5	1	0	0	1	0	hsa-miR-3615				-0.08	-0.08	N/A
+ZCCHC14	ENST00000268616.4	zinc finger, CCHC domain containing 14 	64	1	0	1	0	0	hsa-miR-3615				-0.08	-0.08	N/A
+UCP2	ENST00000536983.1	uncoupling protein 2 (mitochondrial, proton carrier) 	32	1	0	1	0	0	hsa-miR-3615				-0.08	-0.08	N/A
+LOH12CR1	ENST00000314565.4	loss of heterozygosity, 12, chromosomal region 1 	135	1	0	0	1	0	hsa-miR-3615				-0.07	-0.16	N/A
+FAM168A	ENST00000064778.4	family with sequence similarity 168, member A 	68	1	0	1	0	0	hsa-miR-3615				-0.07	-0.10	N/A
+PITPNM3	ENST00000421306.3	PITPNM family member 3 	5	1	0	0	1	0	hsa-miR-3615				-0.07	-0.07	N/A
+GPR26	ENST00000284674.1	G protein-coupled receptor 26 	5	1	0	0	1	0	hsa-miR-3615				-0.07	-0.07	N/A
+SPAG16	ENST00000432529.2	sperm associated antigen 16 	107	1	0	1	0	0	hsa-miR-3615				-0.07	-0.36	N/A
+CD93	ENST00000246006.4	CD93 molecule 	5	1	0	0	1	0	hsa-miR-3615				-0.07	-0.07	N/A
+CNNM4	ENST00000540067.1	cyclin M4 	1249	1	0	1	0	0	hsa-miR-3615				-0.07	-0.07	N/A
+AL354993.1	ENST00000439873.2	Cell growth-inhibiting protein 7; HCG1784586; Uncharacterized protein  	9	1	0	0	1	0	hsa-miR-3615				-0.07	-0.17	N/A
+SSH1	ENST00000360239.3	slingshot protein phosphatase 1 	115	1	0	0	1	1	hsa-miR-3615				-0.07	-0.15	N/A
+WDR12	ENST00000261015.4	WD repeat domain 12 	444	1	0	1	0	0	hsa-miR-3615				-0.07	-0.18	N/A
+CCR5	ENST00000292303.4	chemokine (C-C motif) receptor 5 (gene/pseudogene) 	5	1	0	0	1	0	hsa-miR-3615				-0.07	-0.07	N/A
+GRIN3A	ENST00000361820.3	glutamate receptor, ionotropic, N-methyl-D-aspartate 3A 	5	1	0	0	1	0	hsa-miR-3615				-0.07	-0.07	N/A
+AP001579.1	ENST00000599569.1	Uncharacterized protein  	47	1	0	0	1	0	hsa-miR-3615				-0.07	-0.25	N/A
+ASB6	ENST00000277459.4	ankyrin repeat and SOCS box containing 6 	725	1	1	0	0	1	hsa-miR-3615				-0.07	-0.52	N/A
+RALGAPA2	ENST00000202677.7	Ral GTPase activating protein, alpha subunit 2 (catalytic) 	24	1	0	0	1	0	hsa-miR-3615				-0.07	-0.09	N/A
+LHX4	ENST00000263726.2	LIM homeobox 4 	13	1	0	1	0	0	hsa-miR-3615				-0.07	-0.15	N/A
+C11orf45	ENST00000310799.3	chromosome 11 open reading frame 45 	14	1	0	0	1	0	hsa-miR-3615				-0.07	-0.20	N/A
+C1orf95	ENST00000366788.3	chromosome 1 open reading frame 95 	28	1	1	0	0	1	hsa-miR-3615				-0.07	-0.32	N/A
+TXLNA	ENST00000373610.3	taxilin alpha 	564	1	0	0	1	0	hsa-miR-3615				-0.07	-0.07	N/A
+RP11-315D16.2	ENST00000562767.1	Uncharacterized protein  	304	1	1	0	0	0	hsa-miR-3615				-0.07	-0.38	N/A
+DAB2IP	ENST00000408936.3	DAB2 interacting protein 	1787	1	0	1	0	0	hsa-miR-3615				-0.07	-0.07	N/A
+KIAA1377	ENST00000263468.8	KIAA1377 	35	1	0	1	0	0	hsa-miR-3615				-0.07	-0.21	N/A
+KIF1A	ENST00000320389.7	kinesin family member 1A 	115	1	0	1	0	0	hsa-miR-3615				-0.07	-0.16	N/A
+POLH	ENST00000372226.1	polymerase (DNA directed), eta 	450	1	0	1	0	0	hsa-miR-3615				-0.07	-0.07	N/A
+ELMSAN1	ENST00000394071.2	ELM2 and Myb/SANT-like domain containing 1 	15	1	1	0	0	0	hsa-miR-3615				-0.07	-0.07	N/A
+HSPA4L	ENST00000296464.4	heat shock 70kDa protein 4-like 	348	1	0	0	1	0	hsa-miR-3615				-0.07	-0.17	N/A
+GALNT10	ENST00000297107.6	UDP-N-acetyl-alpha-D-galactosamine:polypeptide N-acetylgalactosaminyltransferase 10 (GalNAc-T10) 	3445	1	0	1	0	1	hsa-miR-3615				-0.07	-0.07	N/A
+GPD1	ENST00000301149.3	glycerol-3-phosphate dehydrogenase 1 (soluble) 	5	1	0	1	0	1	hsa-miR-3615				-0.07	-0.07	N/A
+ONECUT2	ENST00000491143.2	one cut homeobox 2 	847	1	0	0	1	0	hsa-miR-3615				-0.06	-0.07	N/A
+CREB3L2	ENST00000330387.6	cAMP responsive element binding protein 3-like 2 	2872	1	0	0	1	0	hsa-miR-3615				-0.06	-0.07	N/A
+NTRK2	ENST00000395882.1	neurotrophic tyrosine kinase, receptor, type 2 	48	1	0	0	1	0	hsa-miR-3615				-0.06	-0.06	N/A
+ZSWIM7	ENST00000486655.1	zinc finger, SWIM-type containing 7 	656	1	1	0	0	0	hsa-miR-3615				-0.06	-0.65	N/A
+SLC1A4	ENST00000234256.3	solute carrier family 1 (glutamate/neutral amino acid transporter), member 4 	380	1	0	1	0	0	hsa-miR-3615				-0.06	-0.19	N/A
+TET3	ENST00000409262.3	tet methylcytosine dioxygenase 3 	1437	1	0	0	1	1	hsa-miR-3615				-0.06	-0.06	N/A
+PER2	ENST00000254658.3	period circadian clock 2 	106	1	0	1	0	0	hsa-miR-3615				-0.06	-0.06	N/A
+PANX2	ENST00000159647.5	pannexin 2 	169	1	0	1	0	0	hsa-miR-3615				-0.06	-0.06	N/A
+ZMIZ1	ENST00000334512.5	zinc finger, MIZ-type containing 1 	568	1	0	1	0	0	hsa-miR-3615				-0.06	-0.06	N/A
+FRMD4A	ENST00000358621.4	FERM domain containing 4A 	192	1	0	1	0	0	hsa-miR-3615				-0.06	-0.16	N/A
+ZIC1	ENST00000282928.4	Zic family member 1 	26	1	1	0	0	0	hsa-miR-3615				-0.06	-0.35	N/A
+CHCHD4	ENST00000295767.5	coiled-coil-helix-coiled-coil-helix domain containing 4 	8	1	0	0	1	0	hsa-miR-3615				-0.06	-0.17	N/A
+TOLLIP	ENST00000317204.6	toll interacting protein 	1536	1	0	1	0	0	hsa-miR-3615				-0.06	-0.25	N/A
+TUSC5	ENST00000333813.3	tumor suppressor candidate 5 	5	1	0	1	0	0	hsa-miR-3615				-0.06	-0.06	N/A
+SLC35D1	ENST00000235345.5	solute carrier family 35 (UDP-GlcA/UDP-GalNAc transporter), member D1 	186	1	0	1	0	0	hsa-miR-3615				-0.06	-0.27	N/A
+ADAMTS14	ENST00000373208.1	ADAM metallopeptidase with thrombospondin type 1 motif, 14 	5	1	0	1	0	0	hsa-miR-3615				-0.06	-0.06	N/A
+ERN1	ENST00000433197.3	endoplasmic reticulum to nucleus signaling 1 	182	1	0	1	0	0	hsa-miR-3615				-0.06	-0.06	N/A
+MYO1A	ENST00000300119.3	myosin IA 	106	1	0	1	0	1	hsa-miR-3615				-0.06	-0.13	N/A
+LANCL3	ENST00000378621.3	LanC lantibiotic synthetase component C-like 3 (bacterial) 	15	1	0	1	0	1	hsa-miR-3615				-0.06	-0.17	N/A
+MCM8	ENST00000378896.3	minichromosome maintenance complex component 8 	85	1	0	1	0	0	hsa-miR-3615				-0.06	-0.15	N/A
+POFUT1	ENST00000375749.3	protein O-fucosyltransferase 1 	647	1	0	0	1	0	hsa-miR-3615				-0.06	-0.12	N/A
+C22orf29	ENST00000407472.1	chromosome 22 open reading frame 29 	351	1	0	1	0	0	hsa-miR-3615				-0.05	-0.17	N/A
+FER	ENST00000281092.4	fer (fps/fes related) tyrosine kinase 	665	1	0	1	0	1	hsa-miR-3615				-0.05	-0.05	N/A
+KMT2D	ENST00000301067.7	lysine (K)-specific methyltransferase 2D 	78	1	0	1	0	1	hsa-miR-3615				-0.05	-0.06	N/A
+CBS	ENST00000398158.1	cystathionine-beta-synthase 	39	1	0	1	0	0	hsa-miR-3615				-0.05	-0.12	N/A
+CELF2	ENST00000379261.4	CUGBP, Elav-like family member 2 	45	1	0	1	0	0	hsa-miR-3615				-0.05	-0.05	N/A
+CHDH	ENST00000315251.6	choline dehydrogenase 	249	2	0	1	1	0	hsa-miR-3615				-0.05	-0.24	N/A
+ZNF621	ENST00000339296.5	zinc finger protein 621 	39	1	0	0	1	0	hsa-miR-3615				-0.05	-0.06	N/A
+FOXK1	ENST00000328914.4	forkhead box K1 	368	1	0	0	1	0	hsa-miR-3615				-0.05	-0.07	N/A
+TFAP2B	ENST00000393655.3	transcription factor AP-2 beta (activating enhancer binding protein 2 beta) 	23	2	0	1	1	0	hsa-miR-3615				-0.05	-0.26	N/A
+KLB	ENST00000257408.4	klotho beta 	95	1	0	1	0	0	hsa-miR-3615				-0.05	-0.12	N/A
+RPL37	ENST00000274242.5	ribosomal protein L37 	1785	1	0	0	1	0	hsa-miR-3615				-0.05	-0.06	N/A
+NLRP1	ENST00000262467.5	NLR family, pyrin domain containing 1 	547	1	1	0	0	0	hsa-miR-3615				-0.05	-0.05	N/A
+HOOK3	ENST00000307602.4	hook microtubule-tethering protein 3 	403	1	1	0	0	0	hsa-miR-3615				-0.05	-0.22	N/A
+DNMBP	ENST00000324109.4	dynamin binding protein 	52	1	0	1	0	0	hsa-miR-3615				-0.05	-0.05	N/A
+XPO5	ENST00000265351.7	exportin 5 	933	1	0	1	0	0	hsa-miR-3615				-0.05	-0.17	N/A
+C2orf82	ENST00000409533.1	chromosome 2 open reading frame 82 	72	1	0	0	1	1	hsa-miR-3615				-0.05	-0.16	N/A
+TRPM3	ENST00000377110.3	transient receptor potential cation channel, subfamily M, member 3 	11	1	0	1	0	0	hsa-miR-3615				-0.05	-0.11	N/A
+MED7	ENST00000286317.5	mediator complex subunit 7 	356	1	0	0	1	0	hsa-miR-3615				-0.05	-0.23	N/A
+GNPNAT1	ENST00000216410.3	glucosamine-phosphate N-acetyltransferase 1 	429	1	0	0	1	0	hsa-miR-3615				-0.05	-0.09	N/A
+SKIV2L	ENST00000375394.2	superkiller viralicidic activity 2-like (S. cerevisiae) 	91	1	0	0	1	0	hsa-miR-3615				-0.05	-0.30	N/A
+CARHSP1	ENST00000396593.2	calcium regulated heat stable protein 1, 24kDa 	113	1	0	1	0	1	hsa-miR-3615				-0.05	-0.23	N/A
+RP11-383H13.1	ENST00000521467.1	Protein LOC100132891; cDNA FLJ53548  	26	1	0	0	1	0	hsa-miR-3615				-0.05	-0.12	N/A
+GDAP1L1	ENST00000342560.5	ganglioside induced differentiation associated protein 1-like 1 	28	1	0	0	1	0	hsa-miR-3615				-0.05	-0.28	N/A
+GDF5OS	ENST00000374375.1	growth differentiation factor 5 opposite strand 	122	1	1	0	0	0	hsa-miR-3615				-0.05	-0.38	N/A
+NOL10	ENST00000345985.3	nucleolar protein 10 	106	1	0	1	0	0	hsa-miR-3615				-0.05	-0.14	N/A
+MUM1	ENST00000415183.3	melanoma associated antigen (mutated) 1 	415	1	0	1	0	0	hsa-miR-3615				-0.05	-0.16	N/A
+LSAMP	ENST00000490035.2	limbic system-associated membrane protein 	19	1	1	0	0	0	hsa-miR-3615				-0.05	-0.18	N/A
+CXCR5	ENST00000292174.4	chemokine (C-X-C motif) receptor 5 	5	1	0	1	0	0	hsa-miR-3615				-0.04	-0.04	N/A
+PLEKHM3	ENST00000427836.2	pleckstrin homology domain containing, family M, member 3 	11	1	0	1	0	0	hsa-miR-3615				-0.04	-0.08	N/A
+SDHAF2	ENST00000543265.1	succinate dehydrogenase complex assembly factor 2 	545	1	0	0	1	1	hsa-miR-3615				-0.04	-0.23	N/A
+CA12	ENST00000178638.3	carbonic anhydrase XII 	42	1	1	0	0	0	hsa-miR-3615				-0.04	-0.42	N/A
+NAT10	ENST00000257829.3	N-acetyltransferase 10 (GCN5-related) 	132	1	0	1	0	1	hsa-miR-3615				-0.04	-0.06	N/A
+PCDHB16	ENST00000361016.2	protocadherin beta 16 	36	1	1	0	0	0	hsa-miR-3615				-0.04	-0.28	N/A
+YY1	ENST00000262238.4	YY1 transcription factor 	1803	1	0	1	0	0	hsa-miR-3615				-0.04	-0.07	N/A
+SORL1	ENST00000260197.7	sortilin-related receptor, L(DLR class) A repeats containing 	40	1	0	0	1	0	hsa-miR-3615				-0.04	-0.06	N/A
+NRDE2	ENST00000354366.3	NRDE-2, necessary for RNA interference, domain containing 	30	1	0	1	0	1	hsa-miR-3615				-0.04	-0.27	N/A
+GRAMD4	ENST00000361034.3	GRAM domain containing 4 	403	1	0	1	0	0	hsa-miR-3615				-0.04	-0.04	N/A
+KIAA0232	ENST00000425103.1	KIAA0232 	119	1	0	1	0	1	hsa-miR-3615				-0.04	-0.05	N/A
+CSNK1D	ENST00000392334.2	casein kinase 1, delta 	1799	1	0	1	0	0	hsa-miR-3615				-0.04	-0.20	N/A
+FMNL3	ENST00000335154.5	formin-like 3 	132	2	0	0	2	0	hsa-miR-3615				-0.04	-0.16	N/A
+LHFPL4	ENST00000287585.6	lipoma HMGIC fusion partner-like 4 	6	2	0	1	1	0	hsa-miR-3615				-0.04	-0.34	N/A
+PKIA	ENST00000396418.2	protein kinase (cAMP-dependent, catalytic) inhibitor alpha 	542	1	0	1	0	0	hsa-miR-3615				-0.04	-0.34	N/A
+TNRC6B	ENST00000335727.9	trinucleotide repeat containing 6B 	69	1	0	0	1	0	hsa-miR-3615				-0.04	-0.05	N/A
+SRM	ENST00000376957.2	spermidine synthase 	46	2	1	1	0	0	hsa-miR-3615				-0.04	-0.43	N/A
+SZT2	ENST00000562955.1	seizure threshold 2 homolog (mouse) 	123	1	0	0	1	0	hsa-miR-3615				-0.04	-0.06	N/A
+BMPR2	ENST00000374574.2	bone morphogenetic protein receptor, type II (serine/threonine kinase) 	287	1	0	1	0	1	hsa-miR-3615				-0.04	-0.17	N/A
+VWDE	ENST00000275358.3	von Willebrand factor D and EGF domains 	9	1	0	0	1	0	hsa-miR-3615				-0.04	-0.09	N/A
+ERCC2	ENST00000391945.4	excision repair cross-complementing rodent repair deficiency, complementation group 2 	2075	1	0	1	0	0	hsa-miR-3615				-0.04	-0.10	N/A
+ZNF704	ENST00000327835.3	zinc finger protein 704 	124	1	0	1	0	0	hsa-miR-3615				-0.04	-0.09	N/A
+OSBPL8	ENST00000393249.2	oxysterol binding protein-like 8 	141	1	0	0	1	0	hsa-miR-3615				-0.04	-0.20	N/A
+MECP2	ENST00000303391.6	methyl CpG binding protein 2 (Rett syndrome) 	1474	1	0	1	0	1	hsa-miR-3615				-0.04	-0.20	N/A
+TRAF7	ENST00000326181.6	TNF receptor-associated factor 7, E3 ubiquitin protein ligase 	1505	1	0	1	0	0	hsa-miR-3615				-0.04	-0.16	N/A
+BLCAP	ENST00000397137.1	bladder cancer associated protein 	38	1	0	1	0	0	hsa-miR-3615				-0.03	-0.29	N/A
+ANKRD33B	ENST00000296657.5	ankyrin repeat domain 33B 	9	1	0	1	0	1	hsa-miR-3615				-0.03	-0.08	N/A
+F10	ENST00000375551.3	coagulation factor X 	208	4	0	4	0	0	hsa-miR-3615				-0.03	-0.62	N/A
+NPR1	ENST00000368680.3	natriuretic peptide receptor A/guanylate cyclase A (atrionatriuretic peptide receptor A) 	30	1	0	1	0	0	hsa-miR-3615				-0.03	-0.16	N/A
+DHODH	ENST00000219240.4	dihydroorotate dehydrogenase (quinone) 	152	1	0	0	1	0	hsa-miR-3615				-0.03	-0.13	N/A
+GATAD2A	ENST00000360315.3	GATA zinc finger domain containing 2A 	986	1	0	1	0	0	hsa-miR-3615				-0.03	-0.07	N/A
+UQCC2	ENST00000607484.1	ubiquinol-cytochrome c reductase complex assembly factor 2 	339	1	1	0	0	0	hsa-miR-3615				-0.03	-0.52	N/A
+WIZ	ENST00000389282.4	widely interspaced zinc finger motifs 	1321	1	0	1	0	0	hsa-miR-3615				-0.03	-0.03	N/A
+AJAP1	ENST00000378191.4	adherens junctions associated protein 1 	5	1	0	1	0	0	hsa-miR-3615				-0.03	-0.03	N/A
+HS1BP3	ENST00000304031.3	HCLS1 binding protein 3 	191	1	0	1	0	1	hsa-miR-3615				-0.03	-0.17	N/A
+KIAA1614	ENST00000367588.4	KIAA1614 	5	1	1	0	0	0	hsa-miR-3615				-0.03	-0.03	N/A
+C3orf36	ENST00000408895.2	chromosome 3 open reading frame 36 	8	1	0	1	0	0	hsa-miR-3615				-0.03	-0.08	N/A
+STAM2	ENST00000263904.4	signal transducing adaptor molecule (SH3 domain and ITAM motif) 2 	296	1	0	0	1	0	hsa-miR-3615				-0.03	-0.19	N/A
+RBM33	ENST00000341148.3	RNA binding motif protein 33 	444	1	0	0	1	0	hsa-miR-3615				-0.03	-0.12	N/A
+LAD1	ENST00000391967.2	ladinin 1 	89	1	0	1	0	0	hsa-miR-3615				-0.03	-0.16	N/A
+FAM210A	ENST00000322247.3	family with sequence similarity 210, member A 	222	1	0	0	1	0	hsa-miR-3615				-0.03	-0.15	N/A
+CEP41	ENST00000223208.5	centrosomal protein 41kDa 	346	1	0	0	1	0	hsa-miR-3615				-0.03	-0.15	N/A
+BCAS2	ENST00000369541.3	breast carcinoma amplified sequence 2 	159	1	0	0	1	1	hsa-miR-3615				-0.03	-0.25	N/A
+H2AFJ	ENST00000544848.1	H2A histone family, member J 	482	1	0	0	1	0	hsa-miR-3615				-0.03	-0.24	N/A
+CYLD	ENST00000540145.1	cylindromatosis (turban tumor syndrome) 	696	1	0	0	1	0	hsa-miR-3615				-0.03	-0.10	N/A
+TSHZ2	ENST00000371497.5	teashirt zinc finger homeobox 2 	351	1	0	0	1	0	hsa-miR-3615				-0.03	-0.03	N/A
+PELP1	ENST00000574876.1	proline, glutamate and leucine rich protein 1 	266	1	1	0	0	0	hsa-miR-3615				-0.03	-0.38	N/A
+ENY2	ENST00000520147.1	enhancer of yellow 2 homolog (Drosophila) 	1814	1	0	0	1	0	hsa-miR-3615				-0.03	-0.20	N/A
+SRGAP3	ENST00000383836.3	SLIT-ROBO Rho GTPase activating protein 3 	38	1	1	0	0	0	hsa-miR-3615				-0.03	-0.14	N/A
+REPS2	ENST00000357277.3	RALBP1 associated Eps domain containing 2 	36	1	0	1	0	0	hsa-miR-3615				-0.03	-0.17	N/A
+PSMG1	ENST00000331573.3	proteasome (prosome, macropain) assembly chaperone 1 	31	1	0	0	1	0	hsa-miR-3615				-0.03	-0.15	N/A
+UBE2V2	ENST00000523111.2	ubiquitin-conjugating enzyme E2 variant 2 	1770	1	0	1	0	0	hsa-miR-3615				-0.02	-0.11	N/A
+AP2A2	ENST00000448903.2	adaptor-related protein complex 2, alpha 2 subunit 	385	1	0	0	1	0	hsa-miR-3615				-0.02	-0.13	N/A
+UBOX5	ENST00000217173.2	U-box domain containing 5 	76	1	0	1	0	0	hsa-miR-3615				-0.02	-0.15	N/A
+PKNOX1	ENST00000291547.5	PBX/knotted 1 homeobox 1 	297	1	1	0	0	0	hsa-miR-3615				-0.02	-0.43	N/A
+PPM1A	ENST00000395076.4	protein phosphatase, Mg2+/Mn2+ dependent, 1A 	412	1	0	0	1	0	hsa-miR-3615				-0.02	-0.13	N/A
+HNRNPUL2	ENST00000301785.5	heterogeneous nuclear ribonucleoprotein U-like 2 	2321	1	0	0	1	0	hsa-miR-3615				-0.02	-0.08	N/A
+CCDC80	ENST00000206423.3	coiled-coil domain containing 80 	570	1	0	1	0	0	hsa-miR-3615				-0.02	-0.08	N/A
+ZNF585B	ENST00000532828.2	zinc finger protein 585B 	46	1	0	1	0	0	hsa-miR-3615				-0.02	-0.04	N/A
+BTRC	ENST00000370187.3	beta-transducin repeat containing E3 ubiquitin protein ligase 	96	1	0	1	0	0	hsa-miR-3615				-0.02	-0.14	N/A
+GRID1	ENST00000327946.7	glutamate receptor, ionotropic, delta 1 	45	1	1	0	0	0	hsa-miR-3615				-0.02	-0.21	N/A
+FEM1A	ENST00000269856.3	fem-1 homolog a (C. elegans) 	57	1	0	1	0	1	hsa-miR-3615				-0.02	-0.07	N/A
+CREBBP	ENST00000262367.5	CREB binding protein 	532	2	0	2	0	0	hsa-miR-3615				-0.02	-0.17	N/A
+MYPN	ENST00000358913.5	myopalladin 	73	1	0	1	0	0	hsa-miR-3615				-0.02	-0.09	N/A
+CHRM3	ENST00000255380.4	cholinergic receptor, muscarinic 3 	47	1	0	0	1	0	hsa-miR-3615				-0.02	-0.10	N/A
+PLXND1	ENST00000393239.1	plexin D1 	211	1	0	1	0	0	hsa-miR-3615				-0.02	-0.08	N/A
+SLC16A10	ENST00000368850.3	solute carrier family 16 (aromatic amino acid transporter), member 10 	233	1	0	1	0	0	hsa-miR-3615				-0.02	-0.13	N/A
+PLXNA2	ENST00000367033.3	plexin A2 	8	1	0	1	0	1	hsa-miR-3615				-0.02	-0.02	N/A
+KIF26B	ENST00000366518.4	kinesin family member 26B 	25	1	0	1	0	1	hsa-miR-3615				-0.02	-0.02	N/A
+ATP2B3	ENST00000370186.1	ATPase, Ca++ transporting, plasma membrane 3 	5	1	0	1	0	0	hsa-miR-3615				-0.02	-0.02	N/A
+KSR2	ENST00000425217.1	kinase suppressor of ras 2 	22	1	0	1	0	0	hsa-miR-3615				-0.02	-0.02	N/A
+C9orf69	ENST00000561457.1	chromosome 9 open reading frame 69 	134	1	0	0	1	0	hsa-miR-3615				-0.02	-0.24	N/A
+STRAP	ENST00000419869.2	serine/threonine kinase receptor associated protein 	379	1	1	0	0	0	hsa-miR-3615				-0.02	-0.50	N/A
+TMEM151A	ENST00000327259.4	transmembrane protein 151A 	163	1	0	1	0	0	hsa-miR-3615				-0.02	-0.18	N/A
+ZNF707	ENST00000358656.4	zinc finger protein 707 	106	1	0	1	0	0	hsa-miR-3615				-0.02	-0.27	N/A
+CBX5	ENST00000209875.4	chromobox homolog 5 	360	1	0	1	0	0	hsa-miR-3615				-0.02	-0.08	N/A
+CALU	ENST00000535011.2	calumenin 	3079	1	0	0	1	0	hsa-miR-3615				-0.02	-0.23	N/A
+TRIM45	ENST00000256649.4	tripartite motif containing 45 	99	1	0	1	0	0	hsa-miR-3615				-0.02	-0.13	N/A
+MRPS11	ENST00000325844.4	mitochondrial ribosomal protein S11 	1452	1	0	0	1	0	hsa-miR-3615				-0.02	-0.20	N/A
+CCDC30	ENST00000342022.4	coiled-coil domain containing 30 	6	1	0	1	0	0	hsa-miR-3615				-0.02	-0.14	N/A
+MGLL	ENST00000434178.2	monoglyceride lipase 	453	1	0	1	0	0	hsa-miR-3615				-0.02	-0.03	N/A
+SAR1A	ENST00000373242.2	SAR1 homolog A (S. cerevisiae) 	253	1	0	0	1	0	hsa-miR-3615				-0.02	-0.16	N/A
+TTC39A	ENST00000530004.1	tetratricopeptide repeat domain 39A 	174	1	0	0	1	0	hsa-miR-3615				-0.02	-0.20	N/A
+RIMKLA	ENST00000431473.3	ribosomal modification protein rimK-like family member A 	100	1	0	1	0	0	hsa-miR-3615				-0.02	-0.12	N/A
+ZBTB40	ENST00000404138.1	zinc finger and BTB domain containing 40 	124	1	0	1	0	0	hsa-miR-3615				-0.02	-0.08	N/A
+KIN	ENST00000379562.4	KIN, antigenic determinant of recA protein homolog (mouse) 	443	1	0	1	0	0	hsa-miR-3615				-0.02	-0.13	N/A
+ABCG5	ENST00000260645.1	ATP-binding cassette, sub-family G (WHITE), member 5 	75	1	0	0	1	0	hsa-miR-3615				-0.02	-0.24	N/A
+RAP1A	ENST00000369709.3	RAP1A, member of RAS oncogene family 	382	1	0	1	0	0	hsa-miR-3615				-0.02	-0.21	N/A
+IBA57	ENST00000366711.3	IBA57, iron-sulfur cluster assembly homolog (S. cerevisiae) 	66	1	0	1	0	0	hsa-miR-3615				-0.01	-0.09	N/A
+DDR2	ENST00000367922.3	discoidin domain receptor tyrosine kinase 2 	41	1	0	1	0	0	hsa-miR-3615				-0.01	-0.12	N/A
+GNG7	ENST00000382159.3	guanine nucleotide binding protein (G protein), gamma 7 	92	1	0	1	0	0	hsa-miR-3615				-0.01	-0.16	N/A
+ZDHHC14	ENST00000359775.5	zinc finger, DHHC-type containing 14 	253	1	0	1	0	0	hsa-miR-3615				-0.01	-0.18	N/A
+SNRPD1	ENST00000300413.5	small nuclear ribonucleoprotein D1 polypeptide 16kDa 	1967	1	0	0	1	0	hsa-miR-3615				-0.01	-0.25	N/A
+CLYBL	ENST00000376355.3	citrate lyase beta like 	108	1	0	1	0	0	hsa-miR-3615				-0.01	-0.16	N/A
+SEMA6A	ENST00000343348.6	sema domain, transmembrane domain (TM), and cytoplasmic domain, (semaphorin) 6A 	106	1	0	1	0	0	hsa-miR-3615				-0.01	-0.16	N/A
+ETV5	ENST00000306376.5	ets variant 5 	1085	1	0	0	1	0	hsa-miR-3615				-0.01	-0.17	N/A
+NDUFAF3	ENST00000326925.6	NADH dehydrogenase (ubiquinone) complex I, assembly factor 3 	264	1	1	0	0	0	hsa-miR-3615				-0.01	-0.50	N/A
+GFM1	ENST00000486715.1	G elongation factor, mitochondrial 1 	586	1	0	1	0	0	hsa-miR-3615				-0.01	-0.19	N/A
+FTO	ENST00000471389.1	fat mass and obesity associated 	240	3	2	0	1	0	hsa-miR-3615				-0.01	-0.69	N/A
+PMPCA	ENST00000371717.3	peptidase (mitochondrial processing) alpha 	105	1	0	1	0	0	hsa-miR-3615				-0.01	-0.10	N/A
+RGP1	ENST00000378078.4	RGP1 retrograde golgi transport homolog (S. cerevisiae) 	203	1	0	1	0	0	hsa-miR-3615				-0.01	-0.06	N/A
+DYRK3	ENST00000367108.3	dual-specificity tyrosine-(Y)-phosphorylation regulated kinase 3 	173	1	1	0	0	0	hsa-miR-3615				-0.01	-0.24	N/A
+LNPEP	ENST00000231368.5	leucyl/cystinyl aminopeptidase 	28	1	0	1	0	0	hsa-miR-3615				-0.01	-0.06	N/A
+EXOC2	ENST00000230449.4	exocyst complex component 2 	192	1	1	0	0	0	hsa-miR-3615				-0.01	-0.35	N/A
+TTLL1	ENST00000331018.7	tubulin tyrosine ligase-like family, member 1 	125	1	0	0	1	0	hsa-miR-3615				-0.01	-0.19	N/A
+RNF19B	ENST00000356990.5	ring finger protein 19B 	45	1	0	0	1	1	hsa-miR-3615				-0.01	-0.19	N/A
+DCAF17	ENST00000375255.3	DDB1 and CUL4 associated factor 17 	49	1	0	0	1	0	hsa-miR-3615				-0.01	-0.09	N/A
+KLHL12	ENST00000367259.1	kelch-like family member 12 	24	1	0	1	0	0	hsa-miR-3615				-0.01	-0.35	N/A
+FLYWCH1	ENST00000253928.9	FLYWCH-type zinc finger 1 	97	1	0	0	1	0	hsa-miR-3615				-0.01	-0.20	N/A
+FDX1L	ENST00000541276.1	ferredoxin 1-like 	198	1	1	0	0	0	hsa-miR-3615				-0.01	-0.43	N/A
+FCRLB	ENST00000336830.5	Fc receptor-like B 	87	1	0	0	1	0	hsa-miR-3615				-0.01	-0.29	N/A
+PSD3	ENST00000327040.8	pleckstrin and Sec7 domain containing 3 	133	1	0	1	0	1	hsa-miR-3615				-0.01	-0.12	N/A
+CDS2	ENST00000460006.1	CDP-diacylglycerol synthase (phosphatidate cytidylyltransferase) 2 	782	2	1	1	0	0	hsa-miR-3615				-0.01	-0.31	N/A
+PHB2	ENST00000546111.1	prohibitin 2 	120	1	1	0	0	0	hsa-miR-3615				-0.01	-0.39	N/A
+SOCS7	ENST00000577233.1	suppressor of cytokine signaling 7 	15	1	0	0	1	0	hsa-miR-3615				-0.01	-0.09	N/A
+SLC45A4	ENST00000519067.1	solute carrier family 45, member 4 	418	2	0	2	0	0	hsa-miR-3615				-0.01	-0.12	N/A
+DDRGK1	ENST00000354488.3	DDRGK domain containing 1 	3324	1	0	1	0	0	hsa-miR-3615				-0.01	-0.43	N/A
+MRPL17	ENST00000288937.6	mitochondrial ribosomal protein L17 	1447	1	0	0	1	0	hsa-miR-3615				-0.01	-0.20	N/A
+HMX1	ENST00000400677.3	H6 family homeobox 1 	171	1	1	0	0	0	hsa-miR-3615				-0.01	-0.11	N/A
+HIF1AN	ENST00000299163.6	hypoxia inducible factor 1, alpha subunit inhibitor 	1545	1	0	1	0	0	hsa-miR-3615				-0.01	-0.02	N/A
+KIAA0391	ENST00000534898.4	KIAA0391 	822	1	0	0	1	0	hsa-miR-3615				-0.01	-0.14	N/A
+STK25	ENST00000316586.4	serine/threonine kinase 25 	699	1	0	1	0	0	hsa-miR-3615				-0.01	-0.18	N/A
+TPT1	ENST00000379056.1	tumor protein, translationally-controlled 1 	2856	1	1	0	0	0	hsa-miR-3615				-0.01	-0.48	N/A
+C14orf132	ENST00000555004.1	chromosome 14 open reading frame 132 	217	1	0	1	0	0	hsa-miR-3615				-0.01	-0.18	N/A
+CENPP	ENST00000375587.3	centromere protein P 	85	1	0	0	1	2	hsa-miR-3615				-0.01	-0.12	N/A
+SLC38A9	ENST00000396865.2	solute carrier family 38, member 9 	156	1	0	1	0	0	hsa-miR-3615				-0.01	-0.14	N/A
+KLF7	ENST00000423015.1	Kruppel-like factor 7 (ubiquitous) 	737	2	1	0	1	0	hsa-miR-3615				-0.01	-0.49	N/A
+CENPM	ENST00000404067.1	centromere protein M 	68	1	0	0	1	1	hsa-miR-3615				-0.01	-0.21	N/A
+ANG	ENST00000336811.6	angiogenin, ribonuclease, RNase A family, 5 	1279	1	0	0	1	0	hsa-miR-3615				-0.01	-0.19	N/A
+USP1	ENST00000339950.4	ubiquitin specific peptidase 1 	436	1	0	0	1	0	hsa-miR-3615				-0.01	-0.14	N/A
+SLC48A1	ENST00000442218.2	solute carrier family 48 (heme transporter), member 1 	470	1	0	1	0	0	hsa-miR-3615				-0.01	-0.13	N/A
+CISD1	ENST00000333926.5	CDGSH iron sulfur domain 1 	367	1	0	0	1	0	hsa-miR-3615				-0.01	-0.24	N/A
+HM13	ENST00000335574.5	histocompatibility (minor) 13 	4848	1	1	0	0	0	hsa-miR-3615				-0.01	-0.35	N/A
+CNKSR3	ENST00000607772.1	CNKSR family member 3 	567	1	0	0	1	2	hsa-miR-3615				-0.01	-0.10	N/A
+CDX2	ENST00000381020.7	caudal type homeobox 2 	563	1	0	1	0	0	hsa-miR-3615				-0.01	-0.24	N/A
+PRPF6	ENST00000535781.1	pre-mRNA processing factor 6 	689	1	1	0	0	0	hsa-miR-3615				-0.01	-0.45	N/A
+PRR12	ENST00000418929.2	proline rich 12 	95	1	0	1	0	0	hsa-miR-3615				-0.01	-0.23	N/A
+SP2	ENST00000376741.4	Sp2 transcription factor 	779	1	0	0	1	0	hsa-miR-3615				-0.01	-0.12	N/A
+KCNK1	ENST00000366621.3	potassium channel, subfamily K, member 1 	410	1	0	0	1	0	hsa-miR-3615				-0.01	-0.11	N/A
+PTGR2	ENST00000555661.1	prostaglandin reductase 2 	244	1	0	1	0	0	hsa-miR-3615				0	-0.26	N/A
+FAM179A	ENST00000379558.4	family with sequence similarity 179, member A 	21	1	0	1	0	0	hsa-miR-3615				0	-0.02	N/A
+CCDC115	ENST00000437688.2	coiled-coil domain containing 115 	329	1	0	0	1	0	hsa-miR-3615				0	-0.17	N/A
+TSPAN14	ENST00000429989.3	tetraspanin 14 	239	1	0	0	1	1	hsa-miR-3615				0	-0.25	N/A
+FOXD1	ENST00000499003.3	forkhead box D1 	423	1	0	1	0	1	hsa-miR-3615				0	-0.09	N/A
+RAB6B	ENST00000285208.4	RAB6B, member RAS oncogene family 	669	1	0	0	1	0	hsa-miR-3615				0	-0.17	N/A
+MRPL36	ENST00000505059.2	mitochondrial ribosomal protein L36 	506	2	1	1	0	0	hsa-miR-3615				0	-0.74	N/A
+TMEM67	ENST00000453321.3	transmembrane protein 67 	219	1	0	0	1	0	hsa-miR-3615				0	-0.12	N/A
+MON1B	ENST00000248248.3	MON1 secretory trafficking family member B 	910	1	0	1	0	0	hsa-miR-3615				0	-0.15	N/A
+SNX6	ENST00000396526.3	sorting nexin 6 	254	1	0	1	0	0	hsa-miR-3615				0	-0.21	N/A
+CTNS	ENST00000046640.3	cystinosin, lysosomal cystine transporter 	308	1	0	1	0	0	hsa-miR-3615				0	-0.12	N/A
+KIAA1551	ENST00000312561.4	KIAA1551 	15	1	0	0	1	0	hsa-miR-3615				0	-0.04	N/A
+SKA3	ENST00000314759.5	spindle and kinetochore associated complex subunit 3 	199	1	0	0	1	0	hsa-miR-3615				0	-0.16	N/A
+RABAC1	ENST00000601891.1	Rab acceptor 1 (prenylated) 	2218	1	0	1	0	0	hsa-miR-3615				0	-0.20	N/A
+ARHGEF5	ENST00000056217.5	Rho guanine nucleotide exchange factor (GEF) 5 	200	1	0	1	0	0	hsa-miR-3615				0	-0.20	N/A
+HTT	ENST00000355072.5	huntingtin 	731	1	0	0	1	0	hsa-miR-3615				0	-0.17	N/A
+ZNF790	ENST00000356725.4	zinc finger protein 790 	18	1	0	1	0	0	hsa-miR-3615				0	-0.02	N/A
+CMBL	ENST00000296658.3	carboxymethylenebutenolidase homolog (Pseudomonas) 	2602	1	0	0	1	0	hsa-miR-3615				0	-0.20	N/A
+MAPKAPK5	ENST00000550735.2	mitogen-activated protein kinase-activated protein kinase 5 	573	1	0	1	0	0	hsa-miR-3615				0	-0.10	N/A
+BAIAP2L1	ENST00000005260.8	BAI1-associated protein 2-like 1 	1118	1	0	1	0	0	hsa-miR-3615				0	-0.17	N/A
+TROAP	ENST00000257909.3	trophinin associated protein 	270	1	0	0	1	1	hsa-miR-3615				0	-0.27	N/A
+DPF2	ENST00000528416.1	D4, zinc and double PHD fingers family 2 	1164	1	0	1	0	0	hsa-miR-3615				0	-0.26	N/A
+AGO3	ENST00000373191.4	argonaute RISC catalytic component 3 	198	1	0	0	1	0	hsa-miR-3615				0	-0.01	N/A
+SFXN2	ENST00000369893.5	sideroflexin 2 	547	1	0	0	1	0	hsa-miR-3615				0	-0.17	N/A
+COX20	ENST00000411948.2	COX20 cytochrome C oxidase assembly factor 	693	1	0	1	0	0	hsa-miR-3615				0	-0.21	N/A
+RNPEPL1	ENST00000270357.4	arginyl aminopeptidase (aminopeptidase B)-like 1 	239	1	0	1	0	0	hsa-miR-3615				0	-0.13	N/A
+MSRB1	ENST00000399753.2	methionine sulfoxide reductase B1 	2102	1	0	0	1	0	hsa-miR-3615				0	-0.13	N/A
+HMGCR	ENST00000287936.4	3-hydroxy-3-methylglutaryl-CoA reductase 	1385	2	2	0	0	0	hsa-miR-3615				0	-0.64	N/A
+SLC1A5	ENST00000542575.2	solute carrier family 1 (neutral amino acid transporter), member 5 	681	1	0	0	1	0	hsa-miR-3615				0	-0.14	N/A
+ELAVL1	ENST00000407627.2	ELAV like RNA binding protein 1 	2812	1	0	1	0	1	hsa-miR-3615				0	-0.07	N/A
+OTUB1	ENST00000538426.1	OTU domain, ubiquitin aldehyde binding 1 	2977	1	0	1	0	0	hsa-miR-3615				0	-0.27	N/A
+GLG1	ENST00000422840.2	golgi glycoprotein 1 	2175	1	0	1	0	0	hsa-miR-3615				0	-0.02	N/A
+DCAF11	ENST00000446197.3	DDB1 and CUL4 associated factor 11 	1599	1	0	0	1	1	hsa-miR-3615				0	-0.27	N/A
+CTNNBL1	ENST00000361383.6	catenin, beta like 1 	206	1	0	1	0	0	hsa-miR-3615				0	-0.12	N/A
+MKKS	ENST00000347364.3	McKusick-Kaufman syndrome 	543	1	0	0	1	0	hsa-miR-3615				0	-0.15	N/A
+WDR91	ENST00000344400.5	WD repeat domain 91 	46	1	0	1	0	0	hsa-miR-3615				0	-0.02	N/A
+SMIM12	ENST00000521580.2	small integral membrane protein 12 	1091	1	0	0	1	0	hsa-miR-3615				0	-0.07	N/A
+C12orf49	ENST00000261318.3	chromosome 12 open reading frame 49 	673	1	0	0	1	0	hsa-miR-3615				0	-0.18	N/A
+GBX2	ENST00000551105.1	gastrulation brain homeobox 2 	53	3	0	2	1	0	hsa-miR-3615				0	-0.15	N/A
+RNF11	ENST00000242719.3	ring finger protein 11 	5881	1	0	0	1	0	hsa-miR-3615				0	-0.22	N/A
+PLA2G16	ENST00000323646.5	phospholipase A2, group XVI 	2547	1	0	0	1	0	hsa-miR-3615				0	-0.20	N/A
+PANK2	ENST00000497424.1	pantothenate kinase 2 	1244	1	0	1	0	1	hsa-miR-3615				0	-0.42	N/A
+RCL1	ENST00000381750.4	RNA terminal phosphate cyclase-like 1 	203	1	0	0	1	0	hsa-miR-3615				0	-0.11	N/A
+CCNG2	ENST00000316355.5	cyclin G2 	1056	1	0	0	1	0	hsa-miR-3615				0	-0.12	N/A
+ELAC2	ENST00000338034.4	elaC ribonuclease Z 2 	2017	1	0	0	1	0	hsa-miR-3615				0	-0.21	N/A
+CAPNS1	ENST00000587718.1	calpain, small subunit 1 	2973	1	1	0	0	0	hsa-miR-3615				0	-0.41	N/A
+GEMIN4	ENST00000319004.5	gem (nuclear organelle) associated protein 4 	339	1	0	1	0	0	hsa-miR-3615				0	-0.09	N/A
+BET1L	ENST00000325147.9	Bet1 golgi vesicular membrane trafficking protein-like 	702	1	0	0	1	0	hsa-miR-3615				0	-0.17	N/A
+DNAJC10	ENST00000264065.7	DnaJ (Hsp40) homolog, subfamily C, member 10 	709	1	0	0	1	0	hsa-miR-3615				0	-0.08	N/A
+BNC2	ENST00000380672.4	basonuclin 2 	770	1	0	0	1	0	hsa-miR-3615				0	-0.04	N/A
+THBS2	ENST00000366787.3	thrombospondin 2 	372	1	0	1	0	0	hsa-miR-3615				0	-0.03	N/A
+MRPL12	ENST00000333676.3	mitochondrial ribosomal protein L12 	2476	1	0	1	0	0	hsa-miR-3615				0	-0.10	N/A
+PPP1R15A	ENST00000200453.5	protein phosphatase 1, regulatory subunit 15A 	2130	2	0	0	2	0	hsa-miR-3615				0	-0.32	N/A
+BAG2	ENST00000370693.5	BCL2-associated athanogene 2 	2237	1	0	0	1	0	hsa-miR-3615				0	-0.20	N/A
+RBP4	ENST00000371464.3	retinol binding protein 4, plasma 	17402	1	0	0	1	0	hsa-miR-3615				0	-0.13	N/A
+ORAI2	ENST00000356387.2	ORAI calcium release-activated calcium modulator 2 	217	1	0	1	0	1	hsa-miR-3615				0	-0.03	N/A
+MMP15	ENST00000219271.3	matrix metallopeptidase 15 (membrane-inserted) 	605	1	0	1	0	0	hsa-miR-3615				0	-0.18	N/A
+PLEKHA3	ENST00000234453.5	pleckstrin homology domain containing, family A (phosphoinositide binding specific) member 3 	767	1	0	0	1	0	hsa-miR-3615				0	-0.01	N/A
+NR2F6	ENST00000291442.3	nuclear receptor subfamily 2, group F, member 6 	814	1	0	0	1	0	hsa-miR-3615				0	-0.18	N/A
+MRP63	ENST00000309594.4	mitochondrial ribosomal protein 63 	1352	1	0	1	0	0	hsa-miR-3615				0	-0.24	N/A
+SCO1	ENST00000255390.5	SCO1 cytochrome c oxidase assembly protein 	1776	1	0	0	1	0	hsa-miR-3615				0	-0.08	N/A
+RNMTL1	ENST00000304478.4	RNA methyltransferase like 1 	1736	1	1	0	0	0	hsa-miR-3615				0	-0.27	N/A
+SLC25A4	ENST00000281456.6	solute carrier family 25 (mitochondrial carrier; adenine nucleotide translocator), member 4 	1169	1	0	1	0	0	hsa-miR-3615				0	-0.17	N/A
+DBNL	ENST00000494774.1	drebrin-like 	1802	1	0	0	1	0	hsa-miR-3615				0	-0.03	N/A
+MED16	ENST00000269814.4	mediator complex subunit 16 	3677	1	0	0	1	0	hsa-miR-3615				0	-0.13	N/A
+ENAH	ENST00000366844.3	enabled homolog (Drosophila) 	415	1	0	0	1	0	hsa-miR-3615				0	-0.04	N/A
+KLHL36	ENST00000564996.1	kelch-like family member 36 	483	1	0	1	0	0	hsa-miR-3615				0	-0.11	N/A
+NARS	ENST00000256854.5	asparaginyl-tRNA synthetase 	467	1	1	0	0	0	hsa-miR-3615				0	-0.15	N/A
+EPHX2	ENST00000521400.1	epoxide hydrolase 2, cytoplasmic 	6881	3	0	1	2	0	hsa-miR-3615				0	-0.47	N/A
+AP5Z1	ENST00000348624.4	adaptor-related protein complex 5, zeta 1 subunit 	467	1	0	1	0	0	hsa-miR-3615				0	-0.07	N/A
+C3	ENST00000245907.6	complement component 3 	932	1	0	1	0	0	hsa-miR-3615				0	-0.04	N/A
+CBX2	ENST00000310942.4	chromobox homolog 2 	1816	1	0	1	0	0	hsa-miR-3615				0	-0.10	N/A
+CCDC127	ENST00000296824.3	coiled-coil domain containing 127 	615	1	0	1	0	0	hsa-miR-3615				0	-0.07	N/A
+SLC35E2	ENST00000246421.4	solute carrier family 35, member E2 	5	1	0	1	0	0	hsa-miR-3615				0	-0.36	N/A
+CCR7	ENST00000246657.2	chemokine (C-C motif) receptor 7 	5	1	1	0	0	0	hsa-miR-3615				0	-0.30	N/A
+CAPZB	ENST00000375142.1	capping protein (actin filament) muscle Z-line, beta 	545	1	0	0	1	0	hsa-miR-3615				0	-0.18	N/A
+RNF126	ENST00000292363.5	ring finger protein 126 	658	1	1	0	0	0	hsa-miR-3615				0	-0.23	N/A
+GNG11	ENST00000248564.5	guanine nucleotide binding protein (G protein), gamma 11 	10881	1	0	0	1	0	hsa-miR-3615				0	-0.16	N/A
+WLS	ENST00000262348.4	wntless Wnt ligand secretion mediator 	2540	1	1	0	0	0	hsa-miR-3615				0	-0.49	N/A
+NLRP6	ENST00000534750.1	NLR family, pyrin domain containing 6 	5	1	0	1	0	1	hsa-miR-3615				0	-0.21	N/A
+WTIP	ENST00000590071.2	Wilms tumor 1 interacting protein 	1303	1	1	0	0	0	hsa-miR-3615				0	-0.10	N/A
+CHST1	ENST00000308064.2	carbohydrate (keratan sulfate Gal-6) sulfotransferase 1 	5	1	0	0	1	1	hsa-miR-3615				0	-0.21	N/A
+APOC3	ENST00000227667.3	apolipoprotein C-III 	1689	1	0	1	0	0	hsa-miR-3615				0	-0.23	N/A
+NKAPL	ENST00000343684.3	NFKB activating protein-like 	5	1	0	0	1	0	hsa-miR-3615				0	-0.21	N/A
+CDH19	ENST00000540086.1	cadherin 19, type 2 	5	1	0	0	1	0	hsa-miR-3615				0	-0.19	N/A
+BEST3	ENST00000488961.1	bestrophin 3 	5	1	0	0	1	0	hsa-miR-3615				0	-0.20	N/A
+AC002472.13	ENST00000543388.1	Leucine-rich repeat-containing protein LOC400891  	5	1	0	1	0	0	hsa-miR-3615				0	-0.20	N/A
+PRPH2	ENST00000230381.5	peripherin 2 (retinal degeneration, slow) 	5	1	0	0	1	0	hsa-miR-3615				0	-0.19	N/A
+POU2F2	ENST00000342301.4	POU class 2 homeobox 2 	5	2	0	0	2	0	hsa-miR-3615				0	-0.17	N/A
+CDR1	ENST00000370532.2	cerebellar degeneration-related protein 1, 34kDa 	5	1	0	0	1	0	hsa-miR-3615				0	-0.15	N/A
+STARD3NL	ENST00000009041.7	STARD3 N-terminal like 	1911	1	0	0	1	0	hsa-miR-3615				0	-0.14	N/A
+VPS29	ENST00000549578.1	vacuolar protein sorting 29 homolog (S. cerevisiae) 	2115	1	0	1	0	0	hsa-miR-3615				0	-0.37	N/A
+G6PC	ENST00000253801.2	glucose-6-phosphatase, catalytic subunit 	5	1	0	1	0	0	hsa-miR-3615				0	-0.17	N/A
+KLHL30	ENST00000409223.1	kelch-like family member 30 	5	1	1	0	0	0	hsa-miR-3615				0	-0.16	N/A
+GATSL2	ENST00000426327.3	GATS protein-like 2 	5	1	1	0	0	0	hsa-miR-3615				0	-0.15	N/A
+HCN1	ENST00000303230.4	hyperpolarization activated cyclic nucleotide-gated potassium channel 1 	5	1	0	0	1	0	hsa-miR-3615				0	-0.15	N/A
+CCS	ENST00000533244.1	copper chaperone for superoxide dismutase 	2980	1	0	0	1	0	hsa-miR-3615				0	-0.14	N/A
+P2RX7	ENST00000328963.5	purinergic receptor P2X, ligand-gated ion channel, 7 	5	1	0	0	1	0	hsa-miR-3615				0	-0.11	N/A
+AGAP9	ENST00000453919.1	ArfGAP with GTPase domain, ankyrin repeat and PH domain 9 	5	1	0	0	1	0	hsa-miR-3615				0	-0.12	N/A
+ABCB11	ENST00000263817.6	ATP-binding cassette, sub-family B (MDR/TAP), member 11 	5	1	0	0	1	0	hsa-miR-3615				0	-0.10	N/A
+USP15	ENST00000353364.3	ubiquitin specific peptidase 15 	286	1	0	1	0	0	hsa-miR-3615				0	-0.02	N/A
+GTF2H5	ENST00000607778.1	general transcription factor IIH, polypeptide 5 	4166	1	0	0	1	0	hsa-miR-3615				0	-0.21	N/A
+SPNS2	ENST00000329078.3	spinster homolog 2 (Drosophila) 	7	1	0	0	1	0	hsa-miR-3615				0	-0.13	N/A
+CTD-2545M3.6	ENST00000599632.1		10	1	0	0	1	0	hsa-miR-3615				0	-0.16	N/A
+FZD8	ENST00000374694.1	frizzled family receptor 8 	791	1	0	0	1	0	hsa-miR-3615				0	-0.13	N/A
+KY	ENST00000508956.1	kyphoscoliosis peptidase 	5	1	0	0	1	1	hsa-miR-3615				0	-0.11	N/A
+SOBP	ENST00000317357.5	sine oculis binding protein homolog (Drosophila) 	22	1	1	0	0	0	hsa-miR-3615				0	-0.22	N/A
+HSPA14	ENST00000378372.3	heat shock 70kDa protein 14 	1017	1	0	0	1	0	hsa-miR-3615				0	-0.10	N/A
+C1orf210	ENST00000523677.1	chromosome 1 open reading frame 210 	43	1	1	0	0	0	hsa-miR-3615				0	-0.52	N/A
+SMTNL2	ENST00000338859.4	smoothelin-like 2 	23	1	1	0	0	1	hsa-miR-3615				0	-0.38	N/A
+NNMT	ENST00000535401.1	nicotinamide N-methyltransferase 	522	1	0	1	0	0	hsa-miR-3615				0	-0.22	N/A
+MAP7	ENST00000354570.3	microtubule-associated protein 7 	444	1	0	0	1	0	hsa-miR-3615				0	-0.13	N/A
+ADAMTS5	ENST00000284987.5	ADAM metallopeptidase with thrombospondin type 1 motif, 5 	68	1	0	0	1	0	hsa-miR-3615				0	-0.06	N/A
+NAA38	ENST00000249299.2	N(alpha)-acetyltransferase 38, NatC auxiliary subunit 	458	1	0	0	1	0	hsa-miR-3615				0	-0.17	N/A
+DNAJB4	ENST00000370763.5	DnaJ (Hsp40) homolog, subfamily B, member 4 	633	1	0	0	1	0	hsa-miR-3615				0	-0.14	N/A
+RSPO3	ENST00000356698.4	R-spondin 3 	118	1	0	0	1	0	hsa-miR-3615				0	-0.19	N/A
+ZBTB20	ENST00000462705.1	zinc finger and BTB domain containing 20 	5	1	0	1	0	0	hsa-miR-3615				0	-0.02	N/A
+PLEKHG5	ENST00000377725.1	pleckstrin homology domain containing, family G (with RhoGef domain) member 5 	284	1	1	0	0	1	hsa-miR-3615				0	-0.37	N/A
+BNIP3	ENST00000368636.4	BCL2/adenovirus E1B 19kDa interacting protein 3 	203	1	0	0	1	0	hsa-miR-3615				0	-0.21	N/A
+EIF4G3	ENST00000264211.8	eukaryotic translation initiation factor 4 gamma, 3 	48	1	0	0	1	0	hsa-miR-3615				0	-0.25	N/A
+HNF4A	ENST00000316099.4	hepatocyte nuclear factor 4, alpha 	915	1	0	0	1	0	hsa-miR-3615				0	-0.19	N/A
+ACSM2A	ENST00000573854.1	acyl-CoA synthetase medium-chain family member 2A 	34	1	0	0	1	0	hsa-miR-3615				0	-0.17	N/A
+ZNF282	ENST00000479907.1	zinc finger protein 282 	3014	1*	0	0	0	0	hsa-miR-3615				0	0	N/A
+STRADA	ENST00000375840.4	STE20-related kinase adaptor alpha 	366	1	0	1	0	1	hsa-miR-3615				0	-0.17	N/A
+DNAH17	ENST00000585328.1	dynein, axonemal, heavy chain 17 	20	1	0	1	0	0	hsa-miR-3615				0	-0.05	N/A
+TRIM44	ENST00000299413.5	tripartite motif containing 44 	4203	1	0	1	0	1	hsa-miR-3615				0	-0.09	N/A
+S100A16	ENST00000368704.1	S100 calcium binding protein A16 	88	1	0	0	1	0	hsa-miR-3615				0	-0.19	N/A
+TNNI1	ENST00000361379.4	troponin I type 1 (skeletal, slow) 	5	1	0	0	1	0	hsa-miR-3615				0	-0.15	N/A
+CCNL2	ENST00000408952.5	cyclin L2 	699	1	0	0	1	0	hsa-miR-3615				0	-0.10	N/A
+PDLIM3	ENST00000284770.5	PDZ and LIM domain 3 	58	1	0	1	0	0	hsa-miR-3615				0	-0.10	N/A
+RARRES3	ENST00000255688.3	retinoic acid receptor responder (tazarotene induced) 3 	60	1	0	0	1	0	hsa-miR-3615				0	-0.19	N/A
+LMCD1	ENST00000157600.3	LIM and cysteine-rich domains 1 	1023	1	0	0	1	0	hsa-miR-3615				0	-0.21	N/A
+ZNF326	ENST00000370447.3	zinc finger protein 326 	162	1	0	0	1	0	hsa-miR-3615				0	-0.09	N/A
+CIB3	ENST00000269878.4	calcium and integrin binding family member 3 	5	1*	0	0	0	0	hsa-miR-3615				0	0	N/A
+MURC	ENST00000307584.5	muscle-related coiled-coil protein 	75	1	0	1	0	0	hsa-miR-3615				0	-0.18	N/A
+MECR	ENST00000373791.3	mitochondrial trans-2-enoyl-CoA reductase 	268	1	1	0	0	0	hsa-miR-3615				0	-0.53	N/A
+KLF2	ENST00000248071.5	Kruppel-like factor 2 (lung) 	431	1	0	1	0	0	hsa-miR-3615				0	-0.30	N/A
+SHC3	ENST00000375835.4	SHC (Src homology 2 domain containing) transforming protein 3 	18	1	1	0	0	0	hsa-miR-3615				0	-0.08	N/A
+RRP8	ENST00000254605.6	ribosomal RNA processing 8, methyltransferase, homolog (yeast) 	423	1*	0	0	0	0	hsa-miR-3615				0	0	N/A
+COPS8	ENST00000354371.2	COP9 signalosome subunit 8 	1979	1	0	0	1	0	hsa-miR-3615				0	-0.15	N/A
+ALDOA	ENST00000569798.1	aldolase A, fructose-bisphosphate 	21644	1	0	0	1	0	hsa-miR-3615				0	-0.19	N/A
+RCSD1	ENST00000367854.3	RCSD domain containing 1 	32	1	0	0	1	0	hsa-miR-3615				0	-0.14	N/A
+UPF1	ENST00000262803.5	UPF1 regulator of nonsense transcripts homolog (yeast) 	513	1*	0	0	0	0	hsa-miR-3615				0	0	N/A
+GPR183	ENST00000376414.4	G protein-coupled receptor 183 	112	1	0	0	1	1	hsa-miR-3615				0	-0.13	N/A
+CIRH1A	ENST00000314423.7	cirrhosis, autosomal recessive 1A (cirhin) 	1015	1	0	1	0	1	hsa-miR-3615				0	-0.10	N/A
+PRKRIP1	ENST00000496391.1	PRKR interacting protein 1 (IL11 inducible) 	656	1*	0	0	0	0	hsa-miR-3615				0	0	N/A
+XRCC5	ENST00000392133.3	X-ray repair complementing defective repair in Chinese hamster cells 5 (double-strand-break rejoining) 	14802	1	0	0	1	0	hsa-miR-3615				0	-0.01	N/A
+SPTBN1	ENST00000356805.4	spectrin, beta, non-erythrocytic 1 	959	1	0	1	0	1	hsa-miR-3615				0	-0.25	N/A

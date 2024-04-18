@@ -1,0 +1,491 @@
+Target gene	Representative transcript	Gene name	3P-seq tags + 5	Total sites	8mer sites	7mer-m8 sites	7mer-A1 sites	6mer sites	Representative miRNA	Predicted occupancy (low miRNA)	Predicted occupancy (high miRNA)	Predicted occupancy (transfected miRNA)	Cumulative weighted context++ score	Total context++ score	Aggregate PCT
+TFRC	ENST00000540528.1	transferrin receptor 	296	1	1	0	0	1	hsa-let-7d-3p				-0.75	-0.81	N/A
+GSTK1	ENST00000358406.5	glutathione S-transferase kappa 1 	299	1	1	0	0	0	hsa-let-7d-3p				-0.74	-0.74	N/A
+GNAO1	ENST00000262493.6	guanine nucleotide binding protein (G protein), alpha activating activity polypeptide O 	8	2	1	1	0	0	hsa-let-7d-3p				-0.73	-0.73	N/A
+GSX2	ENST00000503800.1	GS homeobox 2 	5	1	1	0	0	0	hsa-let-7d-3p				-0.72	-0.72	N/A
+NKX6-1	ENST00000515820.2	NK6 homeobox 1 	9	1	1	0	0	0	hsa-let-7d-3p				-0.71	-0.71	N/A
+SIGLEC6	ENST00000346477.3	sialic acid binding Ig-like lectin 6 	5	2	0	2	0	0	hsa-let-7d-3p				-0.69	-0.69	N/A
+PDGFC	ENST00000502773.1	platelet derived growth factor C 	238	1	1	0	0	0	hsa-let-7d-3p				-0.65	-0.65	N/A
+ANKAR	ENST00000438402.2	ankyrin and armadillo repeat containing 	5	1	1	0	0	0	hsa-let-7d-3p				-0.65	-0.65	N/A
+PARP11	ENST00000427057.2	poly (ADP-ribose) polymerase family, member 11 	75	1	1	0	0	1	hsa-let-7d-3p				-0.65	-0.65	N/A
+HMGA2	ENST00000403681.2	high mobility group AT-hook 2 	8021	1	1	0	0	0	hsa-let-7d-3p				-0.59	-0.59	N/A
+PRKACB	ENST00000370689.2	protein kinase, cAMP-dependent, catalytic, beta 	344	1	1	0	0	0	hsa-let-7d-3p				-0.55	-0.55	N/A
+BEND2	ENST00000380033.4	BEN domain containing 2 	5	1	1	0	0	0	hsa-let-7d-3p				-0.55	-0.55	N/A
+NXT2	ENST00000372106.1	nuclear transport factor 2-like export factor 2 	390	1	1	0	0	0	hsa-let-7d-3p				-0.54	-0.54	N/A
+GCSAML	ENST00000366488.4	germinal center-associated, signaling and motility-like 	5	1	1	0	0	0	hsa-let-7d-3p				-0.53	-0.53	N/A
+NARS	ENST00000256854.5	asparaginyl-tRNA synthetase 	467	1	1	0	0	0	hsa-let-7d-3p				-0.52	-0.67	N/A
+KLHL31	ENST00000370905.3	kelch-like family member 31 	16	1	1	0	0	1	hsa-let-7d-3p				-0.52	-0.52	N/A
+PTGIS	ENST00000244043.4	prostaglandin I2 (prostacyclin) synthase 	192	1	1	0	0	0	hsa-let-7d-3p				-0.51	-0.51	N/A
+ABCA8	ENST00000269080.2	ATP-binding cassette, sub-family A (ABC1), member 8 	21	1	1	0	0	0	hsa-let-7d-3p				-0.51	-0.51	N/A
+SH3RF1	ENST00000284637.9	SH3 domain containing ring finger 1 	2747	1	1	0	0	0	hsa-let-7d-3p				-0.50	-0.50	N/A
+KANSL1	ENST00000574590.1	KAT8 regulatory NSL complex subunit 1 	5	1	1	0	0	0	hsa-let-7d-3p				-0.48	-0.48	N/A
+KCND3	ENST00000369697.1	potassium voltage-gated channel, Shal-related subfamily, member 3 	23	1	1	0	0	1	hsa-let-7d-3p				-0.47	-0.47	N/A
+ZNF782	ENST00000481138.1	zinc finger protein 782 	8	1	1	0	0	0	hsa-let-7d-3p				-0.47	-0.47	N/A
+EIF3E	ENST00000220849.5	eukaryotic translation initiation factor 3, subunit E 	906	1	0	0	1	0	hsa-let-7d-3p				-0.47	-0.47	N/A
+ZNF486	ENST00000335117.8	zinc finger protein 486 	10	2	0	1	1	0	hsa-let-7d-3p				-0.47	-0.47	N/A
+CTSV	ENST00000259470.5	cathepsin V 	601	1	0	1	0	0	hsa-let-7d-3p				-0.47	-0.47	N/A
+LSR	ENST00000354900.3	lipolysis stimulated lipoprotein receptor 	55	1	0	0	1	0	hsa-let-7d-3p				-0.47	-0.47	N/A
+FSD2	ENST00000334574.8	fibronectin type III and SPRY domain containing 2 	5	2	1	0	1	0	hsa-let-7d-3p				-0.46	-0.46	N/A
+SRP19	ENST00000282999.3	signal recognition particle 19kDa 	243	1	0	0	1	1	hsa-let-7d-3p				-0.46	-0.46	N/A
+EXOSC7	ENST00000265564.7	exosome component 7 	347	1	0	1	0	1	hsa-let-7d-3p				-0.43	-0.55	N/A
+ZNF672	ENST00000306562.3	zinc finger protein 672 	189	1	1	0	0	0	hsa-let-7d-3p				-0.43	-0.43	N/A
+TMEM163	ENST00000281924.6	transmembrane protein 163 	24	1	0	0	1	1	hsa-let-7d-3p				-0.43	-0.45	N/A
+DGKI	ENST00000453654.2	diacylglycerol kinase, iota 	16	1	1	0	0	0	hsa-let-7d-3p				-0.40	-0.40	N/A
+FAM219A	ENST00000379089.1	family with sequence similarity 219, member A 	13	1	1	0	0	0	hsa-let-7d-3p				-0.40	-0.40	N/A
+RIBC2	ENST00000342894.3	RIB43A domain with coiled-coils 2 	10	1	0	0	1	0	hsa-let-7d-3p				-0.40	-0.40	N/A
+CYP27C1	ENST00000335247.7	cytochrome P450, family 27, subfamily C, polypeptide 1 	5	1	0	0	1	1	hsa-let-7d-3p				-0.40	-0.40	N/A
+ARL14	ENST00000320767.2	ADP-ribosylation factor-like 14 	5	1	0	0	1	0	hsa-let-7d-3p				-0.39	-0.39	N/A
+ZIC1	ENST00000282928.4	Zic family member 1 	26	2	1	1	0	1	hsa-let-7d-3p				-0.39	-0.72	N/A
+ZNF611	ENST00000543227.1	zinc finger protein 611 	7	1	1	0	0	1	hsa-let-7d-3p				-0.39	-0.43	N/A
+UFM1	ENST00000239878.4	ubiquitin-fold modifier 1 	1502	1	0	1	0	0	hsa-let-7d-3p				-0.39	-0.39	N/A
+DSC1	ENST00000257197.3	desmocollin 1 	7	1	1	0	0	0	hsa-let-7d-3p				-0.38	-0.38	N/A
+CNIH1	ENST00000395573.4	cornichon family AMPA receptor auxiliary protein 1 	2182	1	0	0	1	0	hsa-let-7d-3p				-0.38	-0.38	N/A
+CLEC3A	ENST00000299642.4	C-type lectin domain family 3, member A 	5	1	0	1	0	0	hsa-let-7d-3p				-0.38	-0.38	N/A
+TLR4	ENST00000355622.6	toll-like receptor 4 	47	1	1	0	0	0	hsa-let-7d-3p				-0.38	-0.38	N/A
+NOM1	ENST00000275820.3	nucleolar protein with MIF4G domain 1 	842	1	1	0	0	0	hsa-let-7d-3p				-0.37	-0.44	N/A
+C1orf145	ENST00000295012.5	chromosome 1 open reading frame 145 	5	1	0	0	1	0	hsa-let-7d-3p				-0.37	-0.37	N/A
+MBTD1	ENST00000586178.1	mbt domain containing 1 	113	1	1	0	0	0	hsa-let-7d-3p				-0.36	-0.36	N/A
+GRPEL2	ENST00000416916.2	GrpE-like 2, mitochondrial (E. coli) 	79	1	1	0	0	0	hsa-let-7d-3p				-0.35	-0.42	N/A
+GLYAT	ENST00000344743.3	glycine-N-acyltransferase 	5	1	0	0	1	0	hsa-let-7d-3p				-0.35	-0.35	N/A
+CDNF	ENST00000378442.1	cerebral dopamine neurotrophic factor 	6	1	0	0	1	0	hsa-let-7d-3p				-0.35	-0.35	N/A
+TBC1D5	ENST00000253692.7	TBC1 domain family, member 5 	400	1	1	0	0	0	hsa-let-7d-3p				-0.35	-0.41	N/A
+WDR96	ENST00000369720.1	WD repeat domain 96 	10	1	0	1	0	0	hsa-let-7d-3p				-0.34	-0.34	N/A
+PSMD10	ENST00000372296.1	proteasome (prosome, macropain) 26S subunit, non-ATPase, 10 	44	1	0	1	0	0	hsa-let-7d-3p				-0.34	-0.34	N/A
+ADH7	ENST00000437033.2	alcohol dehydrogenase 7 (class IV), mu or sigma polypeptide 	5	1	0	0	1	0	hsa-let-7d-3p				-0.34	-0.34	N/A
+NRG3	ENST00000372142.2	neuregulin 3 	27	1	1	0	0	0	hsa-let-7d-3p				-0.34	-0.38	N/A
+LINC00999	ENST00000423687.1	long intergenic non-protein coding RNA 999 	5	1	0	1	0	0	hsa-let-7d-3p				-0.34	-0.34	N/A
+TMEM26	ENST00000399298.3	transmembrane protein 26 	10	1	0	0	1	1	hsa-let-7d-3p				-0.34	-0.38	N/A
+BEND6	ENST00000370750.2	BEN domain containing 6 	11	1	0	1	0	0	hsa-let-7d-3p				-0.34	-0.34	N/A
+TMEM231	ENST00000258173.6	transmembrane protein 231 	243	2	0	1	1	0	hsa-let-7d-3p				-0.34	-0.48	N/A
+F2RL2	ENST00000296641.4	coagulation factor II (thrombin) receptor-like 2 	5	1	0	1	0	0	hsa-let-7d-3p				-0.34	-0.34	N/A
+RCAN1	ENST00000482533.1	regulator of calcineurin 1 	715	1	0	1	0	0	hsa-let-7d-3p				-0.33	-0.33	N/A
+NUP85	ENST00000447371.2	nucleoporin 85kDa 	1999	1	0	1	0	0	hsa-let-7d-3p				-0.33	-0.33	N/A
+ZNF623	ENST00000501748.2	zinc finger protein 623 	247	1	1	0	0	0	hsa-let-7d-3p				-0.33	-0.44	N/A
+ZNF90	ENST00000418063.2	zinc finger protein 90 	5	1	0	0	1	0	hsa-let-7d-3p				-0.33	-0.33	N/A
+CCDC6	ENST00000263102.6	coiled-coil domain containing 6 	193	1	0	1	0	0	hsa-let-7d-3p				-0.33	-0.35	N/A
+CDKL4	ENST00000378803.1	cyclin-dependent kinase-like 4 	5	1	0	1	0	0	hsa-let-7d-3p				-0.33	-0.33	N/A
+NCMAP	ENST00000374392.2	noncompact myelin associated protein 	17	1	0	0	1	0	hsa-let-7d-3p				-0.33	-0.33	N/A
+A4GNT	ENST00000236709.3	alpha-1,4-N-acetylglucosaminyltransferase 	5	1	0	0	1	0	hsa-let-7d-3p				-0.32	-0.32	N/A
+SNRPF	ENST00000266735.5	small nuclear ribonucleoprotein polypeptide F 	286	1	0	0	1	0	hsa-let-7d-3p				-0.32	-0.47	N/A
+GLIPR1	ENST00000266659.3	GLI pathogenesis-related 1 	623	1	1	0	0	0	hsa-let-7d-3p				-0.32	-0.55	N/A
+ZNF627	ENST00000588174.1	zinc finger protein 627 	105	1	0	1	0	0	hsa-let-7d-3p				-0.32	-0.32	N/A
+ZSCAN12	ENST00000361028.1	zinc finger and SCAN domain containing 12 	117	1	1	0	0	0	hsa-let-7d-3p				-0.32	-0.32	N/A
+TMEM117	ENST00000551577.1	transmembrane protein 117 	381	1	0	1	0	0	hsa-let-7d-3p				-0.32	-0.34	N/A
+F11	ENST00000264692.4	coagulation factor XI 	5	1	0	1	0	0	hsa-let-7d-3p				-0.32	-0.32	N/A
+ZNF841	ENST00000594295.1	zinc finger protein 841 	21	1	1	0	0	0	hsa-let-7d-3p				-0.32	-0.43	N/A
+MKRN1	ENST00000255977.2	makorin ring finger protein 1 	5	1	0	0	1	0	hsa-let-7d-3p				-0.32	-0.32	N/A
+GRB2	ENST00000392563.1	growth factor receptor-bound protein 2 	2660	1	0	1	0	1	hsa-let-7d-3p				-0.31	-0.32	N/A
+C7orf41	ENST00000324453.8	chromosome 7 open reading frame 41 	235	1	0	0	1	0	hsa-let-7d-3p				-0.31	-0.31	N/A
+ISCA2	ENST00000554924.1	iron-sulfur cluster assembly 2 	135	1	0	0	1	0	hsa-let-7d-3p				-0.31	-0.33	N/A
+SDPR	ENST00000304141.4	serum deprivation response 	38	1	0	1	0	0	hsa-let-7d-3p				-0.31	-0.31	N/A
+FYTTD1	ENST00000241502.4	forty-two-three domain containing 1 	891	1	0	0	1	0	hsa-let-7d-3p				-0.31	-0.31	N/A
+CHRNA9	ENST00000310169.2	cholinergic receptor, nicotinic, alpha 9 (neuronal) 	20	1	0	1	0	0	hsa-let-7d-3p				-0.31	-0.31	N/A
+CDH11	ENST00000394156.3	cadherin 11, type 2, OB-cadherin (osteoblast) 	448	1	0	0	1	0	hsa-let-7d-3p				-0.31	-0.31	N/A
+TFAM	ENST00000487519.1	transcription factor A, mitochondrial 	1323	1	0	0	1	0	hsa-let-7d-3p				-0.31	-0.32	N/A
+FAM193B	ENST00000514747.1	family with sequence similarity 193, member B 	77	1	0	0	1	0	hsa-let-7d-3p				-0.31	-0.31	N/A
+CT62	ENST00000566432.1	cancer/testis antigen 62 	5	1	0	0	1	0	hsa-let-7d-3p				-0.31	-0.31	N/A
+ARHGEF10	ENST00000520359.1	Rho guanine nucleotide exchange factor (GEF) 10 	326	1	1	0	0	0	hsa-let-7d-3p				-0.30	-0.34	N/A
+RLN2	ENST00000308420.3	relaxin 2 	20	1	1	0	0	0	hsa-let-7d-3p				-0.30	-0.73	N/A
+RAD52	ENST00000358495.3	RAD52 homolog (S. cerevisiae) 	86	1	0	1	0	0	hsa-let-7d-3p				-0.30	-0.32	N/A
+OTUD6A	ENST00000338352.2	OTU domain containing 6A 	5	1	0	0	1	0	hsa-let-7d-3p				-0.30	-0.30	N/A
+GAS1	ENST00000298743.7	growth arrest-specific 1 	2904	1	0	1	0	0	hsa-let-7d-3p				-0.30	-0.30	N/A
+SLC17A4	ENST00000377905.4	solute carrier family 17, member 4 	5	1	0	0	1	0	hsa-let-7d-3p				-0.30	-0.30	N/A
+LHX1	ENST00000254457.5	LIM homeobox 1 	15	1	0	0	1	0	hsa-let-7d-3p				-0.30	-0.30	N/A
+PPP4R1	ENST00000400556.3	protein phosphatase 4, regulatory subunit 1 	665	1	0	0	1	0	hsa-let-7d-3p				-0.30	-0.30	N/A
+DTNA	ENST00000283365.9	dystrobrevin, alpha 	144	1	1	0	0	0	hsa-let-7d-3p				-0.30	-0.30	N/A
+LPL	ENST00000311322.8	lipoprotein lipase 	7658	1	0	0	1	0	hsa-let-7d-3p				-0.30	-0.30	N/A
+EXOC8	ENST00000360394.2	exocyst complex component 8 	129	1	0	0	1	1	hsa-let-7d-3p				-0.29	-0.29	N/A
+FUBP3	ENST00000319725.9	far upstream element (FUSE) binding protein 3 	121	1	0	0	1	0	hsa-let-7d-3p				-0.29	-0.30	N/A
+RETSAT	ENST00000295802.4	retinol saturase (all-trans-retinol 13,14-reductase) 	2045	1	0	0	1	0	hsa-let-7d-3p				-0.29	-0.29	N/A
+ZNF331	ENST00000253144.9	zinc finger protein 331 	553	1	0	1	0	0	hsa-let-7d-3p				-0.29	-0.29	N/A
+RGS7BP	ENST00000334025.2	regulator of G-protein signaling 7 binding protein 	5	1	0	1	0	0	hsa-let-7d-3p				-0.29	-0.29	N/A
+SLC13A1	ENST00000194130.2	solute carrier family 13 (sodium/sulfate symporter), member 1 	5	1	0	1	0	0	hsa-let-7d-3p				-0.29	-0.29	N/A
+C11orf44	ENST00000317019.2	chromosome 11 open reading frame 44 	5	1	0	0	1	0	hsa-let-7d-3p				-0.29	-0.29	N/A
+TTC26	ENST00000430935.1	tetratricopeptide repeat domain 26 	211	1	1	0	0	0	hsa-let-7d-3p				-0.29	-0.45	N/A
+AC022498.1	ENST00000392468.2	Uncharacterized protein  	5	1	0	0	1	0	hsa-let-7d-3p				-0.29	-0.29	N/A
+COX19	ENST00000344111.3	cytochrome c oxidase assembly homolog 19 (S. cerevisiae) 	734	1	0	1	0	0	hsa-let-7d-3p				-0.29	-0.35	N/A
+MSH3	ENST00000265081.6	mutS homolog 3 	443	1	0	0	1	1	hsa-let-7d-3p				-0.29	-0.34	N/A
+CEND1	ENST00000330106.4	cell cycle exit and neuronal differentiation 1 	28	1	0	0	1	0	hsa-let-7d-3p				-0.29	-0.29	N/A
+CASD1	ENST00000297273.4	CAS1 domain containing 1 	270	1	0	1	0	0	hsa-let-7d-3p				-0.28	-0.35	N/A
+CMTM6	ENST00000205636.3	CKLF-like MARVEL transmembrane domain containing 6 	169	1	0	1	0	0	hsa-let-7d-3p				-0.28	-0.30	N/A
+IL1RN	ENST00000361779.3	interleukin 1 receptor antagonist 	19	1	0	1	0	0	hsa-let-7d-3p				-0.28	-0.28	N/A
+HPGD	ENST00000296522.6	hydroxyprostaglandin dehydrogenase 15-(NAD) 	140	1	1	0	0	0	hsa-let-7d-3p				-0.28	-0.58	N/A
+TDRP	ENST00000324079.6	testis development related protein 	235	1	0	0	1	0	hsa-let-7d-3p				-0.28	-0.30	N/A
+GPR88	ENST00000315033.4	G protein-coupled receptor 88 	5	1	0	1	0	0	hsa-let-7d-3p				-0.28	-0.28	N/A
+RASSF8	ENST00000541490.1	Ras association (RalGDS/AF-6) domain family (N-terminal) member 8 	1290	1	0	1	0	0	hsa-let-7d-3p				-0.28	-0.28	N/A
+PLD5	ENST00000536534.2	phospholipase D family, member 5 	5	1	1	0	0	0	hsa-let-7d-3p				-0.28	-0.28	N/A
+SSH3	ENST00000376757.5	slingshot protein phosphatase 3 	159	1	0	0	1	0	hsa-let-7d-3p				-0.27	-0.27	N/A
+AUTS2	ENST00000342771.4	autism susceptibility candidate 2 	198	1	1	0	0	0	hsa-let-7d-3p				-0.27	-0.42	N/A
+SIDT1	ENST00000264852.4	SID1 transmembrane family, member 1 	5	1	0	0	1	0	hsa-let-7d-3p				-0.27	-0.27	N/A
+RBFOX1	ENST00000355637.4	RNA binding protein, fox-1 homolog (C. elegans) 1 	5	1	0	0	1	0	hsa-let-7d-3p				-0.27	-0.27	N/A
+GPX8	ENST00000296734.6	glutathione peroxidase 8 (putative) 	2107	1	1	0	0	0	hsa-let-7d-3p				-0.27	-0.59	N/A
+ZIK1	ENST00000307468.4	zinc finger protein interacting with K protein 1 	64	1	0	0	1	0	hsa-let-7d-3p				-0.27	-0.38	N/A
+PM20D2	ENST00000275072.4	peptidase M20 domain containing 2 	2171	1	0	1	0	0	hsa-let-7d-3p				-0.27	-0.27	N/A
+NFASC	ENST00000401399.1	neurofascin 	10	1	0	0	1	0	hsa-let-7d-3p				-0.27	-0.27	N/A
+ATMIN	ENST00000299575.4	ATM interactor 	129	1	0	0	1	0	hsa-let-7d-3p				-0.27	-0.27	N/A
+PRKAR1A	ENST00000589228.1	protein kinase, cAMP-dependent, regulatory, type I, alpha 	1257	1	0	0	1	0	hsa-let-7d-3p				-0.26	-0.28	N/A
+ARL15	ENST00000502271.1	ADP-ribosylation factor-like 15 	119	1	0	1	0	0	hsa-let-7d-3p				-0.26	-0.33	N/A
+CTU1	ENST00000421832.2	cytosolic thiouridylase subunit 1 	170	1	0	1	0	1	hsa-let-7d-3p				-0.26	-0.28	N/A
+AL033381.1	ENST00000314040.1	Uncharacterized protein; cDNA FLJ34594 fis, clone KIDNE2009109  	5	1	0	0	1	0	hsa-let-7d-3p				-0.26	-0.26	N/A
+CNGB3	ENST00000320005.5	cyclic nucleotide gated channel beta 3 	5	1	0	0	1	0	hsa-let-7d-3p				-0.26	-0.26	N/A
+ZNF616	ENST00000330123.5	zinc finger protein 616 	45	1	0	0	1	0	hsa-let-7d-3p				-0.26	-0.29	N/A
+VEZF1	ENST00000584396.1	vascular endothelial zinc finger 1 	209	1	0	0	1	0	hsa-let-7d-3p				-0.26	-0.26	N/A
+ATG16L1	ENST00000392017.4	autophagy related 16-like 1 (S. cerevisiae) 	552	1	0	0	1	0	hsa-let-7d-3p				-0.26	-0.26	N/A
+EYA1	ENST00000388742.4	eyes absent homolog 1 (Drosophila) 	222	1	0	0	1	0	hsa-let-7d-3p				-0.26	-0.26	N/A
+TMPRSS11D	ENST00000283916.6	transmembrane protease, serine 11D 	5	1	0	0	1	0	hsa-let-7d-3p				-0.25	-0.25	N/A
+TRIM64B	ENST00000329862.6	tripartite motif containing 64B 	5	1	0	1	0	0	hsa-let-7d-3p				-0.25	-0.25	N/A
+YY1	ENST00000262238.4	YY1 transcription factor 	1803	1	0	1	0	0	hsa-let-7d-3p				-0.25	-0.25	N/A
+XRN1	ENST00000264951.4	5'-3' exoribonuclease 1 	612	1	1	0	0	0	hsa-let-7d-3p				-0.25	-0.26	N/A
+ZCCHC6	ENST00000277141.6	zinc finger, CCHC domain containing 6 	20	1	0	0	1	0	hsa-let-7d-3p				-0.25	-0.25	N/A
+NUDT19	ENST00000397061.3	nudix (nucleoside diphosphate linked moiety X)-type motif 19 	341	1	0	0	1	0	hsa-let-7d-3p				-0.25	-0.25	N/A
+CYB5RL	ENST00000419823.2	cytochrome b5 reductase-like 	7	1	0	1	0	0	hsa-let-7d-3p				-0.24	-0.24	N/A
+ZNF24	ENST00000589881.1	zinc finger protein 24 	1796	2	0	1	1	0	hsa-let-7d-3p				-0.24	-0.47	N/A
+RSPH10B2	ENST00000359718.3	radial spoke head 10 homolog B2 (Chlamydomonas) 	5	1	0	0	1	0	hsa-let-7d-3p				-0.24	-0.24	N/A
+GOLGA8G	ENST00000329523.6	golgin A8 family, member G 	5	1	0	1	0	0	hsa-let-7d-3p				-0.24	-0.24	N/A
+LRIT2	ENST00000372113.4	leucine-rich repeat, immunoglobulin-like and transmembrane domains 2 	5	1	0	0	1	0	hsa-let-7d-3p				-0.24	-0.24	N/A
+ERC2	ENST00000288221.6	ELKS/RAB6-interacting/CAST family member 2 	11	1	1	0	0	0	hsa-let-7d-3p				-0.24	-0.24	N/A
+CTD-2054N24.2	ENST00000559714.1	Uncharacterized protein  	21	1	0	0	1	1	hsa-let-7d-3p				-0.24	-0.32	N/A
+PEX5L	ENST00000467460.1	peroxisomal biogenesis factor 5-like 	5	1	0	0	1	0	hsa-let-7d-3p				-0.24	-0.24	N/A
+PRICKLE3	ENST00000376317.3	prickle homolog 3 (Drosophila) 	117	1	0	1	0	0	hsa-let-7d-3p				-0.24	-0.41	N/A
+PTAR1	ENST00000377200.5	protein prenyltransferase alpha subunit repeat containing 1 	161	1	0	1	0	0	hsa-let-7d-3p				-0.23	-0.23	N/A
+GOLGA8F	ENST00000526619.2	golgin A8 family, member F 	5	1	0	1	0	0	hsa-let-7d-3p				-0.23	-0.23	N/A
+AL117190.3	ENST00000599197.1	Esophagus cancer-related gene-2 interaction susceptibility protein; Uncharacterized protein  	30	1	1	0	0	0	hsa-let-7d-3p				-0.23	-0.28	N/A
+CLEC5A	ENST00000546910.1	C-type lectin domain family 5, member A 	5	1	0	1	0	0	hsa-let-7d-3p				-0.23	-0.23	N/A
+KLF6	ENST00000542957.1	Kruppel-like factor 6 	4644	1	0	0	1	0	hsa-let-7d-3p				-0.23	-0.23	N/A
+URM1	ENST00000372850.1	ubiquitin related modifier 1 	345	1	0	1	0	0	hsa-let-7d-3p				-0.23	-0.24	N/A
+MTMR6	ENST00000381801.5	myotubularin related protein 6 	838	1	0	0	1	0	hsa-let-7d-3p				-0.23	-0.23	N/A
+KCNT2	ENST00000367433.5	potassium channel, subfamily T, member 2 	5	1	0	1	0	0	hsa-let-7d-3p				-0.23	-0.23	N/A
+SPOPL	ENST00000280098.4	speckle-type POZ protein-like 	216	1	0	0	1	0	hsa-let-7d-3p				-0.23	-0.25	N/A
+ZNF605	ENST00000360187.4	zinc finger protein 605 	147	1	0	0	1	0	hsa-let-7d-3p				-0.23	-0.23	N/A
+CLDN16	ENST00000264734.2	claudin 16 	25	1	0	1	0	0	hsa-let-7d-3p				-0.23	-0.23	N/A
+GATA4	ENST00000335135.4	GATA binding protein 4 	5	1	0	1	0	0	hsa-let-7d-3p				-0.23	-0.23	N/A
+ZFP69B	ENST00000484445.1	ZFP69 zinc finger protein B 	176	1	0	1	0	0	hsa-let-7d-3p				-0.22	-0.27	N/A
+KIAA0754	ENST00000530275.1	KIAA0754 	5	1	0	0	1	0	hsa-let-7d-3p				-0.22	-0.22	N/A
+CEP170	ENST00000366542.1	centrosomal protein 170kDa 	6	1	0	0	1	0	hsa-let-7d-3p				-0.22	-0.22	N/A
+LETMD1	ENST00000380123.2	LETM1 domain containing 1 	1619	1	0	1	0	0	hsa-let-7d-3p				-0.22	-0.22	N/A
+ACTR1B	ENST00000289228.5	ARP1 actin-related protein 1 homolog B, centractin beta (yeast) 	5716	1	0	1	0	0	hsa-let-7d-3p				-0.22	-0.22	N/A
+SLC36A1	ENST00000243389.3	solute carrier family 36 (proton/amino acid symporter), member 1 	236	1	0	0	1	0	hsa-let-7d-3p				-0.22	-0.22	N/A
+SPRY3	ENST00000302805.2	sprouty homolog 3 (Drosophila) 	5	1	0	0	1	1	hsa-let-7d-3p				-0.22	-0.22	N/A
+GAS7	ENST00000437099.2	growth arrest-specific 7 	186	1	0	1	0	0	hsa-let-7d-3p				-0.22	-0.22	N/A
+FAM133B	ENST00000438306.1	family with sequence similarity 133, member B 	32	1	0	1	0	0	hsa-let-7d-3p				-0.22	-0.22	N/A
+FMR1	ENST00000370471.3	fragile X mental retardation 1 	1155	1	0	1	0	0	hsa-let-7d-3p				-0.22	-0.22	N/A
+C3orf72	ENST00000383165.3	chromosome 3 open reading frame 72 	11	1	1	0	0	0	hsa-let-7d-3p				-0.22	-0.43	N/A
+RAB2B	ENST00000397762.1	RAB2B, member RAS oncogene family 	171	1	0	0	1	0	hsa-let-7d-3p				-0.22	-0.22	N/A
+TTC9	ENST00000256367.2	tetratricopeptide repeat domain 9 	39	1	0	1	0	0	hsa-let-7d-3p				-0.21	-0.21	N/A
+RSPH10B	ENST00000539903.1	radial spoke head 10 homolog B (Chlamydomonas) 	5	1	0	0	1	0	hsa-let-7d-3p				-0.21	-0.21	N/A
+WDR82	ENST00000296490.3	WD repeat domain 82 	319	1	0	0	1	0	hsa-let-7d-3p				-0.21	-0.23	N/A
+IMPG1	ENST00000369963.3	interphotoreceptor matrix proteoglycan 1 	5	1	0	0	1	0	hsa-let-7d-3p				-0.21	-0.21	N/A
+BCL10	ENST00000370580.1	B-cell CLL/lymphoma 10 	2090	1	0	1	0	0	hsa-let-7d-3p				-0.21	-0.22	N/A
+PWP1	ENST00000412830.3	PWP1 homolog (S. cerevisiae) 	163	1	0	0	1	0	hsa-let-7d-3p				-0.21	-0.33	N/A
+MYO9A	ENST00000564571.1	myosin IXA 	137	1	0	0	1	0	hsa-let-7d-3p				-0.21	-0.22	N/A
+GTF3C3	ENST00000263956.3	general transcription factor IIIC, polypeptide 3, 102kDa 	248	1	0	0	1	0	hsa-let-7d-3p				-0.21	-0.34	N/A
+APPL1	ENST00000288266.3	adaptor protein, phosphotyrosine interaction, PH domain and leucine zipper containing 1 	908	1	0	1	0	1	hsa-let-7d-3p				-0.21	-0.32	N/A
+ZNF302	ENST00000505365.2	zinc finger protein 302 	13	1	0	1	0	0	hsa-let-7d-3p				-0.21	-0.21	N/A
+AMMECR1	ENST00000262844.5	Alport syndrome, mental retardation, midface hypoplasia and elliptocytosis chromosomal region gene 1 	5	1	0	1	0	0	hsa-let-7d-3p				-0.21	-0.21	N/A
+PI15	ENST00000260113.2	peptidase inhibitor 15 	12	1	0	0	1	0	hsa-let-7d-3p				-0.21	-0.21	N/A
+COMMD2	ENST00000473414.1	COMM domain containing 2 	833	1	0	1	0	0	hsa-let-7d-3p				-0.20	-0.28	N/A
+DGKB	ENST00000403951.2	diacylglycerol kinase, beta 90kDa 	5	1	0	0	1	0	hsa-let-7d-3p				-0.20	-0.20	N/A
+BNC1	ENST00000345382.2	basonuclin 1 	6	1	0	0	1	0	hsa-let-7d-3p				-0.20	-0.20	N/A
+AHCTF1	ENST00000366508.1	AT hook containing transcription factor 1 	5	1	0	0	1	0	hsa-let-7d-3p				-0.20	-0.20	N/A
+SS18L1	ENST00000331758.3	synovial sarcoma translocation gene on chromosome 18-like 1 	274	1	0	0	1	0	hsa-let-7d-3p				-0.20	-0.26	N/A
+MESDC2	ENST00000261758.4	mesoderm development candidate 2 	1433	1	0	1	0	0	hsa-let-7d-3p				-0.20	-0.24	N/A
+GLS	ENST00000338435.4	glutaminase 	1927	1	0	1	0	0	hsa-let-7d-3p				-0.20	-0.21	N/A
+LSM11	ENST00000286307.5	LSM11, U7 small nuclear RNA associated 	1458	1	0	0	1	1	hsa-let-7d-3p				-0.20	-0.21	N/A
+GOLGA6L9	ENST00000300515.8	golgin A6 family-like 9 	5	1	0	0	1	0	hsa-let-7d-3p				-0.20	-0.20	N/A
+AP3D1	ENST00000355272.6	adaptor-related protein complex 3, delta 1 subunit 	464	1	0	0	1	0	hsa-let-7d-3p				-0.20	-0.25	N/A
+SH3BP5	ENST00000383791.3	SH3-domain binding protein 5 (BTK-associated) 	4289	1	0	0	1	0	hsa-let-7d-3p				-0.20	-0.20	N/A
+SMCHD1	ENST00000320876.6	structural maintenance of chromosomes flexible hinge domain containing 1 	270	1	0	0	1	0	hsa-let-7d-3p				-0.20	-0.24	N/A
+KCTD15	ENST00000284006.6	potassium channel tetramerization domain containing 15 	2483	1	0	0	1	0	hsa-let-7d-3p				-0.20	-0.22	N/A
+ANKRD34C	ENST00000421388.2	ankyrin repeat domain 34C 	5	1	0	1	0	0	hsa-let-7d-3p				-0.20	-0.20	N/A
+METTL6	ENST00000443029.1	methyltransferase like 6 	20	1	0	0	1	0	hsa-let-7d-3p				-0.20	-0.20	N/A
+GOLGA6L10	ENST00000439287.4	Putative golgin subfamily A member 6-like protein 10  	0	1	0	0	1	0	hsa-let-7d-3p				-0.20	-0.20	N/A
+PHC1	ENST00000433083.2	polyhomeotic homolog 1 (Drosophila) 	5	1	0	0	1	0	hsa-let-7d-3p				-0.20	-0.20	N/A
+JHDM1D	ENST00000397560.2	jumonji C domain containing histone demethylase 1 homolog D (S. cerevisiae) 	470	1	0	0	1	0	hsa-let-7d-3p				-0.20	-0.22	N/A
+GOLGA6L9	ENST00000358583.3	Homo sapiens golgin subfamily A member 6-like protein 9-like (LOC101927658), mRNA. 	5	1	0	0	1	0	hsa-let-7d-3p				-0.20	-0.20	N/A
+PDCL	ENST00000259467.4	phosducin-like 	154	1	0	1	0	0	hsa-let-7d-3p				-0.19	-0.23	N/A
+GOLGA6L4	ENST00000510439.2	golgin A6 family-like 4 	5	1	0	0	1	0	hsa-let-7d-3p				-0.19	-0.19	N/A
+ZNF532	ENST00000336078.4	zinc finger protein 532 	5	1	0	1	0	0	hsa-let-7d-3p				-0.19	-0.19	N/A
+HEATR1	ENST00000366582.3	HEAT repeat containing 1 	282	1	0	1	0	0	hsa-let-7d-3p				-0.19	-0.20	N/A
+CD47	ENST00000361309.5	CD47 molecule 	520	1	1	0	0	1	hsa-let-7d-3p				-0.19	-0.58	N/A
+TNFAIP8L1	ENST00000327473.4	tumor necrosis factor, alpha-induced protein 8-like 1 	603	1	0	0	1	0	hsa-let-7d-3p				-0.19	-0.23	N/A
+GPR107	ENST00000372410.3	G protein-coupled receptor 107 	1429	1	0	0	1	0	hsa-let-7d-3p				-0.19	-0.23	N/A
+RP13-996F3.5	ENST00000559949.1	Uncharacterized protein  	0	1	0	0	1	0	hsa-let-7d-3p				-0.19	-0.19	N/A
+BCAT1	ENST00000261192.7	branched chain amino-acid transaminase 1, cytosolic 	1346	1	0	0	1	0	hsa-let-7d-3p				-0.19	-0.20	N/A
+PDE2A	ENST00000334456.5	phosphodiesterase 2A, cGMP-stimulated 	75	1	0	1	0	0	hsa-let-7d-3p				-0.19	-0.19	N/A
+PHOX2B	ENST00000226382.2	paired-like homeobox 2b 	5	1	0	0	1	0	hsa-let-7d-3p				-0.19	-0.19	N/A
+FAM230A	ENST00000434783.3	family with sequence similarity 230, member A 	5	1	0	0	1	2	hsa-let-7d-3p				-0.19	-0.19	N/A
+PPAPDC2	ENST00000381883.2	phosphatidic acid phosphatase type 2 domain containing 2 	263	1	0	1	0	0	hsa-let-7d-3p				-0.18	-0.24	N/A
+PHYHIPL	ENST00000373880.4	phytanoyl-CoA 2-hydroxylase interacting protein-like 	26	1	1	0	0	0	hsa-let-7d-3p				-0.18	-0.53	N/A
+PIGN	ENST00000357637.5	phosphatidylinositol glycan anchor biosynthesis, class N 	211	1	0	1	0	0	hsa-let-7d-3p				-0.18	-0.31	N/A
+NUP37	ENST00000552283.1	nucleoporin 37kDa 	458	1	1	0	0	1	hsa-let-7d-3p				-0.18	-0.67	N/A
+FUT11	ENST00000394790.1	fucosyltransferase 11 (alpha (1,3) fucosyltransferase) 	622	1	0	0	1	0	hsa-let-7d-3p				-0.18	-0.23	N/A
+SLC6A6	ENST00000454876.2	solute carrier family 6 (neurotransmitter transporter), member 6 	280	1	0	0	1	0	hsa-let-7d-3p				-0.18	-0.19	N/A
+ABCA1	ENST00000374736.3	ATP-binding cassette, sub-family A (ABC1), member 1 	184	1	0	0	1	0	hsa-let-7d-3p				-0.18	-0.18	N/A
+RGL1	ENST00000304685.4	ral guanine nucleotide dissociation stimulator-like 1 	188	1	0	1	0	0	hsa-let-7d-3p				-0.18	-0.18	N/A
+SLC4A4	ENST00000340595.3	solute carrier family 4 (sodium bicarbonate cotransporter), member 4 	400	1	0	0	1	0	hsa-let-7d-3p				-0.18	-0.18	N/A
+MYO1H	ENST00000310903.5	myosin IH 	5	1	0	0	1	0	hsa-let-7d-3p				-0.18	-0.18	N/A
+KLF9	ENST00000377126.2	Kruppel-like factor 9 	20	1	0	0	1	0	hsa-let-7d-3p				-0.18	-0.27	N/A
+NRF1	ENST00000393230.2	nuclear respiratory factor 1 	321	1	0	1	0	0	hsa-let-7d-3p				-0.18	-0.22	N/A
+ALDH3A2	ENST00000339618.4	aldehyde dehydrogenase 3 family, member A2 	940	1	0	0	1	0	hsa-let-7d-3p				-0.18	-0.28	N/A
+ARRDC4	ENST00000268042.6	arrestin domain containing 4 	10	1	0	1	0	0	hsa-let-7d-3p				-0.17	-0.17	N/A
+C3orf70	ENST00000335012.2	chromosome 3 open reading frame 70 	19	1	0	0	1	0	hsa-let-7d-3p				-0.17	-0.17	N/A
+PLCE1	ENST00000371380.3	phospholipase C, epsilon 1 	7	1	0	0	1	0	hsa-let-7d-3p				-0.17	-0.17	N/A
+TMEM170A	ENST00000357613.4	transmembrane protein 170A 	70	1	0	0	1	0	hsa-let-7d-3p				-0.17	-0.27	N/A
+ASRGL1	ENST00000415229.2	asparaginase like 1 	20	1	0	1	0	0	hsa-let-7d-3p				-0.17	-0.17	N/A
+OCLN	ENST00000355237.2	occludin 	5	1	0	0	1	0	hsa-let-7d-3p				-0.17	-0.17	N/A
+ABCA10	ENST00000416101.2	ATP-binding cassette, sub-family A (ABC1), member 10 	7	1	0	0	1	0	hsa-let-7d-3p				-0.17	-0.17	N/A
+ABCC4	ENST00000412704.1	ATP-binding cassette, sub-family C (CFTR/MRP), member 4 	721	1	0	1	0	0	hsa-let-7d-3p				-0.17	-0.17	N/A
+MARCH6	ENST00000274140.5	membrane-associated ring finger (C3HC4) 6, E3 ubiquitin protein ligase 	14086	1	0	0	1	0	hsa-let-7d-3p				-0.17	-0.19	N/A
+ZNF71	ENST00000328070.6	zinc finger protein 71 	152	2	0	1	1	0	hsa-let-7d-3p				-0.17	-0.32	N/A
+TMED7-TICAM2	ENST00000333314.3	TMED7-TICAM2 readthrough 	202	1	0	0	1	0	hsa-let-7d-3p				-0.17	-0.23	N/A
+MAVS	ENST00000428216.2	mitochondrial antiviral signaling protein 	211	1	0	0	1	0	hsa-let-7d-3p				-0.17	-0.24	N/A
+FLVCR1	ENST00000366971.4	feline leukemia virus subgroup C cellular receptor 1 	322	1	0	1	0	0	hsa-let-7d-3p				-0.17	-0.23	N/A
+SKA1	ENST00000285116.3	spindle and kinetochore associated complex subunit 1 	86	1	0	1	0	0	hsa-let-7d-3p				-0.17	-0.19	N/A
+TICAM2	ENST00000408996.4	toll-like receptor adaptor molecule 2 	202	1	0	0	1	0	hsa-let-7d-3p				-0.17	-0.23	N/A
+NECAB1	ENST00000417640.2	N-terminal EF-hand calcium binding protein 1 	5	1	0	1	0	0	hsa-let-7d-3p				-0.17	-0.17	N/A
+TET3	ENST00000409262.3	tet methylcytosine dioxygenase 3 	1437	1	1	0	0	0	hsa-let-7d-3p				-0.16	-0.16	N/A
+FNDC3A	ENST00000492622.2	fibronectin type III domain containing 3A 	122	1	0	0	1	0	hsa-let-7d-3p				-0.16	-0.24	N/A
+MCTP1	ENST00000515393.1	multiple C2 domains, transmembrane 1 	81	1	0	0	1	0	hsa-let-7d-3p				-0.16	-0.23	N/A
+SLC2A13	ENST00000280871.4	solute carrier family 2 (facilitated glucose transporter), member 13 	47	1	0	0	1	0	hsa-let-7d-3p				-0.16	-0.20	N/A
+MLLT3	ENST00000380338.4	myeloid/lymphoid or mixed-lineage leukemia (trithorax homolog, Drosophila); translocated to, 3 	385	1	0	1	0	1	hsa-let-7d-3p				-0.16	-0.23	N/A
+DCUN1D3	ENST00000324344.4	DCN1, defective in cullin neddylation 1, domain containing 3 	53	1	0	0	1	0	hsa-let-7d-3p				-0.16	-0.26	N/A
+BSN	ENST00000296452.4	bassoon presynaptic cytomatrix protein 	31	1	0	0	1	0	hsa-let-7d-3p				-0.16	-0.16	N/A
+SEMA5A	ENST00000382496.5	sema domain, seven thrombospondin repeats (type 1 and type 1-like), transmembrane domain (TM) and short cytoplasmic domain, (semaphorin) 5A 	98	1	0	0	1	0	hsa-let-7d-3p				-0.15	-0.16	N/A
+GAB1	ENST00000262995.4	GRB2-associated binding protein 1 	26	1	0	0	1	1	hsa-let-7d-3p				-0.15	-0.30	N/A
+GABRG1	ENST00000295452.4	gamma-aminobutyric acid (GABA) A receptor, gamma 1 	5	1	0	0	1	0	hsa-let-7d-3p				-0.15	-0.15	N/A
+RP11-766F14.2	ENST00000511828.1	Protein LOC285556  	5	1	0	0	1	0	hsa-let-7d-3p				-0.15	-0.15	N/A
+KIAA0825	ENST00000513200.3	KIAA0825 	34	1	0	1	0	0	hsa-let-7d-3p				-0.15	-0.18	N/A
+PTPN4	ENST00000263708.2	protein tyrosine phosphatase, non-receptor type 4 (megakaryocyte) 	215	1	0	1	0	1	hsa-let-7d-3p				-0.15	-0.23	N/A
+CTD-2368P22.1	ENST00000550135.1	HCG1811579; Uncharacterized protein  	25	1	0	0	1	0	hsa-let-7d-3p				-0.15	-0.15	N/A
+AAK1	ENST00000409085.4	AP2 associated kinase 1 	27	1	0	1	0	0	hsa-let-7d-3p				-0.15	-0.15	N/A
+ZBTB21	ENST00000398505.3	zinc finger and BTB domain containing 21 	802	1	0	0	1	0	hsa-let-7d-3p				-0.15	-0.15	N/A
+ZC3HAV1	ENST00000242351.5	zinc finger CCCH-type, antiviral 1 	45	1	0	1	0	0	hsa-let-7d-3p				-0.15	-0.15	N/A
+GTF3C4	ENST00000372146.4	general transcription factor IIIC, polypeptide 4, 90kDa 	1598	1	0	0	1	0	hsa-let-7d-3p				-0.14	-0.16	N/A
+SERINC3	ENST00000342374.4	serine incorporator 3 	1218	1	0	1	0	0	hsa-let-7d-3p				-0.14	-0.15	N/A
+ADAM12	ENST00000368679.4	ADAM metallopeptidase domain 12 	758	1	0	1	0	0	hsa-let-7d-3p				-0.14	-0.14	N/A
+TBL1X	ENST00000407597.2	transducin (beta)-like 1X-linked 	125	1	0	0	1	0	hsa-let-7d-3p				-0.14	-0.16	N/A
+ZNF264	ENST00000263095.6	zinc finger protein 264 	412	1	0	1	0	2	hsa-let-7d-3p				-0.14	-0.15	N/A
+RAB27B	ENST00000262094.5	RAB27B, member RAS oncogene family 	5	1	0	1	0	0	hsa-let-7d-3p				-0.14	-0.14	N/A
+CXCR5	ENST00000292174.4	chemokine (C-X-C motif) receptor 5 	5	1	0	1	0	0	hsa-let-7d-3p				-0.14	-0.14	N/A
+BTBD7	ENST00000334746.5	BTB (POZ) domain containing 7 	590	1	0	0	1	0	hsa-let-7d-3p				-0.13	-0.16	N/A
+MFSD8	ENST00000296468.3	major facilitator superfamily domain containing 8 	260	1	0	0	1	0	hsa-let-7d-3p				-0.13	-0.22	N/A
+CREG2	ENST00000324768.5	cellular repressor of E1A-stimulated genes 2 	38	1	0	0	1	0	hsa-let-7d-3p				-0.13	-0.18	N/A
+ZNF85	ENST00000328178.8	zinc finger protein 85 	35	1	0	0	1	0	hsa-let-7d-3p				-0.13	-0.22	N/A
+GBP1	ENST00000370473.4	guanylate binding protein 1, interferon-inducible 	40	1	0	0	1	0	hsa-let-7d-3p				-0.13	-0.32	N/A
+PTPRD	ENST00000381196.4	protein tyrosine phosphatase, receptor type, D 	101	1	0	1	0	0	hsa-let-7d-3p				-0.13	-0.23	N/A
+LPP	ENST00000312675.4	LIM domain containing preferred translocation partner in lipoma 	1894	1	0	1	0	0	hsa-let-7d-3p				-0.12	-0.12	N/A
+HOOK3	ENST00000307602.4	hook microtubule-tethering protein 3 	403	1	0	0	1	0	hsa-let-7d-3p				-0.12	-0.14	N/A
+GRSF1	ENST00000254799.6	G-rich RNA sequence binding factor 1 	4414	1	0	0	1	0	hsa-let-7d-3p				-0.12	-0.21	N/A
+INO80D	ENST00000403263.1	INO80 complex subunit D 	5	1	1	0	0	0	hsa-let-7d-3p				-0.12	-0.12	N/A
+ZBTB3	ENST00000394807.3	zinc finger and BTB domain containing 3 	96	1	1	0	0	0	hsa-let-7d-3p				-0.12	-0.41	N/A
+RIF1	ENST00000243326.5	RAP1 interacting factor homolog (yeast) 	213	1	0	1	0	1	hsa-let-7d-3p				-0.11	-0.23	N/A
+PCLO	ENST00000333891.9	piccolo presynaptic cytomatrix protein 	22	1	0	0	1	0	hsa-let-7d-3p				-0.11	-0.11	N/A
+ERBB4	ENST00000342788.4	v-erb-b2 avian erythroblastic leukemia viral oncogene homolog 4 	27	1	0	1	0	0	hsa-let-7d-3p				-0.11	-0.11	N/A
+CYP20A1	ENST00000356079.4	cytochrome P450, family 20, subfamily A, polypeptide 1 	170	2	0	0	2	0	hsa-let-7d-3p				-0.11	-0.26	N/A
+SLC15A2	ENST00000489711.1	solute carrier family 15 (oligopeptide transporter), member 2 	21	1	0	0	1	0	hsa-let-7d-3p				-0.11	-0.23	N/A
+CELF1	ENST00000395290.2	CUGBP, Elav-like family member 1 	153	1	0	1	0	0	hsa-let-7d-3p				-0.11	-0.20	N/A
+KLF12	ENST00000377669.2	Kruppel-like factor 12 	251	1	0	0	1	0	hsa-let-7d-3p				-0.11	-0.12	N/A
+SGMS2	ENST00000394684.4	sphingomyelin synthase 2 	111	1	0	1	0	1	hsa-let-7d-3p				-0.11	-0.17	N/A
+CCNL2	ENST00000408952.5	cyclin L2 	699	1	0	1	0	0	hsa-let-7d-3p				-0.11	-0.33	N/A
+HOOK1	ENST00000371208.3	hook microtubule-tethering protein 1 	804	1	0	1	0	0	hsa-let-7d-3p				-0.10	-0.10	N/A
+PRSS12	ENST00000296498.3	protease, serine, 12 (neurotrypsin, motopsin) 	57	1	0	0	1	0	hsa-let-7d-3p				-0.10	-0.23	N/A
+URB2	ENST00000258243.2	URB2 ribosome biogenesis 2 homolog (S. cerevisiae) 	383	1	0	0	1	0	hsa-let-7d-3p				-0.10	-0.20	N/A
+PRICKLE1	ENST00000455697.1	prickle homolog 1 (Drosophila) 	146	1	1	0	0	0	hsa-let-7d-3p				-0.10	-0.33	N/A
+ZNF417	ENST00000312026.5	zinc finger protein 417 	19	1	0	1	0	1	hsa-let-7d-3p				-0.10	-0.14	N/A
+KLB	ENST00000257408.4	klotho beta 	95	1	0	1	0	0	hsa-let-7d-3p				-0.10	-0.24	N/A
+TIGD7	ENST00000396862.1	tigger transposable element derived 7 	22	1	1	0	0	0	hsa-let-7d-3p				-0.10	-0.66	N/A
+QKI	ENST00000392127.2	QKI, KH domain containing, RNA binding 	323	1	0	1	0	0	hsa-let-7d-3p				-0.09	-0.10	N/A
+ZNF845	ENST00000458035.1	zinc finger protein 845 	67	1	0	0	1	0	hsa-let-7d-3p				-0.09	-0.18	N/A
+THAP2	ENST00000308086.2	THAP domain containing, apoptosis associated protein 2 	109	1	1	0	0	0	hsa-let-7d-3p				-0.09	-0.51	N/A
+UHRF1BP1L	ENST00000279907.7	UHRF1 binding protein 1-like 	369	1	0	1	0	0	hsa-let-7d-3p				-0.09	-0.16	N/A
+PDGFD	ENST00000393158.2	platelet derived growth factor D 	52	1	0	1	0	0	hsa-let-7d-3p				-0.09	-0.25	N/A
+NBEAL1	ENST00000449802.1	neurobeachin-like 1 	42	1	0	1	0	0	hsa-let-7d-3p				-0.09	-0.10	N/A
+LMBR1	ENST00000353442.5	limb development membrane protein 1 	1435	1	0	0	1	0	hsa-let-7d-3p				-0.09	-0.26	N/A
+CHSY1	ENST00000254190.3	chondroitin sulfate synthase 1 	200	1	0	0	1	1	hsa-let-7d-3p				-0.09	-0.25	N/A
+IL2RB	ENST00000216223.5	interleukin 2 receptor, beta 	5	1	0	1	0	0	hsa-let-7d-3p				-0.09	-0.09	N/A
+KCNH5	ENST00000322893.7	potassium voltage-gated channel, subfamily H (eag-related), member 5 	157	1	0	0	1	0	hsa-let-7d-3p				-0.08	-0.11	N/A
+PTBP2	ENST00000609116.1	polypyrimidine tract binding protein 2 	70	1	0	1	0	0	hsa-let-7d-3p				-0.08	-0.19	N/A
+TRPC3	ENST00000264811.5	transient receptor potential cation channel, subfamily C, member 3 	37	1	0	1	0	0	hsa-let-7d-3p				-0.08	-0.12	N/A
+CTBP2	ENST00000337195.5	C-terminal binding protein 2 	16	1	0	0	1	0	hsa-let-7d-3p				-0.08	-0.24	N/A
+RNF157	ENST00000269391.6	ring finger protein 157 	163	1	0	1	0	0	hsa-let-7d-3p				-0.08	-0.08	N/A
+THBS2	ENST00000366787.3	thrombospondin 2 	372	1	0	1	0	0	hsa-let-7d-3p				-0.08	-0.23	N/A
+CHCHD4	ENST00000295767.5	coiled-coil-helix-coiled-coil-helix domain containing 4 	8	1	0	0	1	0	hsa-let-7d-3p				-0.08	-0.21	N/A
+WRN	ENST00000298139.5	Werner syndrome, RecQ helicase-like 	560	2	0	1	1	0	hsa-let-7d-3p				-0.08	-0.35	N/A
+AGO3	ENST00000373191.4	argonaute RISC catalytic component 3 	198	1	0	1	0	0	hsa-let-7d-3p				-0.08	-0.15	N/A
+NEDD4L	ENST00000256832.7	neural precursor cell expressed, developmentally down-regulated 4-like, E3 ubiquitin protein ligase 	617	1	0	0	1	1	hsa-let-7d-3p				-0.07	-0.28	N/A
+ZC3H12B	ENST00000338957.4	zinc finger CCCH-type containing 12B 	29	1	0	1	0	0	hsa-let-7d-3p				-0.07	-0.07	N/A
+PPCDC	ENST00000342932.3	phosphopantothenoylcysteine decarboxylase 	26	1	0	0	1	0	hsa-let-7d-3p				-0.07	-0.22	N/A
+FAM20B	ENST00000263733.4	family with sequence similarity 20, member B 	113	1	0	1	0	0	hsa-let-7d-3p				-0.07	-0.16	N/A
+EFCAB6	ENST00000356087.4	EF-hand calcium binding domain 6 	23	1	0	1	0	0	hsa-let-7d-3p				-0.07	-0.09	N/A
+GPR133	ENST00000376682.4	G protein-coupled receptor 133 	57	1	0	1	0	0	hsa-let-7d-3p				-0.07	-0.35	N/A
+TMEM30A	ENST00000230461.6	transmembrane protein 30A 	1221	1	0	1	0	0	hsa-let-7d-3p				-0.07	-0.19	N/A
+C12orf5	ENST00000179259.4	chromosome 12 open reading frame 5 	520	1	0	0	1	0	hsa-let-7d-3p				-0.07	-0.34	N/A
+LDLRAD4	ENST00000399848.3	low density lipoprotein receptor class A domain containing 4 	314	1	0	1	0	1	hsa-let-7d-3p				-0.06	-0.16	N/A
+PHF14	ENST00000403050.3	PHD finger protein 14 	112	1	1	0	0	0	hsa-let-7d-3p				-0.06	-0.44	N/A
+TMPPE	ENST00000416695.2	transmembrane protein with metallophosphoesterase domain 	22	1	1	0	0	0	hsa-let-7d-3p				-0.06	-0.25	N/A
+ZNF804B	ENST00000333190.4	zinc finger protein 804B 	0	1	0	1	0	0	hsa-let-7d-3p				-0.06	-0.06	N/A
+SIT1	ENST00000259608.3	signaling threshold regulating transmembrane adaptor 1 	7	1	0	1	0	0	hsa-let-7d-3p				-0.06	-0.21	N/A
+METTL14	ENST00000388822.5	methyltransferase like 14 	520	2	1	0	1	0	hsa-let-7d-3p				-0.06	-0.52	N/A
+VPS35	ENST00000299138.7	vacuolar protein sorting 35 homolog (S. cerevisiae) 	1801	1	0	0	1	0	hsa-let-7d-3p				-0.06	-0.19	N/A
+SLC30A7	ENST00000370112.4	solute carrier family 30 (zinc transporter), member 7 	204	1	0	1	0	0	hsa-let-7d-3p				-0.06	-0.29	N/A
+GXYLT2	ENST00000389617.4	glucoside xylosyltransferase 2 	207	1	0	0	1	0	hsa-let-7d-3p				-0.06	-0.20	N/A
+ASXL2	ENST00000435504.4	additional sex combs like 2 (Drosophila) 	139	1	1	0	0	0	hsa-let-7d-3p				-0.06	-0.22	N/A
+KLF8	ENST00000468660.1	Kruppel-like factor 8 	8	1	0	0	1	0	hsa-let-7d-3p				-0.06	-0.16	N/A
+CXADR	ENST00000356275.6	coxsackie virus and adenovirus receptor 	56	1	0	0	1	0	hsa-let-7d-3p				-0.05	-0.25	N/A
+ADAM22	ENST00000398204.4	ADAM metallopeptidase domain 22 	115	1	0	1	0	0	hsa-let-7d-3p				-0.05	-0.12	N/A
+MOB4	ENST00000233892.4	MOB family member 4, phocein 	123	1	0	1	0	0	hsa-let-7d-3p				-0.05	-0.26	N/A
+EMR2	ENST00000315576.3	egf-like module containing, mucin-like, hormone receptor-like 2 	11	1	0	0	1	0	hsa-let-7d-3p				-0.05	-0.11	N/A
+GLTSCR1L	ENST00000314073.5	GLTSCR1-like 	59	1	0	1	0	0	hsa-let-7d-3p				-0.05	-0.05	N/A
+LRRC3DN	ENST00000596691.1	LRRC3 downstream neighbor (non-protein coding) 	221	1	0	1	0	0	hsa-let-7d-3p				-0.05	-0.24	N/A
+C2orf72	ENST00000373640.4	chromosome 2 open reading frame 72 	3885	1	0	0	1	0	hsa-let-7d-3p				-0.05	-0.29	N/A
+LRIG2	ENST00000361127.5	leucine-rich repeats and immunoglobulin-like domains 2 	348	1	0	1	0	0	hsa-let-7d-3p				-0.04	-0.05	N/A
+SHF	ENST00000560540.1	Src homology 2 domain containing F 	112	1	0	0	1	0	hsa-let-7d-3p				-0.04	-0.29	N/A
+RRP15	ENST00000366932.3	ribosomal RNA processing 15 homolog (S. cerevisiae) 	243	1	0	0	1	0	hsa-let-7d-3p				-0.04	-0.20	N/A
+ANKRD9	ENST00000559651.1	ankyrin repeat domain 9 	766	1	0	0	1	0	hsa-let-7d-3p				-0.04	-0.29	N/A
+KLHL15	ENST00000328046.8	kelch-like family member 15 	42	1	0	0	1	0	hsa-let-7d-3p				-0.04	-0.22	N/A
+PHC3	ENST00000495893.2	polyhomeotic homolog 3 (Drosophila) 	366	1	0	0	1	0	hsa-let-7d-3p				-0.04	-0.15	N/A
+LIFR	ENST00000263409.4	leukemia inhibitory factor receptor alpha 	44	1	1	0	0	0	hsa-let-7d-3p				-0.04	-0.31	N/A
+CALU	ENST00000535011.2	calumenin 	3079	1	0	0	1	0	hsa-let-7d-3p				-0.04	-0.20	N/A
+ACVR2A	ENST00000241416.7	activin A receptor, type IIA 	109	1	0	0	1	0	hsa-let-7d-3p				-0.04	-0.28	N/A
+ZZZ3	ENST00000370801.3	zinc finger, ZZ-type containing 3 	338	1	0	1	0	0	hsa-let-7d-3p				-0.04	-0.12	N/A
+C11orf1	ENST00000260276.3	chromosome 11 open reading frame 1 	18	1	0	1	0	0	hsa-let-7d-3p				-0.04	-0.15	N/A
+DMRTA1	ENST00000325870.2	DMRT-like family A1 	124	1	0	1	0	0	hsa-let-7d-3p				-0.04	-0.17	N/A
+STAMBP	ENST00000394070.2	STAM binding protein 	1274	1	1	0	0	0	hsa-let-7d-3p				-0.04	-0.40	N/A
+HSPE1-MOB4	ENST00000604458.1	HSPE1-MOB4 readthrough 	123	1	0	1	0	0	hsa-let-7d-3p				-0.04	-0.24	N/A
+RIMKLA	ENST00000431473.3	ribosomal modification protein rimK-like family member A 	100	1	0	1	0	0	hsa-let-7d-3p				-0.04	-0.20	N/A
+HACE1	ENST00000262903.4	HECT domain and ankyrin repeat containing E3 ubiquitin protein ligase 1 	191	9	0	9	0	0	hsa-let-7d-3p				-0.04	-0.98	N/A
+ZMYND11	ENST00000381591.1	zinc finger, MYND-type containing 11 	43	1	0	0	1	0	hsa-let-7d-3p				-0.04	-0.27	N/A
+TATDN3	ENST00000526997.1	TatD DNase domain containing 3 	282	1	0	1	0	0	hsa-let-7d-3p				-0.04	-0.36	N/A
+MLXIP	ENST00000319080.7	MLX interacting protein 	69	1	0	0	1	0	hsa-let-7d-3p				-0.04	-0.14	N/A
+REPS2	ENST00000357277.3	RALBP1 associated Eps domain containing 2 	36	1	0	0	1	0	hsa-let-7d-3p				-0.04	-0.24	N/A
+HNMT	ENST00000280097.3	histamine N-methyltransferase 	530	1	0	0	1	0	hsa-let-7d-3p				-0.03	-0.17	N/A
+BDNF	ENST00000439476.2	brain-derived neurotrophic factor 	2696	1	1	0	0	0	hsa-let-7d-3p				-0.03	-0.36	N/A
+MMADHC	ENST00000303319.5	methylmalonic aciduria (cobalamin deficiency) cblD type, with homocystinuria 	250	1	0	1	0	0	hsa-let-7d-3p				-0.03	-0.28	N/A
+SHC4	ENST00000332408.4	SHC (Src homology 2 domain containing) family, member 4 	61	1	0	1	0	0	hsa-let-7d-3p				-0.03	-0.19	N/A
+GFM1	ENST00000486715.1	G elongation factor, mitochondrial 1 	586	1	0	1	0	0	hsa-let-7d-3p				-0.03	-0.26	N/A
+C2CD4A	ENST00000355522.5	C2 calcium-dependent domain containing 4A 	23	1	0	0	1	0	hsa-let-7d-3p				-0.02	-0.28	N/A
+IRS4	ENST00000372129.2	insulin receptor substrate 4 	56	1	0	0	1	0	hsa-let-7d-3p				-0.02	-0.19	N/A
+XPOT	ENST00000332707.5	exportin, tRNA 	887	1	0	1	0	0	hsa-let-7d-3p				-0.02	-0.25	N/A
+COL12A1	ENST00000322507.8	collagen, type XII, alpha 1 	482	1	0	1	0	0	hsa-let-7d-3p				-0.02	-0.11	N/A
+CFL2	ENST00000341223.3	cofilin 2 (muscle) 	902	1	1	0	0	1	hsa-let-7d-3p				-0.02	-0.52	N/A
+SNRPD3	ENST00000215829.3	small nuclear ribonucleoprotein D3 polypeptide 18kDa 	3251	1	0	1	0	0	hsa-let-7d-3p				-0.02	-0.14	N/A
+CDH7	ENST00000397968.2	cadherin 7, type 2 	42	1	0	0	1	0	hsa-let-7d-3p				-0.02	-0.21	N/A
+YME1L1	ENST00000326799.3	YME1-like 1 ATPase 	477	1	0	0	1	0	hsa-let-7d-3p				-0.02	-0.28	N/A
+ST8SIA1	ENST00000396037.4	ST8 alpha-N-acetyl-neuraminide alpha-2,8-sialyltransferase 1 	5	1	0	1	0	0	hsa-let-7d-3p				-0.02	-0.02	N/A
+CMSS1	ENST00000421999.2	cms1 ribosomal small subunit homolog (yeast) 	423	1	0	0	1	0	hsa-let-7d-3p				-0.02	-0.28	N/A
+KDM5C	ENST00000375401.3	lysine (K)-specific demethylase 5C 	422	1	1	0	0	0	hsa-let-7d-3p				-0.02	-0.42	N/A
+CCSER2	ENST00000224756.8	coiled-coil serine-rich protein 2 	123	1	0	1	0	0	hsa-let-7d-3p				-0.02	-0.21	N/A
+GSR	ENST00000221130.5	glutathione reductase 	858	1	1	0	0	0	hsa-let-7d-3p				-0.02	-0.35	N/A
+VPS8	ENST00000287546.4	vacuolar protein sorting 8 homolog (S. cerevisiae) 	120	2	0	1	1	0	hsa-let-7d-3p				-0.02	-0.41	N/A
+URB1	ENST00000382751.3	URB1 ribosome biogenesis 1 homolog (S. cerevisiae) 	667	1	0	0	1	0	hsa-let-7d-3p				-0.02	-0.17	N/A
+TBRG4	ENST00000258770.3	transforming growth factor beta regulator 4 	129	1	0	0	1	1	hsa-let-7d-3p				-0.02	-0.31	N/A
+ESF1	ENST00000202816.1	ESF1, nucleolar pre-rRNA processing protein, homolog (S. cerevisiae) 	180	1	0	0	1	1	hsa-let-7d-3p				-0.02	-0.20	N/A
+CA5B	ENST00000454127.2	carbonic anhydrase VB, mitochondrial 	245	1	0	0	1	0	hsa-let-7d-3p				-0.02	-0.20	N/A
+WDR5B	ENST00000330689.4	WD repeat domain 5B 	23	1	0	1	0	0	hsa-let-7d-3p				-0.01	-0.16	N/A
+DIS3	ENST00000377767.4	DIS3 mitotic control homolog (S. cerevisiae) 	140	1	0	1	0	0	hsa-let-7d-3p				-0.01	-0.15	N/A
+ZC3H14	ENST00000251038.5	zinc finger CCCH-type containing 14 	395	1	0	1	0	0	hsa-let-7d-3p				-0.01	-0.17	N/A
+TTL	ENST00000233336.6	tubulin tyrosine ligase 	442	1	0	0	1	0	hsa-let-7d-3p				-0.01	-0.14	N/A
+PCSK9	ENST00000302118.5	proprotein convertase subtilisin/kexin type 9 	2345	1	0	0	1	0	hsa-let-7d-3p				-0.01	-0.15	N/A
+TTLL7	ENST00000260505.8	tubulin tyrosine ligase-like family, member 7 	93	1	0	1	0	0	hsa-let-7d-3p				-0.01	-0.21	N/A
+ABCG1	ENST00000398457.2	ATP-binding cassette, sub-family G (WHITE), member 1 	64	1	0	0	1	0	hsa-let-7d-3p				-0.01	-0.23	N/A
+TRIM27	ENST00000377194.3	tripartite motif containing 27 	492	1	0	1	0	0	hsa-let-7d-3p				-0.01	-0.18	N/A
+SOD2	ENST00000538183.2	superoxide dismutase 2, mitochondrial 	993	1	0	0	1	0	hsa-let-7d-3p				-0.01	-0.22	N/A
+TIMM9	ENST00000395159.2	translocase of inner mitochondrial membrane 9 homolog (yeast) 	539	1	0	1	0	0	hsa-let-7d-3p				-0.01	-0.39	N/A
+CNKSR3	ENST00000607772.1	CNKSR family member 3 	567	1	0	1	0	0	hsa-let-7d-3p				-0.01	-0.13	N/A
+ARSG	ENST00000448504.2	arylsulfatase G 	73	1	0	0	1	0	hsa-let-7d-3p				-0.01	-0.20	N/A
+CPSF6	ENST00000435070.2	cleavage and polyadenylation specific factor 6, 68kDa 	5819	1	0	0	1	0	hsa-let-7d-3p				-0.01	-0.16	N/A
+UGT3A1	ENST00000274278.3	UDP glycosyltransferase 3 family, polypeptide A1 	90	1	0	0	1	0	hsa-let-7d-3p				-0.01	-0.16	N/A
+ANKRD13C	ENST00000370944.4	ankyrin repeat domain 13C 	369	1	0	1	0	0	hsa-let-7d-3p				-0.01	-0.18	N/A
+PAK1IP1	ENST00000379568.3	PAK1 interacting protein 1 	135	1	0	1	0	0	hsa-let-7d-3p				-0.01	-0.12	N/A
+GEMIN4	ENST00000319004.5	gem (nuclear organelle) associated protein 4 	339	1	0	0	1	0	hsa-let-7d-3p				-0.01	-0.28	N/A
+MAML2	ENST00000524717.1	mastermind-like 2 (Drosophila) 	104	1	0	0	1	0	hsa-let-7d-3p				-0.01	-0.17	N/A
+FUNDC2	ENST00000369498.3	FUN14 domain containing 2 	130	1	0	1	0	0	hsa-let-7d-3p				-0.01	-0.20	N/A
+IMP4	ENST00000409935.1	IMP4, U3 small nucleolar ribonucleoprotein, homolog (yeast) 	955	1	0	1	0	0	hsa-let-7d-3p				-0.01	-0.27	N/A
+VGLL3	ENST00000398399.2	vestigial like 3 (Drosophila) 	187	1	0	1	0	0	hsa-let-7d-3p				-0.01	-0.25	N/A
+MPC2	ENST00000367846.4	mitochondrial pyruvate carrier 2 	1594	1	0	1	0	0	hsa-let-7d-3p				-0.01	-0.29	N/A
+PLA2G12A	ENST00000243501.5	phospholipase A2, group XIIA 	214	1	0	0	1	0	hsa-let-7d-3p				-0.01	-0.27	N/A
+MYO1E	ENST00000288235.4	myosin IE 	198	1	0	0	1	0	hsa-let-7d-3p				-0.01	-0.24	N/A
+C1orf27	ENST00000287859.6	chromosome 1 open reading frame 27 	222	1	0	0	1	0	hsa-let-7d-3p				-0.01	-0.26	N/A
+ITM2B	ENST00000378565.5	integral membrane protein 2B 	10367	1	0	0	1	0	hsa-let-7d-3p				-0.01	-0.27	N/A
+XPR1	ENST00000367590.4	xenotropic and polytropic retrovirus receptor 1 	544	1	0	1	0	0	hsa-let-7d-3p				-0.01	-0.10	N/A
+TP53RK	ENST00000372102.3	TP53 regulating kinase 	186	1	0	0	1	0	hsa-let-7d-3p				-0.01	-0.26	N/A
+TSPAN14	ENST00000429989.3	tetraspanin 14 	239	1	1	0	0	0	hsa-let-7d-3p				-0.01	-0.27	N/A
+ERBB2	ENST00000584450.1	v-erb-b2 avian erythroblastic leukemia viral oncogene homolog 2 	511	1	0	0	1	0	hsa-let-7d-3p				0	-0.29	N/A
+RAB33B	ENST00000305626.5	RAB33B, member RAS oncogene family 	270	1	0	0	1	0	hsa-let-7d-3p				0	-0.29	N/A
+SP3	ENST00000310015.6	Sp3 transcription factor 	285	1	0	0	1	1	hsa-let-7d-3p				0	-0.26	N/A
+ZFP14	ENST00000270001.7	ZFP14 zinc finger protein 	109	1	0	0	1	0	hsa-let-7d-3p				0	-0.17	N/A
+ATG12	ENST00000500945.2	autophagy related 12 	1822	1	1	0	0	0	hsa-let-7d-3p				0	-0.65	N/A
+PDE8B	ENST00000264917.5	phosphodiesterase 8B 	186	1	0	0	1	0	hsa-let-7d-3p				0	-0.17	N/A
+ATG5	ENST00000360666.4	autophagy related 5 	1078	1	0	0	1	0	hsa-let-7d-3p				0	-0.33	N/A
+ANXA7	ENST00000372921.5	annexin A7 	1433	1	0	0	1	0	hsa-let-7d-3p				0	-0.36	N/A
+SCN9A	ENST00000409672.1	sodium channel, voltage-gated, type IX, alpha subunit 	240	1	0	0	1	0	hsa-let-7d-3p				0	-0.15	N/A
+METTL10	ENST00000368836.2	methyltransferase like 10 	919	1	0	0	1	0	hsa-let-7d-3p				0	-0.20	N/A
+TMTC3	ENST00000266712.6	transmembrane and tetratricopeptide repeat containing 3 	406	1	0	0	1	0	hsa-let-7d-3p				0	-0.21	N/A
+AKIRIN1	ENST00000432648.3	akirin 1 	798	1	0	0	1	0	hsa-let-7d-3p				0	-0.23	N/A
+CCNT2	ENST00000295238.6	cyclin T2 	381	1	0	1	0	1	hsa-let-7d-3p				0	-0.12	N/A
+CSGALNACT2	ENST00000374466.3	chondroitin sulfate N-acetylgalactosaminyltransferase 2 	128	1	0	0	1	0	hsa-let-7d-3p				0	-0.27	N/A
+BOD1	ENST00000311086.4	biorientation of chromosomes in cell division 1 	1465	1	0	0	1	0	hsa-let-7d-3p				0	-0.21	N/A
+TMEM106B	ENST00000396667.3	transmembrane protein 106B 	615	1	1	0	0	0	hsa-let-7d-3p				0	-0.35	N/A
+RRM1	ENST00000300738.5	ribonucleotide reductase M1 	2673	1	1	0	0	0	hsa-let-7d-3p				0	-0.29	N/A
+RFX2	ENST00000303657.5	regulatory factor X, 2 (influences HLA class II expression) 	148	1	0	1	0	0	hsa-let-7d-3p				0	-0.07	N/A
+MAPK1	ENST00000215832.6	mitogen-activated protein kinase 1 	630	1	1	0	0	0	hsa-let-7d-3p				0	-0.32	N/A
+PDCD10	ENST00000392750.2	programmed cell death 10 	638	1	0	1	0	0	hsa-let-7d-3p				0	-0.30	N/A
+SLC25A4	ENST00000281456.6	solute carrier family 25 (mitochondrial carrier; adenine nucleotide translocator), member 4 	1169	1	1	0	0	0	hsa-let-7d-3p				0	-0.37	N/A
+HNRNPA0	ENST00000314940.4	heterogeneous nuclear ribonucleoprotein A0 	22668	1	1	0	0	1	hsa-let-7d-3p				0	-0.43	N/A
+TIMMDC1	ENST00000494664.1	translocase of inner mitochondrial membrane domain containing 1 	2305	1	0	1	0	0	hsa-let-7d-3p				0	-0.36	N/A
+CHRNA5	ENST00000299565.5	cholinergic receptor, nicotinic, alpha 5 (neuronal) 	903	1	0	1	0	0	hsa-let-7d-3p				0	-0.24	N/A
+CDK17	ENST00000543119.2	cyclin-dependent kinase 17 	475	1	0	0	1	0	hsa-let-7d-3p				0	-0.29	N/A
+NUDCD3	ENST00000355451.7	NudC domain containing 3 	659	1	0	0	1	0	hsa-let-7d-3p				0	-0.16	N/A
+ATG7	ENST00000354449.3	autophagy related 7 	1467	1	0	0	1	0	hsa-let-7d-3p				0	-0.20	N/A
+TFG	ENST00000240851.4	TRK-fused gene 	2164	1	0	0	1	0	hsa-let-7d-3p				0	-0.29	N/A
+TM9SF3	ENST00000371142.4	transmembrane 9 superfamily member 3 	1030	1	0	1	0	0	hsa-let-7d-3p				0	-0.11	N/A
+STX7	ENST00000367941.2	syntaxin 7 	1395	1	0	0	1	0	hsa-let-7d-3p				0	-0.11	N/A
+EIF4E	ENST00000450253.2	eukaryotic translation initiation factor 4E 	876	1	0	1	0	0	hsa-let-7d-3p				0	-0.18	N/A
+XPO4	ENST00000400602.2	exportin 4 	718	1	0	0	1	0	hsa-let-7d-3p				0	-0.15	N/A
+FAM98B	ENST00000397609.2	family with sequence similarity 98, member B 	850	1	0	0	1	0	hsa-let-7d-3p				0	-0.16	N/A
+CDH19	ENST00000540086.1	cadherin 19, type 2 	5	1	1	0	0	0	hsa-let-7d-3p				0	-0.53	N/A
+DCUN1D5	ENST00000260247.5	DCN1, defective in cullin neddylation 1, domain containing 5 	1486	2	0	0	2	0	hsa-let-7d-3p				0	-0.33	N/A
+PDK1	ENST00000282077.3	pyruvate dehydrogenase kinase, isozyme 1 	637	1	0	1	0	1	hsa-let-7d-3p				0	-0.11	N/A
+NBPF10	ENST00000369339.3	neuroblastoma breakpoint family, member 10 	5	1	1	0	0	0	hsa-let-7d-3p				0	-0.44	N/A
+HDAC2	ENST00000519065.1	histone deacetylase 2 	1701	1	0	0	1	0	hsa-let-7d-3p				0	-0.28	N/A
+DNAJC10	ENST00000264065.7	DnaJ (Hsp40) homolog, subfamily C, member 10 	709	1	0	1	0	0	hsa-let-7d-3p				0	-0.05	N/A
+G3BP2	ENST00000395719.3	GTPase activating protein (SH3 domain) binding protein 2 	4413	1	0	0	1	0	hsa-let-7d-3p				0	-0.26	N/A
+NCKAP1	ENST00000361354.4	NCK-associated protein 1 	700	1	0	0	1	0	hsa-let-7d-3p				0	-0.09	N/A
+CANX	ENST00000247461.4	calnexin 	17053	1	1	0	0	0	hsa-let-7d-3p				0	-0.39	N/A
+TCEAL6	ENST00000372774.3	transcription elongation factor A (SII)-like 6 	5	1	0	1	0	0	hsa-let-7d-3p				0	-0.31	N/A
+MOBP	ENST00000420739.1	myelin-associated oligodendrocyte basic protein 	5	1	0	0	1	0	hsa-let-7d-3p				0	-0.25	N/A
+ZFYVE16	ENST00000338008.5	zinc finger, FYVE domain containing 16 	388	1	0	1	0	0	hsa-let-7d-3p				0	-0.13	N/A
+SPATS2	ENST00000553127.1	spermatogenesis associated, serine-rich 2 	779	1	0	0	1	0	hsa-let-7d-3p				0	-0.15	N/A
+SIGLEC14	ENST00000360844.6	sialic acid binding Ig-like lectin 14 	5	1	1	0	0	0	hsa-let-7d-3p				0	-0.28	N/A
+TRAT1	ENST00000295756.6	T cell receptor associated transmembrane adaptor 1 	5	1	0	0	1	0	hsa-let-7d-3p				0	-0.24	N/A
+C14orf23	ENST00000399387.4	chromosome 14 open reading frame 23 	5	1	0	1	0	0	hsa-let-7d-3p				0	-0.21	N/A
+FBXO47	ENST00000378079.2	F-box protein 47 	5	1	0	0	1	0	hsa-let-7d-3p				0	-0.19	N/A
+NKAPL	ENST00000343684.3	NFKB activating protein-like 	5	1	0	0	1	0	hsa-let-7d-3p				0	-0.24	N/A
+RP13-996F3.4	ENST00000557886.1	Uncharacterized protein  	5	1	0	0	1	0	hsa-let-7d-3p				0	-0.22	N/A
+MTMR8	ENST00000374852.3	myotubularin related protein 8 	5	1	0	0	1	0	hsa-let-7d-3p				0	-0.19	N/A
+PLG	ENST00000308192.9	plasminogen 	14	1	0	1	0	0	hsa-let-7d-3p				0	-0.27	N/A
+HCN1	ENST00000303230.4	hyperpolarization activated cyclic nucleotide-gated potassium channel 1 	5	1	0	1	0	0	hsa-let-7d-3p				0	-0.13	N/A
+JUND	ENST00000252818.3	jun D proto-oncogene 	13688	1	0	0	1	0	hsa-let-7d-3p				0	-0.27	N/A
+SEC24D	ENST00000429811.2	SEC24 family, member D (S. cerevisiae) 	50	1	1	0	0	0	hsa-let-7d-3p				0	-0.72	N/A
+KCNJ3	ENST00000295101.2	potassium inwardly-rectifying channel, subfamily J, member 3 	21	1	0	1	0	0	hsa-let-7d-3p				0	-0.25	N/A
+ZNF141	ENST00000240499.7	zinc finger protein 141 	19	1	0	0	1	1	hsa-let-7d-3p				0	-0.30	N/A
+TCTEX1D1	ENST00000282670.2	Tctex1 domain containing 1 	20	1	0	0	1	0	hsa-let-7d-3p				0	-0.33	N/A
+PCDHB15	ENST00000231173.3	protocadherin beta 15 	33	1	1	0	0	0	hsa-let-7d-3p				0	-0.21	N/A
+SSTR2	ENST00000315332.2	somatostatin receptor 2 	21	1	1	0	0	0	hsa-let-7d-3p				0	-0.25	N/A
+DUSP3	ENST00000226004.3	dual specificity phosphatase 3 	836	1	1	0	0	0	hsa-let-7d-3p				0	-0.43	N/A
+SC5D	ENST00000264027.4	sterol-C5-desaturase 	1299	1	1	0	0	0	hsa-let-7d-3p				0	-0.46	N/A
+SOCS5	ENST00000306503.5	suppressor of cytokine signaling 5 	72	1	0	0	1	0	hsa-let-7d-3p				0	-0.19	N/A
+GPC6	ENST00000377047.4	glypican 6 	410	1	0	1	0	0	hsa-let-7d-3p				0	-0.23	N/A
+FBXL5	ENST00000341285.3	F-box and leucine-rich repeat protein 5 	487	1	0	1	0	0	hsa-let-7d-3p				0	-0.28	N/A
+XRCC5	ENST00000392133.3	X-ray repair complementing defective repair in Chinese hamster cells 5 (double-strand-break rejoining) 	14802	1	1	0	0	0	hsa-let-7d-3p				0	-0.03	N/A
+EXOSC10	ENST00000544779.1	exosome component 10 	138	1*	0	0	0	0	hsa-let-7d-3p				0	0	N/A
+LILRB2	ENST00000391746.1	leukocyte immunoglobulin-like receptor, subfamily B (with TM and ITIM domains), member 2 	5	1	1	0	0	0	hsa-let-7d-3p				0	-0.50	N/A
+RWDD1	ENST00000466444.2	RWD domain containing 1 	296	1	0	0	1	0	hsa-let-7d-3p				0	-0.26	N/A
+FAM229B	ENST00000368656.2	family with sequence similarity 229, member B 	237	1	0	0	1	0	hsa-let-7d-3p				0	-0.23	N/A
+CD59	ENST00000395850.3	CD59 molecule, complement regulatory protein 	19017	1*	0	0	0	0	hsa-let-7d-3p				0	0	N/A
+MRPL39	ENST00000352957.4	mitochondrial ribosomal protein L39 	470	1	0	0	1	0	hsa-let-7d-3p				0	-0.26	N/A
+GHR	ENST00000230882.4	growth hormone receptor 	102	1	0	0	1	0	hsa-let-7d-3p				0	-0.18	N/A
+ZNF827	ENST00000379448.4	zinc finger protein 827 	17	1	0	0	1	0	hsa-let-7d-3p				0	-0.17	N/A
+FAM208A	ENST00000493960.2	family with sequence similarity 208, member A 	60	1	0	0	1	0	hsa-let-7d-3p				0	-0.21	N/A
+TNNI1	ENST00000361379.4	troponin I type 1 (skeletal, slow) 	5	1	0	0	1	0	hsa-let-7d-3p				0	-0.22	N/A
+CRISPLD2	ENST00000262424.5	cysteine-rich secretory protein LCCL domain containing 2 	397	1	0	1	0	0	hsa-let-7d-3p				0	-0.09	N/A

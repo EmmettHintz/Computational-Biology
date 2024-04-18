@@ -45,21 +45,32 @@ def fcbf(X, y, delta=0):
     
     return np.array(F, dtype=int), np.array(SU)
 
-data_path = '/Users/emmetthintz/Documents/Computational-Biology/Data/Union_Data.csv'
-data = pd.read_csv(data_path)
-# print(data.head())
-X = data.drop(['Participant ID', 'Timepoint', 'Treatment', 'Response'], axis=1).values
-y = data['Response'].values
+# Treatment Group Analysis
+treatment_data_path = '/Users/emmetthintz/Documents/Computational-Biology/Data/Union_Data.csv'  # Adjust path as necessary
+treatment_data = pd.read_csv(treatment_data_path)
+X_treatment = treatment_data.drop(['Participant ID', 'Timepoint', 'Treatment', 'Response'], axis=1).values
+y_treatment = treatment_data['Response'].values
+X_discrete_treatment = discretize_data(X_treatment, n_bins=3)
+F_treatment, SU_treatment = fcbf(X_discrete_treatment, y_treatment)
+print("Treatment Group - Selected Features:", F_treatment)
+print("SU Scores:", SU_treatment)
 
-# Discretize the data
-X_discrete = discretize_data(X, n_bins=3)
+# Assuming the features and response for the control group are similarly structured
+# Control Group Analysis
+control_data_path = '/Users/emmetthintz/Documents/Computational-Biology/Data/CONTROL_union_data.csv'  # Adjust this path to where your control data is located
+control_data = pd.read_csv(control_data_path)
+X_control = control_data.drop(['Participant ID', 'Timepoint', 'Treatment', 'Response'], axis=1).values
+y_control = control_data['Response'].values
+X_discrete_control = discretize_data(X_control, n_bins=3)
+F_control, SU_control = fcbf(X_discrete_control, y_control)
+print("Control Group - Selected Features:", F_control)
+print("SU Scores:", SU_control)
 
-# Apply FCBF
-F, SU = fcbf(X_discrete, y)
+# Display selected features by name for both groups
+print("\nTreatment Group - Selected miRNAs:")
+for index in F_treatment:
+    print(treatment_data.columns[index+4])  # Adjust the index offset as necessary based on your dataset structure
 
-print("Selected Features:", F)
-print("SU Scores:", SU)
-
-# Print the features that were selected
-selected_features = data.columns[F]
-print(selected_features)
+print("\nControl Group - Selected miRNAs:")
+for index in F_control:
+    print(control_data.columns[index+4])  # Adjust the index offset as necessary based on your dataset structure

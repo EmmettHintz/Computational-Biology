@@ -1,0 +1,266 @@
+Target gene,Representative transcript,Gene name,3P-seq tags + 5,Total sites,8mer sites,7mer-m8 sites,7mer-A1 sites,6mer sites,Representative miRNA,Predicted occupancy (low miRNA),Predicted occupancy (high miRNA),Predicted occupancy (transfected miRNA),Cumulative weighted context++ score,Total context++ score,Aggregate PCT,Conserved sites total,Conserved 8mer sites,Conserved 7mer-m8 sites,Conserved 7mer-A1 sites,Poorly conserved sites total,Poorly conserved 8mer sites,Poorly conserved 7mer-m8 sites,Poorly conserved 7mer-A1 sites,Previous TargetScan publication(s)
+AQP9,ENST00000219919.4,aquaporin 9 ,5,6,2.0,3.0,1.0,0,hsa-miR-451b,,,,-0.87,-0.87,,,,,,,,,,
+TNFAIP8,ENST00000504771.2,"tumor necrosis factor, alpha-induced protein 8 ",608,5,2.0,1.0,2.0,2,hsa-miR-451b,,,,-0.86,-1.12,,,,,,,,,,
+RHOA,ENST00000454011.2,ras homolog family member A ,8507,2,1.0,1.0,0.0,1,hsa-miR-451b,,,,-0.78,-0.78,,,,,,,,,,
+RP13-512J5.1,ENST00000438485.1,Uncharacterized protein  ,204,2,0.0,2.0,0.0,0,hsa-miR-451b,,,,-0.72,-0.74,,,,,,,,,,
+C10orf67,ENST00000323327.4,chromosome 10 open reading frame 67 ,5,2,2.0,0.0,0.0,1,hsa-miR-451b,,,,-0.7,-0.7,,,,,,,,,,
+UTS2B,ENST00000340524.5,urotensin 2B ,13,2,1.0,0.0,1.0,1,hsa-miR-451b,,,,-0.67,-0.67,,,,,,,,,,
+STXBP6,ENST00000396700.1,syntaxin binding protein 6 (amisyn) ,40,2,2.0,0.0,0.0,1,hsa-miR-451b,,,,-0.66,-0.83,,,,,,,,,,
+KIAA0101,ENST00000558008.1,KIAA0101 ,6821,1,1.0,0.0,0.0,2,hsa-miR-451b,,,,-0.61,-0.67,,,,,,,,,,
+SCGB1D2,ENST00000244926.3,"secretoglobin, family 1D, member 2 ",5,1,0.0,1.0,0.0,1,hsa-miR-451b,,,,-0.58,-0.58,,,,,,,,,,
+GPX8,ENST00000296734.6,glutathione peroxidase 8 (putative) ,2107,1,1.0,0.0,0.0,0,hsa-miR-451b,,,,-0.57,-0.58,,,,,,,,,,
+DSTN,ENST00000246069.7,destrin (actin depolymerizing factor) ,10116,1,1.0,0.0,0.0,0,hsa-miR-451b,,,,-0.56,-0.56,,,,,,,,,,
+SEPHS2,ENST00000542752.1,selenophosphate synthetase 2 ,62,1,1.0,0.0,0.0,0,hsa-miR-451b,,,,-0.55,-0.56,,,,,,,,,,
+C9orf72,ENST00000380003.3,chromosome 9 open reading frame 72 ,25,2,2.0,0.0,0.0,0,hsa-miR-451b,,,,-0.55,-0.55,,,,,,,,,,
+CCNYL1,ENST00000295414.3,cyclin Y-like 1 ,111,2,1.0,1.0,0.0,0,hsa-miR-451b,,,,-0.54,-0.57,,,,,,,,,,
+TMEM14E,ENST00000408960.3,transmembrane protein 14E ,5,1,1.0,0.0,0.0,0,hsa-miR-451b,,,,-0.52,-0.52,,,,,,,,,,
+LSM4,ENST00000593829.1,"LSM4 homolog, U6 small nuclear RNA associated (S. cerevisiae) ",469,1,1.0,0.0,0.0,0,hsa-miR-451b,,,,-0.52,-0.52,,,,,,,,,,
+SLC25A31,ENST00000281154.4,"solute carrier family 25 (mitochondrial carrier; adenine nucleotide translocator), member 31 ",5,1,1.0,0.0,0.0,0,hsa-miR-451b,,,,-0.52,-0.52,,,,,,,,,,
+KCNMB3,ENST00000497599.1,"potassium large conductance calcium-activated channel, subfamily M beta member 3 ",8,3,1.0,1.0,1.0,0,hsa-miR-451b,,,,-0.51,-0.62,,,,,,,,,,
+GABRG3,ENST00000333743.6,"gamma-aminobutyric acid (GABA) A receptor, gamma 3 ",5,1,1.0,0.0,0.0,0,hsa-miR-451b,,,,-0.51,-0.51,,,,,,,,,,
+RTFDC1,ENST00000395881.3,replication termination factor 2 domain containing 1 ,15783,1,1.0,0.0,0.0,1,hsa-miR-451b,,,,-0.5,-0.51,,,,,,,,,,
+VMO1,ENST00000441199.2,vitelline membrane outer layer 1 homolog (chicken) ,5,1,1.0,0.0,0.0,0,hsa-miR-451b,,,,-0.5,-0.5,,,,,,,,,,
+NACA2,ENST00000521764.1,nascent polypeptide-associated complex alpha subunit 2 ,5,1,0.0,1.0,0.0,0,hsa-miR-451b,,,,-0.49,-0.49,,,,,,,,,,
+DYNAP,ENST00000321600.1,dynactin associated protein ,5,1,1.0,0.0,0.0,0,hsa-miR-451b,,,,-0.49,-0.49,,,,,,,,,,
+CETN1,ENST00000327228.3,"centrin, EF-hand protein, 1 ",5,1,0.0,1.0,0.0,2,hsa-miR-451b,,,,-0.49,-0.49,,,,,,,,,,
+RHOXF2B,ENST00000371402.2,"Rhox homeobox family, member 2B ",5,1,1.0,0.0,0.0,0,hsa-miR-451b,,,,-0.49,-0.49,,,,,,,,,,
+FAM71F1,ENST00000315184.5,"family with sequence similarity 71, member F1 ",5,1,1.0,0.0,0.0,0,hsa-miR-451b,,,,-0.48,-0.48,,,,,,,,,,
+ATP6V1G1,ENST00000374050.3,"ATPase, H+ transporting, lysosomal 13kDa, V1 subunit G1 ",8219,1,1.0,0.0,0.0,1,hsa-miR-451b,,,,-0.48,-0.58,,,,,,,,,,
+TMEM74,ENST00000297459.3,transmembrane protein 74 ,5,1,1.0,0.0,0.0,1,hsa-miR-451b,,,,-0.48,-0.52,,,,,,,,,,
+TVP23B,ENST00000307767.8,trans-golgi network vesicle protein 23 homolog B (S. cerevisiae) ,5,1,1.0,0.0,0.0,0,hsa-miR-451b,,,,-0.48,-0.48,,,,,,,,,,
+DHFR,ENST00000511032.1,dihydrofolate reductase ,5,1,1.0,0.0,0.0,0,hsa-miR-451b,,,,-0.47,-0.47,,,,,,,,,,
+YIPF3,ENST00000372422.2,"Yip1 domain family, member 3 ",616,1,1.0,0.0,0.0,0,hsa-miR-451b,,,,-0.47,-0.5,,,,,,,,,,
+SPTSSA,ENST00000298130.4,"serine palmitoyltransferase, small subunit A ",27,2,2.0,0.0,0.0,0,hsa-miR-451b,,,,-0.47,-0.95,,,,,,,,,,
+RPE,ENST00000429907.1,ribulose-5-phosphate-3-epimerase ,333,2,1.0,1.0,0.0,2,hsa-miR-451b,,,,-0.47,-0.62,,,,,,,,,,
+NDNL2,ENST00000332303.4,necdin-like 2 ,759,1,1.0,0.0,0.0,0,hsa-miR-451b,,,,-0.47,-0.47,,,,,,,,,,
+CHPT1,ENST00000229266.3,choline phosphotransferase 1 ,806,2,0.0,1.0,1.0,0,hsa-miR-451b,,,,-0.47,-0.47,,,,,,,,,,
+NPTX1,ENST00000306773.4,neuronal pentraxin I ,1876,4,0.0,3.0,1.0,1,hsa-miR-451b,,,,-0.46,-0.5,,,,,,,,,,
+FNTA,ENST00000302279.3,"farnesyltransferase, CAAX box, alpha ",7,1,1.0,0.0,0.0,0,hsa-miR-451b,,,,-0.46,-0.46,,,,,,,,,,
+KCNJ6,ENST00000609713.1,"potassium inwardly-rectifying channel, subfamily J, member 6 ",5,3,2.0,1.0,0.0,3,hsa-miR-451b,,,,-0.46,-0.46,,,,,,,,,,
+FEZ2,ENST00000379245.4,fasciculation and elongation protein zeta 2 (zygin II) ,323,1,1.0,0.0,0.0,1,hsa-miR-451b,,,,-0.46,-0.47,,,,,,,,,,
+KLRD1,ENST00000381908.3,"killer cell lectin-like receptor subfamily D, member 1 ",5,2,2.0,0.0,0.0,0,hsa-miR-451b,,,,-0.46,-0.46,,,,,,,,,,
+SCO1,ENST00000255390.5,SCO1 cytochrome c oxidase assembly protein ,1776,3,1.0,1.0,1.0,2,hsa-miR-451b,,,,-0.46,-0.5,,,,,,,,,,
+C5orf64,ENST00000505642.1,chromosome 5 open reading frame 64 ,5,3,0.0,2.0,1.0,2,hsa-miR-451b,,,,-0.45,-0.45,,,,,,,,,,
+PGPEP1,ENST00000597431.2,pyroglutamyl-peptidase I ,82,4,0.0,4.0,0.0,1,hsa-miR-451b,,,,-0.45,-0.64,,,,,,,,,,
+UBE2E1,ENST00000306627.3,ubiquitin-conjugating enzyme E2E 1 ,3195,1,1.0,0.0,0.0,0,hsa-miR-451b,,,,-0.45,-0.45,,,,,,,,,,
+C1orf85,ENST00000362007.1,chromosome 1 open reading frame 85 ,4649,2,0.0,2.0,0.0,0,hsa-miR-451b,,,,-0.44,-0.44,,,,,,,,,,
+VMA21,ENST00000330374.6,VMA21 vacuolar H+-ATPase homolog (S. cerevisiae) ,2162,2,0.0,2.0,0.0,0,hsa-miR-451b,,,,-0.44,-0.45,,,,,,,,,,
+ARPC5,ENST00000359856.6,"actin related protein 2/3 complex, subunit 5, 16kDa ",677,2,0.0,2.0,0.0,0,hsa-miR-451b,,,,-0.44,-0.46,,,,,,,,,,
+OSCAR,ENST00000391761.1,"osteoclast associated, immunoglobulin-like receptor ",5,2,0.0,2.0,0.0,0,hsa-miR-451b,,,,-0.44,-0.44,,,,,,,,,,
+TSN,ENST00000536142.1,translin ,886,2,1.0,1.0,0.0,2,hsa-miR-451b,,,,-0.44,-0.58,,,,,,,,,,
+FAM46A,ENST00000369754.3,"family with sequence similarity 46, member A ",899,3,0.0,1.0,2.0,2,hsa-miR-451b,,,,-0.44,-0.44,,,,,,,,,,
+PLS3,ENST00000420625.2,plastin 3 ,8789,2,0.0,2.0,0.0,1,hsa-miR-451b,,,,-0.43,-0.44,,,,,,,,,,
+FKBP14,ENST00000222803.5,"FK506 binding protein 14, 22 kDa ",939,2,0.0,1.0,1.0,0,hsa-miR-451b,,,,-0.43,-0.44,,,,,,,,,,
+LRRN4CL,ENST00000317449.4,LRRN4 C-terminal like ,17,1,1.0,0.0,0.0,0,hsa-miR-451b,,,,-0.43,-0.43,,,,,,,,,,
+PTGER2,ENST00000245457.5,"prostaglandin E receptor 2 (subtype EP2), 53kDa ",84,1,1.0,0.0,0.0,0,hsa-miR-451b,,,,-0.43,-0.43,,,,,,,,,,
+AC008443.1,ENST00000599439.1,"CDNA: FLJ23158 fis, clone LNG09623; Uncharacterized protein  ",109,2,0.0,2.0,0.0,1,hsa-miR-451b,,,,-0.43,-0.43,,,,,,,,,,
+SEP15,ENST00000401030.3,"Homo sapiens 15 kDa selenoprotein (SEP15), transcript variant 2, mRNA. ",2047,1,0.0,1.0,0.0,1,hsa-miR-451b,,,,-0.42,-0.42,,,,,,,,,,
+ATP6V1F,ENST00000492758.1,"ATPase, H+ transporting, lysosomal 14kDa, V1 subunit F ",496,1,0.0,1.0,0.0,0,hsa-miR-451b,,,,-0.42,-0.43,,,,,,,,,,
+PDCD5,ENST00000419343.3,programmed cell death 5 ,158,1,1.0,0.0,0.0,1,hsa-miR-451b,,,,-0.42,-0.42,,,,,,,,,,
+SRI,ENST00000265729.2,sorcin ,278,2,1.0,1.0,0.0,2,hsa-miR-451b,,,,-0.42,-0.6,,,,,,,,,,
+AK4,ENST00000545314.1,adenylate kinase 4 ,116,2,0.0,2.0,0.0,1,hsa-miR-451b,,,,-0.42,-0.42,,,,,,,,,,
+ZNF788,ENST00000430298.2,zinc finger family member 788 ,16,3,0.0,2.0,1.0,2,hsa-miR-451b,,,,-0.42,-0.57,,,,,,,,,,
+RLN1,ENST00000223858.4,relaxin 1 ,5,1,1.0,0.0,0.0,0,hsa-miR-451b,,,,-0.42,-0.42,,,,,,,,,,
+ERVFRD-1,ENST00000472091.1,"endogenous retrovirus group FRD, member 1 ",5,2,0.0,2.0,0.0,1,hsa-miR-451b,,,,-0.42,-0.42,,,,,,,,,,
+EED,ENST00000327320.4,embryonic ectoderm development ,142,1,1.0,0.0,0.0,0,hsa-miR-451b,,,,-0.42,-0.42,,,,,,,,,,
+GPRC5A,ENST00000014914.5,"G protein-coupled receptor, family C, group 5, member A ",341,4,0.0,4.0,0.0,2,hsa-miR-451b,,,,-0.42,-0.47,,,,,,,,,,
+SERPINB9,ENST00000380698.4,"serpin peptidase inhibitor, clade B (ovalbumin), member 9 ",154,3,1.0,2.0,0.0,0,hsa-miR-451b,,,,-0.41,-0.5,,,,,,,,,,
+PPP3R1,ENST00000234310.3,"protein phosphatase 3, regulatory subunit B, alpha ",117,2,1.0,1.0,0.0,1,hsa-miR-451b,,,,-0.41,-0.65,,,,,,,,,,
+DECR2,ENST00000219481.5,"2,4-dienoyl CoA reductase 2, peroxisomal ",1049,1,1.0,0.0,0.0,0,hsa-miR-451b,,,,-0.41,-0.42,,,,,,,,,,
+SH3GL2,ENST00000380607.4,SH3-domain GRB2-like 2 ,125,2,1.0,0.0,1.0,0,hsa-miR-451b,,,,-0.41,-0.41,,,,,,,,,,
+RAB10,ENST00000264710.4,"RAB10, member RAS oncogene family ",998,2,0.0,1.0,1.0,2,hsa-miR-451b,,,,-0.41,-0.51,,,,,,,,,,
+SLC25A32,ENST00000297578.4,"solute carrier family 25 (mitochondrial folate carrier), member 32 ",554,2,0.0,2.0,0.0,1,hsa-miR-451b,,,,-0.41,-0.42,,,,,,,,,,
+EGLN3,ENST00000250457.3,egl-9 family hypoxia-inducible factor 3 ,71,2,0.0,1.0,1.0,0,hsa-miR-451b,,,,-0.4,-0.51,,,,,,,,,,
+CALB1,ENST00000265431.3,"calbindin 1, 28kDa ",5,2,0.0,1.0,1.0,0,hsa-miR-451b,,,,-0.4,-0.4,,,,,,,,,,
+MEIS1,ENST00000488550.1,Meis homeobox 1 ,533,3,0.0,3.0,0.0,0,hsa-miR-451b,,,,-0.4,-0.4,,,,,,,,,,
+MTMR11,ENST00000406732.3,myotubularin related protein 11 ,16,2,0.0,2.0,0.0,1,hsa-miR-451b,,,,-0.4,-0.4,,,,,,,,,,
+ADO,ENST00000373783.1,2-aminoethanethiol (cysteamine) dioxygenase ,686,3,1.0,2.0,0.0,0,hsa-miR-451b,,,,-0.4,-0.44,,,,,,,,,,
+TBC1D7,ENST00000356436.4,"TBC1 domain family, member 7 ",236,1,0.0,1.0,0.0,0,hsa-miR-451b,,,,-0.4,-0.41,,,,,,,,,,
+WNT16,ENST00000222462.2,"wingless-type MMTV integration site family, member 16 ",153,1,1.0,0.0,0.0,0,hsa-miR-451b,,,,-0.4,-0.4,,,,,,,,,,
+DNER,ENST00000341772.4,delta/notch-like EGF repeat containing ,143,1,1.0,0.0,0.0,0,hsa-miR-451b,,,,-0.4,-0.41,,,,,,,,,,
+RALB,ENST00000272519.5,v-ral simian leukemia viral oncogene homolog B ,527,2,1.0,1.0,0.0,0,hsa-miR-451b,,,,-0.4,-0.4,,,,,,,,,,
+SNX16,ENST00000353788.4,sorting nexin 16 ,156,,,,,0,hsa-miR-30b-5p,0.0247,0.1691,0.8075,-1.08,-1.2,0.78,1.0,0.0,0.0,1.0,2,2.0,0.0,0.0,"2005, 2007, 2009, 2011"
+ANKRA2,ENST00000296785.3,"ankyrin repeat, family A (RFXANK-like), 2 ",134,,,,,0,hsa-miR-30b-5p,0.0396,0.2618,1.1343,-1.03,-1.09,0.65,2.0,1.0,1.0,0.0,1,0.0,1.0,0.0,"2005, 2007, 2011"
+MKRN3,ENST00000314520.3,makorin ring finger protein 3 ,18,,,,,0,hsa-miR-30b-5p,0.0636,0.4128,1.6384,-0.96,-0.96,0.90,3.0,2.0,1.0,0.0,0,0.0,0.0,0.0,"2005, 2007, 2009, 2011"
+LHX8,ENST00000294638.5,LIM homeobox 8 ,18,,,,,0,hsa-miR-30b-5p,0.0518,0.3257,1.1672,-0.94,-0.94,0.98,2.0,2.0,0.0,0.0,0,0.0,0.0,0.0,"2005, 2007, 2009, 2011"
+KLHL20,ENST00000209884.4,kelch-like family member 20 ,324,,,,,1,hsa-miR-30e-5p,0.0702,0.4189,1.3867,-0.85,-0.96,> 0.99,2.0,2.0,0.0,0.0,0,0.0,0.0,0.0,"2003, 2005, 2007, 2009, 2011"
+EED,ENST00000327320.4,embryonic ectoderm development ,142,,,,,1,hsa-miR-30b-5p,0.0539,0.2971,0.7708,-0.84,-0.91,> 0.99,2.0,2.0,0.0,0.0,0,0.0,0.0,0.0,"2003, 2005, 2007, 2009, 2011"
+DLGAP1,ENST00000400145.2,"discs, large (Drosophila) homolog-associated protein 1 ",8,,,,,0,hsa-miR-30a-5p,0.0259,0.1768,0.8345,-0.82,-0.82,0.64,2.0,2.0,0.0,0.0,0,0.0,0.0,0.0,2011
+MTDH,ENST00000336273.3,metadherin ,5192,,,,,0,hsa-miR-30e-5p,0.0619,0.4077,1.7324,-0.82,-0.98,> 0.99,4.0,2.0,1.0,1.0,0,0.0,0.0,0.0,"2007, 2009, 2011"
+B3GNT5,ENST00000326505.3,"UDP-GlcNAc:betaGal beta-1,3-N-acetylglucosaminyltransferase 5 ",57,,,,,0,hsa-miR-30b-5p,0.0879,0.5523,1.9829,-0.82,-0.82,0.99,3.0,3.0,0.0,0.0,0,0.0,0.0,0.0,"2005, 2007, 2009, 2011"
+TMEM181,ENST00000367090.3,transmembrane protein 181 ,924,,,,,0,hsa-miR-30b-5p,0.0668,0.4173,1.6464,-0.75,-0.75,> 0.99,2.0,1.0,0.0,1.0,1,0.0,0.0,1.0,"2009, 2011"
+STOX2,ENST00000308497.4,storkhead box 2 ,379,,,,,1,hsa-miR-30e-5p,0.1,0.6766,3.2007,-0.73,-0.73,> 0.99,5.0,3.0,1.0,1.0,2,0.0,0.0,2.0,"2007, 2009, 2011"
+TWF1,ENST00000552521.1,twinfilin actin-binding protein 1 ,72,,,,,0,hsa-miR-30c-5p,0.0488,0.3189,1.3369,-0.73,-0.73,0.96,2.0,1.0,1.0,0.0,1,0.0,0.0,1.0,2011
+PIP4K2A,ENST00000376573.4,"phosphatidylinositol-5-phosphate 4-kinase, type II, alpha ",632,,,,,0,hsa-miR-30b-5p,0.0503,0.3381,1.5572,-0.71,-0.72,0.98,3.0,2.0,0.0,1.0,1,0.0,0.0,1.0,"2005, 2007, 2009, 2011"
+GABRB1,ENST00000295454.3,"gamma-aminobutyric acid (GABA) A receptor, beta 1 ",5,,,,,1,hsa-miR-30b-5p,0.0313,0.2063,0.8742,-0.7,-0.85,0.99,4.0,3.0,1.0,0.0,1,0.0,0.0,1.0,"2009, 2011"
+SRSF7,ENST00000313117.6,serine/arginine-rich splicing factor 7 ,16077,,,,,1,hsa-miR-30e-5p,0.0479,0.271,0.7354,-0.66,-0.72,0.95,1.0,1.0,0.0,0.0,0,0.0,0.0,0.0,"2005, 2007, 2009, 2011"
+LGI1,ENST00000371413.3,"leucine-rich, glioma inactivated 1 ",5,,,,,0,hsa-miR-30e-5p,0.038,0.226,0.6874,-0.65,-0.65,0.89,1.0,1.0,0.0,0.0,0,0.0,0.0,0.0,"2005, 2007, 2009, 2011"
+GSKIP,ENST00000555181.1,GSK3B interacting protein ,1581,,,,,1,hsa-miR-30b-5p,0.0392,0.2554,1.0939,-0.65,-0.65,0.97,1.0,1.0,0.0,0.0,1,0.0,1.0,0.0,"2007, 2009, 2011"
+PAPD4,ENST00000453514.1,PAP associated domain containing 4 ,434,,,,,0,hsa-miR-30e-5p,0.0489,0.298,1.0409,-0.64,-0.75,0.97,2.0,1.0,1.0,0.0,1,0.0,0.0,1.0,"2005, 2007, 2011"
+CYP24A1,ENST00000216862.3,"cytochrome P450, family 24, subfamily A, polypeptide 1 ",51,,,,,0,hsa-miR-30e-5p,0.0345,0.2337,1.0978,-0.62,-0.62,0.97,1.0,1.0,0.0,0.0,2,0.0,0.0,2.0,"2005, 2007, 2009, 2011"
+IL1RAPL2,ENST00000372582.1,interleukin 1 receptor accessory protein-like 2 ,5,,,,,0,hsa-miR-30a-5p,0.0285,0.1785,0.6205,-0.62,-0.62,0.74,1.0,1.0,0.0,0.0,0,0.0,0.0,0.0,"2009, 2011"
+WDR82,ENST00000296490.3,WD repeat domain 82 ,319,,,,,0,hsa-miR-30b-5p,0.0733,0.4425,1.4939,-0.62,-0.65,0.99,2.0,2.0,0.0,0.0,0,0.0,0.0,0.0,"2007, 2009, 2011"
+UBE2V2,ENST00000523111.2,ubiquitin-conjugating enzyme E2 variant 2 ,1770,,,,,1,hsa-miR-30e-5p,0.0297,0.1933,0.813,-0.61,-0.68,0.96,1.0,1.0,0.0,0.0,1,0.0,0.0,1.0,"2005, 2007, 2009, 2011"
+TMEM170B,ENST00000379426.1,transmembrane protein 170B ,489,,,,,1,hsa-miR-30b-5p,0.0309,0.2127,1.1537,-0.61,-1.16,0.94,1.0,1.0,0.0,0.0,3,1.0,2.0,0.0,"2009, 2011"
+ZNRF1,ENST00000335325.4,"zinc and ring finger 1, E3 ubiquitin protein ligase ",519,,,,,0,hsa-miR-30a-5p,0.068,0.4062,1.2877,-0.61,-0.62,> 0.99,2.0,2.0,0.0,0.0,0,0.0,0.0,0.0,"2005, 2007, 2009, 2011"
+TNRC6A,ENST00000395799.3,trinucleotide repeat containing 6A ,267,,,,,0,hsa-miR-30b-5p,0.0827,0.5418,2.2159,-0.6,-0.6,> 0.99,4.0,2.0,2.0,0.0,0,0.0,0.0,0.0,"2003, 2005, 2007, 2009, 2011"
+MEX3B,ENST00000558133.1,mex-3 RNA binding family member B ,1401,,,,,0,hsa-miR-30e-5p,0.0419,0.2653,1.015,-0.6,-0.6,0.96,2.0,1.0,1.0,0.0,0,0.0,0.0,0.0,"2005, 2007, 2009, 2011"
+CCNE2,ENST00000520509.1,cyclin E2 ,76,,,,,0,hsa-miR-30b-5p,0.0401,0.2664,1.1557,-0.59,-0.61,0.81,2.0,2.0,0.0,0.0,0,0.0,0.0,0.0,"2005, 2007, 2009, 2011"
+TTLL7,ENST00000260505.8,"tubulin tyrosine ligase-like family, member 7 ",93,,,,,2,hsa-miR-30b-5p,0.0478,0.3039,1.2659,-0.59,-0.64,0.95,1.0,1.0,0.0,0.0,1,0.0,0.0,1.0,"2007, 2009, 2011"
+PTP4A1,ENST00000370651.3,"protein tyrosine phosphatase type IVA, member 1 ",5740,,,,,0,hsa-miR-30e-5p,0.0411,0.2517,0.8858,-0.59,-0.59,0.98,2.0,1.0,1.0,0.0,0,0.0,0.0,0.0,"2005, 2007, 2009, 2011"
+FOXG1,ENST00000382535.3,forkhead box G1 ,40,,,,,0,hsa-miR-30e-5p,0.036,0.2427,1.1192,-0.59,-0.6,0.93,2.0,0.0,2.0,0.0,1,0.0,1.0,0.0,"2003, 2005, 2007, 2009, 2011"
+PDE7A,ENST00000401827.3,phosphodiesterase 7A ,84,,,,,0,hsa-miR-30e-5p,0.0785,0.4605,1.398,-0.58,-0.65,> 0.99,2.0,2.0,0.0,0.0,1,0.0,1.0,0.0,2011
+LRRC17,ENST00000249377.4,leucine rich repeat containing 17 ,144,,,,,0,hsa-miR-30e-5p,0.0391,0.2497,0.943,-0.58,-0.66,0.71,1.0,1.0,0.0,0.0,1,1.0,0.0,0.0,"2005, 2007, 2009, 2011"
+RORA,ENST00000335670.6,RAR-related orphan receptor A ,102,,,,,0,hsa-miR-30b-5p,0.0585,0.4033,2.0574,-0.58,-0.71,0.96,4.0,2.0,2.0,0.0,1,1.0,0.0,0.0,2011
+KLHL28,ENST00000396128.4,kelch-like family member 28 ,9,,,,,2,hsa-miR-30a-5p,0.0448,0.3028,1.4356,-0.57,-1.23,> 0.99,4.0,1.0,1.0,2.0,1,1.0,0.0,0.0,"2007, 2009, 2011"
+DESI2,ENST00000302550.11,desumoylating isopeptidase 2 ,147,,,,,0,hsa-miR-30b-5p,0.0504,0.3201,1.186,-0.57,-0.57,> 0.99,2.0,2.0,0.0,0.0,0,0.0,0.0,0.0,2011
+INO80D,ENST00000403263.1,INO80 complex subunit D ,5,,,,,0,hsa-miR-30b-5p,0.0383,0.2703,1.535,-0.56,-0.56,0.93,2.0,1.0,0.0,1.0,1,0.0,0.0,1.0,"2009, 2011"
+GAN,ENST00000568107.2,gigaxonin ,185,,,,,0,hsa-miR-30e-5p,0.0536,0.3527,1.5392,-0.56,-0.9,> 0.99,5.0,1.0,3.0,1.0,0,0.0,0.0,0.0,2011
+UBE2I,ENST00000355803.4,ubiquitin-conjugating enzyme E2I ,291,,,,,0,hsa-miR-30e-5p,0.0235,0.1539,0.6358,-0.56,-0.56,0.95,1.0,1.0,0.0,0.0,0,0.0,0.0,0.0,"2005, 2007, 2009, 2011"
+SCN9A,ENST00000409672.1,"sodium channel, voltage-gated, type IX, alpha subunit ",240,,,,,0,hsa-miR-30b-5p,0.0508,0.2953,0.9186,-0.56,-0.68,0.95,2.0,2.0,0.0,0.0,0,0.0,0.0,0.0,2011
+ARL4A,ENST00000396663.1,ADP-ribosylation factor-like 4A ,213,,,,,0,hsa-miR-30b-5p,0.0473,0.2893,1.0087,-0.56,-0.65,0.86,2.0,2.0,0.0,0.0,0,0.0,0.0,0.0,"2009, 2011"
+RARB,ENST00000437042.2,"retinoic acid receptor, beta ",48,,,,,0,hsa-miR-30b-5p,0.0252,0.1741,0.877,-0.55,-0.55,0.90,2.0,0.0,2.0,0.0,0,0.0,0.0,0.0,"2005, 2007, 2009, 2011"
+NFIB,ENST00000397575.3,nuclear factor I/B ,1149,,,,,0,hsa-miR-30e-5p,0.0607,0.4041,1.8028,-0.55,-0.58,> 0.99,4.0,0.0,2.0,2.0,0,0.0,0.0,0.0,"2005, 2007, 2009, 2011"
+CAMK2N1,ENST00000375078.3,calcium/calmodulin-dependent protein kinase II inhibitor 1 ,6631,,,,,0,hsa-miR-30b-5p,0.051,0.2873,0.7952,-0.55,-0.55,0.95,1.0,1.0,0.0,0.0,0,0.0,0.0,0.0,"2007, 2009, 2011"
+LIN28A,ENST00000326279.6,lin-28 homolog A (C. elegans) ,5,,,,,0,hsa-miR-30b-5p,0.048,0.3057,1.2346,-0.55,-0.55,> 0.99,2.0,1.0,1.0,0.0,1,0.0,0.0,1.0,"2003, 2005, 2007, 2009, 2011"
+GNA13,ENST00000439174.2,"guanine nucleotide binding protein (G protein), alpha 13 ",190,,,,,1,hsa-miR-30b-5p,0.0261,0.1847,1.0468,-0.54,-0.58,0.95,2.0,0.0,0.0,2.0,2,0.0,1.0,1.0,"2005, 2007, 2009, 2011"
+ACTC1,ENST00000290378.4,"actin, alpha, cardiac muscle 1 ",164,,,,,0,hsa-miR-30b-5p,0.0336,0.2046,0.6553,-0.54,-0.54,0.95,1.0,1.0,0.0,0.0,0,0.0,0.0,0.0,2011
+ZDHHC20,ENST00000320220.9,"zinc finger, DHHC-type containing 20 ",1486,,,,,1,hsa-miR-30b-5p,0.0566,0.3755,1.7588,-0.54,-0.66,> 0.99,3.0,1.0,1.0,1.0,2,0.0,2.0,0.0,2011
+SOCS1,ENST00000332029.2,suppressor of cytokine signaling 1 ,190,,,,,0,hsa-miR-30a-5p,0.0342,0.2076,0.6594,-0.54,-0.54,0.95,1.0,1.0,0.0,0.0,0,0.0,0.0,0.0,"2005, 2007, 2009, 2011"
+RAB32,ENST00000367495.3,"RAB32, member RAS oncogene family ",1894,,,,,1,hsa-miR-30e-5p,0.0213,0.1384,0.5456,-0.54,-0.68,0.95,1.0,1.0,0.0,0.0,1,0.0,0.0,1.0,"2005, 2007, 2009, 2011"
+IDH1,ENST00000345146.2,"isocitrate dehydrogenase 1 (NADP+), soluble ",503,,,,,0,hsa-miR-30a-5p,0.0195,0.1362,0.7349,-0.53,-0.53,0.95,2.0,0.0,0.0,2.0,0,0.0,0.0,0.0,2011
+SRSF10,ENST00000343255.5,serine/arginine-rich splicing factor 10 ,1920,,,,,2,hsa-miR-30c-5p,0.0341,0.2423,1.4188,-0.53,-0.67,0.78,1.0,0.0,0.0,1.0,3,1.0,1.0,1.0,
+RFX6,ENST00000332958.2,"regulatory factor X, 6 ",14,,,,,0,hsa-miR-30e-5p,0.0591,0.3706,1.3173,-0.52,-0.52,0.99,2.0,1.0,1.0,0.0,0,0.0,0.0,0.0,"2005, 2007, 2009, 2011"
+RRAD,ENST00000420652.1,Ras-related associated with diabetes ,28,,,,,0,hsa-miR-30b-5p,0.0327,0.2006,0.6644,-0.52,-0.52,0.92,1.0,1.0,0.0,0.0,0,0.0,0.0,0.0,"2005, 2007, 2009, 2011"
+C9orf72,ENST00000380003.3,chromosome 9 open reading frame 72 ,25,,,,,0,hsa-miR-30e-5p,0.0487,0.3097,1.2099,-0.52,-0.52,0.97,2.0,1.0,0.0,1.0,0,0.0,0.0,0.0,"2005, 2007, 2009, 2011"
+ELOVL5,ENST00000370918.4,ELOVL fatty acid elongase 5 ,2233,,,,,2,hsa-miR-30e-5p,0.0279,0.1833,0.7998,-0.52,-0.52,0.72,1.0,1.0,0.0,0.0,0,0.0,0.0,0.0,"2005, 2007, 2009, 2011"
+ZPBP2,ENST00000377940.3,zona pellucida binding protein 2 ,5,,,,,0,hsa-miR-30b-5p,0.0333,0.2138,0.8537,-0.52,-0.52,0.55,1.0,1.0,0.0,0.0,1,0.0,0.0,1.0,"2009, 2011"
+C7orf43,ENST00000394035.2,chromosome 7 open reading frame 43 ,5436,,,,,0,hsa-miR-30b-5p,0.0299,0.1991,0.8728,-0.52,-0.52,0.93,2.0,0.0,1.0,1.0,0,0.0,0.0,0.0,"2007, 2009, 2011"
+E2F7,ENST00000416496.2,E2F transcription factor 7 ,308,,,,,0,hsa-miR-30b-5p,0.0307,0.2128,1.1123,-0.52,-0.54,0.99,3.0,0.0,0.0,3.0,0,0.0,0.0,0.0,"2005, 2007, 2009, 2011"
+SLC7A10,ENST00000253188.4,"solute carrier family 7 (neutral amino acid transporter light chain, asc system), member 10 ",99,,,,,0,hsa-miR-30a-5p,0.0125,0.0853,0.4103,-0.52,-0.54,0.95,1.0,1.0,0.0,0.0,0,0.0,0.0,0.0,"2005, 2007, 2009, 2011"
+ATP8A1,ENST00000381668.5,"ATPase, aminophospholipid transporter (APLT), class I, type 8A, member 1 ",48,,,,,1,hsa-miR-30e-5p,0.0402,0.2719,1.3796,-0.52,-0.52,0.41,1.0,1.0,0.0,0.0,1,0.0,0.0,1.0,"2009, 2011"
+MIER3,ENST00000381226.3,"mesoderm induction early response 1, family member 3 ",112,,,,,0,hsa-miR-30e-5p,0.0645,0.4324,2.0511,-0.51,-0.54,> 0.99,4.0,1.0,1.0,2.0,2,0.0,1.0,1.0,"2007, 2009, 2011"
+COL25A1,ENST00000399132.1,"collagen, type XXV, alpha 1 ",270,,,,,0,hsa-miR-30b-5p,0.0719,0.4313,1.4999,-0.51,-0.57,> 0.99,2.0,1.0,0.0,1.0,2,0.0,1.0,1.0,2011
+SCN2A,ENST00000375437.2,"sodium channel, voltage-gated, type II, alpha subunit ",7,,,,,1,hsa-miR-30e-5p,0.0763,0.4854,1.9712,-0.51,-0.51,0.95,3.0,2.0,1.0,0.0,0,0.0,0.0,0.0,"2007, 2009, 2011"
+EDNRA,ENST00000339690.5,endothelin receptor type A ,35,,,,,1,hsa-miR-30b-5p,0.0491,0.3023,1.1336,-0.51,-0.51,0.95,1.0,1.0,0.0,0.0,1,0.0,0.0,1.0,"2005, 2007, 2009, 2011"
+RASA1,ENST00000456692.2,RAS p21 protein activator (GTPase activating protein) 1 ,1700,,,,,0,hsa-miR-30b-5p,0.0277,0.1786,0.7161,-0.51,-0.51,0.95,1.0,1.0,0.0,0.0,0,0.0,0.0,0.0,"2005, 2007, 2009, 2011"
+ZBTB11,ENST00000312938.4,zinc finger and BTB domain containing 11 ,179,,,,,1,hsa-miR-30a-5p,0.0342,0.2204,0.9114,-0.51,-0.51,0.81,1.0,1.0,0.0,0.0,1,0.0,0.0,1.0,"2009, 2011"
+REEP3,ENST00000373758.4,receptor accessory protein 3 ,1095,,,,,2,hsa-miR-30b-5p,0.0316,0.2176,1.1098,-0.51,-0.63,0.88,2.0,0.0,2.0,0.0,1,1.0,0.0,0.0,"2007, 2009, 2011"
+VIM,ENST00000224237.5,vimentin ,31747,,,,,0,hsa-miR-30e-5p,0.0193,0.1335,0.6777,-0.51,-0.51,0.82,1.0,0.0,0.0,1.0,1,0.0,0.0,1.0,"2005, 2007"
+DOLPP1,ENST00000540102.1,dolichyldiphosphatase 1 ,963,,,,,0,hsa-miR-30e-5p,0.0359,0.2352,0.9658,-0.5,-0.5,0.85,2.0,1.0,1.0,0.0,0,0.0,0.0,0.0,"2005, 2007, 2009, 2011"
+PBRM1,ENST00000356770.4,polybromo 1 ,689,,,,,1,hsa-miR-30e-5p,0.0285,0.1977,1.0283,-0.5,-0.52,0.95,2.0,0.0,0.0,2.0,0,0.0,0.0,0.0,"2007, 2009, 2011"
+ELMOD2,ENST00000323570.3,ELMO/CED-12 domain containing 2 ,32,,,,,0,hsa-miR-30b-5p,0.0477,0.2919,1.0312,-0.5,-0.54,0.95,1.0,1.0,0.0,0.0,1,0.0,1.0,0.0,"2005, 2007, 2009, 2011"
+FAP,ENST00000188790.4,"fibroblast activation protein, alpha ",618,,,,,0,hsa-miR-30e-5p,0.046,0.263,0.7269,-0.5,-0.5,0.87,1.0,1.0,0.0,0.0,0,0.0,0.0,0.0,"2005, 2007, 2009, 2011"
+ATG5,ENST00000360666.4,autophagy related 5 ,1078,,,,,0,hsa-miR-30a-5p,0.0328,0.2,0.6475,-0.5,-0.5,0.72,1.0,1.0,0.0,0.0,0,0.0,0.0,0.0,"2007, 2009, 2011"
+FBXO45,ENST00000311630.6,F-box protein 45 ,72,,,,,1,hsa-miR-30e-5p,0.0576,0.3383,1.1377,-0.5,-0.51,0.96,1.0,1.0,0.0,0.0,1,0.0,0.0,1.0,"2009, 2011"
+RHEBL1,ENST00000301068.6,Ras homolog enriched in brain like 1 ,21,,,,,0,hsa-miR-30e-5p,0.0537,0.2955,0.756,-0.5,-0.5,0.82,1.0,1.0,0.0,0.0,0,0.0,0.0,0.0,"2005, 2007, 2009, 2011"
+FAM43A,ENST00000329759.4,"family with sequence similarity 43, member A ",287,,,,,0,hsa-miR-30a-5p,0.0561,0.3225,0.9932,-0.5,-0.5,0.98,2.0,1.0,1.0,0.0,0,0.0,0.0,0.0,"2003, 2005, 2007, 2009, 2011"
+RUNX2,ENST00000371432.3,runt-related transcription factor 2 ,105,,,,,1,hsa-miR-30b-5p,0.0354,0.2423,1.2029,-0.49,-0.49,0.94,2.0,1.0,1.0,0.0,2,0.0,1.0,1.0,"2007, 2009, 2011"
+CEP76,ENST00000262127.2,centrosomal protein 76kDa ,313,,,,,0,hsa-miR-30b-5p,0.0299,0.195,0.8185,-0.49,-0.5,0.72,1.0,1.0,0.0,0.0,0,0.0,0.0,0.0,"2009, 2011"
+PTPN13,ENST00000436978.1,"protein tyrosine phosphatase, non-receptor type 13 (APO-1/CD95 (Fas)-associated phosphatase) ",97,,,,,0,hsa-miR-30e-5p,0.0319,0.217,1.0354,-0.49,-0.49,0.83,2.0,0.0,2.0,0.0,0,0.0,0.0,0.0,"2005, 2007, 2009, 2011"
+HOXA1,ENST00000355633.5,homeobox A1 ,157,,,,,1,hsa-miR-30e-5p,0.026,0.1694,0.7039,-0.49,-0.49,0.81,1.0,1.0,0.0,0.0,0,0.0,0.0,0.0,"2005, 2007, 2009"
+AC104472.1,ENST00000399242.2,"CDNA FLJ26134 fis, clone TMS03713; Uncharacterized protein  ",5,,,,,0,hsa-miR-30a-5p,0.0163,0.1114,0.543,-0.49,-0.49,< 0.1,1.0,1.0,0.0,0.0,0,0.0,0.0,0.0,
+RAD23B,ENST00000358015.3,RAD23 homolog B (S. cerevisiae) ,1012,,,,,0,hsa-miR-30c-5p,0.0218,0.1511,0.7852,-0.49,-0.49,0.96,2.0,1.0,1.0,0.0,0,0.0,0.0,0.0,"2005, 2007, 2009, 2011"
+EVX2,ENST00000308618.4,even-skipped homeobox 2 ,9,,,,,0,hsa-miR-30e-5p,0.0646,0.4046,1.5414,-0.48,-0.48,0.98,2.0,1.0,0.0,1.0,1,0.0,1.0,0.0,
+SEC23A,ENST00000537403.1,Sec23 homolog A (S. cerevisiae) ,413,,,,,1,hsa-miR-30b-5p,0.0251,0.1672,0.7762,-0.48,-0.61,0.62,1.0,1.0,0.0,0.0,1,0.0,0.0,1.0,"2005, 2007, 2009, 2011"
+RP11-160N1.10,ENST00000377548.2,,5,,,,,0,hsa-miR-30e-5p,0.0147,0.0999,0.4617,-0.48,-0.48,0.30,1.0,1.0,0.0,0.0,0,0.0,0.0,0.0,
+SMAD1,ENST00000302085.4,SMAD family member 1 ,240,,,,,0,hsa-miR-30b-5p,0.0276,0.1851,0.8367,-0.48,-0.49,0.91,1.0,0.0,0.0,1.0,1,0.0,0.0,1.0,"2005, 2007, 2009, 2011"
+SYNGR3,ENST00000562045.1,synaptogyrin 3 ,223,,,,,0,hsa-miR-30b-5p,0.0245,0.157,0.5898,-0.48,-0.49,0.92,1.0,1.0,0.0,0.0,0,0.0,0.0,0.0,"2005, 2007, 2009, 2011"
+ACTR3C,ENST00000252071.4,ARP3 actin-related protein 3 homolog C (yeast) ,5,,,,,0,hsa-miR-30e-5p,0.0283,0.1773,0.6136,-0.48,-0.48,< 0.1,1.0,1.0,0.0,0.0,0,0.0,0.0,0.0,2011
+FZD3,ENST00000240093.3,frizzled family receptor 3 ,192,,,,,1,hsa-miR-30e-5p,0.083,0.5361,2.2142,-0.48,-0.55,0.99,3.0,3.0,0.0,0.0,0,0.0,0.0,0.0,2011
+ELAVL2,ENST00000380110.4,ELAV like neuron-specific RNA binding protein 2 ,78,,,,,0,hsa-miR-30b-5p,0.0289,0.1976,0.9688,-0.48,-0.53,0.95,1.0,0.0,0.0,1.0,1,0.0,0.0,1.0,"2005, 2007"
+STX2,ENST00000392373.2,syntaxin 2 ,216,,,,,0,hsa-miR-30a-5p,0.0277,0.1776,0.7267,-0.48,-0.6,0.73,1.0,1.0,0.0,0.0,1,0.0,0.0,1.0,"2007, 2009, 2011"
+RP11-497E19.2,ENST00000553678.1,Uncharacterized protein  ,5,,,,,0,hsa-miR-30e-5p,0.0138,0.094,0.4362,-0.48,-0.48,< 0.1,1.0,1.0,0.0,0.0,0,0.0,0.0,0.0,
+TIA1,ENST00000433529.2,TIA1 cytotoxic granule-associated RNA binding protein ,1370,,,,,1,hsa-miR-30e-5p,0.0264,0.1804,0.8782,-0.48,-0.5,0.93,2.0,0.0,1.0,1.0,0,0.0,0.0,0.0,"2007, 2009, 2011"
+C10orf11,ENST00000496424.2,chromosome 10 open reading frame 11 ,5,,,,,0,hsa-miR-30a-5p,0.0188,0.1292,0.6566,-0.48,-0.48,0.71,1.0,0.0,1.0,0.0,1,0.0,0.0,1.0,
+GMNC,ENST00000442080.1,geminin coiled-coil domain containing ,19,,,,,1,hsa-miR-30a-5p,0.0549,0.3476,1.2638,-0.47,-0.49,> 0.99,2.0,2.0,0.0,0.0,0,0.0,0.0,0.0,2011
+RARG,ENST00000425354.2,"retinoic acid receptor, gamma ",21,,,,,0,hsa-miR-30c-5p,0.0465,0.2991,1.1306,-0.47,-0.47,0.97,2.0,2.0,0.0,0.0,0,0.0,0.0,0.0,"2003, 2005, 2007, 2009, 2011"
+GNG10,ENST00000374293.4,"guanine nucleotide binding protein (G protein), gamma 10 ",407,,,,,0,hsa-miR-30a-5p,0.0251,0.1615,0.6207,-0.47,-0.47,0.63,1.0,1.0,0.0,0.0,0,0.0,0.0,0.0,"2009, 2011"
+PPP1R2,ENST00000328432.3,"protein phosphatase 1, regulatory (inhibitor) subunit 2 ",8,,,,,0,hsa-miR-30b-5p,0.0208,0.1445,0.7519,-0.47,-0.47,0.14,1.0,1.0,0.0,0.0,1,1.0,0.0,0.0,"2009, 2011"
+RP6-24A23.6,ENST00000563887.1,Uncharacterized protein  ,937,,,,,0,hsa-miR-30b-5p,0.0231,0.1577,0.7831,-0.47,-0.65,0.78,1.0,0.0,0.0,1.0,2,0.0,2.0,0.0,
+UCP3,ENST00000314032.4,"uncoupling protein 3 (mitochondrial, proton carrier) ",10,,,,,0,hsa-miR-30a-5p,0.0322,0.2113,0.8866,-0.47,-0.47,0.86,1.0,1.0,0.0,0.0,1,0.0,1.0,0.0,"2009, 2011"
+EXTL2,ENST00000370113.3,exostosin-like glycosyltransferase 2 ,204,,,,,0,hsa-miR-30b-5p,0.0491,0.2947,1.0264,-0.47,-0.47,0.80,1.0,1.0,0.0,0.0,1,0.0,1.0,0.0,"2005, 2007, 2009, 2011"
+LHX9,ENST00000367390.3,LIM homeobox 9 ,40,,,,,1,hsa-miR-30e-5p,0.0272,0.1891,1.0117,-0.47,-0.83,0.98,3.0,1.0,0.0,2.0,1,0.0,0.0,1.0,
+PPIL3,ENST00000286175.8,peptidylprolyl isomerase (cyclophilin)-like 3 ,96,,,,,1,hsa-miR-30b-5p,0.0147,0.1011,0.5069,-0.47,-0.47,0.12,1.0,1.0,0.0,0.0,0,0.0,0.0,0.0,2011
+PGM3,ENST00000513973.1,phosphoglucomutase 3 ,707,,,,,0,hsa-miR-30e-5p,0.0448,0.2797,1.0583,-0.47,-0.48,0.74,1.0,1.0,0.0,0.0,1,0.0,1.0,0.0,"2009, 2011"
+STIM2,ENST00000467011.1,stromal interaction molecule 2 ,380,,,,,0,hsa-miR-30a-5p,0.0581,0.363,1.4194,-0.47,-0.63,> 0.99,3.0,1.0,1.0,1.0,2,0.0,0.0,2.0,"2003, 2005, 2007, 2009, 2011"
+DOCK7,ENST00000251157.5,dedicator of cytokinesis 7 ,66,,,,,0,hsa-miR-30b-5p,0.0296,0.1933,0.8266,-0.46,-0.54,0.93,1.0,1.0,0.0,0.0,1,0.0,0.0,1.0,"2005, 2007, 2009, 2011"
+PPARGC1A,ENST00000264867.2,"peroxisome proliferator-activated receptor gamma, coactivator 1 alpha ",19,,,,,0,hsa-miR-30e-5p,0.0448,0.303,1.4305,-0.46,-0.48,0.99,3.0,0.0,1.0,2.0,0,0.0,0.0,0.0,"2005, 2007, 2009, 2011"
+ASB3,ENST00000406625.2,Ankyrin repeat and SOCS box protein 3  ,317,,,,,0,hsa-miR-30b-5p,0.0222,0.146,0.6168,-0.46,-0.52,0.47,1.0,1.0,0.0,0.0,1,0.0,1.0,0.0,
+STAC,ENST00000273183.3,SH3 and cysteine rich domain ,172,,,,,0,hsa-miR-30b-5p,0.0316,0.2,0.7547,-0.46,-0.46,0.91,1.0,1.0,0.0,0.0,0,0.0,0.0,0.0,"2005, 2007, 2009, 2011"
+LMBR1L,ENST00000267102.8,limb development membrane protein 1-like ,346,,,,,0,hsa-miR-30e-5p,0.0276,0.1858,0.8449,-0.46,-0.46,0.91,1.0,1.0,0.0,0.0,1,1.0,0.0,0.0,"2007, 2009, 2011"
+CHD1,ENST00000284049.3,chromodomain helicase DNA binding protein 1 ,35,,,,,0,hsa-miR-30a-5p,0.0499,0.3138,1.1751,-0.46,-0.46,0.99,2.0,1.0,1.0,0.0,0,0.0,0.0,0.0,"2009, 2011"
+DBF4,ENST00000265728.1,DBF4 homolog (S. cerevisiae) ,30,,,,,0,hsa-miR-30e-5p,0.0551,0.31,0.8876,-0.46,-0.46,0.93,1.0,1.0,0.0,0.0,0,0.0,0.0,0.0,"2009, 2011"
+PPP1R18,ENST00000399199.3,"protein phosphatase 1, regulatory subunit 18 ",265,,,,,0,hsa-miR-30e-5p,0.0377,0.2536,1.1617,-0.46,-0.46,0.99,3.0,1.0,0.0,2.0,0,0.0,0.0,0.0,2011
+BECN1,ENST00000438274.3,"beclin 1, autophagy related ",2879,,,,,0,hsa-miR-30a-5p,0.0305,0.1886,0.6319,-0.45,-0.45,0.92,1.0,1.0,0.0,0.0,0,0.0,0.0,0.0,"2005, 2007, 2009, 2011"
+LIN28B,ENST00000345080.4,lin-28 homolog B (C. elegans) ,118,,,,,0,hsa-miR-30e-5p,0.07,0.4443,1.7193,-0.45,-0.45,> 0.99,3.0,3.0,0.0,0.0,0,0.0,0.0,0.0,"2007, 2009, 2011"
+FAM133A,ENST00000538690.1,"family with sequence similarity 133, member A ",14,,,,,0,hsa-miR-30e-5p,0.0233,0.1626,0.8817,-0.45,-0.45,0.24,1.0,1.0,0.0,0.0,2,0.0,1.0,1.0,"2009, 2011"
+FAM49A,ENST00000381323.3,"family with sequence similarity 49, member A ",38,,,,,0,hsa-miR-30b-5p,0.0442,0.2595,0.8016,-0.45,-0.45,0.95,1.0,1.0,0.0,0.0,0,0.0,0.0,0.0,"2005, 2007, 2009, 2011"
+GALNT7,ENST00000265000.4,UDP-N-acetyl-alpha-D-galactosamine:polypeptide N-acetylgalactosaminyltransferase 7 (GalNAc-T7) ,953,,,,,0,hsa-miR-30b-5p,0.0664,0.4014,1.3683,-0.45,-0.45,0.99,2.0,2.0,0.0,0.0,0,0.0,0.0,0.0,"2005, 2007, 2009, 2011"
+PRDM1,ENST00000369089.3,"PR domain containing 1, with ZNF domain ",48,,,,,0,hsa-miR-30e-5p,0.0223,0.1534,0.7623,-0.45,-0.51,0.95,2.0,0.0,0.0,2.0,1,1.0,0.0,0.0,"2005, 2007, 2009, 2011"
+REV1,ENST00000393445.3,"REV1, polymerase (DNA directed) ",1210,,,,,0,hsa-miR-30b-5p,0.0339,0.2114,0.7686,-0.45,-0.45,0.95,1.0,1.0,0.0,0.0,0,0.0,0.0,0.0,"2007, 2009, 2011"
+PGM1,ENST00000371084.3,phosphoglucomutase 1 ,612,,,,,0,hsa-miR-30e-5p,0.0225,0.1504,0.682,-0.45,-0.45,0.76,1.0,1.0,0.0,0.0,1,0.0,0.0,1.0,"2005, 2007, 2009, 2011"
+COL13A1,ENST00000398974.3,"collagen, type XIII, alpha 1 ",628,,,,,0,hsa-miR-30a-5p,0.0478,0.284,0.9289,-0.44,-0.46,0.95,1.0,1.0,0.0,0.0,1,0.0,0.0,1.0,"2005, 2007, 2009, 2011"
+GPR75-ASB3,ENST00000263634.3,GPR75-ASB3 readthrough ,317,,,,,0,hsa-miR-30b-5p,0.0222,0.1463,0.6189,-0.44,-0.5,0.47,1.0,1.0,0.0,0.0,1,0.0,1.0,0.0,"2005, 2007, 2009, 2011"
+PPID,ENST00000307720.3,peptidylprolyl isomerase D ,1544,,,,,0,hsa-miR-30a-5p,0.0377,0.2245,0.6891,-0.44,-0.45,0.95,1.0,1.0,0.0,0.0,0,0.0,0.0,0.0,"2005, 2007, 2009, 2011"
+CAPN5,ENST00000531028.1,calpain 5 ,89,,,,,0,hsa-miR-30e-5p,0.0378,0.2226,0.6562,-0.44,-0.47,0.94,1.0,1.0,0.0,0.0,0,0.0,0.0,0.0,"2005, 2007, 2009, 2011"
+USP45,ENST00000392738.2,ubiquitin specific peptidase 45 ,491,,,,,2,hsa-miR-30b-5p,0.0276,0.1916,1.0232,-0.44,-0.51,0.70,1.0,0.0,1.0,0.0,2,0.0,1.0,1.0,"2007, 2009, 2011"
+YPEL2,ENST00000312655.4,yippee-like 2 (Drosophila) ,62,,,,,0,hsa-miR-30b-5p,0.0365,0.2387,1.0378,-0.44,-0.44,0.99,2.0,1.0,0.0,1.0,1,0.0,0.0,1.0,"2005, 2007, 2009, 2011"
+YTHDC1,ENST00000344157.4,YTH domain containing 1 ,307,,,,,0,hsa-miR-30b-5p,0.0222,0.1444,0.5773,-0.44,-0.44,0.95,1.0,1.0,0.0,0.0,0,0.0,0.0,0.0,"2007, 2009, 2011"
+LRRC8D,ENST00000337338.5,"leucine rich repeat containing 8 family, member D ",96,,,,,0,hsa-miR-30b-5p,0.0355,0.2199,0.7881,-0.44,-0.44,0.95,1.0,1.0,0.0,0.0,0,0.0,0.0,0.0,"2007, 2009, 2011"
+R3HDM1,ENST00000264160.4,R3H domain containing 1 ,195,,,,,0,hsa-miR-30c-5p,0.0318,0.1983,0.7012,-0.44,-0.44,0.86,1.0,1.0,0.0,0.0,0,0.0,0.0,0.0,"2007, 2009, 2011"
+PLAGL2,ENST00000246229.4,pleiomorphic adenoma gene-like 2 ,254,,,,,0,hsa-miR-30a-5p,0.0449,0.2971,1.2829,-0.44,-0.45,> 0.99,3.0,2.0,0.0,1.0,1,0.0,0.0,1.0,"2003, 2005, 2007, 2009, 2011"
+WNK3,ENST00000375169.3,WNK lysine deficient protein kinase 3 ,55,,,,,2,hsa-miR-30e-5p,0.0293,0.2057,1.1413,-0.44,-0.44,0.83,2.0,0.0,2.0,0.0,0,0.0,0.0,0.0,2011
+PCGF3,ENST00000362003.5,polycomb group ring finger 3 ,503,,,,,1,hsa-miR-30a-5p,0.0197,0.1399,0.8083,-0.44,-0.54,0.95,2.0,0.0,0.0,2.0,0,0.0,0.0,0.0,"2005, 2007, 2009, 2011"
+PRPF40A,ENST00000410080.1,PRP40 pre-mRNA processing factor 40 homolog A (S. cerevisiae) ,459,,,,,1,hsa-miR-30e-5p,0.037,0.227,0.793,-0.44,-0.47,0.81,1.0,1.0,0.0,0.0,0,0.0,0.0,0.0,"2009, 2011"
+SLC35B4,ENST00000378509.4,"solute carrier family 35 (UDP-xylose/UDP-N-acetylglucosamine transporter), member B4 ",899,,,,,0,hsa-miR-30e-5p,0.0304,0.2113,1.1009,-0.44,-0.45,0.67,2.0,1.0,1.0,0.0,1,0.0,0.0,1.0,"2009, 2011"
+FLJ20373,ENST00000414004.2,,75,,,,,0,hsa-miR-30a-5p,0.0218,0.1441,0.6125,-0.43,-0.43,0.95,1.0,1.0,0.0,0.0,0,0.0,0.0,0.0,
+MSANTD3-TMEFF1,ENST00000502978.1,MSANTD3-TMEFF1 readthrough ,234,,,,,0,hsa-miR-30b-5p,0.0327,0.204,0.734,-0.43,-0.43,0.90,1.0,1.0,0.0,0.0,0,0.0,0.0,0.0,2011
+NEDD4,ENST00000338963.2,"neural precursor cell expressed, developmentally down-regulated 4, E3 ubiquitin protein ligase ",289,,,,,0,hsa-miR-30a-5p,0.0657,0.43,1.8031,-0.43,-0.45,> 0.99,3.0,2.0,1.0,0.0,1,0.0,1.0,0.0,"2005, 2007, 2009, 2011"
+NR4A2,ENST00000409108.2,"nuclear receptor subfamily 4, group A, member 2 ",1631,,,,,0,hsa-miR-30e-5p,0.0291,0.181,0.6231,-0.43,-0.45,0.83,1.0,1.0,0.0,0.0,0,0.0,0.0,0.0,"2005, 2007, 2009, 2011"
+ZFAND5,ENST00000237937.3,"zinc finger, AN1-type domain 5 ",2522,,,,,1,hsa-miR-30a-5p,0.0365,0.2252,0.7993,-0.43,-0.55,0.95,1.0,1.0,0.0,0.0,1,0.0,0.0,1.0,"2007, 2009, 2011"
+CCDC117,ENST00000249064.4,coiled-coil domain containing 117 ,211,,,,,1,hsa-miR-30b-5p,0.0316,0.2168,1.0821,-0.43,-0.48,0.47,1.0,1.0,0.0,0.0,2,1.0,0.0,1.0,"2007, 2009, 2011"
+MAP3K2,ENST00000409947.1,mitogen-activated protein kinase kinase kinase 2 ,187,,,,,2,hsa-miR-30e-5p,0.0579,0.398,2.013,-0.43,-0.49,0.95,1.0,0.0,0.0,1.0,3,1.0,0.0,2.0,2011
+NECAP1,ENST00000339754.5,NECAP endocytosis associated 1 ,13,,,,,0,hsa-miR-30b-5p,0.0323,0.2169,0.9865,-0.43,-0.43,0.68,2.0,2.0,0.0,0.0,0,0.0,0.0,0.0,"2005, 2007, 2009, 2011"
+CFDP1,ENST00000283882.3,craniofacial development protein 1 ,482,,,,,0,hsa-miR-30a-5p,0.0106,0.0747,0.4138,-0.43,-0.43,0.33,1.0,1.0,0.0,0.0,0,0.0,0.0,0.0,
+PAAF1,ENST00000544552.1,proteasomal ATPase-associated factor 1 ,22,,,,,0,hsa-miR-30a-5p,0.0144,0.0976,0.4441,-0.43,-0.43,0.41,1.0,1.0,0.0,0.0,0,0.0,0.0,0.0,"2009, 2011"
+ZBTB41,ENST00000367405.4,zinc finger and BTB domain containing 41 ,33,,,,,0,hsa-miR-30c-5p,0.0491,0.334,1.649,-0.43,-0.47,0.95,2.0,1.0,1.0,0.0,2,0.0,1.0,1.0,"2007, 2009, 2011"
+RAB38,ENST00000243662.6,"RAB38, member RAS oncogene family ",11,,,,,0,hsa-miR-30e-5p,0.0288,0.1797,0.6182,-0.42,-0.42,0.91,1.0,1.0,0.0,0.0,0,0.0,0.0,0.0,"2005, 2007, 2009, 2011"
+TMEFF1,ENST00000374879.4,transmembrane protein with EGF-like and two follistatin-like domains 1 ,234,,,,,0,hsa-miR-30b-5p,0.0327,0.204,0.734,-0.42,-0.42,0.90,1.0,1.0,0.0,0.0,0,0.0,0.0,0.0,"2005, 2007, 2009, 2011"
+OMG,ENST00000247271.4,oligodendrocyte myelin glycoprotein ,5,,,,,0,hsa-miR-30b-5p,0.0138,0.0937,0.4358,-0.42,-0.42,0.26,1.0,1.0,0.0,0.0,0,0.0,0.0,0.0,"2005, 2007, 2009, 2011"
+SOCS3,ENST00000330871.2,suppressor of cytokine signaling 3 ,5,,,,,0,hsa-miR-30a-5p,0.033,0.2023,0.6668,-0.42,-0.42,0.95,1.0,1.0,0.0,0.0,0,0.0,0.0,0.0,"2005, 2007, 2009, 2011"
+CSAD,ENST00000267085.4,cysteine sulfinic acid decarboxylase ,11,,,,,0,hsa-miR-30a-5p,0.0128,0.0884,0.4438,-0.42,-0.42,< 0.1,1.0,1.0,0.0,0.0,0,0.0,0.0,0.0,"2009, 2011"
+RAP1B,ENST00000250559.9,"RAP1B, member of RAS oncogene family ",3599,,,,,1,hsa-miR-30e-5p,0.0316,0.1966,0.6842,-0.42,-0.45,0.81,1.0,1.0,0.0,0.0,0,0.0,0.0,0.0,"2005, 2007, 2009, 2011"
+TMEM121,ENST00000392519.2,transmembrane protein 121 ,7,,,,,0,hsa-miR-30a-5p,0.0222,0.1437,0.557,-0.42,-0.42,0.92,1.0,1.0,0.0,0.0,0,0.0,0.0,0.0,"2007, 2009, 2011"
+GNPDA1,ENST00000311337.6,glucosamine-6-phosphate deaminase 1 ,1130,,,,,0,hsa-miR-30e-5p,0.0264,0.1697,0.6606,-0.42,-0.43,0.86,1.0,1.0,0.0,0.0,0,0.0,0.0,0.0,"2009, 2011"
+CARS,ENST00000278224.9,cysteinyl-tRNA synthetase ,594,,,,,0,hsa-miR-30a-5p,0.0322,0.1975,0.6497,-0.42,-0.42,0.85,1.0,1.0,0.0,0.0,0,0.0,0.0,0.0,"2009, 2011"
+KXD1,ENST00000540691.1,KxDL motif containing 1 ,117,,,,,0,hsa-miR-30b-5p,0.0262,0.1656,0.5946,-0.42,-0.42,0.93,1.0,1.0,0.0,0.0,0,0.0,0.0,0.0,"2009, 2011"
+SMAP1,ENST00000370452.3,small ArfGAP 1 ,64,,,,,0,hsa-miR-30a-5p,0.0287,0.1811,0.6595,-0.42,-0.42,0.90,1.0,1.0,0.0,0.0,0,0.0,0.0,0.0,"2009, 2011"
+ITGA8,ENST00000378076.3,"integrin, alpha 8 ",7,,,,,0,hsa-miR-30a-5p,0.028,0.192,0.9746,-0.42,-0.57,0.99,1.0,1.0,0.0,0.0,1,0.0,0.0,1.0,
+IP6K3,ENST00000451316.1,inositol hexakisphosphate kinase 3 ,8,,,,,0,hsa-miR-30a-5p,0.0342,0.216,0.8111,-0.41,-0.41,0.95,1.0,1.0,0.0,0.0,1,0.0,1.0,0.0,"2005, 2007, 2009, 2011"
+CCNT2,ENST00000295238.6,cyclin T2 ,381,,,,,0,hsa-miR-30c-5p,0.0317,0.2181,1.1009,-0.41,-0.41,0.99,2.0,1.0,0.0,1.0,0,0.0,0.0,0.0,"2005, 2007, 2009, 2011"
+FAM81A,ENST00000288228.5,"family with sequence similarity 81, member A ",53,,,,,0,hsa-miR-30e-5p,0.0218,0.1516,0.7876,-0.41,-0.47,0.87,2.0,0.0,2.0,0.0,1,0.0,1.0,0.0,"2009, 2011"
+DCBLD1,ENST00000338728.5,"discoidin, CUB and LCCL domain containing 1 ",876,,,,,1,hsa-miR-30b-5p,0.0196,0.1372,0.7506,-0.41,-0.42,0.21,1.0,1.0,0.0,0.0,1,0.0,0.0,1.0,
+PFN2,ENST00000239940.7,profilin 2 ,2184,,,,,0,hsa-miR-30e-5p,0.0297,0.1836,0.6121,-0.41,-0.42,0.90,1.0,1.0,0.0,0.0,0,0.0,0.0,0.0,"2007, 2009, 2011"
+SNAI1,ENST00000244050.2,snail family zinc finger 1 ,486,,,,,0,hsa-miR-30a-5p,0.0436,0.2528,0.7296,-0.41,-0.41,0.95,1.0,1.0,0.0,0.0,0,0.0,0.0,0.0,"2005, 2007, 2009, 2011"
+AVEN,ENST00000306730.3,"apoptosis, caspase activation inhibitor ",230,,,,,0,hsa-miR-30e-5p,0.0103,0.0732,0.4232,-0.41,-0.62,0.19,1.0,1.0,0.0,0.0,2,1.0,0.0,1.0,"2009, 2011"
+ADRA2A,ENST00000280155.2,adrenoceptor alpha 2A ,239,,,,,0,hsa-miR-30c-5p,0.0317,0.2025,0.7902,-0.41,-0.43,0.98,2.0,1.0,0.0,1.0,0,0.0,0.0,0.0,"2009, 2011"
+ANKHD1,ENST00000360839.2,ankyrin repeat and KH domain containing 1 ,247,,,,,0,hsa-miR-30b-5p,0.051,0.2853,0.7628,-0.41,-0.41,0.95,1.0,1.0,0.0,0.0,0,0.0,0.0,0.0,"2005, 2007, 2009, 2011"
+RAB27B,ENST00000262094.5,"RAB27B, member RAS oncogene family ",5,,,,,1,hsa-miR-30b-5p,0.0608,0.3555,1.2203,-0.41,-0.41,0.94,1.0,1.0,0.0,0.0,1,0.0,0.0,1.0,2011
+S100PBP,ENST00000373475.5,S100P binding protein ,428,,,,,0,hsa-miR-30c-5p,0.0245,0.172,0.9404,-0.4,-0.46,0.39,2.0,2.0,0.0,0.0,2,0.0,2.0,0.0,"2009, 2011"
+SDAD1,ENST00000356260.5,SDA1 domain containing 1 ,91,,,,,0,hsa-miR-30e-5p,0.0162,0.1132,0.6082,-0.4,-0.5,0.16,1.0,1.0,0.0,0.0,3,1.0,2.0,0.0,"2009, 2011"
+LHX1,ENST00000254457.5,LIM homeobox 1 ,15,,,,,0,hsa-miR-30e-5p,0.0464,0.2993,1.1434,-0.4,-0.4,0.97,2.0,1.0,1.0,0.0,0,0.0,0.0,0.0,2011
+CALB2,ENST00000349553.5,calbindin 2 ,5,,,,,0,hsa-miR-30e-5p,0.0081,0.0585,0.3621,-0.4,-0.4,0.93,2.0,0.0,1.0,1.0,0,0.0,0.0,0.0,"2009, 2011"
+PABPC1L2B,ENST00000373521.2,"poly(A) binding protein, cytoplasmic 1-like 2B ",5,,,,,0,hsa-miR-30e-5p,0.0157,0.1111,0.6361,-0.4,-0.4,0.89,2.0,0.0,1.0,1.0,0,0.0,0.0,0.0,2011
+DNAJC25-GNG10,ENST00000374294.3,DNAJC25-GNG10 readthrough ,407,,,,,0,hsa-miR-30a-5p,0.0251,0.1615,0.6207,-0.4,-0.4,0.63,1.0,1.0,0.0,0.0,0,0.0,0.0,0.0,"2009, 2011"
+SLC35F1,ENST00000360388.4,"solute carrier family 35, member F1 ",56,,,,,0,hsa-miR-30b-5p,0.048,0.2946,1.0644,-0.4,-0.51,0.99,1.0,1.0,0.0,0.0,2,0.0,1.0,1.0,"2007, 2009, 2011"
+PPARGC1B,ENST00000309241.5,"peroxisome proliferator-activated receptor gamma, coactivator 1 beta ",12,,,,,1,hsa-miR-30e-5p,0.1358,0.7994,2.5072,-0.4,-0.42,> 0.99,4.0,3.0,1.0,0.0,0,0.0,0.0,0.0,"2003, 2005, 2007, 2009, 2011"
+CTHRC1,ENST00000330295.5,collagen triple helix repeat containing 1 ,1504,,,,,0,hsa-miR-30a-5p,0.0097,0.0674,0.3482,-0.4,-0.41,< 0.1,1.0,1.0,0.0,0.0,0,0.0,0.0,0.0,"2009, 2011"
+SNX18,ENST00000343017.6,sorting nexin 18 ,174,,,,,0,hsa-miR-30b-5p,0.0428,0.2748,1.1393,-0.4,-0.4,0.97,1.0,1.0,0.0,0.0,2,0.0,1.0,1.0,"2009, 2011"
+USP48,ENST00000400301.1,ubiquitin specific peptidase 48 ,3036,,,,,0,hsa-miR-30a-5p,0.0157,0.1058,0.4837,-0.4,-0.49,0.90,1.0,1.0,0.0,0.0,0,0.0,0.0,0.0,"2005, 2007, 2009, 2011"
+VAT1L,ENST00000302536.2,vesicle amine transport 1-like ,123,,,,,0,hsa-miR-30e-5p,0.0321,0.1963,0.6566,-0.4,-0.44,0.95,1.0,1.0,0.0,0.0,0,0.0,0.0,0.0,"2005, 2007, 2009, 2011"
+NRXN3,ENST00000281127.7,neurexin 3 ,14,,,,,0,hsa-miR-30e-5p,0.0454,0.263,0.7733,-0.4,-0.4,0.95,1.0,1.0,0.0,0.0,0,0.0,0.0,0.0,"2005, 2007, 2009, 2011"
+CAPZA1,ENST00000263168.3,"capping protein (actin filament) muscle Z-line, alpha 1 ",1159,,,,,0,hsa-miR-30e-5p,0.0448,0.2597,0.7612,-0.4,-0.4,0.94,1.0,1.0,0.0,0.0,0,0.0,0.0,0.0,"2005, 2007, 2009, 2011"
+SEPT7,ENST00000435235.1,septin 7 ,97,,,,,0,hsa-miR-30c-5p,0.0383,0.2376,0.8663,-0.4,-0.44,0.95,1.0,1.0,0.0,0.0,1,0.0,0.0,1.0,"2005, 2007, 2009, 2011"
+FOXB1,ENST00000396057.4,forkhead box B1 ,31,,,,,0,hsa-miR-30b-5p,0.0465,0.2865,0.9844,-0.4,-0.48,0.98,2.0,1.0,1.0,0.0,0,0.0,0.0,0.0,
+CDC37L1,ENST00000381854.3,cell division cycle 37-like 1 ,280,,,,,0,hsa-miR-30b-5p,0.0231,0.1488,0.5673,-0.4,-0.4,0.95,1.0,1.0,0.0,0.0,0,0.0,0.0,0.0,"2005, 2007, 2009, 2011"
