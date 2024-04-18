@@ -29,18 +29,39 @@ def calculate_mutual_information_with_bootstrap(group, n_iterations=1000):
     
     return pd.DataFrame({'miRNA': miRNAs, 'MI_Score': mi_score_summary})
 
-def perform_mi_analysis_and_save():
+def perform_mi_analysis_and_categorize():
     treatment_mi = calculate_mutual_information_with_bootstrap(treatment_group)
     control_mi = calculate_mutual_information_with_bootstrap(control_group)
-        
-    # Save the MI scores to CSV files
-    treatment_mi.to_csv('/Users/emmetthintz/Documents/Computational-Biology/Data/treatment_mi_scores.csv', index=False)
-    control_mi.to_csv('/Users/emmetthintz/Documents/Computational-Biology/Data/control_mi_scores.csv', index=False)
+
+    # Assuming significance is determined, for demonstration, by being in the top X percentile (e.g., top 25%)
+    # Adjust the quantile value as needed
+    significant_threshold_treatment = treatment_mi['MI_Score'].quantile(0.75)
+    significant_threshold_control = control_mi['MI_Score'].quantile(0.75)
+
+    # Identifying significant miRNAs based on the calculated threshold
+    significant_miRNAs_treatment = set(treatment_mi[treatment_mi['MI_Score'] > significant_threshold_treatment]['miRNA'])
+    significant_miRNAs_control = set(control_mi[control_mi['MI_Score'] > significant_threshold_control]['miRNA'])
+
+    # Categorizing into the five groups
+    unique_miRNAs_treatment = significant_miRNAs_treatment - significant_miRNAs_control
+    unique_miRNAs_control = significant_miRNAs_control - significant_miRNAs_treatment
+    significant_miRNAs_intersection = significant_miRNAs_treatment.intersection(significant_miRNAs_control)
+
+    # Convert sets to DataFrames
+    mi_treatment_unique = pd.DataFrame(list(unique_miRNAs_treatment), columns=['miRNA'])
+    mi_control_unique = pd.DataFrame(list(unique_miRNAs_control), columns=['miRNA'])
+    mi_intersection = pd.DataFrame(list(significant_miRNAs_intersection), columns=['miRNA'])
+    mi_treatment = pd.DataFrame(list(significant_miRNAs_treatment), columns=['miRNA'])
+    mi_control = pd.DataFrame(list(significant_miRNAs_control), columns=['miRNA'])
+
+    # Save each DataFrame to a CSV file
+    mi_treatment_unique.to_csv('/Users/emmetthintz/Documents/Computational-Biology/Data/mi/mi_treatment_unique.csv', index=False)
+    mi_control_unique.to_csv('/Users/emmetthintz/Documents/Computational-Biology/Data/mi/mi_control_unique.csv', index=False)
+    mi_intersection.to_csv('/Users/emmetthintz/Documents/Computational-Biology/Data/mi/mi_intersection.csv', index=False)
+    mi_treatment.to_csv('/Users/emmetthintz/Documents/Computational-Biology/Data/mi/mi_treatment.csv', index=False)
+    mi_control.to_csv('/Users/emmetthintz/Documents/Computational-Biology/Data/mi/mi_control.csv', index=False)
+
+    print("MI analysis categorized into 5 groups and saved to CSV files.")
+
     
-    # For demonstration, we will print the top 5 miRNAs based on MI score
-    print("Top 5 MI Scores in Treatment Group:")
-    print(treatment_mi.sort_values(by='MI_Score', ascending=False).head())
-    print("\nTop 5 MI Scores in Control Group:")
-    print(control_mi.sort_values(by='MI_Score', ascending=False).head())
-    
-perform_mi_analysis_and_save()
+perform_mi_analysis_and_categorize()
