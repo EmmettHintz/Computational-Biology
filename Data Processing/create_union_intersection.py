@@ -1,79 +1,42 @@
 import pandas as pd
+# Load the data
+mi_treatment_unique = pd.read_csv('/Users/emmetthintz/Documents/Computational-Biology/Data/mi/mi_treatment_unique.csv')
+mi_control_unique = pd.read_csv('/Users/emmetthintz/Documents/Computational-Biology/Data/mi/mi_control_unique.csv')
+mi_intersection = pd.read_csv('/Users/emmetthintz/Documents/Computational-Biology/Data/mi/mi_intersection.csv')
+mi_treatment = pd.read_csv('/Users/emmetthintz/Documents/Computational-Biology/Data/mi/mi_treatment.csv')
+mi_control = pd.read_csv('/Users/emmetthintz/Documents/Computational-Biology/Data/mi/mi_control.csv')
 
-# Define your MI score threshold for significance
-mi_score_threshold = 0.01  # Example threshold, adjust as needed
-
-# Load the t-test results
-significant_control_miRNAs_ttest = pd.read_csv('/Users/emmetthintz/Documents/Computational-Biology/Data/significant_control_miRNAs_ttest.csv')
-significant_treatment_miRNAs_ttest = pd.read_csv('/Users/emmetthintz/Documents/Computational-Biology/Data/significant_treatment_miRNAs_ttest.csv')
-
-# Load the MI results
-control_mi_scores = pd.read_csv('/Users/emmetthintz/Documents/Computational-Biology/Data/control_mi_scores.csv')
-treatment_mi_scores = pd.read_csv('/Users/emmetthintz/Documents/Computational-Biology/Data/treatment_mi_scores.csv')
-import pandas as pd
-
-# Fix column names for T-test datasets
-significant_control_miRNAs_ttest.rename(columns={'Unnamed: 0': 'miRNA'}, inplace=True)
-significant_treatment_miRNAs_ttest.rename(columns={'Unnamed: 0': 'miRNA'}, inplace=True)
-
-# Filter miRNAs by MI score threshold
-mi_score_threshold = 0.01
-mi_treatment_filtered = treatment_mi_scores[treatment_mi_scores['MI_Score'] > mi_score_threshold]
-mi_control_filtered = control_mi_scores[control_mi_scores['MI_Score'] > mi_score_threshold]
-
-# Find unique significant miRNAs in the treatment group based on t-test
-unique_treatment_ttest = set(significant_treatment_miRNAs_ttest['miRNA']) - set(significant_control_miRNAs_ttest['miRNA'])
-
-# Now use the filtered MI data
-unique_treatment_mi = set(mi_treatment_filtered['miRNA']) - set(mi_control_filtered['miRNA'])
-
-# Union of significant features from T-test and MI Scores
-union_significant_features = unique_treatment_ttest.union(unique_treatment_mi)
-
-# Intersection of significant features from T-test and MI Scores
-intersection_significant_features = unique_treatment_ttest.intersection(unique_treatment_mi)
-
-# Prepare results for treatment
-results_treatment = {
-    "unique_treatment_ttest": list(unique_treatment_ttest),
-    "unique_treatment_mi": list(unique_treatment_mi),
-    "union_significant_features": list(union_significant_features),
-    "intersection_significant_features": list(intersection_significant_features)
-}
-
-# Find unique significant miRNAs in the control group based on t-test
-unique_control_ttest = set(significant_control_miRNAs_ttest['miRNA']) - set(significant_treatment_miRNAs_ttest['miRNA'])
-
-# Now use the filtered MI data for control
-unique_control_mi = set(mi_control_filtered['miRNA']) - set(mi_treatment_filtered['miRNA'])
-
-# Union of significant features from T-test and MI Scores for control
-union_significant_features_control = unique_control_ttest.union(unique_control_mi)
-
-# Intersection of significant features from T-test and MI Scores for control
-intersection_significant_features_control = unique_control_ttest.intersection(unique_control_mi)
-
-# Prepare results for control
-results_control = {
-    "unique_control_ttest": list(unique_control_ttest),
-    "unique_control_mi": list(unique_control_mi),
-    "union_significant_features": list(union_significant_features_control),
-    "intersection_significant_features": list(intersection_significant_features_control)
-}
-
-# Save results for treatment
-union_df_treatment = pd.DataFrame(results_treatment['union_significant_features'], columns=['miRNA'])
-intersection_df_treatment = pd.DataFrame(results_treatment['intersection_significant_features'], columns=['miRNA'])
-
-# Save results for control
-union_df_control = pd.DataFrame(results_control['union_significant_features'], columns=['miRNA'])
-intersection_df_control = pd.DataFrame(results_control['intersection_significant_features'], columns=['miRNA'])
-
-# Assuming paths are placeholders, replace with actual save locations
-union_df_treatment.to_csv('union_significant_features_treatment.csv', index=False)
-intersection_df_treatment.to_csv('intersection_significant_features_treatment.csv', index=False)
-
-union_df_control.to_csv('union_significant_features_control.csv', index=False)
-intersection_df_control.to_csv('intersection_significant_features_control.csv', index=False)
+# t-test data
+t_test_treatment_unique = pd.read_csv('/Users/emmetthintz/Documents/Computational-Biology/Data/t-test/t_test_treatment_unique.csv')
+t_test_control_unique = pd.read_csv('/Users/emmetthintz/Documents/Computational-Biology/Data/t-test/t_test_control_unique.csv')
+t_test_intersection = pd.read_csv('/Users/emmetthintz/Documents/Computational-Biology/Data/t-test/t_test_intersection.csv')
+t_test_treatment = pd.read_csv('/Users/emmetthintz/Documents/Computational-Biology/Data/t-test/t_test_treatment.csv')
+t_test_control = pd.read_csv('/Users/emmetthintz/Documents/Computational-Biology/Data/t-test/t_test_control.csv')
 
 
+# Define function to calculate union and intersection for corresponding groups
+def analyze_groups(mi_df, t_test_df, group_name):
+    # Extract miRNA names from both datasets
+    mi_set = set(mi_df['miRNA'])
+    t_test_set = set(t_test_df['miRNA'])
+    
+    # Calculate union and intersection
+    union_set = mi_set.union(t_test_set)
+    intersection_set = mi_set.intersection(t_test_set)
+    
+    # Convert sets to DataFrames
+    union_df = pd.DataFrame(list(union_set), columns=['miRNA'])
+    intersection_df = pd.DataFrame(list(intersection_set), columns=['miRNA'])
+    
+    # Save to CSV files
+    union_df.to_csv(f'/Users/emmetthintz/Documents/Computational-Biology/Data/union_{group_name}.csv', index=False)
+    intersection_df.to_csv(f'/Users/emmetthintz/Documents/Computational-Biology/Data/intersection_{group_name}.csv', index=False)
+    
+    print(f"Saved union and intersection for {group_name}.")
+
+# Apply the function to each pair of groups
+analyze_groups(mi_treatment_unique, t_test_treatment_unique, 'treatment_unique')
+analyze_groups(mi_control_unique, t_test_control_unique, 'control_unique')
+analyze_groups(mi_intersection, t_test_intersection, 'intersection')
+analyze_groups(mi_treatment, t_test_treatment, 'treatment')
+analyze_groups(mi_control, t_test_control, 'control')

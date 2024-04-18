@@ -1,23 +1,25 @@
 import pandas as pd
 
+# Load the original dataset
 data = pd.read_csv('Data/GSE97154_Cleaned.csv')
 
-union_significant_features = pd.read_csv('Data/Union_Significant_Features.csv')
+# Function to filter and save data for a specific group
+def filter_and_save_data(significant_features_file, save_file):
+    significant_features = pd.read_csv(significant_features_file)
+    significant_miRNAs = significant_features['miRNA'].tolist()
+    filtered_data = data[['Participant ID', 'Timepoint', 'Treatment', 'Response'] + significant_miRNAs]
+    filtered_data.to_csv(save_file, index=False)
 
-# Treatment 
-significant_miRNAs = union_significant_features['miRNA'].tolist()
-# Filter the origional dataset to include only the significant miRNAs
-# Keep only necessary columns
-filtered_data = data[['Participant ID', 'Timepoint', 'Treatment', 'Response'] + significant_miRNAs]
+# Define file names for significant features and output files for the 5 groups
+groups_files = {
+    'treatment_unique': ('Data/treatment_unique_significant_features.csv', 'Data/treatment_unique_data.csv'),
+    'control_unique': ('Data/control_unique_significant_features.csv', 'Data/control_unique_data.csv'),
+    'intersection': ('Data/intersection_significant_features.csv', 'Data/intersection_data.csv'),
+    'treatment': ('Data/treatment_significant_features.csv', 'Data/treatment_data.csv'),
+    'control': ('Data/control_significant_features.csv', 'Data/control_data.csv')
+}
 
-# Save as a csv
-filtered_data.to_csv('Data/Union_Data.csv', index=False)
-
-# Do the same for the control group
-control_union_significant_features = pd.read_csv('Data/CONTROL_union_significant_features.csv')
-
-control_significant_miRNAs = control_union_significant_features['miRNA'].tolist()
-
-control_filtered_data = data[['Participant ID', 'Timepoint', 'Treatment', 'Response'] + control_significant_miRNAs]
-
-control_filtered_data.to_csv('Data/CONTROL_union_data.csv', index=False)
+# Apply the filter_and_save_data function for each group
+for group, (features_file, save_file) in groups_files.items():
+    filter_and_save_data(features_file, save_file)
+    print(f"Filtered data for {group} group saved to {save_file}")
