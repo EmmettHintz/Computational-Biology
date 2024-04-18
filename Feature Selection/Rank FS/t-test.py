@@ -36,18 +36,53 @@ def perform_bootstrap_t_tests(group, n_bootstraps=1000):
     
     return bootstrap_results[bootstrap_results['corrected_p_value'] < 0.05]
 
-def main():
-    significant_treatment = perform_bootstrap_t_tests(treatment_group)
-    significant_control = perform_bootstrap_t_tests(control_group)
 
-    # Saving the significant miRNAs to CSV files
-    significant_treatment.to_csv('/Users/emmetthintz/Documents/Computational-Biology/Data/significant_treatment_miRNAs_ttest.csv')
-    significant_control.to_csv('/Users/emmetthintz/Documents/Computational-Biology/Data/significant_control_miRNAs_ttest.csv')
+significant_treatment = perform_bootstrap_t_tests(treatment_group)
+significant_control = perform_bootstrap_t_tests(control_group)
 
-    print("Significant miRNAs in Treatment Group:")
-    print(significant_treatment)
-    print("\nSignificant miRNAs in Control Group:")
-    print(significant_control)
+# Finding the significant miRNAs in both treatment and control groups
+significant_miRNAs_treatment = set(significant_treatment.index)
+significant_miRNAs_control = set(significant_control.index)
 
-if __name__ == "__main__":
-    main()
+# Intersection: miRNAs significant in both groups
+significant_miRNAs_intersection = significant_miRNAs_treatment.intersection(significant_miRNAs_control)
+
+# Unique to Treatment: miRNAs significant in treatment but not in control
+unique_miRNAs_treatment = significant_miRNAs_treatment - significant_miRNAs_control
+
+# Unique to Control: miRNAs significant in control but not in treatment
+unique_miRNAs_control = significant_miRNAs_control - significant_miRNAs_treatment
+
+# Preparing summary dictionary for all groups:
+summary = {
+    "Group 1 (Unique to Treatment)": list(unique_miRNAs_treatment),
+    "Group 2 (Unique to Control)": list(unique_miRNAs_control),
+    "Group 3 (Intersection)": list(significant_miRNAs_intersection),
+    "Group 4 (All significant in Treatment)": list(significant_miRNAs_treatment),
+    "Group 5 (All significant in Control)": list(significant_miRNAs_control)
+}
+
+# Printing summary information
+print(f'There are {len(significant_miRNAs_treatment)} significant miRNAs in the treatment group.')
+print(f'There are {len(significant_miRNAs_control)} significant miRNAs in the control group.')
+print(f'There are {len(significant_miRNAs_intersection)} miRNAs that are significant in both the treatment and control groups.')
+print("\nSummary:")
+for group, miRNAs in summary.items():
+    print(f"{group}: {len(miRNAs)} miRNAs")
+    
+# Create pd DataFrame for each of the 5 groups, then save to csv
+# Convert lists to Pandas DataFrames
+t_test_treatment_unique = pd.DataFrame(list(summary["Group 1 (Unique to Treatment)"]), columns=['miRNA'])
+t_test_control_unique= pd.DataFrame(list(summary["Group 2 (Unique to Control)"]), columns=['miRNA'])
+t_test_intersection = pd.DataFrame(list(summary["Group 3 (Intersection)"]), columns=['miRNA'])
+t_test_treatment= pd.DataFrame(list(summary["Group 4 (All significant in Treatment)"]), columns=['miRNA'])
+t_test_control = pd.DataFrame(list(summary["Group 5 (All significant in Control)"]), columns=['miRNA'])
+
+# Save each DataFrame to a CSV file
+t_test_treatment_unique.to_csv('/Users/emmetthintz/Documents/Computational-Biology/Data/t-test/t_test_treatment_unique.csv', index=False)
+t_test_control_unique.to_csv('/Users/emmetthintz/Documents/Computational-Biology/Data/t-test/t_test_control_unique.csv', index=False)
+t_test_intersection.to_csv('/Users/emmetthintz/Documents/Computational-Biology/Data/t-test/t_test_intersection.csv', index=False)
+t_test_treatment.to_csv('/Users/emmetthintz/Documents/Computational-Biology/Data/t-test/t_test_treatment.csv', index=False)
+t_test_control.to_csv('/Users/emmetthintz/Documents/Computational-Biology/Data/t-test/t_test_control.csv', index=False)
+
+print("All groups have been saved to CSV files.")
