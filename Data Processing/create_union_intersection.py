@@ -69,9 +69,6 @@ intersection_df_treatment = pd.DataFrame(results_treatment['intersection_signifi
 union_df_control = pd.DataFrame(results_control['union_significant_features'], columns=['miRNA'])
 intersection_df_control = pd.DataFrame(results_control['intersection_significant_features'], columns=['miRNA'])
 
-
-#
-
 # Assuming paths are placeholders, replace with actual save locations
 union_df_treatment.to_csv('union_significant_features_treatment.csv', index=False)
 intersection_df_treatment.to_csv('intersection_significant_features_treatment.csv', index=False)
