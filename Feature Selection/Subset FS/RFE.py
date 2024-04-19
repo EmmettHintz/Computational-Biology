@@ -2,8 +2,10 @@ from sklearn.feature_selection import RFECV
 from sklearn.linear_model import LogisticRegression
 import pandas as pd
 
-# Function to perform RFECV on a given dataset
-def perform_rfecv(data_path):
+# Function to perform RFECV on a given dataset and return selected features
+def perform_rfecv(group_name, data_path):
+    print(f"\nAnalyzing {group_name} Group")
+    
     # Load the dataset
     data = pd.read_csv(data_path)
     
@@ -15,7 +17,7 @@ def perform_rfecv(data_path):
     model = LogisticRegression(solver='liblinear')
     
     # Initialize RFECV with the logistic regression model
-    rfecv = RFECV(estimator=model, step=1, cv=5, scoring='accuracy')  # You can adjust cv and scoring as needed
+    rfecv = RFECV(estimator=model, step=1, cv=5, scoring='accuracy')  # Adjust cv and scoring as needed
     
     # Fit RFECV
     rfecv.fit(X, y)
@@ -26,18 +28,19 @@ def perform_rfecv(data_path):
     # Optimal number of features
     optimal_number_of_features = rfecv.n_features_
     
-    return selected_features, optimal_number_of_features
+    # Log selected features and optimal number
+    print(f"{group_name} Group - Selected Features:", selected_features.tolist())
+    print(f"Optimal Number of Features ({group_name}):", optimal_number_of_features)
 
-# Paths to your datasets
-treatment_data_path = '/Users/emmetthintz/Documents/Computational-Biology/Data/Union_Data.csv'
-control_data_path = '/Users/emmetthintz/Documents/Computational-Biology/Data/CONTROL_union_data.csv'  
+# Dictionary mapping group names to their data files
+groups_info = {
+    'treatment_unique': '/Users/emmetthintz/Documents/Computational-Biology/Data/Groups/treatment_unique/union_treatment_unique.csv',
+    'control_unique': '/Users/emmetthintz/Documents/Computational-Biology/Data/Groups/control_unique/union_control_unique.csv',
+    'intersection': '/Users/emmetthintz/Documents/Computational-Biology/Data/Groups/intersection/union_intersection.csv',
+    'treatment': '/Users/emmetthintz/Documents/Computational-Biology/Data/Groups/treatment/union_treatment.csv',
+    'control': '/Users/emmetthintz/Documents/Computational-Biology/Data/Groups/control/union_control.csv'
+}
 
-# Perform RFECV for both treatment and control groups
-selected_features_treatment, optimal_features_treatment = perform_rfecv(treatment_data_path)
-selected_features_control, optimal_features_control = perform_rfecv(control_data_path)
-
-# Print selected features and optimal number of features for both groups
-print("Treatment Group - Selected Features:", selected_features_treatment)
-print("Optimal Number of Features (Treatment):", optimal_features_treatment)
-print("Control Group - Selected Features:", selected_features_control)
-print("Optimal Number of Features (Control):", optimal_features_control)
+# Analyze each group with RFECV
+for group_name, data_path in groups_info.items():
+    perform_rfecv(group_name, data_path)
