@@ -22,7 +22,7 @@ def discretize_data(X, n_bins=3):
     X_discrete = est.fit_transform(X)
     return X_discrete
 
-def fcbf(X, y, delta=0):
+def fcbf(X, y, delta=0.001):
     n_samples, n_features = X.shape
     t1 = np.array([[i, su.su_calculation(X[:, i], y)] for i in range(n_features) if su.su_calculation(X[:, i], y) > delta])
     
@@ -46,27 +46,30 @@ def fcbf(X, y, delta=0):
     return np.array(F, dtype=int), np.array(SU)
 
 def analyze_group(group_name, data_path):
-    print(f"Analyzing {group_name} Group")
+    print(f"\nAnalyzing {group_name} Group")
     data = pd.read_csv(data_path)
-    X = data.drop(['Participant ID', 'Timepoint', 'Treatment', 'Response'], axis=1).values
+    X = data.drop(['Participant ID', 'Timepoint', 'Treatment', 'Response'], axis=1)
     y = data['Response'].values
-    X_discrete = discretize_data(X, n_bins=3)
+    X_discrete = discretize_data(X.values, n_bins=3)
     F, SU = fcbf(X_discrete, y)
-    # Display selected features and SU scores
-    print("Selected Features:", F)
+    
+    # Log the selected features and SU scores
+    print("Selected Feature Indices:", F)
     print("SU Scores:", SU)
+    
     # Display selected miRNAs by name
-    print(f"\n{group_name} Group - Selected miRNAs:")
+    print(f"{group_name} Group - Selected miRNAs:")
     for index in F:
-        print(data.columns[index+4])  # Adjust the index offset as necessary
+        print(X.columns[index])  # Directly use column names without offset
+
         
 ## Dictionary mapping group names to their data files
 groups_info = {
-    'treatment_unique': '/path/to/treatment_unique_data.csv',
-    'control_unique': '/path/to/control_unique_data.csv',
-    'intersection': '/path/to/intersection_data.csv',
-    'treatment': '/path/to/treatment_data.csv',
-    'control': '/path/to/control_data.csv'
+    'treatment_unique': '/Users/emmetthintz/Documents/Computational-Biology/Data/Groups/treatment_unique/union_treatment_unique.csv',
+    'control_unique': '/Users/emmetthintz/Documents/Computational-Biology/Data/Groups/control_unique/union_control_unique.csv',
+    'intersection': '/Users/emmetthintz/Documents/Computational-Biology/Data/Groups/intersection/union_intersection.csv',
+    'treatment': '/Users/emmetthintz/Documents/Computational-Biology/Data/Groups/treatment/union_treatment.csv',
+    'control': '/Users/emmetthintz/Documents/Computational-Biology/Data/Groups/control/union_control.csv'
 }
 
 # Analyze each group
