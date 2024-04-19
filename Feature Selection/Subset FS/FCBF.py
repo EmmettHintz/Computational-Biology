@@ -45,32 +45,30 @@ def fcbf(X, y, delta=0):
     
     return np.array(F, dtype=int), np.array(SU)
 
-# Treatment Group Analysis
-treatment_data_path = '/Users/emmetthintz/Documents/Computational-Biology/Data/Union_Data.csv'  # Adjust path as necessary
-treatment_data = pd.read_csv(treatment_data_path)
-X_treatment = treatment_data.drop(['Participant ID', 'Timepoint', 'Treatment', 'Response'], axis=1).values
-y_treatment = treatment_data['Response'].values
-X_discrete_treatment = discretize_data(X_treatment, n_bins=3)
-F_treatment, SU_treatment = fcbf(X_discrete_treatment, y_treatment)
-print("Treatment Group - Selected Features:", F_treatment)
-print("SU Scores:", SU_treatment)
+def analyze_group(group_name, data_path):
+    print(f"Analyzing {group_name} Group")
+    data = pd.read_csv(data_path)
+    X = data.drop(['Participant ID', 'Timepoint', 'Treatment', 'Response'], axis=1).values
+    y = data['Response'].values
+    X_discrete = discretize_data(X, n_bins=3)
+    F, SU = fcbf(X_discrete, y)
+    # Display selected features and SU scores
+    print("Selected Features:", F)
+    print("SU Scores:", SU)
+    # Display selected miRNAs by name
+    print(f"\n{group_name} Group - Selected miRNAs:")
+    for index in F:
+        print(data.columns[index+4])  # Adjust the index offset as necessary
+        
+## Dictionary mapping group names to their data files
+groups_info = {
+    'treatment_unique': '/path/to/treatment_unique_data.csv',
+    'control_unique': '/path/to/control_unique_data.csv',
+    'intersection': '/path/to/intersection_data.csv',
+    'treatment': '/path/to/treatment_data.csv',
+    'control': '/path/to/control_data.csv'
+}
 
-# Assuming the features and response for the control group are similarly structured
-# Control Group Analysis
-control_data_path = '/Users/emmetthintz/Documents/Computational-Biology/Data/CONTROL_union_data.csv'  # Adjust this path to where your control data is located
-control_data = pd.read_csv(control_data_path)
-X_control = control_data.drop(['Participant ID', 'Timepoint', 'Treatment', 'Response'], axis=1).values
-y_control = control_data['Response'].values
-X_discrete_control = discretize_data(X_control, n_bins=3)
-F_control, SU_control = fcbf(X_discrete_control, y_control)
-print("Control Group - Selected Features:", F_control)
-print("SU Scores:", SU_control)
-
-# Display selected features by name for both groups
-print("\nTreatment Group - Selected miRNAs:")
-for index in F_treatment:
-    print(treatment_data.columns[index+4])  # Adjust the index offset as necessary based on your dataset structure
-
-print("\nControl Group - Selected miRNAs:")
-for index in F_control:
-    print(control_data.columns[index+4])  # Adjust the index offset as necessary based on your dataset structure
+# Analyze each group
+for group_name, data_path in groups_info.items():
+    analyze_group(group_name, data_path)

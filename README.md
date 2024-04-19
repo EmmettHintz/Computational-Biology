@@ -49,7 +49,7 @@ Feature Selection:
 
 ### Fixed Analysis
 
-- sFCBF:  
+- FCBF:  
     -Treatment Group: Selected miRNAs:  
         - hsa-miR-30e-5p  
     -Control Group: Selected miRNAs:
