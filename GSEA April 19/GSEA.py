@@ -1,41 +1,43 @@
 import pandas as pd
-import os
 
-# Define your directories for each group
-directories = {
-    'treatment': '/Users/emmetthintz/Documents/Computational-Biology/GSEA April 19/treatment_group',
-    'treatment_unique': '/Users/emmetthintz/Documents/Computational-Biology/GSEA April 19/unique_treatment_group',
-    'control': '/Users/emmetthintz/Documents/Computational-Biology/GSEA April 19/control_group',
-    'control_unique': '/Users/emmetthintz/Documents/Computational-Biology/GSEA April 19/unique_control_group',
-    'intersection': '/Users/emmetthintz/Documents/Computational-Biology/GSEA April 19/intersection_group'
+# Assuming the CSV files contain a column 'Gene Symbol' and are in a folder structure as indicated
+file_paths = {
+    'control_group_tb': '/Users/emmetthintz/Documents/Computational-Biology/GSEA April 19/control_group/control_genes_miRTarBase.csv',
+    'control_group_ts': '/Users/emmetthintz/Documents/Computational-Biology/GSEA April 19/control_group/control_genes_TargetScan.csv',
+    'intersection_group_tb': '/Users/emmetthintz/Documents/Computational-Biology/GSEA April 19/intersection_group/intersection_genes_miRTarBase.csv',
+    'intersection_group_ts': '/Users/emmetthintz/Documents/Computational-Biology/GSEA April 19/intersection_group/intersection_genes_TargetScan.csv',
+    'treatment_group_tb': '/Users/emmetthintz/Documents/Computational-Biology/GSEA April 19/treatment_group/treatment_genes_miRTarBase.csv',
+    'treatment_group_ts': '/Users/emmetthintz/Documents/Computational-Biology/GSEA April 19/treatment_group/treatment_genes_TargetScan.csv',
+    'unique_control_group_tb': '/Users/emmetthintz/Documents/Computational-Biology/GSEA April 19/unique_control_group/unique_control_genes_miRTarBase.csv',
+    'unique_control_group_ts': '/Users/emmetthintz/Documents/Computational-Biology/GSEA April 19/unique_control_group/unique_control_genes_TargetScan.csv',
+    'unique_treatment_group_tb': '/Users/emmetthintz/Documents/Computational-Biology/GSEA April 19/unique_treatment_group/unique_treatment_genes_miRTarBase.csv',
 }
 
-cutoff = -0.05  # Adjust this value as needed
 
-def process_directory(directory, cutoff):
-    combined_filtered_data = pd.DataFrame()
-    for filename in os.listdir(directory):
-        if filename.endswith(".txt"):
-            file_path = os.path.join(directory, filename)
-            data = pd.read_csv(file_path, sep='\t', header=0)
-            filtered_data = data[data['Cumulative weighted context++ score'] <= cutoff]
-            combined_filtered_data = pd.concat([combined_filtered_data, filtered_data], ignore_index=True)
-    return combined_filtered_data
+# Define the significance level for p-value
+p_value_significance = 0.05
 
-# Dictionary to hold the combined data for all groups
-combined_filtered_data_all_groups = {}
+# Initialize a DataFrame to store the combined data
+combined_genes_df = pd.DataFrame()
 
-# Process each directory and store the combined data in the dictionary
-for group_name, directory_path in directories.items():
-    combined_filtered_data_all_groups[group_name] = process_directory(directory_path, cutoff)
+# Process each file
+for group, path in file_paths.items():
+    try:
+        # Load the data
+        data = pd.read_csv(path)
+        # Filter for significant p-values
+        significant_data = data[data['p-value'] <= p_value_significance]
+        # Extract unique gene symbols
+        unique_genes = significant_data['Gene Symbol'].unique().tolist()
+        # Add the genes to the DataFrame under the corresponding group
+        combined_genes_df[group] = pd.Series(unique_genes)
+    except Exception as e:
+        print(f"An error occurred while processing {path}: {e}")
 
-# Perform any exploratory data analysis as needed
-for group_name, combined_data in combined_filtered_data_all_groups.items():
-    print(f"{group_name} Group - Data Head:")
-    print(combined_data.head())
-    print(f"{group_name} Group - Data Shape:")
-    print(combined_data.shape)
-    # Save the combined data for each group
-    combined_data.to_csv(f'combined_filtered_{group_name}_data.csv', index=False)
-    # Save just the genes column to separate files for each group
-    combined_data['Gene Symbol'].to_csv(f'filtered_{group_name}_genes.txt', index=False, header=False)
+# Define the output path for the combined CSV
+output_file = '/Users/emmetthintz/Documents/Computational-Biology/GSEA April 19/combined_genes.xlsx'
+
+# Save the combined genes to a CSV file
+combined_genes_df.to_excel(output_file, index=False)
+
+print(f"Combined gene list saved to {output_file}")
