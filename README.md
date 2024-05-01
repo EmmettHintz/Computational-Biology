@@ -16,7 +16,7 @@ Feature Selection:
 ### Subset FS
 
 - FCBF
-- Lasso
+- RFE
 
 
 ## April 19 Progress -- 5 Group model

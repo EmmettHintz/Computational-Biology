@@ -3,11 +3,9 @@ from fastai.tabular.all import *
 from fastai.metrics import accuracy
 import pandas as pd
 import optuna
-from sklearn.metrics import accuracy_score, precision_score, recall_score, f1_score, roc_auc_score
+from sklearn.metrics import accuracy_score, confusion_matrix, precision_score, recall_score, f1_score, roc_auc_score
 import seaborn as sns
 import matplotlib.pyplot as plt
-from sklearn.metrics import confusion_matrix
-
 
 # Load your datasets
 train_path = '/Users/emmetthintz/Documents/Computational-Biology/Predictive Data/filtered_train_data.csv'
@@ -20,11 +18,8 @@ test_df = pd.read_csv(test_path)
 train_df['Response'] = train_df['Response'].astype('category')
 test_df['Response'] = test_df['Response'].astype('category')
 
-# Filter test_df to only include treatment == 1
-test_df_treatment = test_df[test_df['Treatment'] == 1]
-
 # Define your continuous and categorical columns
-cont_cols = [col for col in train_df.columns if col not in ['Participant ID', 'Treatment', 'Response']]
+cont_cols = [col for col in train_df.columns if col not in ['Participant ID', 'Response']]
 cat_cols = []  # Assuming no categorical variables for simplicity
 
 # Define the percentage of data to use for validation
@@ -49,10 +44,8 @@ def objective(trial):
     with learn.no_bar(), learn.no_logging():  # Optional, reduces verbosity
         learn.fit_one_cycle(5, lr)
     
-    # Change this line
     validation_accuracy = learn.validate()[1]
     return validation_accuracy
-
 
 study = optuna.create_study(direction="maximize")
 study.optimize(objective, n_trials=10)
@@ -73,31 +66,29 @@ num_models = 5
 models = [train_model_with_best_params(dls, best_lr, best_layers, best_dropout) for _ in range(num_models)]
 
 # Ensemble predictions
-test_dl_treatment = dls.test_dl(test_df_treatment)
-preds_list_treatment = [model.get_preds(dl=test_dl_treatment)[0] for model in models]
-avg_preds_treatment = torch.mean(torch.stack(preds_list_treatment), dim=0)
-final_predictions_treatment = torch.argmax(avg_preds_treatment, dim=1).numpy()
+test_dl = dls.test_dl(test_df)
+preds_list = [model.get_preds(dl=test_dl)[0] for model in models]
+avg_preds = torch.mean(torch.stack(preds_list), dim=0)
+final_predictions = torch.argmax(avg_preds, dim=1).numpy()
 
 # Actual labels
-actual_labels = test_df_treatment['Response'].astype(int).to_numpy()
+actual_labels = test_df['Response'].cat.codes.to_numpy()
 
 # Evaluation
-accuracy = accuracy_score(actual_labels, final_predictions_treatment)
+accuracy = accuracy_score(actual_labels, final_predictions)
+precision = precision_score(actual_labels, final_predictions)
+recall = recall_score(actual_labels, final_predictions)
+f1 = f1_score(actual_labels, final_predictions)
+roc_auc = roc_auc_score(actual_labels, avg_preds.numpy()[:, 1]) 
+
 print(f"Ensemble Test Accuracy: {accuracy}")
-
-precision = precision_score(actual_labels, final_predictions_treatment)
-recall = recall_score(actual_labels, final_predictions_treatment)
-f1 = f1_score(actual_labels, final_predictions_treatment)
-roc_auc = roc_auc_score(actual_labels, avg_preds_treatment.numpy()[:, 1]) 
-
 print(f"Precision: {precision:.3f}")
 print(f"Recall: {recall:.3f}")
 print(f"F1 Score: {f1:.3f}")
 print(f"ROC AUC Score: {roc_auc:.3f}")
 
-
 # Confusion Matrix Visualization
-cm = confusion_matrix(actual_labels, final_predictions_treatment)
+cm = confusion_matrix(actual_labels, final_predictions)
 sns.heatmap(cm, annot=True, fmt='d', cmap='Blues')
 plt.xlabel('Predicted')
 plt.ylabel('Actual')
