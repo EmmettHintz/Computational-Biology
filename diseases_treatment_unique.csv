@@ -1,0 +1,254 @@
+,Name,Score
+0,Choroid Plexus Meningioma,1.46
+1,Endodermal Sinus Tumor,1.13
+2,Hypoplastic Left Heart Syndrome,0.96
+3,Coloboma Of Macula,1.61
+4,Cerebrotendinous Xanthomatosis,1.14
+5,Autosomal Recessive Congenital Ichthyosis,0.89
+6,Gastrointestinal Defects And Immunodeficiency Syndrome 1,1.11
+7,Pseudopterygium,1.42
+8,Peritoneal Mesothelioma,1.16
+9,Dupuytren Contracture,1.5
+10,Liberfarb Syndrome,2.83
+11,Optic Nerve Neoplasm,1.24
+12,Acrocallosal Syndrome,1.06
+13,Upper Lip Cancer,1.5
+14,Supratentorial Meningioma,1.42
+15,Cavernous Sinus Meningioma,1.39
+16,Chromosome 15q24 Deletion Syndrome,1.29
+17,Foramen Magnum Meningioma,1.5
+18,Bilateral Retinoblastoma,3.72
+19,Adenosquamous Lung Carcinoma,1.36
+20,"Cerebellar Ataxia, Deafness, And Narcolepsy, Autosomal Dominant",1.23
+21,Unilateral Retinoblastoma,2.51
+22,Cerebral Convexity Meningioma,1.39
+23,"Periodic Fever, Familial, Autosomal Dominant",1.14
+24,Acetyl-Coa Carboxylase-Alpha Deficiency,2.83
+25,Familial Glomangioma,1.42
+26,Hermaphroditism,1.14
+27,Brugada Syndrome 4,1.19
+28,"Bartter Syndrome, Type 1, Antenatal",1.14
+29,Immunodeficiency-Centromeric Instability-Facial Anomalies Syndrome,1.01
+30,Skeletal Muscle Disease,2.83
+31,Xanthomatosis,1.15
+32,Skull Base Cancer,1.24
+33,Bardet-Biedl Syndrome 3,1.24
+34,"Isolated Growth Hormone Deficiency, Type Ib",1.16
+35,Developmental And Epileptic Encephalopathy 89,1.5
+36,"Cardiac, Facial, And Digital Anomalies With Developmental Delay",2.83
+37,Cerebral Meningioma,1.33
+38,"Muscular Dystrophy, Congenital, Megaconial Type",1.24
+39,Van Maldergem Syndrome 2,1.31
+40,Autosomal Recessive Robinow Syndrome,1.06
+41,Supraglottis Squamous Cell Carcinoma,1.5
+42,Anterior Cranial Fossa Meningioma,1.33
+43,Adenomatoid Tumor,1.31
+44,Hailey-Hailey Disease,1.16
+45,Nondisjunction,1.26
+46,Isolated Anencephaly,2.67
+47,Retinal Disease,1.68
+48,Microcephaly-Corpus Callosum And Cerebellar Vermis Hypoplasia-Facial Dysmorphism-Intellectual Disability Syndrom,2.83
+49,Angiomatous Meningioma,1.33
+50,Occipital Lobe Neoplasm,1.21
+51,Histiocytosis,1.12
+52,Mevalonic Aciduria,1.15
+53,Focal Hand Dystonia,1.29
+54,Angiodysplasia,1.25
+55,Juvenile Myelomonocytic Leukemia,0.92
+56,Cakut,1.63
+57,Cataract 23,1.27
+58,Gastroduodenal Crohn'S Disease,1.24
+59,"Deafness, Autosomal Recessive 104",1.29
+60,Apert Syndrome,1.21
+61,Amenorrhea,1.06
+62,Isolated Exencephaly,2.67
+63,"Coloboma, Ocular, Autosomal Dominant",2.1
+64,Xanthinuria,1.21
+65,Strabismus,0.93
+66,Leukoencephalopathy With Vanishing White Matter,0.96
+67,Myeloproliferative Neoplasm,0.92
+68,Capillary Disease,1.1
+69,Kuhnt-Junius Degeneration,1.13
+70,Diaphragm Disease,1.08
+71,Craniorachischisis,1.5
+72,Corneal Neovascularization,1.23
+73,Lymphohistiocytoid Mesothelioma,1.21
+74,Geographic Tongue,1.33
+75,Kearns-Sayre Syndrome,1.76
+76,Neurilemmoma,1.06
+77,Inflammatory Myofibroblastic Tumor,0.99
+78,"Brachydactyly, Type B1",1.29
+79,Chondroblastoma,1.16
+80,"Parkinson Disease 20, Early-Onset",1.23
+81,Myoclonus Epilepsy,1.13
+82,Liddle Syndrome 1,1.05
+83,Chromosome 17q12 Duplication Syndrome,1.41
+84,Microvascular Complications Of Diabetes 1,1.07
+85,Zellweger Syndrome,0.87
+86,Tongue Squamous Cell Carcinoma,0.44
+87,"Intellectual Developmental Disorder, Autosomal Dominant 48",2.35
+88,"Pancreas, Dorsal, Agenesis Of",1.09
+89,"Arthrogryposis Multiplex Congenita 2, Neurogenic Type",2.12
+90,Spinal Cancer,1.17
+91,Childhood Meningioma,1.42
+92,"Charcot-Marie-Tooth Disease, Type 4b1",1.19
+93,Rhabdoid Meningioma,1.26
+94,Neonatal Diabetes,1.07
+95,Endometrial Mixed Adenocarcinoma,1.39
+96,Ventricular Septal Defect,1.02
+97,Branchiooculofacial Syndrome,2.08
+98,Childhood Endodermal Sinus Tumor,1.39
+99,Solitary Fibrous Tumor/Hemangiopericytoma,1.33
+100,"Thyroid Carcinoma, Familial Medullary",1.1
+101,Microcystic Meningioma,1.36
+102,Chordoid Meningioma,1.31
+103,Otorrhea,1.24
+104,Atrophic Glossitis,1.29
+105,Intraneural Perineurioma,1.36
+106,Schwannomatosis,1.1
+107,"Spastic Paraplegia 50, Autosomal Recessive",1.11
+108,Biotin Deficiency,1.21
+109,Atrial Fibrillation,1.07
+110,Atrioventricular Septal Defect,1.01
+111,Parameningeal Embryonal Rhabdomyosarcoma,1.21
+112,"Meningioma, Familial",1.07
+113,Vacterl Association,1.16
+114,Chromosome 17q12 Deletion Syndrome,2.23
+115,Castration-Resistant Prostate Carcinoma,1.25
+116,"Mesothelioma, Malignant",0.96
+117,Osteopetrosis,0.99
+118,Premature Ovarian Failure 1,1.9
+119,Ptosis,0.89
+120,Limb Ischemia,1.08
+121,Dermoid Cyst Of Ovary,1.42
+122,Ocular Motility Disease,1.02
+123,Anterior Foramen Magnum Meningioma,1.5
+124,Spastic Hemiplegia,1.23
+125,Cerebral Falx Meningioma,1.42
+126,Familial Atrial Fibrillation,1.68
+127,"Mixed Phenotype Acute Leukemia, B/Myeloid",1.29
+128,Extraocular Retinoblastoma,2.72
+129,Ovarian Dysgenesis 4,2.83
+130,Hypotonia-Cystinuria Syndrome,1.05
+131,Fanconi Renotubular Syndrome 1,1.29
+132,Conotruncal Heart Malformations,2.47
+133,Cholesteatoma Of Middle Ear,1.06
+134,Spinal Canal And Spinal Cord Meningioma,1.24
+135,Generalized Anxiety Disorder,1.09
+136,Developmental And Epileptic Encephalopathy 54,1.36
+137,Diabetic Polyneuropathy,1.16
+138,Corpus Luteum Cyst,1.33
+139,Retinal Vascular Occlusion,1.11
+140,Vitreous Detachment,1.2
+141,Common Peroneal Nerve Lesion,1.23
+142,Williams-Beuren Region Duplication Syndrome,1.22
+143,Medulloblastoma Shh Activated And Tp53 Mutant,1.5
+144,Brachial Plexus Neuropathy,1.21
+145,Multiple Carboxylase Deficiency,1.3
+146,"Spastic Paraplegia 81, Autosomal Recessive",1.34
+147,Persistent Truncus Arteriosus,2.83
+148,Impetigo Herpetiformis,1.39
+149,Fibrous Meningioma,1.26
+150,Chondrosarcoma,1.12
+151,Pustulosis Of Palm And Sole,1.2
+152,Kallmann Syndrome,0.85
+153,Pituitary Adenoma,1.03
+154,Frank-Ter Haar Syndrome,1.24
+155,Inclusion Body Myopathy With Early-Onset Paget Disease Of Bone With Or Without Frontotemporal Dementia 1,1.31
+156,Skull Base Meningioma,1.24
+157,Pleomorphic Adenoma,1.09
+158,Lung Sarcomatoid Carcinoma,1.07
+159,Chronic Granulomatous Disease,0.95
+160,Immunodeficiency 49,2.38
+161,Clear Cell Meningioma,1.21
+162,Gastric Ulcer,1.29
+163,Pilocytic Astrocytoma Of Cerebellum,1.29
+164,Vitiligo-Associated Multiple Autoimmune Disease Susceptibility 1,1.04
+165,Perrault Syndrome,0.94
+166,Brain Meningioma,1.29
+167,Parasagittal Meningioma,1.42
+168,Spina Bifida,1.04
+169,Retinitis Pigmentosa 89,2.52
+170,"Deafness, Autosomal Recessive 84a",1.28
+171,Cerebellopontine Angle Meningioma,1.42
+172,Psammomatous Meningioma,1.39
+173,"Schwannomatosis, Vestibular",1.13
+174,Meningothelial Meningioma,1.24
+175,Spinal Meningioma,1.24
+176,Microvascular Complications Of Diabetes 5,0.98
+177,"Spastic Paraplegia 52, Autosomal Recessive",1.46
+178,Diabetic Macular Edema,1.09
+179,Pericardial Effusion,1.08
+180,Kidney Cancer,0.87
+181,Accommodative Esotropia,1.31
+182,Secretory Meningioma,1.29
+183,Von Hippel-Lindau Syndrome,0.96
+184,Anencephaly,1.01
+185,Myelomeningocele,1.14
+186,Glycogen Storage Disease Iv,1.07
+187,Central Neurocytoma,1.25
+188,Neurodevelopmental Disorder With Dysmorphic Facies And Distal Limb Anomalies,2.4
+189,Heart Septal Defect,0.99
+190,Intraocular Retinoblastoma,2.48
+191,Perineurioma,1.29
+192,Transitional Meningioma,1.31
+193,Nephronophthisis,1.67
+194,Bardet-Biedl Syndrome 8,1.39
+195,Alpha-Methylacyl-Coa Racemase Deficiency,1.18
+196,Olfactory Groove Meningioma,1.39
+197,"Chromosome 17p13.3, Centromeric, Duplication Syndrome",1.16
+198,Atrioventricular Septal Defect 5,2.83
+199,Cerebral Cavernous Malformations,1.01
+200,"Vacterl Association, X-Linked, With Or Without Hydrocephalus",1.34
+201,Hard Palate Cancer,1.21
+202,Optic Nerve Sheath Meningioma,1.36
+203,"Neutrophilic Dermatosis, Acute Febrile",1.11
+204,Diverticulitis,1.14
+205,Robinow Syndrome,1.14
+206,Solar Retinopathy,1.36
+207,Epicardium Cancer,1.33
+208,Intermittent Claudication,1.14
+209,Intussusception,1.13
+210,Malignant Childhood Germ Cell Neoplasm,1.5
+211,Coronary Heart Disease 1,0.78
+212,Immunodeficiency 40,1.21
+213,Retinal Degeneration,0.82
+214,46 Xx Gonadal Dysgenesis,0.92
+215,Oculoauricular Syndrome,1.21
+216,Hypochondriasis,1.26
+217,Lenz-Majewski Hyperostotic Dwarfism,1.23
+218,Sphenoorbital Meningioma,1.46
+219,Leukocoria,1.24
+220,Impetigo,1.15
+221,Uterine Hypoplasia,1.42
+222,Centronuclear Myopathy,0.98
+223,Intraventricular Meningioma,1.39
+224,Tethered Spinal Cord Syndrome,1.18
+225,"Myopathy, Lactic Acidosis, And Sideroblastic Anemia 3",1.31
+226,Spina Bifida Occulta,1.18
+227,"Pyogenic Sterile Arthritis, Pyoderma Gangrenosum, And Acne",1.21
+228,Pityriasis Rubra Pilaris,1.19
+229,Oligospermia,1.01
+230,Developmental And Epileptic Encephalopathy 53,1.39
+231,Valproate Embryopathy,1.29
+232,Amyotrophic Neuralgia,1.21
+233,Leber Plus Disease,1.5
+234,Oculogastrointestinal Neurodevelopmental Syndrome,2.83
+235,Crouzon Syndrome,1.04
+236,Petroclival Meningioma,1.31
+237,"Ichthyosis, Congenital, Autosomal Recessive 11",1.18
+238,Inflammatory Breast Carcinoma,1.29
+239,"Congenital Heart Defects, Multiple Types, 4",2.65
+240,Miller-Dieker Lissencephaly Syndrome,1.02
+241,Sweat Gland Disease,1.06
+242,Schnitzler Syndrome,1.27
+243,Tricuspid Atresia,1.19
+244,"Heart Defects, Congenital, And Other Congenital Anomalies",2.83
+245,Tauopathy,0.9
+246,Visceral Heterotaxy,1.69
+247,Hutchinson-Gilford Progeria Syndrome,0.97
+248,Atypical Coarctation Of Aorta,2.79
+249,Bone Marrow Failure Syndrome 6,2.83
+250,Trilateral Retinoblastoma,1.27
+251,Cerebellopontine Angle Tumor,1.33
+252,Tinea Capitis,1.23

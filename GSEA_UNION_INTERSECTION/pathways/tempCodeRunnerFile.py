@@ -1,29 +1,11 @@
-# Find union and intersection of gene Analysis
-import pandas as pd
+    # Extract scores for unique and intersection pathways
+    union = {name: control_pathways.get(name, 0) + treatment_pathways.get(name, 0) for name in union_names}
+    intersection = {name: (control_pathways[name], treatment_pathways[name]) for name in intersection_names}
+    control_unique = {name: control_pathways[name] for name in control_unique_names}
+    treatment_unique = {name: treatment_pathways[name] for name in treatment_unique_names}
 
-control_path = '/Users/emmetthintz/Documents/Computational-Biology/GSEA_UNION_INTERSECTION/pathways/Control_Pathways.xlsx'
-treatment_path = '/Users/emmetthintz/Documents/Computational-Biology/GSEA_UNION_INTERSECTION/pathways/Treatment_pathways.xlsx'
-
-control_df = pd.read_excel(control_path)
-treatment_df = pd.read_excel(treatment_path)
-
-control_pathways = set(control_df['SuperPath Name'])
-treatment_pathways = set(treatment_df['SuperPath Name'])
-
-# Find the union of the two sets
-union = control_pathways.union(treatment_pathways)
-
-# Find the intersection of the two sets
-intersection = control_pathways.intersection(treatment_pathways)
-
-# Find the unique pathways in the control set
-control_unique = control_pathways - intersection
-
-# Find the unique pathways in the treatment set
-treatment_unique = treatment_pathways - intersection
-
-# Print the results
-print('Union:', union)
-print('Intersection:', intersection)
-print('Control Unique:', control_unique)
-print('Treatment Unique:', treatment_unique)
+    # Output results to CSV files
+    pd.DataFrame(list(union.items()), columns=['Name', 'Combined Score']).to_csv('pathway_union.csv')
+    pd.DataFrame([{'Name': name, 'Score_Control': scores[0], 'Score_Treatment': scores[1]} for name, scores in intersection.items()], columns=['Name', 'Score_Control', 'Score_Treatment']).to_csv('pathway_intersection.csv')
+    pd.DataFrame(list(control_unique.items()), columns=['Name', 'Score']).to_csv('pathways_control_unique.csv')
+    pd.DataFrame(list(treatment_unique.items()), columns=['Name', 'Score']).to_csv('pathways_treatment_unique.csv')

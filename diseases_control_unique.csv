@@ -1,0 +1,1169 @@
+,Name,Score
+0,Hydrophthalmos,1.2
+1,Granular Cell Tumor,1.22
+2,Recessive Dystrophic Epidermolysis Bullosa,1.09
+3,Anus Disease,1.05
+4,"Ceroid Lipofuscinosis, Neuronal, 3",3.51
+5,Giardiasis,1.15
+6,"Hemochromatosis, Type 3",1.26
+7,Iron Metabolism Disease,1.13
+8,Bacterial Sepsis,1.08
+9,Aortic Valve Disease 2,1.95
+10,Breast Cyst,1.32
+11,Diaphragmatic Eventration,1.15
+12,Orofacial Cleft 4,1.5
+13,Cornelia De Lange Syndrome 4 With Or Without Midline Brain Defects,1.24
+14,Subclavian Artery Aneurysm,1.5
+15,Communicating Hydrocephalus,1.11
+16,Type 1 Diabetes Mellitus 8,1.24
+17,Brugada Syndrome 9,1.31
+18,Diamond-Blackfan Anemia,2.45
+19,Mucolipidosis Ii Alpha/Beta,1.19
+20,Pyelitis,1.1
+21,Neuromyelitis Optica,1.08
+22,Filarial Elephantiasis,2.3
+23,Malignant Fibrous Histiocytoma,1.11
+24,Corneal Ulcer,1.15
+25,Myocarditis,2.9
+26,Thyroid Gland Disease,0.96
+27,Keratosis Follicularis Spinulosa Decalvans,1.11
+28,Placenta Accreta,1.16
+29,Renal Tubular Transport Disease,1.04
+30,Filariasis,1.23
+31,Bacterial Meningitis,1.09
+32,Krabbe Disease,1.01
+33,Colitis,2.95
+34,Potocki-Shaffer Syndrome,0.96
+35,Ureteral Lymphoma,1.27
+36,Combined Oxidative Phosphorylation Deficiency 18,1.39
+37,Tongue Carcinoma,0.99
+38,Long Qt Syndrome 1,0.9
+39,Neurodegeneration With Brain Iron Accumulation 3,1.2
+40,Central Nervous System Hematologic Cancer,1.1
+41,Transient Cerebral Ischemia,2.1
+42,Hypopharynx Cancer,1.12
+43,Joubert Syndrome 31,1.5
+44,Brachydactyly,0.87
+45,Transitional Cell Carcinoma,3.09
+46,Hypermanganesemia With Dystonia 2,1.36
+47,Familial Thoracic Aortic Aneurysm And Dissection,2.35
+48,Severe Congenital Neutropenia 8,1.31
+49,Agammaglobulinemia,0.96
+50,Chromosome 15q26-Qter Deletion Syndrome,1.38
+51,Bacterial Pneumonia,1.05
+52,Mammary Paget'S Disease,1.1
+53,Gingivitis,1.08
+54,Small Cell Carcinoma,1.05
+55,Diastolic Heart Failure,1.15
+56,Ehlers-Danlos Syndrome,1.85
+57,Alcohol Use Disorder,0.95
+58,Coccidiosis,2.06
+59,Bladder Clear Cell Adenocarcinoma,1.2
+60,"Autoimmune Interstitial Lung, Joint, And Kidney Disease",2.83
+61,Megalocornea,1.18
+62,Bubonic Plague,1.18
+63,Short-Rib Thoracic Dysplasia 9 With Or Without Polydactyly,1.13
+64,Hepatitis A,2.2
+65,Mature B-Cell Neoplasm,0.97
+66,"Ceroid Lipofuscinosis, Neuronal, 13",1.31
+67,Ileitis,1.1
+68,Allergic Contact Dermatitis,1.0
+69,Autoimmune Lymphoproliferative Syndrome,0.91
+70,Diarrhea,2.78
+71,Ocular Cancer,0.94
+72,"Neuropathy, Ataxia, And Retinitis Pigmentosa",0.87
+73,Benign Fibrous Mesothelioma,1.33
+74,Follicular Adenoma,1.12
+75,Reticulosarcoma,1.14
+76,Thymus Gland Disease,2.0
+77,Carotid Artery Occlusion,1.15
+78,Acute Salpingo-Oophoritis,1.29
+79,Acute Proliferative Glomerulonephritis,1.14
+80,Goldberg-Shprintzen Syndrome,2.34
+81,Orbital Disease,2.34
+82,Bardet-Biedl Syndrome 16,2.53
+83,Diabetic Encephalopathy,1.19
+84,Wolfram Syndrome 2,1.1
+85,Scheie Syndrome,1.06
+86,Ruijs-Aalfs Syndrome,1.23
+87,Uterine Benign Neoplasm,2.05
+88,Childhood Acute Lymphocytic Leukemia,1.05
+89,Paracoccidioidomycosis,2.37
+90,Keloid Disorder,1.5
+91,Disorder Of Sexual Development,0.98
+92,Hypermanganesemia With Dystonia,1.31
+93,Diphtheria,0.99
+94,Alport Syndrome,1.89
+95,Autosomal Dominant Alport Syndrome,1.1
+96,Paget'S Disease Of Bone 2,2.79
+97,Gastrointestinal Lymphoma,1.27
+98,Acute Leukemia,2.05
+99,Nasal Cavity Disease,2.01
+100,Colon Leiomyoma,1.24
+101,Angiocentric Glioma,2.0
+102,Welander Distal Myopathy,2.67
+103,Bladder Urothelial Carcinoma,1.85
+104,Cartilage Disease,1.11
+105,Brain Glioma,0.99
+106,Meningococcal Meningitis,1.23
+107,"Advanced Sleep Phase Syndrome, Familial, 3",1.19
+108,Hypermanganesemia With Dystonia 1,1.42
+109,Legionellosis,2.12
+110,Von Economo'S Disease,1.26
+111,Conjunctivitis,1.05
+112,Familial Lipoprotein Lipase Deficiency,1.26
+113,Lymphatic System Disease,0.9
+114,"Inflammatory Bowel Disease 25, Autosomal Recessive",2.55
+115,Lung Giant Cell Carcinoma,1.24
+116,Psoriasis,1.16
+117,Parasitic Protozoa Infectious Disease,1.88
+118,Peritonitis,2.03
+119,"Osteogenesis Imperfecta, Type Iii",2.89
+120,Polymicrogyria,2.65
+121,Specific Developmental Disorder,0.9
+122,Human Immunodeficiency Virus Infectious Disease,0.95
+123,Megalencephaly-Capillary Malformation-Polymicrogyria Syndrome,2.79
+124,Alopecia,1.0
+125,Urethral Stricture,1.23
+126,Fibrous Histiocytoma,1.15
+127,Brucellosis,2.19
+128,Bronchial Disease,1.87
+129,Respiratory System Benign Neoplasm,1.08
+130,Galloway-Mowat Syndrome,1.78
+131,Bruck Syndrome,1.15
+132,Iron Overload In Africa,1.39
+133,Mixed Connective Tissue Disease,1.13
+134,Nose Disease,1.99
+135,Acromicric Dysplasia,3.36
+136,Rhinitis,2.0
+137,"Ceroid Lipofuscinosis, Neuronal, 8",2.76
+138,Gallbladder Cancer,2.56
+139,Lysosomal Storage Disease,0.93
+140,Anthracosis,1.24
+141,Breast Myoepithelial Neoplasm,1.42
+142,"Amelogenesis Imperfecta, Type Ig",2.92
+143,Autoimmune Disease Of Musculoskeletal System,2.75
+144,Choriocarcinoma,1.13
+145,"Dermatitis, Atopic",2.53
+146,Left Ventricular Noncompaction,0.86
+147,Conjunctival Disease,1.04
+148,Chronic Fatigue Syndrome,1.03
+149,Trichomoniasis,1.2
+150,Proliferative Fasciitis,1.39
+151,Polycystic Kidney Disease 3 With Or Without Polycystic Liver Disease,2.65
+152,Bone Resorption Disease,0.96
+153,Bronchitis,2.02
+154,Rectal Disease,1.04
+155,Lymphoblastic Lymphoma,1.08
+156,Donohue Syndrome,1.24
+157,Van Buchem Disease,1.11
+158,Danubian Endemic Familial Nephropathy,1.17
+159,Papillary Carcinoma,1.16
+160,Tricuspid Valve Prolapse,1.29
+161,"Erythrocytosis, Familial, 2",1.12
+162,Menkes Disease,1.02
+163,Schindler Disease,1.23
+164,"Neurodegeneration With Ataxia, Dystonia, And Gaze Palsy, Childhood-Onset",2.83
+165,Urinary Tract Infection,1.01
+166,Kashin-Beck Disease,1.42
+167,"Parkinson Disease 23, Autosomal Recessive Early-Onset",1.5
+168,Somatoform Disorder,1.05
+169,"Glaucoma, Primary Open Angle",1.84
+170,Acute Erythroid Leukemia,1.06
+171,Lymphoplasmacytic Lymphoma,1.97
+172,Alveolar Periostitis,1.39
+173,Bartholin'S Gland Adenoid Cystic Carcinoma,1.27
+174,Stomatitis,1.14
+175,Colonic Benign Neoplasm,3.57
+176,"Myopathy, X-Linked, With Excessive Autophagy",1.2
+177,Nonaka Myopathy,1.15
+178,"Craniometaphyseal Dysplasia, Autosomal Dominant",1.18
+179,Childhood Absence Epilepsy,0.91
+180,"Aortic Aneurysm, Familial Abdominal, 1",1.86
+181,Invasive Aspergillosis,1.24
+182,Proximal Symphalangism,1.18
+183,Dyskeratosis Congenita,1.61
+184,Keratoacanthoma,2.05
+185,Drug Dependence,1.08
+186,Pelvic Varices,1.06
+187,Frontotemporal Dementia And/Or Amyotrophic Lateral Sclerosis 3,2.63
+188,"Leukemia, Chronic Lymphocytic",5.3
+189,Malignant Pleural Mesothelioma,3.16
+190,Immunodeficiency 92,2.83
+191,Anaplastic Astrocytoma,1.92
+192,Plasmacytoma,2.03
+193,"46,Xy Complete Gonadal Dysgenesis",2.31
+194,Pneumonic Plague,1.23
+195,Pulmonary Emphysema,0.97
+196,Scrapie,1.08
+197,Gout,2.02
+198,Bronchiolitis,2.24
+199,Familial Adenomatous Polyposis,0.94
+200,Anisakiasis,1.29
+201,Sclerosteosis,1.09
+202,High-Grade B-Cell Lymphoma Double-Hit/Triple-Hit,1.59
+203,Cholangitis,1.01
+204,Vaginal Disease,1.07
+205,Ewing Sarcoma Of Bone,1.39
+206,Parasitic Ectoparasitic Infectious Disease,1.11
+207,Herpes Simplex,1.02
+208,Iron Deficiency Anemia,1.21
+209,Pelvic Inflammatory Disease,1.1
+210,Respiratory Syncytial Virus Infectious Disease,0.44
+211,Neurofibroma,1.07
+212,Papilloma,2.0
+213,Patulous Eustachian Tube,1.5
+214,Marfan Syndrome,2.74
+215,Cutis Laxa,3.06
+216,Pouchitis,1.5
+217,Myeloid And Lymphoid Neoplasms Associated With Fgfr1 Abnormalities,1.29
+218,"Charcot-Marie-Tooth Disease, Axonal, Type 2ee",1.17
+219,Ectopia Lentis Et Pupillae,1.43
+220,"Maturity-Onset Diabetes Of The Young, Type 14",2.63
+221,Hypermobile Ehlers-Danlos Syndrome,2.13
+222,Early Invasive Cervical Adenocarcinoma,1.5
+223,Lymph Node Carcinoma,1.18
+224,Thymus Lipoma,1.39
+225,Neonatal Thyrotoxicosis,1.38
+226,"Corneal Dystrophy, Fleck",1.15
+227,Melanoma In Congenital Melanocytic Nevus,1.1
+228,Esophagitis,1.05
+229,Acute Apical Periodontitis,1.42
+230,Contact Dermatitis,0.99
+231,Rickets,1.19
+232,Cheilitis,1.16
+233,Endocervical Carcinoma,1.03
+234,Combined Immunodeficiency,1.67
+235,Lens Disease,2.88
+236,Retroperitoneal Neuroblastoma,1.46
+237,"Hemochromatosis, Type 4",1.26
+238,"Maturity-Onset Diabetes Of The Young, Type 13",1.34
+239,"Deafness, Autosomal Dominant 6",1.42
+240,Testicular Fibroma,1.24
+241,Sublingual Gland Adenoid Cystic Carcinoma,1.36
+242,Hemochromatosis Type 2,1.21
+243,Immune System Disease,0.88
+244,Facioscapulohumeral Muscular Dystrophy 1,1.83
+245,"Maturity-Onset Diabetes Of The Young, Type 11",1.28
+246,Actinic Keratosis,3.25
+247,Immunodeficiency 36,2.63
+248,Megalencephaly,1.5
+249,Composite Lymphoma,1.29
+250,Thyroid Cancer,0.98
+251,Autosomal Dominant Nonsyndromic Deafness 77,1.42
+252,Nonspecific Interstitial Pneumonia,1.14
+253,Pemphigoid,1.11
+254,"Muscular Dystrophy-Dystroglycanopathy  , Type C, 5",1.91
+255,Richter'S Syndrome,1.18
+256,Coats Disease,1.03
+257,Rubella,1.06
+258,Amino Acid Metabolic Disorder,0.94
+259,Silicosis,3.26
+260,"Cutis Laxa, Autosomal Dominant 1",1.29
+261,Multiple System Atrophy,1.15
+262,Venous Insufficiency,1.14
+263,Nutritional Deficiency Disease,1.02
+264,Synovium Cancer,1.05
+265,Tongue Disease,0.94
+266,Gonadal Dysgenesis,1.03
+267,Alveolar Echinococcosis,1.2
+268,Cervical Adenoid Cystic Carcinoma,2.58
+269,"Osteogenesis Imperfecta, Type Xviii",2.32
+270,Interstitial Cystitis,1.12
+271,Iris Spindle Cell Melanoma,1.39
+272,Morgagni Cataract,1.33
+273,Cerebral Amyloid Angiopathy,1.05
+274,Frozen Shoulder,1.26
+275,Pneumonic Tularemia,1.26
+276,Methemoglobinemia And Ambiguous Genitalia,1.23
+277,"Peripheral Neuropathy With Variable Spasticity, Exercise Intolerance, And Developmental Delay",1.23
+278,"Erythrocytosis, Familial, 1",1.14
+279,Pelvic Organ Prolapse,1.07
+280,Wolfram Syndrome,1.03
+281,Larynx Cancer,2.97
+282,Bone Development Disease,1.9
+283,Cauda Equina Neoplasm,1.27
+284,Tarp Syndrome,1.14
+285,Aging,1.19
+286,Breast Adenomyoepithelioma,1.42
+287,Legionnaire Disease,1.09
+288,Bone Deterioration Disease,1.05
+289,Klippel-Trenaunay-Weber Syndrome,2.09
+290,Perivascular Tumor,1.13
+291,Acute Cystitis,1.27
+292,Meningitis,1.98
+293,Alzheimer Disease 15,1.39
+294,Lens Subluxation,2.15
+295,Exotropia,1.11
+296,Coronary Stenosis,1.08
+297,"Leukemia, Chronic Lymphocytic 2",1.34
+298,Chordoid Glioma,1.26
+299,"Hemochromatosis, Type 1",0.88
+300,Aspergillosis,1.11
+301,Familial Hypercholesterolemia,0.89
+302,Idh-Wildtype Glioblastoma,1.17
+303,Congenital Central Hypoventilation Syndrome,0.95
+304,Megalencephaly-Polymicrogyria-Polydactyly-Hydrocephalus Syndrome 2,2.83
+305,Endocrine Gland Cancer,0.89
+306,Nodal Marginal Zone Lymphoma,1.21
+307,Gallbladder Disease,0.94
+308,Pre-Eclampsia,1.77
+309,Localized Scleroderma,2.27
+310,Vesicoureteral Reflux,0.94
+311,Bile Duct Cancer,1.9
+312,Pulmonary Valve Insufficiency,1.19
+313,Protrusio Acetabuli,2.83
+314,Impotence,1.04
+315,Long Qt Syndrome,0.83
+316,"Ceroid Lipofuscinosis, Neuronal, 10",1.06
+317,Exudative Vitreoretinopathy,0.95
+318,Idiopathic Interstitial Pneumonia,1.1
+319,Syphilis,1.07
+320,Intestinal Schistosomiasis,1.17
+321,"Maturity-Onset Diabetes Of The Young, Type 10",1.2
+322,Liver Carcinoma In Situ,2.43
+323,Loeys-Dietz Syndrome 2,2.39
+324,Lymphadenitis,2.09
+325,Silver-Russell Syndrome 1,1.88
+326,Hemosiderosis,1.19
+327,Tracheal Disease,2.29
+328,"Cox Deficiency, Infantile Mitochondrial Myopathy",1.08
+329,"Charcot-Marie-Tooth Disease, Type 4k",1.26
+330,Trigeminal Nerve Disease,1.13
+331,Cerebral Artery Occlusion,1.16
+332,Vein Disease,1.02
+333,Breast Oncocytic Carcinoma,1.31
+334,"Anemia, Hypochromic Microcytic, With Iron Overload 1",2.83
+335,Leukoplakia,1.31
+336,Tumor Predisposition Syndrome 2,2.83
+337,Shigellosis,1.1
+338,Askin'S Tumor,1.27
+339,Sleep Disorder,0.92
+340,Silo Filler'S Disease,1.2
+341,Lice Infestation,1.23
+342,Pancreatic Ductal Carcinoma,1.08
+343,Familial Mediterranean Fever,1.02
+344,Cerebral Palsy,0.81
+345,Post-Traumatic Stress Disorder,1.01
+346,Tuberculosis,2.09
+347,Autonomic Nervous System Neoplasm,0.93
+348,Trichinosis,1.23
+349,Acute Lung Injury,1.2
+350,Head And Neck Cancer,1.7
+351,Supravalvular Aortic Stenosis,1.1
+352,"Muscular Dystrophy, Limb-Girdle, Autosomal Recessive 1",0.92
+353,"Maturity-Onset Diabetes Of The Young, Type 8, With Exocrine Dysfunction",1.27
+354,Aggressive Periodontitis,2.04
+355,"Maturity-Onset Diabetes Of The Young, Type 3",1.03
+356,Rectum Adenocarcinoma,1.0
+357,Mouth Disease,0.92
+358,Pectus Excavatum,2.18
+359,Early Myoclonic Encephalopathy,0.93
+360,"Diabetes Insipidus, Nephrogenic, 2, Autosomal",1.39
+361,Polycystic Liver Disease,1.78
+362,Chronic Ethmoiditis,1.29
+363,Glycogen Storage Disease Ii,1.14
+364,Metatypical Basal Cell Carcinoma,1.24
+365,Primary Cutaneous T-Cell Non-Hodgkin Lymphoma,1.02
+366,Ankylosis,1.11
+367,Autoimmune Disease Of Exocrine System,1.05
+368,Urinary System Disease,0.89
+369,Postural Orthostatic Tachycardia Syndrome,1.19
+370,Rheumatic Heart Disease,2.21
+371,Restless Legs Syndrome,0.94
+372,Bacteriuria,1.17
+373,Autosomal Recessive Cutis Laxa Type Ii Classic Type,1.17
+374,Otitis Media,1.92
+375,Shwartzman Phenomenon,1.33
+376,Spleen Cancer,1.13
+377,Thrombophlebitis,1.16
+378,Human Papillomavirus Infectious Disease,1.02
+379,Ogden Syndrome,1.13
+380,Eukaryotic Translation Elongation Factor 1 Alpha-1-Like 14,1.5
+381,Tendinitis,1.14
+382,Testicular Torsion,1.17
+383,Intravascular Large B-Cell Lymphoma,2.33
+384,Hydrocephalus,2.66
+385,"Spastic Paraplegia 4, Autosomal Dominant",1.1
+386,Pleomorphic Xanthoastrocytoma,1.18
+387,Hyperthyroxinemia,1.35
+388,Chorioamnionitis,2.3
+389,Cystitis,2.11
+390,Loiasis,1.31
+391,Dental Anomalies And Short Stature,1.08
+392,Opportunistic Mycosis,1.01
+393,Phacogenic Glaucoma,2.24
+394,Chromosome 15q11.2 Deletion Syndrome,1.15
+395,Apocrine Sweat Gland Neoplasm,1.21
+396,Respiratory Allergy,2.01
+397,Fanconi Syndrome,1.04
+398,Candidiasis,1.15
+399,Leiomyoma,2.18
+400,Isolated Polycystic Liver Disease,2.06
+401,Lymphangioleiomyomatosis,1.19
+402,Autoimmune Disease Of Endocrine System,0.97
+403,Bone Disease,0.89
+404,Stickler Syndrome,0.98
+405,Growth Delay Due To Insulin-Like Growth Factor I Resistance,2.83
+406,Integumentary System Disease,1.8
+407,Uveitis,1.02
+408,Cystinosis,2.09
+409,Spastic Ataxia,0.83
+410,Thyroid Hormone Resistance Syndrome,2.16
+411,Amnestic Disorder,1.08
+412,Familial Cold Autoinflammatory Syndrome 3,1.39
+413,Patau Syndrome,1.1
+414,Double Pterygium,1.42
+415,Typhoid Fever,1.08
+416,Hypotrichosis 10,1.5
+417,Brown-Vialetto-Van Laere Syndrome 2,1.19
+418,Renovascular Hypertension,1.16
+419,Amebiasis,1.07
+420,"Lymphoma, Mucosa-Associated Lymphoid Type",0.94
+421,"3-Methylglutaconic Aciduria, Type Iii",0.83
+422,Muscle Tissue Disease,0.92
+423,Macs Syndrome,1.78
+424,Pseudoxanthoma Elasticum,1.1
+425,Hand-Foot-Genital Syndrome,1.11
+426,Toxic Shock Syndrome,1.09
+427,Internal Hordeolum,1.24
+428,"Nevus, Epidermal",1.02
+429,Pervasive Developmental Disorder,0.87
+430,Intracranial Hypertension,2.18
+431,Leigh Syndrome,1.54
+432,Peripheral Nervous System Neoplasm,0.93
+433,Nephrosclerosis,1.24
+434,Oral Leukoplakia,1.5
+435,Relapsed/Refractory Diffuse Large B-Cell Lymphoma,1.24
+436,Alpha-Thalassemia,0.89
+437,Hydronephrosis,0.96
+438,Neuroendocrine Tumor,1.11
+439,Tularemia,1.15
+440,"Melanoma, Uveal 1",2.83
+441,Heart Lymphoma,1.24
+442,Metachromatic Leukodystrophy,0.91
+443,Myoma,1.09
+444,Blood Platelet Disease,1.75
+445,Graves Disease,2.16
+446,Crohn'S Disease,1.77
+447,Hirschsprung Disease 1,1.64
+448,Substance Dependence,0.97
+449,Syndromic X-Linked Intellectual Disability Cabezas Type,1.23
+450,Funisitis,1.26
+451,Liposarcoma,2.02
+452,"Fibromatosis, Gingival, 1",1.43
+453,Diffuse Scleroderma,2.4
+454,Smooth Muscle Tumor,2.28
+455,Revesz Syndrome,1.24
+456,Middle Ear Disease,1.04
+457,Bone Structure Disease,1.96
+458,Rem Sleep Behavior Disorder,1.14
+459,Nk-Cell Enteropathy,2.18
+460,Taeniasis,1.16
+461,Steroid-Induced Glaucoma,1.21
+462,Nephroma,1.19
+463,"Trichorhinophalangeal Syndrome, Type Ii",1.05
+464,Parainfluenza Virus Type 3,1.5
+465,Polycystic Kidney Disease 3,2.7
+466,Breast Adenoid Cystic Carcinoma,1.33
+467,Immunodeficiency 14,1.12
+468,Epidermolysis Bullosa Dystrophica,2.14
+469,Melnick-Needles Syndrome,1.15
+470,Lymphangioma,1.04
+471,Langerhans Cell Histiocytosis,1.04
+472,Cerebrovascular Disease,0.81
+473,Mitochondrial Complex Iii Deficiency,1.38
+474,Tatton-Brown-Rahman Syndrome,1.18
+475,Cornelia De Lange Syndrome 1,1.09
+476,Pick Disease Of Brain,1.03
+477,Prostatitis,2.16
+478,Pain Agnosia,1.0
+479,Amyotrophic Lateral Sclerosis 3,1.27
+480,Hyperglycemia,1.03
+481,"Ulna And Fibula, Absence Of, With Severe Limb Deficiency",1.15
+482,"Leber Hereditary Optic Neuropathy, Modifier Of",0.82
+483,Vaginal Adenoma,1.27
+484,Chromosome Xp11.22 Duplication Syndrome,1.35
+485,Lymphoid Interstitial Pneumonia,0.99
+486,Spiradenoma,1.27
+487,Marshall-Smith Syndrome,1.27
+488,Inflammatory Bowel Disease   1,1.06
+489,Fibrochondrogenesis,1.15
+490,Bilateral Perisylvian Polymicrogyria,1.01
+491,Bowen'S Disease,1.5
+492,Multiple Mitochondrial Dysfunctions Syndrome 5,1.28
+493,Sebaceous Gland Disease,2.07
+494,Splenic Disease,2.09
+495,Morphine Dependence,1.19
+496,Ameloblastoma,1.13
+497,Eosinophilia-Myalgia Syndrome,1.33
+498,Teeth Hard Tissue Disease,1.99
+499,"Ceroid Lipofuscinosis, Neuronal, 11",1.16
+500,Tsh Producing Pituitary Tumor,1.29
+501,Cysticercosis,1.16
+502,Intrinsic Cardiomyopathy,0.9
+503,"Thyroid Hormone Resistance, Selective Pituitary",2.27
+504,"Mucopolysaccharidosis, Type Iiia",1.0
+505,Extranodal Marginal Zone Lymphoma Of Mucosa-Associated Lymphoid Tissue,1.1
+506,Bullous Keratopathy,2.53
+507,Abdominal Obesity-Metabolic Syndrome 3,1.23
+508,Hemolytic-Uremic Syndrome,1.03
+509,"Microcephaly 5, Primary, Autosomal Recessive",1.1
+510,"Glaucoma 3, Primary Congenital, A",1.99
+511,Orofacial Cleft 15,1.36
+512,"Hypophosphatemic Rickets, X-Linked Recessive",1.26
+513,Thrombocytopenia,3.14
+514,Barrett Esophagus,1.99
+515,Exposure Keratitis,1.27
+516,Hypochromic Microcytic Anemia,1.35
+517,Hemophilia B,1.07
+518,Progeroid Syndrome,1.36
+519,"Ceroid Lipofuscinosis, Neuronal, 9",1.46
+520,Pneumonia,1.98
+521,Hemopericardium,1.29
+522,"Maturity-Onset Diabetes Of The Young, Type 4",1.21
+523,Wilson-Turner Syndrome,0.99
+524,Chronic Pulmonary Heart Disease,1.16
+525,Chronic Asthma,2.02
+526,Salmonellosis,1.14
+527,Hepatoblastoma,2.83
+528,"Deafness, Autosomal Recessive 17",1.35
+529,Cortisone Reductase Deficiency 2,1.39
+530,Blau Syndrome,1.16
+531,Autoimmune Disease Of Urogenital Tract,1.14
+532,"Epilepsy, Idiopathic Generalized 5",1.5
+533,Allergic Asthma,1.13
+534,Cystinuria,1.04
+535,"Brachydactyly, Type C",1.15
+536,Histiocytic Sarcoma,1.16
+537,Cervical Adenocarcinoma,1.07
+538,Muscular Disease,0.91
+539,"Macular Degeneration, Age-Related, 10",2.69
+540,Spondyloarthropathy 1,1.02
+541,"Maturity-Onset Diabetes Of The Young, Type 7",1.31
+542,"Alzheimer Disease, Familial, 1",0.44
+543,"Contractural Arachnodactyly, Congenital",2.16
+544,Sclerosing Hepatic Carcinoma,1.2
+545,Shwachman-Diamond Syndrome 1,1.79
+546,Pertussis,1.19
+547,Gm1 Gangliosidosis,1.03
+548,Oligoasthenoteratozoospermia,1.09
+549,Bone Remodeling Disease,1.89
+550,Thyroid Gland Follicular Carcinoma,2.01
+551,"Immunodeficiency 14a With Lymphoproliferation, Autosomal Dominant",2.79
+552,Epicondylitis,1.26
+553,Brooke-Spiegler Syndrome,1.08
+554,Bone Inflammation Disease,1.83
+555,Beaulieu-Boycott-Innes Syndrome,2.83
+556,"Maturity-Onset Diabetes Of The Young, Type 2",1.21
+557,Chromosome 2p16.1-P15 Deletion Syndrome,1.17
+558,Angelman Syndrome,0.97
+559,Bone Cancer,0.96
+560,Resistance To Thyroid Hormone Due To A Mutation In Thyroid Hormone Receptor Beta,2.83
+561,Periapical Periodontitis,1.15
+562,Fibrosclerosis Of Breast,1.5
+563,Congenital Anomalies Of Kidney And Urinary Tract 2,1.18
+564,Inguinal Hernia,4.59
+565,Peters-Plus Syndrome,0.93
+566,Orbital Cancer,1.26
+567,"Microcephaly 7, Primary, Autosomal Recessive",1.21
+568,Autoimmune Disease,3.39
+569,Intellectual Developmental Disorder With Impaired Language And Dysmorphic Facies,2.83
+570,Salpingitis,1.2
+571,Acute Pancreatitis,1.13
+572,Campylobacteriosis,1.2
+573,Uveal Disease,0.97
+574,Senior-Loken Syndrome 7,2.83
+575,Melioidosis,1.59
+576,Danon Disease,2.27
+577,Iris Disease,1.06
+578,Osteomyelitis,1.06
+579,"Maturity-Onset Diabetes Of The Young, Type 6",1.27
+580,Paranasal Sinus Lymphoma,1.39
+581,Warburg Micro Syndrome 1,1.0
+582,Hair Disease,0.99
+583,Aorta Angiosarcoma,1.5
+584,Renal Tubular Acidosis,1.21
+585,Leukodystrophy,0.84
+586,"Paget Disease Of Bone 2, Early-Onset",2.79
+587,Myeloid Leukemia,3.0
+588,Toxic Encephalopathy,1.9
+589,Ovarian Lymphoma,1.46
+590,Kidney Hypertrophy,1.21
+591,Occlusion Precerebral Artery,1.16
+592,Megalencephaly-Polymicrogyria-Postaxial Polydactyly-Hydrocephalus Syndrome,2.83
+593,Diastrophic Dysplasia,1.18
+594,Immune System Organ Benign Neoplasm,1.39
+595,Allergic Conjunctivitis,1.14
+596,Bronchiectasis 1,1.2
+597,Gingival Fibromatosis,1.05
+598,Myofibrillar Myopathy,0.93
+599,"Cleft Palate, Isolated",2.44
+600,Biliary Tract Disease,0.94
+601,Cone-Rod Dystrophy 5,1.29
+602,Hepatopulmonary Syndrome,1.19
+603,Biliary Atresia,1.2
+604,Thalassemia,0.97
+605,Hemimegalencephaly,2.47
+606,Localized Pulmonary Fibrosis,1.5
+607,Dry Eye Syndrome,1.06
+608,Metabolic Dysfunction-Associated Steatohepatitis,2.95
+609,Tracheal Stenosis,2.43
+610,Mammary Analogue Secretory Carcinoma,1.24
+611,Lipid Storage Disease,2.8
+612,"Microcephaly 17, Primary, Autosomal Recessive",2.41
+613,Autosomal Dominant Cutis Laxa,1.1
+614,Collagen Disease,2.08
+615,Aortic Disease,2.07
+616,Type 1 Diabetes Mellitus 7,1.39
+617,Hypothyroidism,2.69
+618,Preterm Premature Rupture Of The Membranes,1.05
+619,"Agammaglobulinemia 7, Autosomal Recessive",2.83
+620,Mucositis,2.1
+621,Spinocerebellar Ataxia 2,1.13
+622,Duodenal Ulcer,1.12
+623,Mitral Valve Insufficiency,2.04
+624,"Hypertension, Essential",0.83
+625,Exfoliation Syndrome,1.1
+626,Central Pterygium,1.5
+627,Dermatofibrosarcoma Protuberans,1.08
+628,"Thyroid Hormone Resistance, Generalized, Autosomal Recessive",2.83
+629,Heart Conduction Disease,0.89
+630,Keratopathy,1.12
+631,Adult Malignant Schwannoma,1.2
+632,Autoimmune Uveitis,1.11
+633,Gastrointestinal Carcinoma,2.25
+634,Hydrarthrosis,1.39
+635,Salivary Gland Adenoid Cystic Carcinoma,2.3
+636,"Ehlers-Danlos Syndrome, Vascular Type",1.26
+637,Telecanthus,2.62
+638,Noonan Syndrome-Like Disorder With Loose Anagen Hair 1,2.41
+639,Noonan Syndrome 1,0.82
+640,Autoimmune Disease Of Gastrointestinal Tract,1.9
+641,Hemoglobin E Disease,1.17
+642,Chronic Myelomonocytic Leukemia,1.05
+643,Hidradenitis Suppurativa,1.12
+644,Autosomal Dominant Polycystic Kidney Disease,4.14
+645,Nephrocalcinosis,2.12
+646,Elephantiasis,1.21
+647,Major Depressive Disorder,0.85
+648,Microvascular Complications Of Diabetes 3,1.09
+649,Tooth Agenesis,0.86
+650,Hypermobility Syndrome,1.22
+651,Autosomal Recessive Cutis Laxa Type I,1.18
+652,Immune Dysregulation-Inflammatory Bowel Disease-Arthritis-Recurrent Infections Syndrome,2.55
+653,Opiate Dependence,1.14
+654,"Mitochondrial Complex V   Deficiency, Mitochondrial Type 1",0.99
+655,"Isolated Growth Hormone Deficiency, Type Ia",1.78
+656,Aortitis,1.2
+657,Nontoxic Goiter,1.32
+658,Behavioral Variant Of Frontotemporal Dementia,2.36
+659,Muscle Cancer,1.97
+660,"Dementia, Lewy Body",0.92
+661,Colorectal Adenocarcinoma,1.98
+662,Acute Laryngopharyngitis,1.27
+663,Familial Expansile Osteolysis,1.19
+664,Aceruloplasminemia,1.18
+665,Acute Basophilic Leukemia,1.64
+666,"Autoimmune Disease Of Eyes, Ear, Nose And Throat",1.11
+667,Chromosome 2q37 Deletion Syndrome,1.19
+668,Acantholytic Acanthoma,1.23
+669,Adult T-Cell Leukemia/Lymphoma,1.05
+670,Lipid Pneumonia,1.36
+671,Rhabdomyosarcoma 2,0.95
+672,Peripheral T-Cell Lymphoma,1.0
+673,Systemic Mastocytosis,1.13
+674,Diffuse Astrocytoma,1.11
+675,Cervicitis,1.16
+676,Hypoglycemia,0.89
+677,Marfanoid-Progeroid-Lipodystrophy Syndrome,2.83
+678,Appendix Lymphoma,1.21
+679,Angiosarcoma,1.06
+680,Potter'S Syndrome,1.26
+681,"Myopathy, Distal, With Rimmed Vacuoles",2.83
+682,"Desmoid Disease, Hereditary",1.24
+683,Pain Disorder,0.99
+684,Neuronal Ceroid Lipofuscinosis,3.34
+685,"Maturity-Onset Diabetes Of The Young, Type 9",1.31
+686,"Ectopia Lentis 2, Isolated, Autosomal Recessive",1.39
+687,Endometrial Disease,1.09
+688,Combined Oxidative Phosphorylation Deficiency 32,1.28
+689,Sensory System Disease,0.89
+690,Arteriovenous Malformations Of The Brain,0.98
+691,Disease Of Mental Health,0.88
+692,Low Grade Glioma,0.97
+693,Kanzaki Disease,1.22
+694,Ovarian Stromal Hyperthecosis,1.5
+695,"Maturity-Onset Diabetes Of The Young, Type 1",1.1
+696,Substance Abuse,1.94
+697,Polydactyly,0.99
+698,Influenza,1.72
+699,"Intellectual Developmental Disorder, Autosomal Dominant 46",1.39
+700,Aortic Dissection,2.87
+701,Geleophysic Dysplasia 2,2.52
+702,"Macular Degeneration, Age-Related, 1",1.17
+703,Fibrodysplasia Ossificans Progressiva,2.16
+704,Acute Asthma,1.13
+705,Cornea Plana,1.21
+706,Dentinogenesis Imperfecta,1.06
+707,Chromophobe Renal Cell Carcinoma,0.78
+708,"Congenital Lipomatous Overgrowth, Vascular Malformations, And Epidermal Nevi",3.36
+709,Pulmonary Hemosiderosis,1.31
+710,"Spastic Paraplegia 17, Autosomal Dominant",1.04
+711,Migraine With Or Without Aura 1,2.44
+712,Osteonecrosis,1.06
+713,Amblyopia,0.99
+714,Childhood Pilocytic Astrocytoma,1.24
+715,Rhabdoid Cancer,1.08
+716,"Granulomatous Disease, Chronic, X-Linked",1.04
+717,"Esophagitis, Eosinophilic, 1",1.04
+718,Hashimoto Thyroiditis,0.98
+719,Viral Infectious Disease,0.9
+720,Beach Ear,1.24
+721,Adult Brainstem Astrocytoma,1.26
+722,"Myopathy, Centronuclear, 2",1.06
+723,Benign Breast Phyllodes Tumor,1.36
+724,Adenosarcoma,1.21
+725,Pyloric Stenosis,2.12
+726,Hyperthyroidism,1.14
+727,Oligodendroglioma,1.91
+728,Glucose Intolerance,0.97
+729,Hypersplenism,3.51
+730,Pulmonary Edema,1.03
+731,Malaria,2.35
+732,Appendicitis,1.12
+733,Perrault Syndrome 1,2.18
+734,Marginal Zone Lymphoma,1.06
+735,"Leukemia, Acute Monocytic",1.07
+736,Gastric Adenocarcinoma,1.99
+737,Chronic Kidney Disease,0.84
+738,Liver Disease,0.97
+739,Primary Bacterial Infectious Disease,1.86
+740,Neutropenia,3.62
+741,Peutz-Jeghers Syndrome,1.04
+742,Uterine Corpus Sarcoma,1.5
+743,Newcastle Disease,1.13
+744,Autosomal Agammaglobulinemia,2.29
+745,Chronic Lymphocytic Leukemia/Small Lymphocytic Lymphoma,1.16
+746,Monocytic Leukemia,1.04
+747,Peroxisome Biogenesis Disorder 11a,1.34
+748,Autoimmune Disease Of Cardiovascular System,2.04
+749,Meninges Hemangiopericytoma,1.42
+750,Anaplastic Large Cell Lymphoma,2.19
+751,Teratoma,1.0
+752,"Deafness, Onychodystrophy, Osteodystrophy, Impaired Intellectual Development, And Seizures Syndrome",1.13
+753,Cervix Carcinoma,1.85
+754,Carotid Stenosis,1.09
+755,Vestibular Nystagmus,1.36
+756,Irritable Bowel Syndrome,3.08
+757,Clonorchiasis,1.21
+758,Immunodeficiency 36 With Lymphoproliferation,2.83
+759,Lung Disease,2.81
+760,Leukocyte Disease,1.85
+761,Cyclotropia,1.5
+762,Optic Nerve Disease,0.87
+763,Dacryocystitis,1.29
+764,Primary Mediastinal B-Cell Lymphoma,2.27
+765,Arteriovenous Malformation,0.97
+766,Astigmatism,1.87
+767,Ehrlichiosis,1.14
+768,Cholecystitis,1.11
+769,Commensal Bacterial Infectious Disease,1.02
+770,Dysentery,1.08
+771,"Muscular Dystrophy, Duchenne Type",1.12
+772,Alopecia Areata,1.02
+773,"Mitochondrial Complex Iii Deficiency, Nuclear Type 8",2.83
+774,Vitreoretinopathy,1.18
+775,Gastrointestinal System Cancer,0.88
+776,Plasma Protein Metabolism Disease,1.06
+777,Osteosclerosis,1.03
+778,Phacolytic Glaucoma,1.46
+779,Vaginal Benign Neoplasm,1.26
+780,Follicular Lymphoma,2.75
+781,"Cutis Laxa, Autosomal Recessive, Type Ic",1.24
+782,Desmoplastic Small Round Cell Tumor,1.09
+783,Severe Congenital Neutropenia,2.82
+784,"Arthrogryposis, Renal Dysfunction, And Cholestasis 1",2.0
+785,Lymphosarcoma,1.5
+786,Syndromic Intellectual Disability,0.87
+787,Suppurative Otitis Media,1.21
+788,Allan-Herndon-Dudley Syndrome,1.18
+789,"Thyroid Hormone Resistance, Generalized, Autosomal Dominant",2.83
+790,Polycystic Kidney Disease 1,1.0
+791,Epididymis Disease,1.15
+792,Goiter,3.31
+793,Retinitis Pigmentosa 46,1.24
+794,Developmental And Epileptic Encephalopathy 24,1.23
+795,Acute Pyelonephritis,1.19
+796,Donnai-Barrow Syndrome,2.38
+797,Thyroid Gland Anaplastic Carcinoma,2.8
+798,Isolated Complex Iii Deficiency,2.25
+799,Congenital Epulis,1.42
+800,Mixed Lacrimal Gland Cancer,1.24
+801,Androgenic Alopecia,1.13
+802,Short Syndrome,3.18
+803,Leukemia,0.93
+804,Mantle Cell Lymphoma,0.89
+805,Spinal Disease,1.93
+806,"Lymphoma, Hodgkin, Classic",1.22
+807,Reproductive Organ Benign Neoplasm,2.05
+808,Nephrotic Syndrome,0.82
+809,Bronchiolitis Obliterans,1.12
+810,Cryoglobulinemia,1.15
+811,Hodgkin'S Lymphoma,0.91
+812,Osteogenic Sarcoma,4.37
+813,Celiac Disease,3.38
+814,Salivary Gland Carcinoma,1.06
+815,Conidiobolomycosis,1.23
+816,Weill-Marchesani Syndrome,2.03
+817,Reticuloendotheliosis,1.61
+818,Kidney Hemangiopericytoma,1.42
+819,Neurodegeneration With Brain Iron Accumulation 1,1.03
+820,Lacrimal Apparatus Disease,1.06
+821,Bartter Disease,0.95
+822,Vaginitis,1.12
+823,Varicocele,2.14
+824,Clubfoot,0.92
+825,Heart Valve Disease,1.98
+826,"Anemia, X-Linked, With Or Without Neutropenia And/Or Platelet Abnormalities",1.39
+827,"Hemangiopericytoma, Malignant",1.11
+828,Lymphoproliferative Syndrome,1.02
+829,"Mitochondrial Complex Iv Deficiency, Nuclear Type 5",1.14
+830,Carbuncle,1.21
+831,Mediastinum Teratoma,1.21
+832,Colon Lymphoma,1.36
+833,Aortic Atherosclerosis,1.14
+834,"46,Xy Sex Reversal 5",2.83
+835,Cardiovascular System Disease,0.82
+836,Pneumothorax,1.08
+837,Plantar Fasciitis,1.27
+838,Crescentic Glomerulonephritis,1.14
+839,"Ceroid Lipofuscinosis, Neuronal, 2",1.26
+840,Absolute Glaucoma,1.44
+841,"Ceroid Lipofuscinosis, Neuronal, 8, Northern Epilepsy Variant",2.37
+842,Spondylarthropathy,1.27
+843,Testicular Lymphoma,1.23
+844,Pulmonary Systemic Sclerosis,1.12
+845,Portal Hypertension,2.07
+846,Parasitic Helminthiasis Infectious Disease,2.02
+847,Acanthosis Nigricans,1.28
+848,Cervical Intraepithelial Neoplasia,2.92
+849,Spinal Cord Melanoma,1.23
+850,"Mitochondrial Complex V   Deficiency, Nuclear Type 3",1.23
+851,Skin Papilloma,1.14
+852,Bile Duct Disease,0.94
+853,Diffuse Mesangial Sclerosis,1.25
+854,Diffuse Pulmonary Fibrosis,1.33
+855,Overgrowth Syndrome,2.31
+856,Trachea Adenoid Cystic Carcinoma,1.39
+857,Motor Neuron Disease,1.8
+858,Anogenital Venereal Wart,1.12
+859,Benign Familial Infantile Epilepsy,1.0
+860,"Cutis Laxa, Autosomal Recessive, Type Ib",1.26
+861,Beta-Thalassemia Major,2.02
+862,"Hypophosphatemic Rickets With Hypercalciuria, Hereditary",1.2
+863,Measles,2.25
+864,Central Nervous System Lymphoma,1.1
+865,Ablepharon-Macrostomia Syndrome,1.31
+866,Arterial Tortuosity Syndrome,1.12
+867,Gallbladder Small Cell Carcinoma,1.24
+868,Trachoma,1.23
+869,X-Linked Emery-Dreifuss Muscular Dystrophy,1.09
+870,Hematologic Cancer,2.46
+871,"Parkinson Disease, Late-Onset",0.9
+872,Desmoid Tumor,1.07
+873,Covid-19,2.05
+874,Borst-Jadassohn Intraepidermal Carcinoma,1.15
+875,Extrinsic Cardiomyopathy,2.0
+876,Visual Epilepsy,1.18
+877,End Stage Renal Disease,0.98
+878,Gestational Diabetes,0.99
+879,Cholera,3.3
+880,Otopalatodigital Syndrome Spectrum Disorder,1.15
+881,"Spinocerebellar Ataxia, Autosomal Recessive 23",1.29
+882,Pilomyxoid Astrocytoma,1.03
+883,Acute Necrotizing Pancreatitis,1.23
+884,Osteoblastoma,1.19
+885,Periventricular Nodular Heterotopia,0.9
+886,Hypersensitivity Reaction Type Iv Disease,1.01
+887,Perinatal Necrotizing Enterocolitis,2.14
+888,Beta-Thalassemia Intermedia,1.06
+889,Iron Overload,1.41
+890,"Myopathy, Distal, With Anterior Tibial Onset",1.26
+891,Autosomal Dominant Severe Congenital Neutropenia,1.03
+892,"Gm1-Gangliosidosis, Type Iii",1.22
+893,Childhood Type Dermatomyositis,0.45
+894,Neonatal Marfan Syndrome,2.83
+895,Factitious Disorder,1.33
+896,Stereotypic Movement Disorder,1.0
+897,Mccune-Albright Syndrome,2.02
+898,"Severe Combined Immunodeficiency, X-Linked",1.07
+899,"Spinal And Bulbar Muscular Atrophy, X-Linked 1",2.04
+900,Facial Paralysis,1.11
+901,Granular Corneal Dystrophy,1.23
+902,Enophthalmos,1.07
+903,Diamond-Blackfan Anemia 20,2.51
+904,Mucoepidermoid Carcinoma,1.09
+905,Motion Sickness,1.15
+906,Pneumoconiosis,1.06
+907,Crest Syndrome,1.21
+908,Cholecystolithiasis,1.26
+909,Localized Osteosarcoma,1.23
+910,Cerebellar Hypoplasia,1.03
+911,Intestinal Benign Neoplasm,0.99
+912,Arthritis,2.73
+913,Hemoglobinopathy,0.96
+914,Galloway-Mowat Syndrome 4,1.34
+915,Leptospirosis,1.14
+916,Pulmonary Interstitial Emphysema,1.42
+917,"Cholangitis, Primary Sclerosing",1.84
+918,Goat Milk Allergy,1.36
+919,Lacrimal Gland Carcinoma,1.29
+920,Thymus Cancer,2.01
+921,Cerebral Malaria,2.12
+922,"Hyperlipoproteinemia, Type I",1.2
+923,Beta-Thalassemia,0.91
+924,Acrodermatitis Enteropathica,1.2
+925,Homocystinuria,1.16
+926,Polycystic Liver Disease 1 With Or Without Kidney Cysts,2.12
+927,Withdrawal Disorder,1.12
+928,Histiocytoid Hemangioma,1.23
+929,Sotos Syndrome,0.95
+930,Uterine Carcinosarcoma,1.9
+931,Mesangial Proliferative Glomerulonephritis,1.17
+932,Gastric Lymphoma,1.2
+933,Retrograde Amnesia,1.21
+934,Precursor T-Cell Acute Lymphoblastic Leukemia,1.31
+935,Aicardi-Goutieres Syndrome,0.88
+936,Aortic Valve Insufficiency,2.24
+937,Complex Regional Pain Syndrome,1.13
+938,Liver Cirrhosis,1.02
+939,Connective Tissue Cancer,0.93
+940,Radiation Cystitis,1.31
+941,Colon Adenoma,1.08
+942,Intracranial Berry Aneurysm,0.93
+943,Achondroplasia,2.09
+944,Asbestosis,1.15
+945,Blue Cone Monochromacy,1.13
+946,"Hypercholesterolemia, Familial, 4",1.11
+947,Toxoplasmosis,1.05
+948,Inhibited Male Orgasm,1.26
+949,Superficial Basal Cell Carcinoma,1.23
+950,Interstitial Lung Disease,1.9
+951,Retinal Telangiectasia,1.17
+952,Squamous Cell Carcinoma,6.11
+953,"Optic Atrophy 3, Autosomal Dominant",1.12
+954,Pyelonephritis,2.31
+955,Adult Lymphoma,1.26
+956,Prostate Adenoid Cystic Carcinoma,1.5
+957,Gastroesophageal Reflux,1.81
+958,Hyperostosis,1.04
+959,Paget Disease Of Bone 3,2.83
+960,Breast Lymphoma,1.33
+961,Ovarian Solid Teratoma,1.5
+962,Dent Disease 2,2.83
+963,Childhood Malignant Schwannoma,1.42
+964,Arthrogryposis Multiplex Congenita-4,1.5
+965,Audiogenic Seizures,1.5
+966,Gastrointestinal Tularemia,1.23
+967,Skeletal Muscle Cancer,0.99
+968,Pleural Disease,1.01
+969,Epithelial-Myoepithelial Carcinoma,1.27
+970,"Pulmonary Disease, Chronic Obstructive",0.89
+971,"Muscular Dystrophy, Limb-Girdle, Autosomal Recessive 2",1.19
+972,Congenital Generalized Lipodystrophy,1.87
+973,"Renal Dysplasia, Cystic",1.25
+974,Spastic Paraplegia-Paget Disease Of Bone Syndrome,2.83
+975,Short Stature With Microcephaly And Distinctive Facies,2.83
+976,Skin Atrophy,1.13
+977,Spondylosis,1.15
+978,"Aortic Aneurysm, Familial Thoracic 4",1.87
+979,Neuronal Ceroid-Lipofuscinoses,1.35
+980,Bone Marrow Cancer,0.93
+981,"Mitochondrial Complex Iii Deficiency, Nuclear Type 1",2.79
+982,Autoimmune Myocarditis,2.23
+983,"Immunodysregulation, Polyendocrinopathy, And Enteropathy, X-Linked",1.11
+984,Hepatitis C,1.1
+985,Delta Beta-Thalassemia,1.16
+986,Coronavirus Infectious Disease,1.87
+987,Vaginal Endometrial Stromal Sarcoma,2.54
+988,Melon Allergy,1.23
+989,Atransferrinemia,1.27
+990,Autoimmune Disease Of Central Nervous System,1.87
+991,Small Cell Cancer Of The Lung,1.98
+992,Advanced Sleep Phase Syndrome,1.07
+993,"Muscular Dystrophy, Becker Type",1.69
+994,Sick Sinus Syndrome,1.11
+995,Alzheimer'S Disease 1,1.11
+996,Burkitt Lymphoma,3.73
+997,"Corneal Dystrophy, Avellino Type",1.24
+998,Peyronie Disease,1.5
+999,Pilocytic Astrocytoma,1.95
+1000,Weill-Marchesani Syndrome 2,2.83
+1001,Cerebroretinal Microangiopathy With Calcifications And Cysts 1,2.79
+1002,Thymoma,3.07
+1003,Fasciitis,1.1
+1004,Lymphatic System Cancer,0.9
+1005,Galloway-Mowat Syndrome 10,2.83
+1006,"Ceroid Lipofuscinosis, Neuronal, 7",1.27
+1007,Thyroiditis,1.08
+1008,Type 1 Diabetes Mellitus 17,1.47
+1009,Nephronophthisis 12,1.22
+1010,Childhood Osteosarcoma,1.19
+1011,Pulmonary Blastoma,1.16
+1012,"Anemia, Sideroblastic, 1",1.05
+1013,Giant Cell Glioblastoma,1.8
+1014,Gingival Disease,2.13
+1015,Inverted Papilloma,1.22
+1016,Mature T-Cell And Nk-Cell Lymphoma,1.01
+1017,Anterograde Amnesia,1.21
+1018,Generalized Resistance To Thyroid Hormone,2.83
+1019,"Inflammatory Bowel Disease, Immunodeficiency, And Encephalopathy",2.83
+1020,Seckel Syndrome 8,1.36
+1021,Geleophysic Dysplasia,3.14
+1022,Chronic Conjunctivitis,1.14
+1023,"Mucopolysaccharidosis, Type Ix",1.36
+1024,Stiff Skin Syndrome,3.63
+1025,Fibrosarcoma Of Bone,1.24
+1026,Alcohol Dependence,0.86
+1027,Coronary Artery Anomaly,2.29
+1028,Orbit Embryonal Rhabdomyosarcoma,1.21
+1029,Esophageal Atresia,2.11
+1030,Chronic Purulent Otitis Media,1.24
+1031,Hypoinsulinemic Hypoglycemia With Hemihypertrophy,1.46
+1032,Keratosis,1.04
+1033,Isolated Ectopia Lentis,2.14
+1034,Sertoli Cell Tumor,1.22
+1035,Choline Deficiency Disease,1.15
+1036,Microcytic Anemia,1.15
+1037,Hypertelorism,1.67
+1038,Lymphoma,3.73
+1039,Microcytic Anemia With Liver Iron Overload,2.83
+1040,"Mucopolysaccharidosis, Type Iiib",1.09
+1041,"Ceroid Lipofuscinosis, Neuronal, 6a",2.03
+1042,Proteasome-Associated Autoinflammatory Syndrome 1,1.01
+1043,"Pneumothorax, Primary Spontaneous",1.29
+1044,Combined Oxidative Phosphorylation Deficiency 7,1.36
+1045,Postcholecystectomy Syndrome,1.39
+1046,Periodontitis,2.0
+1047,Gastrointestinal System Benign Neoplasm,0.97
+1048,Dent Disease 1,2.04
+1049,Urethritis,1.17
+1050,Primary Microcephaly,0.92
+1051,Oropharynx Cancer,3.04
+1052,Chest Wall Lipoma,1.36
+1053,Hepatitis B,4.18
+1054,Macroglobulinemia,1.13
+1055,Megacolon,1.93
+1056,"Ectopia Lentis 1, Isolated, Autosomal Dominant",2.76
+1057,"Scleroderma, Familial Progressive",2.72
+1058,Invasive Bladder Transitional Cell Carcinoma,1.27
+1059,Combined Oxidative Phosphorylation Deficiency 22,1.5
+1060,Monophasic Synovial Sarcoma,1.29
+1061,Bardet-Biedl Syndrome 5,1.26
+1062,Basal Cell Carcinoma,3.57
+1063,Sting-Associated Vasculopathy With Onset In Infancy,1.14
+1064,Skin Carcinoma,3.72
+1065,Metal Metabolism Disorder,1.0
+1066,Lung Sarcoma,1.33
+1067,Acquired Immunodeficiency Syndrome,0.96
+1068,Glanders,1.27
+1069,Glaucoma-Ectopia Lentis-Microspherophakia-Stiff Joints-Short Stature Syndrome,1.83
+1070,Achard Syndrome,1.5
+1071,Gracile Syndrome,1.2
+1072,Chronic Cervicitis,1.27
+1073,Geleophysic Dysplasia 1,1.29
+1074,Myositis Ossificans,1.27
+1075,Mucocutaneous Leishmaniasis,1.19
+1076,Cole-Carpenter Syndrome,1.11
+1077,Hepatic Vascular Disease,1.04
+1078,"Sarcoma, Synovial",2.87
+1079,Non Specific Chronic Endometritis,1.5
+1080,Adult Liposarcoma,1.33
+1081,Mucolipidosis,1.02
+1082,Craniopharyngioma,2.04
+1083,Bone Osteosarcoma,1.93
+1084,Primary Congenital Glaucoma,1.07
+1085,Plague,1.05
+1086,Hepatitis,1.04
+1087,Juvenile Polyposis/Hereditary Hemorrhagic Telangiectasia Syndrome,1.34
+1088,Enterocolitis,1.27
+1089,Diamond-Blackfan Anemia 1,0.96
+1090,Progressive Myoclonus Epilepsy 3,1.29
+1091,Agammaglobulinemia 7,1.5
+1092,Telangiectasis,2.1
+1093,Rectum Cancer,0.96
+1094,Niemann-Pick Disease,0.94
+1095,Eustachian Tube Disease,1.42
+1096,Status Epilepticus,1.02
+1097,Hypertensive Heart Disease,1.12
+1098,Dermatitis Herpetiformis,1.18
+1099,Breast Myofibroblastoma,1.36
+1100,Geleophysic Dysplasia 3,1.34
+1101,Fungal Infectious Disease,1.01
+1102,"46,Xy Sex Reversal",1.15
+1103,"Mucopolysaccharidosis, Type Iva",1.02
+1104,Gastritis,2.1
+1105,Tracheal Cancer,1.36
+1106,Renal Hypertension,1.1
+1107,Mucopolysaccharidosis Iii,1.99
+1108,Pectus Carinatum,2.45
+1109,Myotonic Dystrophy 2,0.9
+1110,Open-Angle Glaucoma,2.04
+1111,Dysembryoplastic Neuroepithelial Tumor,1.18
+1112,Psychotic Disorder,0.87
+1113,"Mannosidosis, Alpha B, Lysosomal",1.05
+1114,Bone Lymphoma,1.36
+1115,Urethral Syndrome,1.11
+1116,Syndromic X-Linked Intellectual Disability,0.96
+1117,Mitral Valve Disease,2.12
+1118,Aminoaciduria,1.22
+1119,Dacryoadenitis,1.21
+1120,Agnosia,0.98
+1121,Anterior Uveitis,1.24
+1122,Brugada Syndrome 1,2.24
+1123,Galloway-Mowat Syndrome 1,1.29
+1124,Pleomorphic Adenoma Carcinoma,1.27
+1125,Visceral Leishmaniasis,1.98
+1126,Paraganglioma And Gastric Stromal Sarcoma,1.1
+1127,Calcinosis,1.06
+1128,Idiopathic Scoliosis,1.31
+1129,Ureteric Orifice Cancer,1.31
+1130,Ulcerative Colitis,4.38
+1131,Progressive Peripheral Pterygium,1.5
+1132,Root Resorption,1.17
+1133,Exostosis,1.14
+1134,B-Cell Lymphoma,4.79
+1135,Polycystic Kidney Disease 2,1.05
+1136,Mucinous Stomach Adenocarcinoma,1.26
+1137,Leprosy,1.98
+1138,Lactocele,1.42
+1139,Tonsil Cancer,1.05
+1140,Hypotrichosis 8,1.18
+1141,Juvenile Polyposis Syndrome,1.11
+1142,Hyper Ige Syndrome,1.01
+1143,Lung Adenoid Cystic Carcinoma,1.42
+1144,Schnyder Corneal Dystrophy,1.19
+1145,Lichen Planus,1.07
+1146,Prader-Willi Syndrome,0.83
+1147,Alpha-Aminoadipic And Alpha-Ketoadipic Aciduria,1.36
+1148,"Arrhythmogenic Right Ventricular Dysplasia, Familial, 13",1.39
+1149,Lacrimal System Cancer,1.29
+1150,Weill-Marchesani Syndrome 1,2.83
+1151,Breast Signet Ring Cell Adenocarcinoma,1.42
+1152,Flying Phobia,1.21
+1153,Tonsillitis,1.12
+1154,Limited Scleroderma,1.99
+1155,Dermatitis,1.8
+1156,Pancreatitis,1.93
+1157,Plantar Fascial Fibromatosis,1.2
+1158,Spindle Cell Lipoma,1.31
+1159,Wolfram Syndrome 1,1.15
+1160,Glioblastoma Mesenchymal Subtype,1.42
+1161,Splenic Marginal Zone Lymphoma,1.14
+1162,Brain Glioblastoma Multiforme,1.2
+1163,Immunodeficiency 47,0.95
+1164,Pulmonary Venoocclusive Disease,1.12
+1165,Band Heterotopia,1.03
+1166,Leishmaniasis,2.03
+1167,"Hand, Foot And Mouth Disease",1.15

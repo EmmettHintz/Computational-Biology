@@ -1,61 +1,43 @@
 import pandas as pd
 import networkx as nx
-import matplotlib.pyplot as plt
 
 # Load the treatment data from Excel file
 treatment_data = pd.read_csv('/Users/emmetthintz/Documents/Computational-Biology/GSEA April 19/treatment_group/treatment_genes_miRTarBase.csv')
 
-# Filter treatment data for p-value < 0.05
+# Filter for p-value < 0.05
 treatment_filtered = treatment_data[treatment_data['p-value'] < 0.05]
 
-# Initialize a graph for the treatment network
+# Initialize the main graph
 G_treatment = nx.Graph()
 
-# Add nodes and edges based on gene-miRNA relationships
+# Dictionary to count unique miRNAs per gene
+gene_miRNA_count = {}
+
+# First pass: count unique miRNAs for each gene
 for index, row in treatment_filtered.iterrows():
     gene_node = row['Gene Symbol']
-    G_treatment.add_node(gene_node, type='gene')
-    
-    # Iterate through microRNA columns to add edges
+    gene_miRNA_count.setdefault(gene_node, set())
+
+    # Check each microRNA column for non-null entries
     for col in treatment_data.columns[treatment_data.columns.str.contains('microRNA')]:
-        if pd.notna(row[col]):
-            miRNA_node = row[col]
+        miRNA_node = row[col]
+        if pd.notna(miRNA_node):
+            gene_miRNA_count[gene_node].add(miRNA_node)
+
+# List to store genes included in the graph
+included_genes_treatment = []
+
+# Second pass: add only genes with >= 3 miRNAs and their miRNAs to the graph
+for gene_node, miRNAs in gene_miRNA_count.items():
+    if len(miRNAs) >= 3:
+        G_treatment.add_node(gene_node, type='gene')
+        included_genes_treatment.append(gene_node)
+        for miRNA_node in miRNAs:
             G_treatment.add_node(miRNA_node, type='miRNA')
             G_treatment.add_edge(gene_node, miRNA_node)
 
-# Count the number of gene connections for each miRNA
-miRNA_gene_connections = {}
-for miRNA_node in G_treatment.nodes():
-    if G_treatment.nodes[miRNA_node]['type'] == 'miRNA':
-        gene_connections = sum(1 for neighbor in G_treatment.neighbors(miRNA_node) if G_treatment.nodes[neighbor]['type'] == 'gene')
-        miRNA_gene_connections[miRNA_node] = gene_connections
+# Save the subgraph of the treatment network to a GraphML file
+treatment_subgraph_graphml_path = '/Users/emmetthintz/Documents/Computational-Biology/GSEA April 19/networks/treatment_subgraph_network.graphml'
+nx.write_graphml(G_treatment, treatment_subgraph_graphml_path)
 
-# Sort miRNAs by the number of gene connections and get top 10
-top_miRNAs = sorted(miRNA_gene_connections.items(), key=lambda x: x[1], reverse=True)[:10]
-
-# Create a DataFrame for top miRNAs
-top_miRNAs_df = pd.DataFrame(top_miRNAs, columns=['miRNA', 'Number of Gene Connections'])
-
-# Display the top 10 miRNAs and their number of gene connections using Matplotlib
-plt.figure(figsize=(8, 6))
-ax = plt.gca()
-ax.axis('off')  # Turn off axis
-ax.set_title('Top 10 Treatment miRNAs and Their Number of Gene Connections', fontsize=14, fontweight='bold')
-
-# Plot table with zebra striping
-table = ax.table(cellText=top_miRNAs_df.values,
-                 colLabels=top_miRNAs_df.columns,
-                 cellLoc='center',
-                 loc='upper left',
-                 colColours=['#166082'] * 2,
-                 bbox=[0.1, 0.1, 0.8, 0.8])
-
-# Set column header text color to white
-for i, cell in enumerate(table.get_celld().values()):
-    row, col = divmod(i, len(top_miRNAs_df.columns))  # Calculate row and column indices
-    if row % 2 != 0 and row != 0:
-        # Alternate row colors (skip first row)
-        cell.set_facecolor('#F5F5F5')  # Light gray background color for odd rows
-
-
-plt.show()
+pd.DataFrame(included_genes_treatment, columns=['Gene Symbol']).to_csv('included_genes_treatment.csv', index=False)

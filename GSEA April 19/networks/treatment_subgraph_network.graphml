@@ -1,0 +1,599 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d0" for="node" attr.name="type" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="IL1RL2">
+      <data key="d0">gene</data>
+    </node>
+    <node id="hsa-miR-361-3p">
+      <data key="d0">miRNA</data>
+    </node>
+    <node id="hsa-miR-146b-5p">
+      <data key="d0">miRNA</data>
+    </node>
+    <node id="hsa-miR-146a-5p">
+      <data key="d0">miRNA</data>
+    </node>
+    <node id="hsa-miR-6511a-3p">
+      <data key="d0">miRNA</data>
+    </node>
+    <node id="BIVM">
+      <data key="d0">gene</data>
+    </node>
+    <node id="hsa-miR-3173-5p">
+      <data key="d0">miRNA</data>
+    </node>
+    <node id="hsa-miR-215-5p">
+      <data key="d0">miRNA</data>
+    </node>
+    <node id="hsa-miR-324-5p">
+      <data key="d0">miRNA</data>
+    </node>
+    <node id="CCDC83">
+      <data key="d0">gene</data>
+    </node>
+    <node id="hsa-miR-503-5p">
+      <data key="d0">miRNA</data>
+    </node>
+    <node id="CDKN3">
+      <data key="d0">gene</data>
+    </node>
+    <node id="hsa-miR-6741-3p">
+      <data key="d0">miRNA</data>
+    </node>
+    <node id="DECR1">
+      <data key="d0">gene</data>
+    </node>
+    <node id="DGCR6L">
+      <data key="d0">gene</data>
+    </node>
+    <node id="IL1RAP">
+      <data key="d0">gene</data>
+    </node>
+    <node id="IRAK1">
+      <data key="d0">gene</data>
+    </node>
+    <node id="KIF3B">
+      <data key="d0">gene</data>
+    </node>
+    <node id="hsa-miR-6750-3p">
+      <data key="d0">miRNA</data>
+    </node>
+    <node id="hsa-miR-3184-5p">
+      <data key="d0">miRNA</data>
+    </node>
+    <node id="MFSD6">
+      <data key="d0">gene</data>
+    </node>
+    <node id="hsa-miR-3074-5p">
+      <data key="d0">miRNA</data>
+    </node>
+    <node id="MRPL10">
+      <data key="d0">gene</data>
+    </node>
+    <node id="PA2G4">
+      <data key="d0">gene</data>
+    </node>
+    <node id="hsa-miR-24-3p">
+      <data key="d0">miRNA</data>
+    </node>
+    <node id="PSME3">
+      <data key="d0">gene</data>
+    </node>
+    <node id="hsa-miR-26b-3p">
+      <data key="d0">miRNA</data>
+    </node>
+    <node id="hsa-miR-425-3p">
+      <data key="d0">miRNA</data>
+    </node>
+    <node id="TLL1">
+      <data key="d0">gene</data>
+    </node>
+    <node id="TRAP1">
+      <data key="d0">gene</data>
+    </node>
+    <node id="hsa-miR-1180-3p">
+      <data key="d0">miRNA</data>
+    </node>
+    <node id="UHRF1">
+      <data key="d0">gene</data>
+    </node>
+    <node id="hsa-miR-191-5p">
+      <data key="d0">miRNA</data>
+    </node>
+    <node id="ZNF260">
+      <data key="d0">gene</data>
+    </node>
+    <node id="PPP1R11">
+      <data key="d0">gene</data>
+    </node>
+    <node id="BRCA1">
+      <data key="d0">gene</data>
+    </node>
+    <node id="PRDM4">
+      <data key="d0">gene</data>
+    </node>
+    <node id="hsa-miR-3909">
+      <data key="d0">miRNA</data>
+    </node>
+    <node id="ESD">
+      <data key="d0">gene</data>
+    </node>
+    <node id="WIPI2">
+      <data key="d0">gene</data>
+    </node>
+    <node id="hsa-miR-4677-3p">
+      <data key="d0">miRNA</data>
+    </node>
+    <node id="LSM4">
+      <data key="d0">gene</data>
+    </node>
+    <node id="WASF2">
+      <data key="d0">gene</data>
+    </node>
+    <node id="hsa-miR-451b">
+      <data key="d0">miRNA</data>
+    </node>
+    <node id="PPWD1">
+      <data key="d0">gene</data>
+    </node>
+    <node id="VANGL2">
+      <data key="d0">gene</data>
+    </node>
+    <node id="PISD">
+      <data key="d0">gene</data>
+    </node>
+    <node id="AGO1">
+      <data key="d0">gene</data>
+    </node>
+    <node id="ARL8A">
+      <data key="d0">gene</data>
+    </node>
+    <node id="CAPN15">
+      <data key="d0">gene</data>
+    </node>
+    <node id="hsa-let-7d-3p">
+      <data key="d0">miRNA</data>
+    </node>
+    <node id="DHCR24">
+      <data key="d0">gene</data>
+    </node>
+    <node id="FANCF">
+      <data key="d0">gene</data>
+    </node>
+    <node id="FEN1">
+      <data key="d0">gene</data>
+    </node>
+    <node id="FGF2">
+      <data key="d0">gene</data>
+    </node>
+    <node id="GRAP2">
+      <data key="d0">gene</data>
+    </node>
+    <node id="LIMS1">
+      <data key="d0">gene</data>
+    </node>
+    <node id="MCM9">
+      <data key="d0">gene</data>
+    </node>
+    <node id="MDM4">
+      <data key="d0">gene</data>
+    </node>
+    <node id="NCEH1">
+      <data key="d0">gene</data>
+    </node>
+    <node id="hsa-miR-2110">
+      <data key="d0">miRNA</data>
+    </node>
+    <node id="NPLOC4">
+      <data key="d0">gene</data>
+    </node>
+    <node id="PACS2">
+      <data key="d0">gene</data>
+    </node>
+    <node id="PAK4">
+      <data key="d0">gene</data>
+    </node>
+    <node id="PI4K2B">
+      <data key="d0">gene</data>
+    </node>
+    <node id="POU3F1">
+      <data key="d0">gene</data>
+    </node>
+    <node id="PPM1F">
+      <data key="d0">gene</data>
+    </node>
+    <node id="RHOBTB3">
+      <data key="d0">gene</data>
+    </node>
+    <node id="RHOC">
+      <data key="d0">gene</data>
+    </node>
+    <node id="SEPT8">
+      <data key="d0">gene</data>
+    </node>
+    <node id="SERTAD2">
+      <data key="d0">gene</data>
+    </node>
+    <node id="SYNGR2">
+      <data key="d0">gene</data>
+    </node>
+    <node id="SYNRG">
+      <data key="d0">gene</data>
+    </node>
+    <node id="USP48">
+      <data key="d0">gene</data>
+    </node>
+    <node id="UTP15">
+      <data key="d0">gene</data>
+    </node>
+    <node id="ZNF281">
+      <data key="d0">gene</data>
+    </node>
+    <node id="ZNRF3">
+      <data key="d0">gene</data>
+    </node>
+    <node id="BRWD1">
+      <data key="d0">gene</data>
+    </node>
+    <node id="LBR">
+      <data key="d0">gene</data>
+    </node>
+    <node id="CDC73">
+      <data key="d0">gene</data>
+    </node>
+    <node id="E2F3">
+      <data key="d0">gene</data>
+    </node>
+    <node id="PSMB5">
+      <data key="d0">gene</data>
+    </node>
+    <node id="RAC1">
+      <data key="d0">gene</data>
+    </node>
+    <node id="RPS6KA4">
+      <data key="d0">gene</data>
+    </node>
+    <node id="SCAMP2">
+      <data key="d0">gene</data>
+    </node>
+    <node id="SMAD2">
+      <data key="d0">gene</data>
+    </node>
+    <node id="GATA6">
+      <data key="d0">gene</data>
+    </node>
+    <node id="CNKSR3">
+      <data key="d0">gene</data>
+    </node>
+    <node id="ELP2">
+      <data key="d0">gene</data>
+    </node>
+    <node id="HNRNPA1">
+      <data key="d0">gene</data>
+    </node>
+    <node id="KCTD15">
+      <data key="d0">gene</data>
+    </node>
+    <node id="PXMP4">
+      <data key="d0">gene</data>
+    </node>
+    <node id="SP1">
+      <data key="d0">gene</data>
+    </node>
+    <node id="TRAF7">
+      <data key="d0">gene</data>
+    </node>
+    <node id="ZMAT3">
+      <data key="d0">gene</data>
+    </node>
+    <node id="ACACA">
+      <data key="d0">gene</data>
+    </node>
+    <node id="RNF11">
+      <data key="d0">gene</data>
+    </node>
+    <node id="ERGIC1">
+      <data key="d0">gene</data>
+    </node>
+    <node id="PTPRF">
+      <data key="d0">gene</data>
+    </node>
+    <node id="ATG9A">
+      <data key="d0">gene</data>
+    </node>
+    <node id="KIF5B">
+      <data key="d0">gene</data>
+    </node>
+    <node id="ACTR2">
+      <data key="d0">gene</data>
+    </node>
+    <node id="CRK">
+      <data key="d0">gene</data>
+    </node>
+    <node id="EIF4H">
+      <data key="d0">gene</data>
+    </node>
+    <node id="VAV3">
+      <data key="d0">gene</data>
+    </node>
+    <edge source="IL1RL2" target="hsa-miR-361-3p" />
+    <edge source="IL1RL2" target="hsa-miR-146b-5p" />
+    <edge source="IL1RL2" target="hsa-miR-146a-5p" />
+    <edge source="IL1RL2" target="hsa-miR-6511a-3p" />
+    <edge source="hsa-miR-361-3p" target="DGCR6L" />
+    <edge source="hsa-miR-361-3p" target="MFSD6" />
+    <edge source="hsa-miR-361-3p" target="TRAP1" />
+    <edge source="hsa-miR-361-3p" target="PPWD1" />
+    <edge source="hsa-miR-361-3p" target="VANGL2" />
+    <edge source="hsa-miR-361-3p" target="ARL8A" />
+    <edge source="hsa-miR-361-3p" target="GRAP2" />
+    <edge source="hsa-miR-361-3p" target="PAK4" />
+    <edge source="hsa-miR-361-3p" target="SYNGR2" />
+    <edge source="hsa-miR-361-3p" target="PSMB5" />
+    <edge source="hsa-miR-361-3p" target="PXMP4" />
+    <edge source="hsa-miR-361-3p" target="ACACA" />
+    <edge source="hsa-miR-146b-5p" target="CCDC83" />
+    <edge source="hsa-miR-146b-5p" target="DECR1" />
+    <edge source="hsa-miR-146b-5p" target="DGCR6L" />
+    <edge source="hsa-miR-146b-5p" target="IL1RAP" />
+    <edge source="hsa-miR-146b-5p" target="IRAK1" />
+    <edge source="hsa-miR-146b-5p" target="MFSD6" />
+    <edge source="hsa-miR-146b-5p" target="MRPL10" />
+    <edge source="hsa-miR-146b-5p" target="TLL1" />
+    <edge source="hsa-miR-146b-5p" target="UHRF1" />
+    <edge source="hsa-miR-146b-5p" target="ZNF260" />
+    <edge source="hsa-miR-146b-5p" target="PPP1R11" />
+    <edge source="hsa-miR-146b-5p" target="ESD" />
+    <edge source="hsa-miR-146b-5p" target="LSM4" />
+    <edge source="hsa-miR-146b-5p" target="PPWD1" />
+    <edge source="hsa-miR-146b-5p" target="AGO1" />
+    <edge source="hsa-miR-146b-5p" target="ARL8A" />
+    <edge source="hsa-miR-146b-5p" target="FANCF" />
+    <edge source="hsa-miR-146b-5p" target="GRAP2" />
+    <edge source="hsa-miR-146b-5p" target="PACS2" />
+    <edge source="hsa-miR-146b-5p" target="POU3F1" />
+    <edge source="hsa-miR-146b-5p" target="RHOBTB3" />
+    <edge source="hsa-miR-146b-5p" target="SERTAD2" />
+    <edge source="hsa-miR-146b-5p" target="USP48" />
+    <edge source="hsa-miR-146b-5p" target="UTP15" />
+    <edge source="hsa-miR-146b-5p" target="ZNRF3" />
+    <edge source="hsa-miR-146b-5p" target="BRWD1" />
+    <edge source="hsa-miR-146b-5p" target="LBR" />
+    <edge source="hsa-miR-146b-5p" target="CDC73" />
+    <edge source="hsa-miR-146b-5p" target="ELP2" />
+    <edge source="hsa-miR-146b-5p" target="KCTD15" />
+    <edge source="hsa-miR-146b-5p" target="ATG9A" />
+    <edge source="hsa-miR-146a-5p" target="CCDC83" />
+    <edge source="hsa-miR-146a-5p" target="CDKN3" />
+    <edge source="hsa-miR-146a-5p" target="DECR1" />
+    <edge source="hsa-miR-146a-5p" target="DGCR6L" />
+    <edge source="hsa-miR-146a-5p" target="IL1RAP" />
+    <edge source="hsa-miR-146a-5p" target="IRAK1" />
+    <edge source="hsa-miR-146a-5p" target="MFSD6" />
+    <edge source="hsa-miR-146a-5p" target="MRPL10" />
+    <edge source="hsa-miR-146a-5p" target="PA2G4" />
+    <edge source="hsa-miR-146a-5p" target="TLL1" />
+    <edge source="hsa-miR-146a-5p" target="UHRF1" />
+    <edge source="hsa-miR-146a-5p" target="ZNF260" />
+    <edge source="hsa-miR-146a-5p" target="PPP1R11" />
+    <edge source="hsa-miR-146a-5p" target="BRCA1" />
+    <edge source="hsa-miR-146a-5p" target="ESD" />
+    <edge source="hsa-miR-146a-5p" target="LSM4" />
+    <edge source="hsa-miR-146a-5p" target="WASF2" />
+    <edge source="hsa-miR-146a-5p" target="PPWD1" />
+    <edge source="hsa-miR-146a-5p" target="ARL8A" />
+    <edge source="hsa-miR-146a-5p" target="FANCF" />
+    <edge source="hsa-miR-146a-5p" target="GRAP2" />
+    <edge source="hsa-miR-146a-5p" target="PACS2" />
+    <edge source="hsa-miR-146a-5p" target="POU3F1" />
+    <edge source="hsa-miR-146a-5p" target="RHOBTB3" />
+    <edge source="hsa-miR-146a-5p" target="SERTAD2" />
+    <edge source="hsa-miR-146a-5p" target="USP48" />
+    <edge source="hsa-miR-146a-5p" target="UTP15" />
+    <edge source="hsa-miR-146a-5p" target="BRWD1" />
+    <edge source="hsa-miR-146a-5p" target="LBR" />
+    <edge source="hsa-miR-146a-5p" target="CDC73" />
+    <edge source="hsa-miR-146a-5p" target="RAC1" />
+    <edge source="hsa-miR-146a-5p" target="SMAD2" />
+    <edge source="hsa-miR-146a-5p" target="ELP2" />
+    <edge source="hsa-miR-146a-5p" target="KCTD15" />
+    <edge source="hsa-miR-146a-5p" target="RNF11" />
+    <edge source="hsa-miR-146a-5p" target="ATG9A" />
+    <edge source="hsa-miR-6511a-3p" target="AGO1" />
+    <edge source="hsa-miR-6511a-3p" target="GATA6" />
+    <edge source="hsa-miR-6511a-3p" target="TRAF7" />
+    <edge source="hsa-miR-6511a-3p" target="VAV3" />
+    <edge source="BIVM" target="hsa-miR-3173-5p" />
+    <edge source="BIVM" target="hsa-miR-215-5p" />
+    <edge source="BIVM" target="hsa-miR-324-5p" />
+    <edge source="hsa-miR-3173-5p" target="KIF3B" />
+    <edge source="hsa-miR-3173-5p" target="LSM4" />
+    <edge source="hsa-miR-3173-5p" target="VANGL2" />
+    <edge source="hsa-miR-3173-5p" target="PPM1F" />
+    <edge source="hsa-miR-3173-5p" target="SCAMP2" />
+    <edge source="hsa-miR-3173-5p" target="HNRNPA1" />
+    <edge source="hsa-miR-3173-5p" target="VAV3" />
+    <edge source="hsa-miR-215-5p" target="CDKN3" />
+    <edge source="hsa-miR-215-5p" target="IL1RAP" />
+    <edge source="hsa-miR-215-5p" target="IRAK1" />
+    <edge source="hsa-miR-215-5p" target="BRCA1" />
+    <edge source="hsa-miR-215-5p" target="PRDM4" />
+    <edge source="hsa-miR-215-5p" target="DHCR24" />
+    <edge source="hsa-miR-215-5p" target="FEN1" />
+    <edge source="hsa-miR-215-5p" target="FGF2" />
+    <edge source="hsa-miR-215-5p" target="LIMS1" />
+    <edge source="hsa-miR-215-5p" target="MCM9" />
+    <edge source="hsa-miR-215-5p" target="MDM4" />
+    <edge source="hsa-miR-215-5p" target="NCEH1" />
+    <edge source="hsa-miR-215-5p" target="RHOBTB3" />
+    <edge source="hsa-miR-215-5p" target="ZNRF3" />
+    <edge source="hsa-miR-215-5p" target="BRWD1" />
+    <edge source="hsa-miR-215-5p" target="PSMB5" />
+    <edge source="hsa-miR-215-5p" target="KCTD15" />
+    <edge source="hsa-miR-215-5p" target="ZMAT3" />
+    <edge source="hsa-miR-215-5p" target="KIF5B" />
+    <edge source="hsa-miR-215-5p" target="ACTR2" />
+    <edge source="hsa-miR-215-5p" target="CRK" />
+    <edge source="hsa-miR-324-5p" target="KIF3B" />
+    <edge source="hsa-miR-324-5p" target="PA2G4" />
+    <edge source="hsa-miR-324-5p" target="PSME3" />
+    <edge source="hsa-miR-324-5p" target="TRAP1" />
+    <edge source="hsa-miR-324-5p" target="ESD" />
+    <edge source="hsa-miR-324-5p" target="PISD" />
+    <edge source="hsa-miR-324-5p" target="AGO1" />
+    <edge source="hsa-miR-324-5p" target="PAK4" />
+    <edge source="hsa-miR-324-5p" target="PPM1F" />
+    <edge source="hsa-miR-324-5p" target="SEPT8" />
+    <edge source="hsa-miR-324-5p" target="SERTAD2" />
+    <edge source="hsa-miR-324-5p" target="SYNGR2" />
+    <edge source="hsa-miR-324-5p" target="SMAD2" />
+    <edge source="hsa-miR-324-5p" target="HNRNPA1" />
+    <edge source="hsa-miR-324-5p" target="SP1" />
+    <edge source="CCDC83" target="hsa-miR-503-5p" />
+    <edge source="hsa-miR-503-5p" target="DECR1" />
+    <edge source="hsa-miR-503-5p" target="MRPL10" />
+    <edge source="hsa-miR-503-5p" target="TLL1" />
+    <edge source="hsa-miR-503-5p" target="PPP1R11" />
+    <edge source="hsa-miR-503-5p" target="PRDM4" />
+    <edge source="hsa-miR-503-5p" target="WIPI2" />
+    <edge source="hsa-miR-503-5p" target="PISD" />
+    <edge source="hsa-miR-503-5p" target="AGO1" />
+    <edge source="hsa-miR-503-5p" target="FGF2" />
+    <edge source="hsa-miR-503-5p" target="NPLOC4" />
+    <edge source="hsa-miR-503-5p" target="PI4K2B" />
+    <edge source="hsa-miR-503-5p" target="USP48" />
+    <edge source="hsa-miR-503-5p" target="ZNRF3" />
+    <edge source="hsa-miR-503-5p" target="E2F3" />
+    <edge source="hsa-miR-503-5p" target="SMAD2" />
+    <edge source="hsa-miR-503-5p" target="CNKSR3" />
+    <edge source="hsa-miR-503-5p" target="HNRNPA1" />
+    <edge source="hsa-miR-503-5p" target="ZMAT3" />
+    <edge source="hsa-miR-503-5p" target="KIF5B" />
+    <edge source="hsa-miR-503-5p" target="ACTR2" />
+    <edge source="hsa-miR-503-5p" target="CRK" />
+    <edge source="hsa-miR-503-5p" target="EIF4H" />
+    <edge source="CDKN3" target="hsa-miR-6741-3p" />
+    <edge source="hsa-miR-6741-3p" target="WASF2" />
+    <edge source="hsa-miR-6741-3p" target="LIMS1" />
+    <edge source="hsa-miR-6741-3p" target="NPLOC4" />
+    <edge source="hsa-miR-6741-3p" target="PI4K2B" />
+    <edge source="hsa-miR-6741-3p" target="SYNRG" />
+    <edge source="hsa-miR-6741-3p" target="PSMB5" />
+    <edge source="hsa-miR-6741-3p" target="GATA6" />
+    <edge source="hsa-miR-6741-3p" target="CNKSR3" />
+    <edge source="hsa-miR-6741-3p" target="PXMP4" />
+    <edge source="hsa-miR-6741-3p" target="RNF11" />
+    <edge source="hsa-miR-6741-3p" target="ERGIC1" />
+    <edge source="hsa-miR-6741-3p" target="CRK" />
+    <edge source="hsa-miR-6741-3p" target="VAV3" />
+    <edge source="KIF3B" target="hsa-miR-6750-3p" />
+    <edge source="KIF3B" target="hsa-miR-3184-5p" />
+    <edge source="hsa-miR-6750-3p" target="PSME3" />
+    <edge source="hsa-miR-6750-3p" target="MCM9" />
+    <edge source="hsa-miR-6750-3p" target="RPS6KA4" />
+    <edge source="hsa-miR-6750-3p" target="CNKSR3" />
+    <edge source="hsa-miR-3184-5p" target="PPP1R11" />
+    <edge source="hsa-miR-3184-5p" target="WASF2" />
+    <edge source="hsa-miR-3184-5p" target="ARL8A" />
+    <edge source="hsa-miR-3184-5p" target="CAPN15" />
+    <edge source="hsa-miR-3184-5p" target="MDM4" />
+    <edge source="hsa-miR-3184-5p" target="NCEH1" />
+    <edge source="hsa-miR-3184-5p" target="SEPT8" />
+    <edge source="hsa-miR-3184-5p" target="SYNGR2" />
+    <edge source="hsa-miR-3184-5p" target="E2F3" />
+    <edge source="hsa-miR-3184-5p" target="RPS6KA4" />
+    <edge source="hsa-miR-3184-5p" target="SCAMP2" />
+    <edge source="hsa-miR-3184-5p" target="SP1" />
+    <edge source="hsa-miR-3184-5p" target="TRAF7" />
+    <edge source="hsa-miR-3184-5p" target="ATG9A" />
+    <edge source="MFSD6" target="hsa-miR-3074-5p" />
+    <edge source="hsa-miR-3074-5p" target="FEN1" />
+    <edge source="hsa-miR-3074-5p" target="RHOC" />
+    <edge source="hsa-miR-3074-5p" target="GATA6" />
+    <edge source="hsa-miR-3074-5p" target="TRAF7" />
+    <edge source="hsa-miR-3074-5p" target="ACACA" />
+    <edge source="hsa-miR-3074-5p" target="ACTR2" />
+    <edge source="PA2G4" target="hsa-miR-24-3p" />
+    <edge source="hsa-miR-24-3p" target="PSME3" />
+    <edge source="hsa-miR-24-3p" target="ZNF260" />
+    <edge source="hsa-miR-24-3p" target="BRCA1" />
+    <edge source="hsa-miR-24-3p" target="WASF2" />
+    <edge source="hsa-miR-24-3p" target="CAPN15" />
+    <edge source="hsa-miR-24-3p" target="DHCR24" />
+    <edge source="hsa-miR-24-3p" target="FANCF" />
+    <edge source="hsa-miR-24-3p" target="FEN1" />
+    <edge source="hsa-miR-24-3p" target="LIMS1" />
+    <edge source="hsa-miR-24-3p" target="MCM9" />
+    <edge source="hsa-miR-24-3p" target="MDM4" />
+    <edge source="hsa-miR-24-3p" target="PACS2" />
+    <edge source="hsa-miR-24-3p" target="PAK4" />
+    <edge source="hsa-miR-24-3p" target="PI4K2B" />
+    <edge source="hsa-miR-24-3p" target="PPM1F" />
+    <edge source="hsa-miR-24-3p" target="SYNRG" />
+    <edge source="hsa-miR-24-3p" target="ZNF281" />
+    <edge source="hsa-miR-24-3p" target="LBR" />
+    <edge source="hsa-miR-24-3p" target="CDC73" />
+    <edge source="hsa-miR-24-3p" target="E2F3" />
+    <edge source="hsa-miR-24-3p" target="SCAMP2" />
+    <edge source="hsa-miR-24-3p" target="GATA6" />
+    <edge source="hsa-miR-24-3p" target="ELP2" />
+    <edge source="hsa-miR-24-3p" target="HNRNPA1" />
+    <edge source="hsa-miR-24-3p" target="SP1" />
+    <edge source="hsa-miR-24-3p" target="ACACA" />
+    <edge source="hsa-miR-24-3p" target="RNF11" />
+    <edge source="hsa-miR-24-3p" target="ERGIC1" />
+    <edge source="hsa-miR-24-3p" target="PTPRF" />
+    <edge source="hsa-miR-24-3p" target="EIF4H" />
+    <edge source="PSME3" target="hsa-miR-26b-3p" />
+    <edge source="PSME3" target="hsa-miR-425-3p" />
+    <edge source="hsa-miR-26b-3p" target="PPP1R11" />
+    <edge source="hsa-miR-26b-3p" target="FGF2" />
+    <edge source="hsa-miR-425-3p" target="ZNF260" />
+    <edge source="hsa-miR-425-3p" target="RAC1" />
+    <edge source="hsa-miR-425-3p" target="GATA6" />
+    <edge source="hsa-miR-425-3p" target="PTPRF" />
+    <edge source="hsa-miR-425-3p" target="VAV3" />
+    <edge source="TRAP1" target="hsa-miR-1180-3p" />
+    <edge source="hsa-miR-1180-3p" target="MDM4" />
+    <edge source="hsa-miR-1180-3p" target="SYNRG" />
+    <edge source="hsa-miR-1180-3p" target="UTP15" />
+    <edge source="UHRF1" target="hsa-miR-191-5p" />
+    <edge source="hsa-miR-191-5p" target="PISD" />
+    <edge source="hsa-miR-191-5p" target="DHCR24" />
+    <edge source="hsa-miR-191-5p" target="MDM4" />
+    <edge source="hsa-miR-191-5p" target="NPLOC4" />
+    <edge source="PRDM4" target="hsa-miR-3909" />
+    <edge source="hsa-miR-3909" target="WIPI2" />
+    <edge source="hsa-miR-3909" target="CAPN15" />
+    <edge source="hsa-miR-3909" target="POU3F1" />
+    <edge source="hsa-miR-3909" target="ZNF281" />
+    <edge source="hsa-miR-3909" target="ZMAT3" />
+    <edge source="WIPI2" target="hsa-miR-4677-3p" />
+    <edge source="hsa-miR-4677-3p" target="RHOC" />
+    <edge source="hsa-miR-4677-3p" target="SEPT8" />
+    <edge source="hsa-miR-4677-3p" target="ERGIC1" />
+    <edge source="hsa-miR-4677-3p" target="PTPRF" />
+    <edge source="WASF2" target="hsa-miR-451b" />
+    <edge source="hsa-miR-451b" target="VANGL2" />
+    <edge source="hsa-miR-451b" target="PISD" />
+    <edge source="hsa-miR-451b" target="FGF2" />
+    <edge source="hsa-miR-451b" target="ZNF281" />
+    <edge source="hsa-miR-451b" target="PXMP4" />
+    <edge source="hsa-miR-451b" target="ZMAT3" />
+    <edge source="hsa-miR-451b" target="KIF5B" />
+    <edge source="CAPN15" target="hsa-let-7d-3p" />
+    <edge source="NCEH1" target="hsa-miR-2110" />
+    <edge source="hsa-miR-2110" target="NPLOC4" />
+    <edge source="hsa-miR-2110" target="RHOC" />
+    <edge source="hsa-miR-2110" target="ZNF281" />
+    <edge source="hsa-miR-2110" target="E2F3" />
+    <edge source="hsa-miR-2110" target="RAC1" />
+    <edge source="hsa-miR-2110" target="RPS6KA4" />
+    <edge source="hsa-miR-2110" target="CNKSR3" />
+    <edge source="hsa-miR-2110" target="SP1" />
+    <edge source="hsa-miR-2110" target="RNF11" />
+    <edge source="hsa-miR-2110" target="CRK" />
+    <edge source="hsa-miR-2110" target="EIF4H" />
+  </graph>
+</graphml>
